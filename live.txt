@@ -2501,7 +2501,7 @@ MAX极速汽车[1920*1080],http://140.207.241.3:8080/live/program/live/jsqchd/40
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 西赞藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
 西赞藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8?zxicd
-🦚世界,#genre#
+🐾世界,#genre#
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
