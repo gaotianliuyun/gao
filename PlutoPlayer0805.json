@@ -291,3 +291,136 @@
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 }
 
+// 每日一言 (随机显示欢迎语)
+"dairyWords": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://saying.api.azwcl.com/saying/get"
+     }
+    },
+    "response": {
+        "result": "$.data.content"
+    },
+    "expires" : "43200"
+}],
+
+
+// 首页推荐视频 (豆瓣)
+"recommend": [{
+ "name": "豆瓣推荐",
+ "request": {
+  "method": "GET",
+  "header": [{
+   "key": "Referer",
+   "value": "https://movie.douban.com/"
+  }],
+  "url": {
+   "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+  }
+ },
+ "response": {
+  "result": "$.data",
+  "data": [{
+    "key": "name",
+    "value": "title"
+   },
+   {
+    "key": "note",
+    "value": "rate"
+   },
+   {
+    "key": "pic",
+    "value": "cover"
+   }
+  ]
+ },
+ "expires" : "86400"
+}],
+
+
+// 首页推荐视频 (IMDb Popular Movies)
+"recommend": [{
+    "name": "imdb",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://imdb-api.com/en/API/MostPopularMovies/k_1kz039kt"
+     }
+    },
+    "response": {
+        "result": "$.items",
+        "data": [
+       {
+        "key": "name",
+        "value": "title"
+       },
+       {
+        "key": "note",
+        "value": "imDbRating"
+       },
+       {
+        "key": "pic",
+        "value": "image"
+       }
+      ]
+    },
+    "expires" : "86400"
+}],
+
+
+// 评分 (数据来自 豆瓣)
+"rating": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+     }
+    },
+    "response": {
+        "result": "this",
+        "data": [
+       {
+        "key": "rating",
+        "value": "doubanRating"
+       }
+      ]
+    }
+}],
+
+
+// 热搜关键字
+"hotSearch": [],
+
+// 输入法智能联想接口
+"association": [],
+
+// 中文分词接口
+"pullWord": [{
+ "name": "pullWord",
+ "request": {
+  "method": "GET",
+  "url": {
+   "raw": "http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"
+  }
+ },
+ "response": {
+  "data": [{
+   "key": "keyword",
+   "value": "t"
+  }]
+ }
+}],
+
+// 字幕格式 (可选)
+"subtitle": {"color": "#FFFFFF", "size": "30"},
+
+// 驱动器 (可选)
+"drives": [
+  {"name":"aList","server":"http://alist.lan:8000/dav/","userName":"****","password":"****","type":"webdav"}, 
+  {"name":"DSM","server":"http://dsm.lan:5000","userName":"****","password":"****","type":"webdav"},
+  {"name":"ali-WebDAV-App","server":"http://127.0.0.1:8080/","userName":"admin","password":"admin","type":"webdav"}
+],
+
