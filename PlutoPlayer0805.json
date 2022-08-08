@@ -1,5 +1,5 @@
 {"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTc3NzY4OC50eHQ="]}]}],
-"spider": "https://pan.05kr.com/down.php/b2ccc22142714422b8c7953448ba6c4e.jar;md5;B2CCC22142714422B8C7953448BA6C4E",
+"spider": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/PlutoPlayer0805.jar;md5;B2CCC22142714422B8C7953448BA6C4E",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[{"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP293","name":"293〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
