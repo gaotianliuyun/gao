@@ -1,3 +1,59 @@
+xxx,#genre#
+A3Bikini (720p),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+AdultIPTV.net Anal (720p),http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Asian (720p),http://cdn.adultiptv.net/asian.m3u8
+AdultIPTV.net Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Big Dick (720p),http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits (720p),http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Blonde (720p),http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Blowjob (720p),http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Brunette (720p),http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Compilation (720p),http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Cuckold (720p),http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Fetish (720p),http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Gangbang (720p),http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Gay (720p),http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Hardcore (720p),http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Interracial (720p),http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina (720p),http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net Lesbian (720p),http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Live Cams (720p),http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF (720p),http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Pornstar (720p),http://cdn.adultiptv.net/pornstar.m3u8
+AdultIPTV.net POV (720p),http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Rough (720p),http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Russian (720p),http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Teen (720p),http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Woman (720p),http://live.redtraffic.net/woman.m3u8
+AST TV 1 (PC) (1080p) [Not 24/7],https://www.ast.tv/stream/1/master.m3u8
+AST TV 2 (PC) (1080p) [Not 24/7],https://www.ast.tv/stream/2/master.m3u8
+Babestation24 (720p),http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+Extasy HD / Leo TV HD (576p),http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+Fashion TV Midnight Secrets (1080p),https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+Honey TV (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8
+Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+Miami TV México (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Midnight (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
+MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
+MyCamTV Asian,http://live.mycamtv.com/asian.m3u8
+MyCamTV Big Ass,http://live.mycamtv.com/defstream.m3u8
+MyCamTV Big Tits,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Blonde,http://live.mycamtv.com/blonde.m3u8
+MyCamTV Brunette,http://live.mycamtv.com/brunette.m3u8
+MyCamTV Ebony,http://live.mycamtv.com/medium.m3u8
+MyCamTV Latina,http://live.mycamtv.com/latina.m3u8
+MyCamTV Skinny,http://live.mycamtv.com/arab.m3u8
+MyCamTV Squirt,http://live.mycamtv.com/squirt.m3u8
+MyCamTV White,http://live.mycamtv.com/white.m3u8
+O-la-la [Not 24/7],http://92.242.14.114:4022/udp/225.0.55.234:1234
+Playboy TV Korea (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
+Viki (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
+Visit-X TV (720p) [Not 24/7],https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+XY Max,http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
+XY Mix,http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
+XY Plus,http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
 NSFW,#genre#
 Русская ночь[1024x576],http://46.174.83.66/Russkaya_Noch/video.m3u8
 Extasy 4K[1920x1080],http://213.81.133.133:8080/extasy4k/video.m3u8
