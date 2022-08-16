@@ -1,4 +1,10 @@
 频道台,#genre#
+松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
+松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+松视4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+潘朵啦玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
 彩虹电影,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
@@ -19,8 +25,7 @@ LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 松视4台,nyhttps://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.fl
+潘朵啦玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.fl
 频道1,#genre#
 SWAG61部,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 天美傳媒29部,https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
