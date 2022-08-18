@@ -643,7 +643,14 @@ CCTV5+体育赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225
 央视台球,http://39.134.19.246:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=RR412920210403002853601204
 央视台球,http://39.134.19.246:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 地方,#genre# 
+新乡公共 576,http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226667/index.m3u8
+新乡公共 576,http://[2409:8087:4402:20:1:1216:401:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
+新乡县 576,http://[2409:8087:4402:20:1:1216:401:45]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8
+新乡县 576,http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
+新乡新闻综合 576,http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8
+新乡新闻综合 576,http://[2409:8087:4402:20:1:1216:401:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 滨海新闻综合,http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
+盐城新闻综合 1080,http://ott.mobaibox.com/PLTV/3/224/3221228215/index.m3u8
 北京东奥,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 北京冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
