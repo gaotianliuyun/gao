@@ -451,6 +451,7 @@
             "api": "http://www.zycaiji.net:7788/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,           
+            "password": "123456"
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
