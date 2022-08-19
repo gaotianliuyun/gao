@@ -124,9 +124,7 @@
             "type": "webdav"
         }
     ],
-    "wallpaper": "#000000",
-    "password": "123456",
-    "homepage": "https://www.baidu.com",
+    
     "lives": [
         {
             "group": "redirect",
