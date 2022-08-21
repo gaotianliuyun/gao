@@ -1,12 +1,9 @@
-
-
 {
 "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0820.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
 ]}]}],
-
 
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
