@@ -296,14 +296,14 @@
       "quickSearch": 1,
       "filterable": 0
     },
-//   {"key":"ai","name":"🐨爱(解析)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴",,"科技","健康"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
+//{"key":"ai","name":"🐨爱(解析)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴",,"科技","健康"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
 //{"key":"you","name":"🏀优(解析)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
 //{"key":"teng","name":"🐧腾(解析)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["少儿","电视剧","电影","动漫","纪录片","知识","学堂","综艺"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
 //{"key":"PPTV(官源)","name":"📺🏐PPTV(官源)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
 {"key":"360_spider","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mang","name":"🍋芒guo(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"so","name":"⚽搜gou(解析)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
-// {
+//{
       "key": "csp_QQ",
       "name": "🐧腾讯视频(SP)",
       "type": 3,
@@ -313,7 +313,7 @@
       "filterable": 1,
       "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
     },
-//    {
+//{
       "key": "爱奇艺",
       "name": "🐨爱奇艺(SP)",
       "type": 3,
@@ -323,7 +323,7 @@
       "filterable": 1,
       "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
     },
-  //  {
+//{
       "key": "csp_MGTV",
       "name": "🍋芒果TV(SP)",
       "type": 3,
