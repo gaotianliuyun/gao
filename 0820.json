@@ -105,11 +105,20 @@
 "sites":[
 {"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/czzy2.json"},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
 {"key": "在线直播(SP)","name": "🌈在线直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "迷你","name": "迷你","type": 4,"api": "http://z.kooo.eu.org/api/t4/mini","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name":"🐞Anime","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Jianying","name":"✨简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
+    {
+      "key": "csp_Jianying",
+      "name": "✨简影资源(SP)",
+      "type": 3,
+      "api": "csp_JianYing",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q",
+"jar":"https://agit.ai/jm/me/raw/branch/master/ja/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"
+    },
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""}, 
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan"        ,"name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://刚刚.live/jar/"},
@@ -170,6 +179,7 @@
       "ext": "{\r\n\"ua\": \"\",\r\n\"dtUrl\": \"https://1024bt25.xyz{vid}\",\r\n\"dtNode\": \"//div[@id='content']\",\r\n\"dtName\": \"//h2/text()\",\r\n\"dtNameR\": \"\",\r\n\"dtImg\": \"/@null\",\r\n\"dtCate\": \"concat(//tbody/td[1]//text())\",\r\n\"dtCateR\": \"\",\r\n\"dtYear\": \"concat(//tbody/td[2]//text())\",\r\n\"dtYearR\": \"\",\r\n\"dtDesc\": \"concat(//ol//text(),'')\",\r\n\"dtDescR\": \"\",\r\n\"dtFromNode\": \"//div[@id='wall']\",\r\n\"dtFromName\": \"concat('磁力链接','')\",\r\n\"dtFromNameR\": \"\",\r\n\"dtUrlNode\": \"//div[@id='magnet']\",\r\n\"dtUrlSubNode\": \"//a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"{playUrl}\",\r\n\"playUa\": \"\",\r\n\"searchUrl\": \"https://1024bt25.xyz/main-search-kw-{wd}-length-1.html\",\r\n\"scVodNode\": \"//div[@class='item-title']/h3/a\",\r\n\"scVodName\": \"/@title\",\r\n\"scVodId\": \"/@href\",\r\n\"scVodIdR\": \"\",\r\n\"scVodImg\": \"/@null\",\r\n\"scVodImgR\": \"\",\r\n  \"scVodMark\": \"\"\r\n}"
     },
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
 {"key":"演唱会","name":"🅱️演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},
 {"key":"歌曲","name":"🅱️歌曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/歌曲.php"},
 {"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"},
