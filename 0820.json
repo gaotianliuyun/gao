@@ -165,7 +165,8 @@
       "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/juhuang.json"
     },
     {
       "key": "csp_Wmkk",
