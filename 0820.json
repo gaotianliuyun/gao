@@ -194,7 +194,7 @@
 {"key":"csp_xpath_蚂蚁影视","name":"🍰蚂蚁影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/mayi.json"},
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar/tvjs/yekong.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"🍉瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/瓜皮TV.json"},
-{"key":"csp_Tkys","name":"📡天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Tkys","name":"📡天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy_spider","name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_xml___影视","name":"💽影视(切)","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://zy.ataoju.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
