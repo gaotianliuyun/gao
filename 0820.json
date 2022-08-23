@@ -128,7 +128,6 @@
    "filterable": 0,
    "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/miniku.json"
   },
-    //{      "key": "Nfyun",      "name": "🚀Nf云(SP)",      "type": 3,     "api": "csp_Nfyun",     "searchable": 1,   "quickSearch": 1,     "filterable": 1    },
     {
       "key": "Nfyun",
       "name": "🚀Nf云(SP)",
@@ -165,9 +164,9 @@
       "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/juhuang.json"
+      "filterable": 1
     },
+{"key": "csp_剧荒","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/juhuang.json"},
     {
       "key": "csp_Wmkk",
       "name": "💯完美看看(SP)",
