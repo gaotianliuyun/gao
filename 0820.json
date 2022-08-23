@@ -129,15 +129,7 @@
    "filterable": 0,
    "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/miniku.json"
   },
-    {
-      "key": "Nfyun",
-      "name": "🚀Nf云(SP)",
-      "type": 3,
-      "api": "csp_Nfyun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    //{      "key": "Nfyun",      "name": "🚀Nf云(SP)",      "type": 3,     "api": "csp_Nfyun",     "searchable": 1,   "quickSearch": 1,     "filterable": 1    },
    {
       "key": "影图",
       "name": "🗽影图(聚)",
@@ -209,8 +201,8 @@
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"360_spider","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mang","name":"🍋芒guo(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_gb4k磁力xb","name":"🥒gb4k磁力","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/gb4k磁力.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/2.jar"},
-{"key":"csp_biubiu_电影港磁力xb","name":"🥒电影港磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/电影港磁力.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/2.jar"},
+//{"key":"csp_biubiu_gb4k磁力xb","name":"🥒gb4k磁力","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/gb4k磁力.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/2.jar"},
+//{"key":"csp_biubiu_电影港磁力xb","name":"🥒电影港磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/电影港磁力.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/2.jar"},
 {"key":"csp_biubiu_80S磁力xb","name":"🥒80S磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/80S磁力.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/2.jar"},
    {
       "key": "csp_appysv2_amhys",
