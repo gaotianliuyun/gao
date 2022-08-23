@@ -129,7 +129,15 @@
    "filterable": 0,
    "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/miniku.json"
   },
-    //{      "key": "Nfyun",      "name": "🚀Nf云(SP)",      "type": 3,     "api": "csp_Nfyun",     "searchable": 1,   "quickSearch": 1,     "filterable": 1    },
+    {
+      "key": "Nfyun",
+      "name": "🚀Nf云(SP)",
+      "type": 3,
+      "api": "csp_Nfyun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
    {
       "key": "影图",
       "name": "🗽影图(聚)",
