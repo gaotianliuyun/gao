@@ -106,7 +106,6 @@
 {"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/czzy2.json"},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "在线直播(SP)","name": "🌈在线直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "迷你","name": "迷你","type": 4,"api": "http://z.kooo.eu.org/api/t4/mini","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name":"🐞Anime","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 	    {
       "key": "csp_Jianying",
@@ -230,7 +229,7 @@
 {"key":"mang","name":"🍋芒guo(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_gb4k磁力xb","name":"🥒gb4k磁力","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/gb4k磁力.json"},
 //{"key":"csp_biubiu_电影港磁力xb","name":"🥒电影港磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/电影港磁力.json"},
-{"key":"csp_biubiu_80S磁力xb","name":"🥒80S磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/80S磁力.json"},
+{"key":"csp_biubiu_80S磁力xb","name":"🥒80S磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/80S磁力.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/2.jar"},
    {
       "key": "csp_appysv2_amhys",
       "name": "🍀爱麻花影视〔V2〕",
