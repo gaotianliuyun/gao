@@ -173,17 +173,6 @@
       "ext": "http://121.205.88.71:218/api.php/Chengcheng/vod/"
     },
     {
-      "key": "csp_ysgc",
-      "name": "💢影视工厂播放源显名(XB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-     "jar":"https://gitea.com/zhaocai100/OA/raw/branch/master/XYQBiu.jar",
-      "ext": "{\r\n    \"title\": \"影视工场\",\r\n    \"author\": \"11\",\r\n    \"UserAgent\":\"\",\r\n    \"firstpage\": \"1\",\r\n    \"class_url\": \"https://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html[firstPage=https://www.ysgc.cc/vodshow/{cateId}-----------.html]\",\r\n    \"class_name\": \"电影&电视剧&综艺&动漫\",\r\n    \"class_value\": \"1&2&3&4\",\r\n    \"filterdata\":\"\",\r\n    \"cat_YN_twice\": \"1\",\r\n    \"cat_twice_pre\": \"class=\\\"myui-vodlist clearfix\",\r\n    \"cat_twice_suf\": \"class=\\\"myui-page\",\r\n    \"cat_arr_pre\": \"class=\\\"myui-vodlistbox\",\r\n    \"cat_arr_suf\": \"class=\\\"myui-vodlistdetail\",\r\n    \"cat_pic\": \"original=\\\"&&\\\"\",\r\n    \"cat_title\": \"title=\\\"&&\\\"\",\r\n    \"cat_subtitle\": \"text-right\\\">&&<\",\r\n    \"cat_url\": \"href=\\\"&&\\\"\",\r\n    \"cat_prefix\": \"https://www.ysgc.cc\",\r\n    \"cat_suffix\": \"\",\r\n    \"search_url\": \"https://www.ysgc.cc/vodsearch/{wd}-------------.html\",\r\n    \"search_mode\": \"1\",\r\n    \"jsonpic\": \"pic\",\r\n    \"jsonname\": \"name\",\r\n    \"jsonid\": \"id\",\r\n    \"jsonstitle\":\"\",\r\n    \"sea_YN_twice\": \"1\",\r\n    \"sea_twice_pre\": \"class=\\\"myui-vodlist__media\",\r\n    \"sea_twice_suf\": \"</ul\",\r\n    \"sea_arr_pre\": \"class=\\\"thumb\",\r\n    \"sea_arr_suf\": \"class=\\\"detail\",\r\n    \"sea_pic\": \"data-original=\\\"&&\\\"\",\r\n    \"sea_title\": \"title=\\\"&&\\\"\",\r\n    \"sea_url\": \"href=\\\"&&\\\"\",\r\n    \"search_prefix\": \"https://www.ysgc.cc\",\r\n    \"search_suffix\": \"\",\r\n    \"sea_subtitle\": \"text-right\\\">&&<\",\r\n    \"force_play\": \"0\",\r\n    \"play_prefix\": \"空\",\r\n    \"play_suffix\": \"空\",\r\n    \"play_header\": \"空\",\r\n    \"proj_actor\": \"空\",\r\n    \"proj_plot\": \"<span class=\\\"data\\\"&&</span>\",\r\n    \"tab_YN_twice\": \"1\",\r\n    \"tab_twice_pre\": \"<ul class=\\\"nav nav-tabs\",\r\n    \"tab_twice_suf\": \"</ul>\",\r\n    \"tab_arr_pre\": \"<a\",\r\n    \"tab_arr_suf\": \"/a>\",\r\n    \"tab_title\": \">&&<\",\r\n    \"list_YN_twice\": \"0\",\r\n    \"list_twice_pre\": \"空\",\r\n    \"list_twice_suf\": \"空\",\r\n    \"list_arr_pre\": \"id=\\\"playlist\",\r\n    \"list_arr_suf\": \"</ul>\",\r\n    \"epi_YN_twice\": \"0\",\r\n    \"epi_twice_pre\": \"空\",\r\n    \"epi_twice_suf\": \"空\",\r\n    \"epi_arr_pre\": \"<a\",\r\n    \"epi_arr_suf\": \"/a>\",\r\n    \"epi_title\": \">&&<\",\r\n    \"epi_url\": \"href=\\\"&&\\\"\",\r\n    \"epiurl_prefix\": \"https://www.ysgc.cc\",\r\n    \"epiurl_suffix\": \"\"\r\n    \r\n}"
-    },
-    {
       "key": "剧白白",
       "name": "💢剧白白(XPF)",
       "type": 3,
@@ -205,6 +194,66 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_xpath_yinfans",
+      "name": "💥音范丝4K",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gaotianliuyun.github.io/cat/json/音范丝.json"
+    },
+    {
+      "key": "csp_xpath_yanetflix",
+      "name": "🦆奈非鸭",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gaotianliuyun.github.io/cat/json/奈非鸭.json"
+    },
+    {
+      "key": "csp_biubiu_cupfox",
+      "name": "🦊茶杯狐",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gaotianliuyun.github.io/cat/json/茶杯狐.json"
+    },
+    {
+      "key": "csp_xpath_huya",
+      "name": "🐯虎牙(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gaotianliuyun.github.io/cat/json/虎牙.json"
+    },
+    {
+      "key": "csp_biubiu_斗鱼",
+      "name": "🦈斗鱼(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gaotianliuyun.github.io/cat/json/斗鱼.json"
+    },
+    {
+      "key": "csp_xpath_kuqimv",
+      "name": "🎤经典MV",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gaotianliuyun.github.io/cat/json/经典MV.json"
     },
 {"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
 {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
