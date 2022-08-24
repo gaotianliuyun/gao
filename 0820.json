@@ -1,5 +1,5 @@
 {
-"spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0822.jar",
+"spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0823.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
@@ -162,11 +162,10 @@
       "name": "👿剧荒(SP)",
       "type": 3,
       "api": "csp_Juhuang",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
     },
-{"key": "csp_剧荒","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/juhuang.json"},
     {
       "key": "csp_Wmkk",
       "name": "💯完美看看(SP)",
@@ -188,7 +187,7 @@
 {"key":"csp_Czsapp","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key": "csp_Kmys","name":"🐱酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_Kmys","name":"🐱酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"追剧喵","name":"🐞追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -303,6 +302,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
 {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/bili.json"},
  {
       "key": "csp_吾爱B站",
