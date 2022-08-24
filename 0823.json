@@ -2,7 +2,17 @@
   "spider": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0823.jar",
 
 "sites": [
-{"key":"t4test","name":"T4测试","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
+{
+    "key":"t4test",
+    "name":"T4测试",
+    "type":4,
+    // 参数sites可筛选站点，tag用,隔开，不加或sites=all为搜索所有支持的站点
+    "api":"http://127.0.0.1:8080/vod?sites=all",
+    // "api":"http://127.0.0.1:8080/vod?sites=czspp,yiso",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0
+},
   {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/bili.json"},
         {
       "key": "csp_xpath_cls",
