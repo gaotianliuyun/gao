@@ -1,5 +1,5 @@
 {
-"spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0822.jar",
+"spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0823.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
@@ -158,15 +158,6 @@
       "jar": "https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"
     },
     {
-      "key": "csp_剧荒",
-      "name": "👿剧荒(SP)",
-      "type": 3,
-      "api": "csp_Juhuang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Wmkk",
       "name": "💯完美看看(SP)",
       "type": 3,
@@ -175,6 +166,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "csp_剧荒",
+      "name": "👿剧荒(SP)",
+      "type": 3,
+      "api": "csp_Juhuang",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
 {"key":"t4test","name":"T4测试","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""}, 
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -200,7 +201,7 @@
 {"key":"csp_biubiu_在线之家","name":"🏠在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/zxzj.json"},
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/LIBVIO.json"},
 //{"key":"csp_xpath_wmkk","name":"❄️完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Wmkankan.json"},
-{"key": "csp_剧荒","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/juhuang.json"},
+//{"key": "csp_剧荒","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/juhuang.json"},
 {"key":"csp_biubiu_乐猪影视","name":"🐷乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/lzys.json"},
 {"key":"csp_biubiu_哔嘀影视","name":"📮哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/bdys.json"},
 {"key":"csp_biubiu_影视工厂","name":"🎯影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar/tvjs/ysgc2.json"},
