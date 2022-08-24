@@ -2,6 +2,7 @@
   "spider": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0823.jar",
 
 "sites": [
+{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
 {
     "key":"t4test",
     "name":"T4测试",
