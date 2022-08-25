@@ -290,6 +290,7 @@
 {"key": "csp_Yiso"    ,"name":"📀易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key": "csp_AliPS"  ,"name":"🐱阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key": "T4","name": "T4注视","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1}, 
     {
       "key": "csp_xpath_cls",
       "name": "🍭磁力搜索(XP)",
