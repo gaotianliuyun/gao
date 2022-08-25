@@ -7,9 +7,9 @@
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
-	    {
+    {
       "key": "csp_Jianying",
-      "name": "✨简影资源(SP)",
+      "name": "✨简影",
       "type": 3,
       "api": "csp_JianYing",
       "searchable": 1,
@@ -18,16 +18,7 @@
       "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
     },
 
-{
-      "key": "bdys",
-      "name": "哔嘀磁力",
-      "type": 3,
-      "api": "csp_XPbd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json"
-    },
+{ "key": "bdys", "name": "哔嘀(磁力)", "type": 3, "api": "csp_XPbd", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://kvymin.github.io/CatVod/XPbd/Bdys.json" }, 
            {
             "key": "Bili",
             "name": "Bili(爬虫)",
