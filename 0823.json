@@ -2,7 +2,17 @@
   "spider": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0823.jar",
 
 "sites": [
-{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
+{
+		"key": "py_bilibili",
+		"name": "哔哩",
+		"type": 3,
+		"api": "py_bilibili",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/py_bilibili.py"
+	},
+  {"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
 {"key":"t4test","name":"T4测试","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/bili.json"},
         {
