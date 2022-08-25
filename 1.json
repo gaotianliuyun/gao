@@ -148,6 +148,15 @@
 //{"key":"csp_Tkys","name":"📡天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_biubiu_电影港磁力xb","name":"🥒电影港磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XBCL/电影港磁力.json"},
 
+    {
+      "key": "csp_Yj1211",
+      "name": "1211直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
    {
       "key": "csp_appysv2_amhys",
       "name": "🍀爱麻花影视〔V2〕",
