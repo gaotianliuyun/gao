@@ -7,7 +7,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"
+		"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/py_bilibili.py"
 	}, {
 		"key": "py_voflix",
 		"name": "Voflix",
