@@ -8,7 +8,18 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/py_bilibili.py"
-	}, {
+	},        {
+		            "key": "Bili",
+					            "name": "Bili(爬虫)",
+								            "type": 3,
+											            "api": "csp_Bili",
+														            "searchable": 1,
+																	            "quickSearch": 1,
+																				            "filterable": 1,
+																							            "ext": "https://dxawi.github.io/6/bili.json"
+																										        },
+
+	}， {
 		"key": "py_voflix",
 		"name": "Voflix",
 		"type": 3,
