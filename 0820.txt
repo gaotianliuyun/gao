@@ -7,6 +7,7 @@
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
+{"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1}, 
       {
       "key": "Nfyun",
       "name": "🚀Nf云(SP)",
