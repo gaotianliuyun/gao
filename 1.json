@@ -1,6 +1,6 @@
 
 {
-       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0826.jar;md5;01189a34e86e0b4eabc3d1cca9c6ca3d"
+       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0826.jar;md5;01189a34e86e0b4eabc3d1cca9c6ca3d",
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
@@ -1130,6 +1130,6 @@
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
-    ],
+    ]
     
 }
