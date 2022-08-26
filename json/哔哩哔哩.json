@@ -1,9 +1,9 @@
  {
+    "classes":[
     {
       "type_name": "搞笑",
       "type_id": "搞笑"
     },
-    "classes":[
         {
       "type_name": "电影",
       "type_id": "电影"
