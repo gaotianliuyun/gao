@@ -348,7 +348,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "3a49cf29cf20410997247c6eb4509be9"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "zhaozy",
@@ -358,7 +358,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "3a49cf29cf20410997247c6eb4509be9"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key":"AliPS",
@@ -368,7 +368,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "3a49cf29cf20410997247c6eb4509be9"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "csp_Yiso",
@@ -378,7 +378,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "3a49cf29cf20410997247c6eb4509be9"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -660,7 +660,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "3a49cf29cf20410997247c6eb4509be9"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         }
     ],
      "parses": [
