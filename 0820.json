@@ -612,6 +612,15 @@
       "ext": "https://gaotianliuyun.github.io/cat/json/经典MV.json"
     },
 {"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
+         {
+            "key":"t4public",
+            "name":"T4公共",
+            "type":4,
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
         {
             "key": "zhaozy",
             "name": "找资源(仅搜索)",
