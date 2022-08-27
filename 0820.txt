@@ -8,18 +8,24 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {
-    "sites":[
-        {
+  "key": "csp_Alist2",
+  "name": "Alist2(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://alist.youte.ml"
+ },
+         {
             "key":"t4public",
             "name":"T4公共",
             "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10",
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
         }
-    ]
-},
 {"key": "Bili","name": "🅱️哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"},
     {
       "key": "csp_xpath_cls",
