@@ -1,5 +1,5 @@
 {
-       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0826.jar;md5;01189a34e86e0b4eabc3d1cca9c6ca3d",
+       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
@@ -8,14 +8,54 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {
-  "key": "csp_Alist2",
-  "name": "Alist2(SP)",
+  "key": "csp_Alist",
+  "name": "Alist",
   "type": 3,
   "api": "csp_Alist",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 0,
   "ext": "https://alist.youte.ml"
+ },
+ {
+  "key": "csp_Alist1",
+  "name": "Alist1",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://al.chirmyram.com/"
+ },
+ {
+  "key": "csp_Alist2",
+  "name": "Alist2",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://pan.xwbeta.com"
+ },
+ {
+  "key": "csp_Alist3",
+  "name": "Alist3",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://alist.shenzjd.com"
+ },
+ {
+  "key": "csp_Alist4",
+  "name": "Alist4",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://drive.9t.ee"
  },
          {
             "key":"t4public",
