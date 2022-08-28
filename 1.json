@@ -7,8 +7,9 @@
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
-{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
-{
+{"key": "T41","name": "T4爬虫1","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "T42","name": "T4爬虫2","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"t4test","name":"T4测试","type":4,"api":"http://192.168.123.67:6688/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable":1,"quickSearch":1,"filterable":0},{
   "key": "csp_Alist",
   "name": "Alist",
   "type": 3,
@@ -630,7 +631,7 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
-{"key":"csp_BBB","name":"👨👩👦👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"},
+{"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"},
     {
       "key": "学堂",
       "name": "📚学习园地",
@@ -739,6 +740,7 @@
     "type":3,
     "url":"Demo"
     },
+    {"name":"高速vip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     {
     "name":"Json并发",
     "type":2,
