@@ -49,8 +49,8 @@
       "type_id": "平面设计教学"
     },
          {
-      "type_name": "软件",
-      "type_id": "软件"
+      "type_name": "软件教程",
+      "type_id": "软件教程"
     },
          {
       "type_name": "Windows",
@@ -294,27 +294,51 @@
           },
           {
             "n": "Adobe Photoshop",
-            "v": "Adobe Photoshop"
+            "v": "Adobe Photoshop教程"
           },
           {
             "n": "Adobe Illustrator",
-            "v": "Adobe Illustrator"
+            "v": "Adobe Illustrator教程"
           },
           {
             "n": "CorelDRAW",
-            "v": "CorelDRAW"
+            "v": "CorelDRAW教程"
           },
           {
             "n": "Adobe InDesign",
-            "v": "Adobe InDesign"
+            "v": "Adobe InDesign教程"
           },
           {
             "n": "Adobe Pagermaker",
-            "v": "Adobe Pagermaker"
+            "v": "Adobe Pagermaker教程"
+          },
+          {
+            "n": "SAI",
+            "v": "SAI教程"
+          },
+          {
+            "n": "Adobe Bridge",
+            "v": "Adobe Bridge教程"
+          },
+          {
+            "n": "Adobe Pagermaker",
+            "v": "Adobe Pagermake教程r"
           },
           {
             "n": "3D Studio Max",
-            "v": "3D Studio Max"
+            "v": "3D Studio Max教程"
+          },
+          {
+            "n": "PR",
+            "v": "PR教程"
+          },
+          {
+            "n": "AE",
+            "v": "AE教程"
+          },
+          {
+            "n": "CINEMA 4D",
+            "v": "CINEMA 4D教程"
           }
         ]
           },
@@ -345,8 +369,54 @@
         ]
       }
     ],
-         "软件": [
-      {
+         "软件教程": [
+       {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "软件教程"
+          },
+          {
+            "n": "MT管理器",
+            "v": "MT管理器"
+          },
+          {
+            "n": "网盘挂载",
+            "v": "网盘挂载"
+          },
+          {
+            "n": "alist+WebDav",
+            "v": "alist+WebDav"
+          },
+          {
+            "n": "TVBox修改",
+            "v": "TVBox修改教程"
+          },
+          {
+            "n": "EXCEL",
+            "v": "EXCEL教程"
+          },
+          {
+            "n": "Git入门到精通",
+            "v": "Git入门到精通"
+          },
+          {
+            "n": "java",
+            "v": "java教程"
+          },
+          {
+            "n": "phyton",
+            "v": "phyton教程"
+          },
+          {
+            "n": "xml",
+            "v": "xml教程"
+          }
+        ]
+          },
+     {
         "key": "duration",
         "name": "时长",
         "value": [
