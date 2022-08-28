@@ -25,7 +25,7 @@
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 0,
-  "ext": "https://al.chirmyram.com/"
+  "ext": "https://pan.142856.xyz/OneDrive"
  },
  {
   "key": "csp_Alist2",
@@ -35,7 +35,7 @@
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 0,
-  "ext": "https://pan.xwbeta.com"
+  "ext": "https://xn--i0v44m.xyz/"
  },
  {
   "key": "csp_Alist3",
@@ -57,7 +57,27 @@
   "filterable": 0,
   "ext": "https://drive.9t.ee"
  },
-         {
+ {
+  "key": "csp_Alist5",
+  "name": "Alist5",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://pan.hikerfans.com/"
+ },
+ {
+  "key": "csp_Alist6",
+  "name": "Alist6",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://pity.eu.org"
+ },
+       {
             "key":"t4public",
             "name":"T4公共",
             "type":4,
