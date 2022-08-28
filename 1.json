@@ -7,6 +7,7 @@
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
+{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
 {
   "key": "csp_Alist",
   "name": "Alist",
