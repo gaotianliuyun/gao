@@ -8,6 +8,15 @@
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
+         {
+            "key":"t4public",
+            "name":"T4公共",
+            "type":4,
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
 {"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/厂长资源-蓝光.json"},
 {"key":"csp_Anime1","name":"🐞Anime","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
       {
@@ -612,15 +621,6 @@
       "ext": "https://gaotianliuyun.github.io/cat/json/经典MV.json"
     },
 {"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/XYQB/分享短视频.json"},
-         {
-            "key":"t4public",
-            "name":"T4公共",
-            "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
         {
             "key": "zhaozy",
             "name": "找资源(仅搜索)",
