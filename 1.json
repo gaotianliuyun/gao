@@ -11,7 +11,7 @@
 {"key": "T42","name": "T4爬虫2","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"t4test","name":"T4测试","type":4,"api":"http://192.168.123.67:6688/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "T4","name": "🐞T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},  
-"key": "csp_Alist",
+{"key": "csp_Alist",
   "name": "Alist",
   "type": 3,
   "api": "csp_Alist",
