@@ -884,8 +884,7 @@
       }
     ],
          "荒野求生超清": [
-      {
-      {"key": "order","name": "排序","value": [
+            {"key": "order","name": "排序","value": [
 {"n": "综合排序","v": "0"},
 {"n": "最多点击","v": "click"},
 {"n": "最新发布","v": "pubdate"},
@@ -893,7 +892,8 @@
 {"n": "最多收藏","v": "stow"}
 ]
 },
-        "key": "duration",
+        {
+          "key": "duration",
         "name": "时长",
         "value": [
           {
