@@ -7,6 +7,13 @@
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
+//目前提供外挂调用，如果你有能力可以合入你的jar包里
+{"key": "csp_XYQBiu_影视工厂","name":"影视工厂显示线路名(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"},
+{"key": "csp_XYQBiu_555影视","name":"555影视搜索suggest格式(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/555dy.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"},
+{"key": "csp_XYQBiu_剧荒","name": "剧荒第一页不含页码写法(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/MaoXYQ/剧荒.json","jar":"clan://TVBox/XYQBiu.jar"},
+//开启筛选注意配置filterable要设置成1
+{"key": "csp_XYQBiu_神马","name": "神马筛选测试，这个网站无法嗅探播放(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/神马筛选.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"},
+{"key": "csp_XYQBiu_虎牙","name": "虎牙直接播放写法测试(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/虎牙代理直链.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"},
 {"key": "T41","name": "T4爬虫1","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "T42","name": "T4爬虫2","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"t4test","name":"T4测试","type":4,"api":"http://192.168.123.67:6688/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable":1,"quickSearch":1,"filterable":0},
