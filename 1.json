@@ -8,7 +8,7 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 //目前提供外挂调用，如果你有能力可以合入你的jar包里
-{"key": "csp_XYQBiu_影视工厂","name":"影视工厂显示线路名(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json",
+{"key": "csp_XYQBiu_影视工厂","name":"影视工厂显示线路名(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json"},
 {"key": "csp_XYQBiu_555影视","name":"555影视搜索suggest格式(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/555dy.json"},
 {"key": "csp_XYQBiu_剧荒","name": "剧荒第一页不含页码写法(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/剧荒.json"},
 //开启筛选注意配置filterable要设置成1
