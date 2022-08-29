@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gaotianliuyun.github.io/TvJar/jar/custom_spider.jar",
+"spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0829.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
 ]}]}],
