@@ -843,41 +843,6 @@
       }
     },
     {
-      "name": "爱豆",
-      "type": 1,
-      "url": "http://id190.tpddns.cn:81/jsonch/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "iqiyi",
-          "奇艺",
-          "爱奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "xigua",
-          "西瓜",
-          "sohu",
-          "搜狐",
-          "cntv",
-          "cctv",
-          "央视",
-          "1905",
-          "m1905"
-        ]
-      }
-    },
-    {
       "name": "视界",
       "type": 1,
       "url": "http://150.230.216.174/tvjx.php?url=",
