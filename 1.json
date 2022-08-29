@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gaotianliuyun.github.io/TvJar/jar/custom_spider.jar;md5;92a3d51303371a343beb0d9b76aa2234",
+"spider":"https://gaotianliuyun.github.io/TvJar/jar/custom_spider.jar;md5;4221d8f8823413a4326e26d17faf6adb",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
 ]}]}],
