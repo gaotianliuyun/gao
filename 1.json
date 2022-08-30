@@ -178,16 +178,6 @@
       "filterable": 1,
       "ext": "https://gaotianliuyun.github.io/cat/json/音范丝.json"
     },
-    //{
-      "key": "csp_xpath_yanetflix",
-      "name": "🦆奈非鸭",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gaotianliuyun.github.io/cat/json/奈非鸭.json"
-    },
     {
       "key": "csp_biubiu_cupfox",
       "name": "🦊茶杯狐",
