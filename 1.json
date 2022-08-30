@@ -463,7 +463,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/czzy.json"
+            "ext": "https://dxawi.github.io/6/czzy.json",
+            "jar":"http://catvod.fun:8001/tv/index.jar"
         },
         {
             "key": "csp_biubiu_在线之家",
