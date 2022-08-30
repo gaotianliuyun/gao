@@ -554,6 +554,17 @@
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
 {
+"key":"Alist99",
+"name":"Alist",
+"type":3,
+"api":"csp_Alist",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://gitea.com/Pandora2277/Box/raw/branch/main/Alist.json",
+  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+},
+{
   "key": "csp_Alist",
   "name": "Alist",
   "type": 3,
