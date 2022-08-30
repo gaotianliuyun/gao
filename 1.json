@@ -18,7 +18,7 @@
             "quickSearch":1,
             "filterable":0
         },
-{"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/厂长资源-蓝光.json"},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/厂长资源-蓝光.json","jar":"http://catvod.fun:8001/tv/index.jar"},
 {"key":"csp_Anime1","name":"🐞Anime","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
       {
       "key":"优众影视",
@@ -28,7 +28,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
+      "ext":"http://121.205.88.194:7878/xgapp.php/v2/"  
     },
    {
    "key": "csp_biubiu_迷你库",
@@ -90,7 +90,7 @@
             "quickSearch":1,
             "searchable":1
         },
-//{"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"3EDY","name":"🔥3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://catvod.fun:8001/tv/index.jar"},
 {"key":"追剧喵","name":"🐞追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"},
 //{"key": "小熊","name": "🐼小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
