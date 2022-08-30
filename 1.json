@@ -546,8 +546,8 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
-	{"key":"csp_biubiu_测试1",		"name":"🔥测试1(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/新媒体.json"},
-	{"key":"csp_biubiu_测试",		"name":"🔥测试(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/香蕉资源.json"},
+	{"key":"csp_biubiu_测试1",		"name":"🔥测试1(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/新媒体.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/index.jar"},
+	{"key":"csp_biubiu_测试",		"name":"🔥测试(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/香蕉资源.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/index.jar"},
 {
 "key":"Alist99",
 "name":"Alist",
