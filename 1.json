@@ -196,7 +196,8 @@
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+             "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/ts0829.jar;md5;2f2ddfd684736b506ea37f8b7ed12b1d"
         },
         {
             "key": "csp_Cokemv",
@@ -551,7 +552,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://gitea.com/Pandora2277/Box/raw/branch/main/Alist.json",
+"ext":"https://alist.xiaoguanxiaocheng.life",
   "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
 },
 {
@@ -573,7 +574,7 @@
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 0,
-  "ext": "https://pan.142856.xyz/OneDrive",
+  "ext": "https://pan.142856.xyz",
   "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
  },
  {
