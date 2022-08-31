@@ -143,8 +143,7 @@
      "api":"csp_EEEDY",
      "searchable":1,
      "quickSearch":1,
-     "filterable":1,
-     "jar":"http://catvod.fun:8001/tv/index.jar"
+     "filterable":1
      },
      {
      "key":"mjxq_spider",
