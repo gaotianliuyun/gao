@@ -177,17 +177,6 @@
      "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json",
      "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"
      },
-     {
-     "key":"csp_biubiu_凌云影视",
-     "name":"凌云影视(XB)",
-     "type":3,
-     "api":"csp_XBiubiu",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json",
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"
-     },
    {
             "key": "Kuaikan",
             "name": "快看(爬虫)",
