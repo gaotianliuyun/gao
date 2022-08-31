@@ -174,7 +174,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json"
+     "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json",
+     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"
      },
      {
      "key":"csp_biubiu_凌云影视",
@@ -184,7 +185,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json"
+     "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json",
+     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar"
      },
    {
             "key": "Kuaikan",
