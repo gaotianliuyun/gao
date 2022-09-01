@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json",
+      "ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json"
       //"jar": "https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"
     },
     {
@@ -81,7 +81,7 @@
       "api": "csp_SP293",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
      //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
     },
      {
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gaotianliuyun.github.io/cat/json/茶杯狐.json",
+      "ext": "https://gaotianliuyun.github.io/cat/json/茶杯狐.json"
       //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
     },
      {
@@ -152,7 +152,7 @@
      "api":"csp_Mjxq",
      "searchable":1,
      "quickSearch":1,
-     "filterable":1,
+     "filterable":1
      //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
      },
      {
@@ -305,7 +305,7 @@
             "api": "csp_KanSJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 1
             //"jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
         },
         {
