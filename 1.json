@@ -469,7 +469,53 @@
   "ext": "https://pity.eu.org"
 //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
  },
-        {
+     {
+      "key": "小苹果",
+      "name": "小苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "小熊",
+      "name": "小熊TV",
+      "type": 3,
+      "api": "csp_Xxys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "樱花动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Tkys",
+      "name": "天空影视",
+      "type": 3,
+      "api": "csp_Tkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_biubiu_宝仙HD",
+      "name": "宝仙HD〔XB〕",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://kvymin.github.io/CatVod/XBiubiu/宝仙HD.json"
+    },
+      {
             "key": "Bili",
             "name": "👨‍👩‍👦‍👦哔哩套餐",
             "type": 3,
