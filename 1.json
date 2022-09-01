@@ -92,8 +92,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json",
-     "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
+     "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/影视工厂.json"
+     //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
      },
      {
      "key": "csp_XYQBiu_555影视",
@@ -389,8 +389,8 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://alist.xiaoguanxiaocheng.life",
-  "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
+"ext":"https://alist.xiaoguanxiaocheng.life"
+//"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52"
 },
 {
   "key": "csp_Alist",
