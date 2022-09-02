@@ -439,11 +439,6 @@ LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 斗鱼旅行16,http://epg.112114.xyz/douyu/9172774
 斗鱼旅行17,http://epg.112114.xyz/douyu/4834417
 斗鱼旅行18,http://epg.112114.xyz/douyu/2240445
-B站旅行1,https://cn-fjqz-cmcc-live-01.bilivideo.com/live-bvc/739003/live_517141898_89057016.m3u8?cdn=cn-gotcha01&expires=1659688415&len=0&oi=2028310125&pt=h5&qn=10000&trid=1003c6d16aaa8dba489c93612c7fd1ec5db8&sigparams=cdn
-B站旅行2,https://cn-fjqz-cmcc-v-08.bilivideo.com/live-bvc/274248/live_13945088_2879895.m3u8?cdn=cn-gotcha01&expires=1659688571&len=0&oi=2028310125&pt=h5&qn=10000&trid=1003ce5f70b93fa24881975a449bca9ab6f5&sigparams=cdn
-B站旅行3,https://cn-fjqz-cmcc-live-02.bilivideo.com/live-bvc/198052/live_1963412985_80062999.m3u8?cdn=cn-gotcha01&expires=1659688468&len=0&oi=2028310125&pt=h5&qn=10000&trid=1003049ad9deccfd4af784e62ffa4f5fc391&sigparams=cdn
-B站旅行4,https://cn-fjqz-cmcc-live-01.bilivideo.com/live-bvc/405213/live_402257348_58880816.m3u8?cdn=cn-gotcha01&expires=1659688519&len=0&oi=2028310125&pt=h5&qn=10000&trid=100360c6a34557ac4140ad249dade076ade5&sigparams=cdn
-B站旅行5,https://cn-fjqz-cmcc-live-01.bilivideo.com/live-bvc/340486/live_660108449_5783049.m3u8?cdn=cn-gotcha01&expires=1659688300&len=0&oi=2028310125&pt=h5&qn=10000&trid=10038acde1df73a64bc79c846016ff3abcfb&sigparams=cdn
 【YY直播】,#genre#
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 佳人如画郭mini,http://mmitv.top/pltv/yy.php?id=1349606469
