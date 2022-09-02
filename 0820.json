@@ -373,6 +373,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{"key":"csp_xpath_007","name":"玲玲七(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/007.json"},
 {
 "key":"Alist99",
 "name":"Alist小关小陈",
