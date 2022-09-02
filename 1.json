@@ -8,6 +8,7 @@
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
+         {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://box.qinglin.tk/box/xp/UM.json"},
          {
            "key": "T4",
            "name": "T4爬虫",
