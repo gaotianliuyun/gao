@@ -16,21 +16,7 @@
 "searchable": 1,
 "quickSearch": 0,
 "filterable": 0,
-"ext":"米奇妙妙屋$https://anime.mqmmw.ga
-#小光盘$https://alist.xiaoguanxiaocheng.life
-#帅盘$https://hi.shuaipeng.wang
-#资源小站$https://pan.142856.xyz
-#晴园的宝藏库$https://alist.52qy.repl.co
-#嗨翻$https://pan.hikerfans.com
-#一只鱼$https://alist.youte.ml
-#听闻网盘$https://wangpan.sangxuesheng.com
-#菊花盘$https://pan.142856.xyz
-#神族九帝$https://alist.shenzjd.com
-#姬路白雪の资源小站$https://pan.jlbx.xyz
-#梓澪の妙妙屋$https://xn--i0v44m.xyz
-#9T$https://drive.9t.ee
-#Eren's$https://alist.sharefiles.repl.co
-#七米蓝$https://al.chirmyram.com",
+"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com",
 "jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/alist.jar"
 },
          {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/UM.json"},
