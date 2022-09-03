@@ -1,2459 +1,2429 @@
 #EXTM3U
-#EXTINF:-1 ,====== CCTV,#genre# ======
-http://0/0.m3u8
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://111.20.33.93/PLTV/88888893/224/3221226231/index.m3u8
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://183.11.239.32:808/hls/13/index.m3u8
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://111.20.33.93/PLTV/88888893/224/3221226195/index.m3u8
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://111.20.33.93/PLTV/88888893/224/3221226224/index.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://183.11.239.32:808/hls/116/index.m3u8
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://111.20.33.93/PLTV/88888893/224/3221226223/index.m3u8
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://183.11.239.32:808/hls/121/index.m3u8
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://111.20.33.93/PLTV/88888893/224/3221226345/index.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://111.20.33.93/PLTV/88888893/224/3221226011/index.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://111.20.33.93/PLTV/88888893/224/3221226393/index.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://183.11.239.32:808/hls/122/index.m3u8
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://111.20.33.93/PLTV/88888893/224/3221226192/index.m3u8
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://111.20.33.93/PLTV/88888893/224/3221226391/index.m3u8
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://183.11.239.32:808/hls/123/index.m3u8
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://111.20.33.93/PLTV/88888893/224/3221226197/index.m3u8
-#EXTINF:-1 ,CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
-#EXTINF:-1 ,CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
-#EXTINF:-1 ,CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1 ,CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 ,CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
-#EXTINF:-1 ,CETV-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1
 http://183.11.239.32:808/hls/76/index.m3u8
-#EXTINF:-1 ,CCTV风云音乐
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",CCTV风云音乐
 http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
-#EXTINF:-1 ,CCTV风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV风云足球
 http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
-#EXTINF:-1 ,CCTV央视文化精品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV央视文化精品
 http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
-#EXTINF:-1 ,CCTV风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
 http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
-#EXTINF:-1 ,CCTV世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV世界地理
 http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 ,中央新影-老故事
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",中央新影-老故事
 http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
-#EXTINF:-1 ,====== 卫视,#genre# ======
-http://1/1.m3u8
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://111.20.33.93/PLTV/88888893/224/3221226196/index.m3u8
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://111.20.33.93/PLTV/88888893/224/3221226203/index.m3u8
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://111.20.33.93/PLTV/88888893/224/3221226222/index.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://111.20.33.93/PLTV/88888893/224/3221226217/index.m3u8
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://111.20.33.93/PLTV/88888893/224/3221226216/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://111.20.33.93/PLTV/88888893/224/3221226215/index.m3u8
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://111.20.33.93/PLTV/88888893/224/3221226194/index.m3u8
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://111.20.33.93/PLTV/88888893/224/3221226206/index.m3u8
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://111.20.33.93/PLTV/88888893/224/3221226211/index.m3u8
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://111.20.33.93/PLTV/88888893/224/3221226200/index.m3u8
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://111.20.33.93/PLTV/88888893/224/3221226210/index.m3u8
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://111.20.33.93/PLTV/88888893/224/3221226331/index.m3u8
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://111.20.33.93/PLTV/88888893/224/3221226457/index.m3u8
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://111.20.33.93/PLTV/88888893/224/3221226205/index.m3u8
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://111.20.33.93/PLTV/88888893/224/3221226199/index.m3u8
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://183.11.239.32:808/hls/29/index.m3u8
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://183.11.239.32:808/hls/36/index.m3u8
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://183.11.239.32:808/hls/35/index.m3u8
-#EXTINF:-1 ,贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://183.11.239.32:808/hls/42/index.m3u8
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://183.11.239.32:808/hls/46/index.m3u8
-#EXTINF:-1 ,四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://183.11.239.32:808/hls/43/index.m3u8
-#EXTINF:-1 ,河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://183.11.239.32:808/hls/47/index.m3u8
-#EXTINF:-1 ,东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://183.11.239.32:808/hls/48/index.m3u8
-#EXTINF:-1 ,广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://183.11.239.32:808/hls/49/index.m3u8
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://183.11.239.32:808/hls/50/index.m3u8
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://183.11.239.32:808/hls/68/index.m3u8
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://183.11.239.32:808/hls/77/index.m3u8
-#EXTINF:-1 ,北京冬奥
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京冬奥
 http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8
-#EXTINF:-1 ,纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
 http://111.20.33.93/PLTV/88888893/224/3221226230/index.m3u8
-#EXTINF:-1 ,9in1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",9in1
 http://111.20.33.93/PLTV/88888893/224/3221226337/index.m3u8
-#EXTINF:-1 ,9in1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",9in1
 http://111.20.33.93/PLTV/88888893/224/3221226338/index.m3u8
-#EXTINF:-1 ,金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 ,圆点生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",圆点生活
 http://111.20.33.93/PLTV/88888893/224/3221226552/index.m3u8
-#EXTINF:-1 ,全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
 http://111.20.33.93/PLTV/88888893/224/3221226580/index.m3u8
-#EXTINF:-1 ,都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
 http://111.20.33.93/PLTV/88888893/224/3221226581/index.m3u8
-#EXTINF:-1 ,极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
 http://111.20.33.93/PLTV/88888893/224/3221226583/index.m3u8
-#EXTINF:-1 ,游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://111.20.33.93/PLTV/88888893/224/3221226803/index.m3u8
-#EXTINF:-1 ,快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
-#EXTINF:-1 ,茶频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
-#EXTINF:-1 ,精彩电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩电视剧
 http://111.20.33.93/PLTV/88888893/224/3221226012/index.m3u8
-#EXTINF:-1 ,精彩体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩体育
 http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
-#EXTINF:-1 ,精彩综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩综艺
 http://111.20.33.93/PLTV/88888893/224/3221226009/index.m3u8
-#EXTINF:-1 ,纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,LBRTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LBRTV
 http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://111.20.33.93/PLTV/88888893/224/3221226201/index.m3u8
-#EXTINF:-1 ,商洛1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",商洛1
 http://111.20.33.93/PLTV/88888893/224/3221226378/index.m3u8
-#EXTINF:-1 ,宝鸡1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝鸡1
 http://111.20.33.93/PLTV/88888893/224/3221226383/index.m3u8
-#EXTINF:-1 ,宝鸡1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝鸡1
 http://111.20.33.93/PLTV/88888893/224/3221226381/index.m3u8
-#EXTINF:-1 ,宝鸡2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝鸡2
 http://111.20.33.93/PLTV/88888893/224/3221226382/index.m3u8
-#EXTINF:-1 ,宁强1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁强1
 http://111.20.33.93/PLTV/88888893/224/3221226390/index.m3u8
-#EXTINF:-1 ,宁强2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁强2
 http://111.20.33.93/PLTV/88888893/224/3221226389/index.m3u8
-#EXTINF:-1 ,宝鸡2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝鸡2
 http://111.20.33.93/PLTV/88888893/224/3221226384/index.m3u8
-#EXTINF:-1 ,安康1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安康1
 http://111.20.33.93/PLTV/88888893/224/3221226385/index.m3u8
-#EXTINF:-1 ,佛坪电视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛坪电视台
 http://111.20.33.93/PLTV/88888893/224/3221226454/index.m3u8
-#EXTINF:-1 ,西乡融媒
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西乡融媒
 http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
-#EXTINF:-1 ,极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
 http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
-#EXTINF:-1 ,中视购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中视购物
 http://111.20.33.93/PLTV/88888893/224/3221226900/index.m3u8
-#EXTINF:-1 ,921号
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",921号
 http://111.20.33.93/PLTV/88888893/224/3221226920/index.m3u8
-#EXTINF:-1 ,悦美生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",悦美生活
 http://111.20.33.93/PLTV/88888893/224/3221226934/index.m3u8
-#EXTINF:-1 ,洋县电视台1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",洋县电视台1
 http://111.20.33.93/PLTV/88888893/224/3221226938/index.m3u8
-#EXTINF:-1 ,千阳
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",千阳
 http://111.20.33.93/PLTV/88888893/224/3221226945/index.m3u8
-#EXTINF:-1 ,中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中天新闻
 http://103.144.247.90:9500/live.m3u8?c=6
-#EXTINF:-1 ,中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中天新闻
 http://152.69.224.242:9500/jmsytb.m3u8?c=1
-#EXTINF:-1 ,TVB翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠
 http://113.64.147.23:808/hls/67/index.m3u8?$1080P超高清
-#EXTINF:-1 ,TVB翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠
 http://113.64.147.22:808/hls/67/index.m3u8?$1080P超高清
-#EXTINF:-1 ,TVB翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠
 https://cdn.hklive.tv/hls/81/index.m3u8?$1080P超高清
-#EXTINF:-1 ,TVB翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠
 https://cdn.hklive.tv/xxxx/81/index.m3u8?$1080P超高清
-#EXTINF:-1 ,TVB翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠
 http://27.47.71.85:808/hls/36/index.m3u8?$普清
-#EXTINF:-1 ,TVB翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠
 http://120.84.96.151:808/hls/25/index.m3u8?$普清
-#EXTINF:-1 ,====== 4K,#genre# ======
-http://2/2.m3u8
-#EXTINF:-1 ,CCTV8K
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8K
 http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8 $4K
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 ,苏州4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 ,芒果TV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果TV4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-#EXTINF:-1 ,北京IPTV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京IPTV4K
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 ,欢笑剧场4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
 http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
-#EXTINF:-1 ,Clarity-4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Clarity-4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 ,LoveNature-4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LoveNature-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 ,爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 ,爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 ,欢笑剧场4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
 http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000004000011651&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 ,====== 斗鱼,#genre# ======
-http://3/3.m3u8
-#EXTINF:-1 ,斗鱼电影4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 ,斗鱼电影HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD1
 http://epg.112114.xyz/douyu/4246519
-#EXTINF:-1 ,斗鱼电影HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD2
 http://epg.112114.xyz/douyu/10240553
-#EXTINF:-1 ,斗鱼电影HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD3
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 ,斗鱼电影HD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD4
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 ,斗鱼电影HD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD5
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 ,斗鱼电影HD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD6
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 ,斗鱼电影HD7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD7
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 ,斗鱼电影HD8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD8
 http://epg.112114.xyz/douyu/8663752
-#EXTINF:-1 ,斗鱼电影HD9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD9
 http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 ,斗鱼电影HD10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD10
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 ,斗鱼电影HD11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD11
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 ,斗鱼电影HD12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD12
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 ,斗鱼电影HD13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD13
 http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 ,斗鱼电影HD14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD14
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 ,斗鱼电影HD15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD15
 http://epg.112114.xyz/douyu/413573
-#EXTINF:-1 ,斗鱼电影HD16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD16
 http://epg.112114.xyz/douyu/1504768
-#EXTINF:-1 ,斗鱼电影HD17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD17
 http://epg.112114.xyz/douyu/3637726
-#EXTINF:-1 ,斗鱼电影HD18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD18
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 ,斗鱼电影HD19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD19
 http://epg.112114.xyz/douyu/3637765rrt97
-#EXTINF:-1 ,斗鱼电影HD20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD20
 http://epg.112114.xyz/douyu/10395991
-#EXTINF:-1 ,斗鱼电影HD21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD21
 http://epg.112114.xyz/douyu/10395986
-#EXTINF:-1 ,斗鱼电影HD22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD22
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 ,斗鱼电影HD23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD23
 http://epg.112114.xyz/douyu/ 6079455
-#EXTINF:-1 ,斗鱼电影HD24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD24
 http://epg.112114.xyz/douyu/315131
-#EXTINF:-1 ,斗鱼电影HD25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD25
 http://epg.112114.xyz/douyu/8945323
-#EXTINF:-1 ,斗鱼电影HD26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD26
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 ,斗鱼电影HD27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD27
 http://epg.112114.xyz/douyu/248753
-#EXTINF:-1 ,斗鱼电影HD28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD28
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 ,斗鱼电影HD29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD29
 http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 ,斗鱼电影HD30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD30
 http://epg.112114.xyz/douyu/9650887
-#EXTINF:-1 ,斗鱼电影HD31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD31
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 ,斗鱼电影HD32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD32
 http://epg.112114.xyz/douyu/10240510
-#EXTINF:-1 ,斗鱼电影HD33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD33
 http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 ,斗鱼电影HD34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD34
 http://epg.112114.xyz/douyu/8985415
-#EXTINF:-1 ,斗鱼电影HD35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD35
 http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1 ,斗鱼电影HD36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD36
 http://epg.112114.xyz/douyu/1735337
-#EXTINF:-1 ,斗鱼电影HD37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD37
 http://epg.112114.xyz/douyu/6537888
-#EXTINF:-1 ,斗鱼电影HD38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD38
 http://epg.112114.xyz/douyu/6003761
-#EXTINF:-1 ,斗鱼电影HD39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD39
 http://epg.112114.xyz/douyu/9683979
-#EXTINF:-1 ,斗鱼电影HD40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD40
 http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 ,斗鱼电影HD41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD41
 http://epg.112114.xyz/douyu/59612
-#EXTINF:-1 ,斗鱼电影HD42
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影HD42
 http://epg.112114.xyz/douyu/925724
-#EXTINF:-1 ,斗鱼电影1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影1
 http://epg.112114.xyz/douyu/5423
-#EXTINF:-1 ,斗鱼电影2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影2
 http://epg.112114.xyz/douyu/2935323
-#EXTINF:-1 ,斗鱼电影3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影3
 http://epg.112114.xyz/douyu/6027991
-#EXTINF:-1 ,斗鱼电影4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影4
 http://epg.112114.xyz/douyu/4105989
-#EXTINF:-1 ,斗鱼电影5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影5
 http://epg.112114.xyz/douyu/6369954
-#EXTINF:-1 ,斗鱼电影6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影6
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 ,斗鱼电影7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影7
 http://epg.112114.xyz/douyu/7494871
-#EXTINF:-1 ,斗鱼电影8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影8
 http://epg.112114.xyz/douyu/8986148
-#EXTINF:-1 ,斗鱼电影9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影9
 http://epg.112114.xyz/douyu/74374
-#EXTINF:-1 ,斗鱼电影10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影10
 http://epg.112114.xyz/douyu/4870914
-#EXTINF:-1 ,斗鱼电影11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影11
 http://epg.112114.xyz/douyu/7305938
-#EXTINF:-1 ,斗鱼电影12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影12
 http://epg.112114.xyz/douyu/310926
-#EXTINF:-1 ,斗鱼电影13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影13
 http://epg.112114.xyz/douyu/9292499
-#EXTINF:-1 ,斗鱼电影14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影14
 http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1 ,斗鱼电影15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影15
 http://epg.112114.xyz/douyu/8603174
-#EXTINF:-1 ,斗鱼电影16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影16
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1 ,斗鱼电影17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影17
 http://epg.112114.xyz/douyu/4282654
-#EXTINF:-1 ,斗鱼电影18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影18
 http://epg.112114.xyz/douyu/338759
-#EXTINF:-1 ,斗鱼电影19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影19
 http://epg.112114.xyz/douyu/10011042
-#EXTINF:-1 ,斗鱼电影20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影20
 http://epg.112114.xyz/douyu/9275635
-#EXTINF:-1 ,斗鱼电影21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影21
 http://epg.112114.xyz/douyu/5581257
-#EXTINF:-1 ,斗鱼电影22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影22
 http://epg.112114.xyz/douyu/2466104
-#EXTINF:-1 ,斗鱼电影23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影23
 http://epg.112114.xyz/douyu/5129261
-#EXTINF:-1 ,斗鱼电影24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影24
 http://epg.112114.xyz/douyu/9652323
-#EXTINF:-1 ,斗鱼电影25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影25
 http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1 ,斗鱼电影26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影26
 http://epg.112114.xyz/douyu/4505431
-#EXTINF:-1 ,斗鱼电影27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影27
 http://epg.112114.xyz/douyu/7221304
-#EXTINF:-1 ,斗鱼电影28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影28
 http://epg.112114.xyz/douyu/3990812
-#EXTINF:-1 ,斗鱼电影29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影29
 http://epg.112114.xyz/douyu/315457
-#EXTINF:-1 ,斗鱼电影30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影30
 http://epg.112114.xyz/douyu/805235
-#EXTINF:-1 ,斗鱼电影31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影31
 http://epg.112114.xyz/douyu/6655271
-#EXTINF:-1 ,斗鱼电影32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影32
 http://epg.112114.xyz/douyu/7353112
-#EXTINF:-1 ,斗鱼电影33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影33
 http://epg.112114.xyz/douyu/434971
-#EXTINF:-1 ,斗鱼电影34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影34
 http://epg.112114.xyz/douyu/10329300
-#EXTINF:-1 ,斗鱼电影35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影35
 http://epg.112114.xyz/douyu/10298846
-#EXTINF:-1 ,斗鱼电影36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影36
 http://epg.112114.xyz/douyu/3789245
-#EXTINF:-1 ,斗鱼电影37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影37
 http://epg.112114.xyz/douyu/6763930
-#EXTINF:-1 ,斗鱼电影38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影38
 http://epg.112114.xyz/douyu/7136517
-#EXTINF:-1 ,斗鱼电影39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影39
 http://epg.112114.xyz/douyu/8107217
-#EXTINF:-1 ,斗鱼电视剧HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD1
 http://epg.112114.xyz/douyu/2838296
-#EXTINF:-1 ,斗鱼电视剧HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD2
 http://epg.112114.xyz/douyu/7701735
-#EXTINF:-1 ,斗鱼电视剧HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD3
 http://epg.112114.xyz/douyu/7517784
-#EXTINF:-1 ,斗鱼电视剧HD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD4
 http://epg.112114.xyz/douyu/7489563
-#EXTINF:-1 ,斗鱼电视剧HD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD5
 http://epg.112114.xyz/douyu/6566658
-#EXTINF:-1 ,斗鱼电视剧HD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD6
 http://epg.112114.xyz/douyu/431460
-#EXTINF:-1 ,斗鱼电视剧HD7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD7
 http://epg.112114.xyz/douyu/8600645
-#EXTINF:-1 ,斗鱼电视剧HD8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD8
 http://epg.112114.xyz/douyu/7575350
-#EXTINF:-1 ,斗鱼电视剧HD10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD10
 http://epg.112114.xyz/douyu/7644931
-#EXTINF:-1 ,斗鱼电视剧HD11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD11
 http://epg.112114.xyz/douyu/9650860
-#EXTINF:-1 ,斗鱼电视剧HD12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD12
 http://epg.112114.xyz/douyu/9435180
-#EXTINF:-1 ,斗鱼电视剧HD13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD13
 http://epg.112114.xyz/douyu/3756989
-#EXTINF:-1 ,斗鱼电视剧HD14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD14
 http://epg.112114.xyz/douyu/6706214
-#EXTINF:-1 ,斗鱼电视剧HD15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧HD15
 http://epg.112114.xyz/douyu/6478650
-#EXTINF:-1 ,斗鱼电视剧1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧1
 http://epg.112114.xyz/douyu/299854
-#EXTINF:-1 ,斗鱼电视剧2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧2
 http://epg.112114.xyz/douyu/6899895
-#EXTINF:-1 ,斗鱼电视剧3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧3
 http://epg.112114.xyz/douyu/276200
-#EXTINF:-1 ,斗鱼电视剧4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧4
 http://epg.112114.xyz/douyu/4290711
-#EXTINF:-1 ,斗鱼电视剧5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧5
 http://epg.112114.xyz/douyu/6648727
-#EXTINF:-1 ,斗鱼电视剧6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧6
 http://epg.112114.xyz/douyu/7314294
-#EXTINF:-1 ,斗鱼电视剧7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧7
 http://epg.112114.xyz/douyu/9638983
-#EXTINF:-1 ,斗鱼电视剧8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧8
 http://epg.112114.xyz/douyu/5261342
-#EXTINF:-1 ,斗鱼电视剧9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧9
 http://epg.112114.xyz/douyu/5522351
-#EXTINF:-1 ,斗鱼电视剧10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧10
 http://epg.112114.xyz/douyu/9639508
-#EXTINF:-1 ,斗鱼电视剧11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧11
 http://epg.112114.xyz/douyu/2083382
-#EXTINF:-1 ,斗鱼电视剧12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧12
 http://epg.112114.xyz/douyu/4373285
-#EXTINF:-1 ,斗鱼电视剧13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧13
 http://epg.112114.xyz/douyu/3439096
-#EXTINF:-1 ,斗鱼电视剧14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧14
 http://epg.112114.xyz/douyu/4549169
-#EXTINF:-1 ,斗鱼电视剧15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧15
 http://epg.112114.xyz/douyu/7254536
-#EXTINF:-1 ,斗鱼电视剧16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧16
 http://epg.112114.xyz/douyu/3928r9
-#EXTINF:-1 ,斗鱼电视剧17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧17
 http://epg.112114.xyz/douyu/7270927
-#EXTINF:-1 ,斗鱼电视剧18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧18
 http://epg.112114.xyz/douyu/7116591
-#EXTINF:-1 ,斗鱼电视剧19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧19
 http://epg.112114.xyz/douyu/7459925
-#EXTINF:-1 ,斗鱼电视剧20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧20
 http://epg.112114.xyz/douyu/674441
-#EXTINF:-1 ,斗鱼电视剧21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧21
 http://epg.112114.xyz/douyu/9518204
-#EXTINF:-1 ,斗鱼电视剧22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧22
 http://epg.112114.xyz/douyu/10297898
-#EXTINF:-1 ,斗鱼电视剧23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧23
 http://epg.112114.xyz/douyu/8901218
-#EXTINF:-1 ,斗鱼电视剧24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧24
 http://epg.112114.xyz/douyu/7292330
-#EXTINF:-1 ,斗鱼电视剧25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧25
 http://epg.112114.xyz/douyu/7623292
-#EXTINF:-1 ,斗鱼电视剧26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧26
 http://epg.112114.xyz/douyu/7356023
-#EXTINF:-1 ,斗鱼电视剧27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧27
 http://epg.112114.xyz/douyu/10068957
-#EXTINF:-1 ,斗鱼电视剧28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧28
 http://epg.112114.xyz/douyu/308752
-#EXTINF:-1 ,斗鱼电视剧29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电视剧29
 http://epg.112114.xyz/douyu/3758762
-#EXTINF:-1 ,斗鱼动漫HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫HD1
 http://epg.112114.xyz/douyu/6449849
-#EXTINF:-1 ,斗鱼动漫HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫HD2
 http://epg.112114.xyz/douyu/206858
-#EXTINF:-1 ,斗鱼动漫HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫HD3
 http://epg.112114.xyz/douyu/10394922
-#EXTINF:-1 ,斗鱼动漫1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫1
 http://epg.112114.xyz/douyu/6610883
-#EXTINF:-1 ,斗鱼动漫2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫2
 http://epg.112114.xyz/douyu/1783144
-#EXTINF:-1 ,斗鱼动漫3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫3
 http://epg.112114.xyz/douyu/7190773
-#EXTINF:-1 ,斗鱼动漫4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫4
 http://epg.112114.xyz/douyu/1174353
-#EXTINF:-1 ,斗鱼动漫5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫5
 http://epg.112114.xyz/douyu/7528160
-#EXTINF:-1 ,斗鱼动漫6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫6
 http://epg.112114.xyz/douyu/7888428
-#EXTINF:-1 ,斗鱼动漫7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼动漫7
 http://epg.112114.xyz/douyu/9702820
-#EXTINF:-1 ,斗鱼搞笑HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑HD1
 http://epg.112114.xyz/douyu/9220456
-#EXTINF:-1 ,斗鱼搞笑HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑HD2
 http://epg.112114.xyz/douyu/9770949
-#EXTINF:-1 ,斗鱼搞笑HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑HD3
 http://epg.112114.xyz/douyu/9067836
-#EXTINF:-1 ,斗鱼搞笑HD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑HD4
 http://epg.112114.xyz/douyu/9817729
-#EXTINF:-1 ,斗鱼搞笑HD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑HD5
 http://epg.112114.xyz/douyu/8737695
-#EXTINF:-1 ,斗鱼搞笑1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑1
 http://epg.112114.xyz/douyu/10378551
-#EXTINF:-1 ,斗鱼搞笑2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑2
 http://epg.112114.xyz/douyu/9804180
-#EXTINF:-1 ,斗鱼搞笑3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搞笑3
 http://epg.112114.xyz/douyu/2132902
-#EXTINF:-1 ,斗鱼影评HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD1
 http://epg.112114.xyz/douyu/9559158
-#EXTINF:-1 ,斗鱼影评HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD2
 http://epg.112114.xyz/douyu/10240495
-#EXTINF:-1 ,斗鱼影评HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD3
 http://epg.112114.xyz/douyu/9419771
-#EXTINF:-1 ,斗鱼影评HD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD4
 http://epg.112114.xyz/douyu/4258555
-#EXTINF:-1 ,斗鱼影评HD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD5
 http://epg.112114.xyz/douyu/8317926
-#EXTINF:-1 ,斗鱼影评HD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD6
 http://epg.112114.xyz/douyu/10317257
-#EXTINF:-1 ,斗鱼影评HD7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD7
 http://epg.112114.xyz/douyu/8986636
-#EXTINF:-1 ,斗鱼影评HD8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD8
 http://epg.112114.xyz/douyu/9837291
-#EXTINF:-1 ,斗鱼影评HD9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD9
 http://epg.112114.xyz/douyu/297689
-#EXTINF:-1 ,斗鱼影评HD10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD10
 http://epg.112114.xyz/douyu/8651489
-#EXTINF:-1 ,斗鱼影评HD11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评HD11
 http://epg.112114.xyz/douyu/8656759
-#EXTINF:-1 ,斗鱼影评1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评1
 http://epg.112114.xyz/douyu/9562616
-#EXTINF:-1 ,斗鱼影评2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评2
 http://epg.112114.xyz/douyu/9527700
-#EXTINF:-1 ,斗鱼影评3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评3
 http://epg.112114.xyz/douyu/2758565
-#EXTINF:-1 ,斗鱼影评4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼影评4
 http://epg.112114.xyz/douyu/9573592
-#EXTINF:-1 ,斗鱼美食HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼美食HD1
 http://epg.112114.xyz/douyu/2901080
-#EXTINF:-1 ,斗鱼美食HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼美食HD2
 http://epg.112114.xyz/douyu/8144937
-#EXTINF:-1 ,斗鱼科普HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普HD1
 http://epg.112114.xyz/douyu/9317739
-#EXTINF:-1 ,斗鱼科普HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普HD2
 http://epg.112114.xyz/douyu/9447974
-#EXTINF:-1 ,斗鱼科普HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普HD3
 http://epg.112114.xyz/douyu/9369468
-#EXTINF:-1 ,斗鱼科普HD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普HD4
 http://epg.112114.xyz/douyu/9385288
-#EXTINF:-1 ,斗鱼科普HD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普HD5
 http://epg.112114.xyz/douyu/8434598
-#EXTINF:-1 ,斗鱼科普HD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普HD6
 http://epg.112114.xyz/douyu/7357786
-#EXTINF:-1 ,斗鱼科普1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普1
 http://epg.112114.xyz/douyu/2022306
-#EXTINF:-1 ,斗鱼科普2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普2
 http://epg.112114.xyz/douyu/2172818
-#EXTINF:-1 ,斗鱼科普3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普3
 http://epg.112114.xyz/douyu/3570168
-#EXTINF:-1 ,斗鱼科普4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普4
 http://epg.112114.xyz/douyu/838632
-#EXTINF:-1 ,斗鱼科普5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普5
 http://epg.112114.xyz/douyu/9412981
-#EXTINF:-1 ,斗鱼科普6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼科普6
 http://epg.112114.xyz/douyu/8667001
-#EXTINF:-1 ,斗鱼历史1
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",斗鱼历史1
 http://epg.112114.xyz/douyu/9738854
-#EXTINF:-1 ,斗鱼历史2
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",斗鱼历史2
 http://epg.112114.xyz/douyu/10102281
-#EXTINF:-1 ,斗鱼历史3
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",斗鱼历史3
 http://epg.112114.xyz/douyu/1330448
-#EXTINF:-1 ,斗鱼历史4
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",斗鱼历史4
 http://epg.112114.xyz/douyu/227670
-#EXTINF:-1 ,斗鱼历史5
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",斗鱼历史5
 http://epg.112114.xyz/douyu/2320076
-#EXTINF:-1 ,斗鱼历史6
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",斗鱼历史6
 http://epg.112114.xyz/douyu/4275776
-#EXTINF:-1 ,斗鱼军事1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼军事1
 http://epg.112114.xyz/douyu/1877962
-#EXTINF:-1 ,斗鱼军事2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼军事2
 http://epg.112114.xyz/douyu/9530915
-#EXTINF:-1 ,斗鱼体育1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼体育1
 http://epg.112114.xyz/douyu/10302182
-#EXTINF:-1 ,斗鱼体育2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼体育2
 http://epg.112114.xyz/douyu/9170147
-#EXTINF:-1 ,斗鱼体育3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼体育3
 http://epg.112114.xyz/douyu/9471214
-#EXTINF:-1 ,斗鱼说法1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼说法1
 http://epg.112114.xyz/douyu/10379308
-#EXTINF:-1 ,斗鱼说法2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼说法2
 http://epg.112114.xyz/douyu/709710
-#EXTINF:-1 ,斗鱼说法3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼说法3
 http://epg.112114.xyz/douyu/8805
-#EXTINF:-1 ,斗鱼游戏4K1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏4K1
 http://epg.112114.xyz/douyu/4147
-#EXTINF:-1 ,斗鱼游戏4K2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏4K2
 http://epg.112114.xyz/douyu/5832903
-#EXTINF:-1 ,斗鱼游戏HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD1
 http://epg.112114.xyz/douyu/5720533
-#EXTINF:-1 ,斗鱼游戏HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD2
 http://epg.112114.xyz/douyu/101367
-#EXTINF:-1 ,斗鱼游戏HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD3
 http://epg.112114.xyz/douyu/641986
-#EXTINF:-1 ,斗鱼游戏HD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD5
 http://epg.112114.xyz/douyu/3168536
-#EXTINF:-1 ,斗鱼游戏HD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD6
 http://epg.112114.xyz/douyu/5524515
-#EXTINF:-1 ,斗鱼游戏HD7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD7
 http://epg.112114.xyz/douyu/10235695
-#EXTINF:-1 ,斗鱼游戏HD8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD8
 http://epg.112114.xyz/douyu/4346416
-#EXTINF:-1 ,斗鱼游戏HD9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD9
 http://epg.112114.xyz/douyu/1080583
-#EXTINF:-1 ,斗鱼游戏HD10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD10
 http://epg.112114.xyz/douyu/9829796
-#EXTINF:-1 ,斗鱼游戏HD11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD11
 http://epg.112114.xyz/douyu/1863767
-#EXTINF:-1 ,斗鱼游戏HD12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD12
 http://epg.112114.xyz/douyu/288016
-#EXTINF:-1 ,斗鱼游戏HD14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD14
 http://epg.112114.xyz/douyu/2947432
-#EXTINF:-1 ,斗鱼游戏HD15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD15
 http://epg.112114.xyz/douyu/9545122
-#EXTINF:-1 ,斗鱼游戏HD16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD16
 http://epg.112114.xyz/douyu/9412634
-#EXTINF:-1 ,斗鱼游戏HD17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD17
 http://epg.112114.xyz/douyu/10208727
-#EXTINF:-1 ,斗鱼游戏HD18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD18
 http://epg.112114.xyz/douyu/582442
-#EXTINF:-1 ,斗鱼游戏HD19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD19
 http://epg.112114.xyz/douyu/10389796
-#EXTINF:-1 ,斗鱼游戏HD20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD20
 http://epg.112114.xyz/douyu/10072325
-#EXTINF:-1 ,斗鱼游戏HD21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD21
 http://epg.112114.xyz/douyu/10608093
-#EXTINF:-1 ,斗鱼游戏HD22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD22
 http://epg.112114.xyz/douyu/6601808
-#EXTINF:-1 ,斗鱼游戏HD23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD23
 http://epg.112114.xyz/douyu/9747078
-#EXTINF:-1 ,斗鱼游戏HD24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD24
 http://epg.112114.xyz/douyu/7929609
-#EXTINF:-1 ,斗鱼游戏HD25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD25
 http://epg.112114.xyz/douyu/2038911
-#EXTINF:-1 ,斗鱼游戏HD26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD26
 http://epg.112114.xyz/douyu/486816
-#EXTINF:-1 ,斗鱼游戏HD27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD27
 http://epg.112114.xyz/douyu/459911
-#EXTINF:-1 ,斗鱼游戏HD28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD28
 http://epg.112114.xyz/douyu/4872710
-#EXTINF:-1 ,斗鱼游戏HD29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD29
 http://epg.112114.xyz/douyu/428250
-#EXTINF:-1 ,斗鱼游戏HD30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏HD30
 http://epg.112114.xyz/douyu/703747
-#EXTINF:-1 ,斗鱼游戏2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏2
 http://epg.112114.xyz/douyu/156277
-#EXTINF:-1 ,斗鱼游戏3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏3
 http://epg.112114.xyz/douyu/2018127
-#EXTINF:-1 ,斗鱼游戏4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏4
 http://epg.112114.xyz/douyu/24422
-#EXTINF:-1 ,斗鱼游戏7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏7
 http://epg.112114.xyz/douyu/65251
-#EXTINF:-1 ,斗鱼游戏8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏8
 http://epg.112114.xyz/douyu/6712395
-#EXTINF:-1 ,斗鱼游戏9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼游戏9
 http://epg.112114.xyz/douyu/693708
-#EXTINF:-1 ,斗鱼棋牌1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼棋牌1
 http://epg.112114.xyz/douyu/1227260
-#EXTINF:-1 ,斗鱼棋牌2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼棋牌2
 http://epg.112114.xyz/douyu/851040
-#EXTINF:-1 ,斗鱼棋牌3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼棋牌3
 http://epg.112114.xyz/douyu/6264482
-#EXTINF:-1 ,斗鱼棋牌4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼棋牌4
 http://epg.112114.xyz/douyu/4369877
-#EXTINF:-1 ,斗鱼歌舞HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD1
 http://epg.112114.xyz/douyu/6129898
-#EXTINF:-1 ,斗鱼歌舞HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD2
 http://epg.112114.xyz/douyu/920891
-#EXTINF:-1 ,斗鱼歌舞HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD3
 http://epg.112114.xyz/douyu/5943125
-#EXTINF:-1 ,斗鱼歌舞HD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD4
 http://epg.112114.xyz/douyu/3763915
-#EXTINF:-1 ,斗鱼歌舞HD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD5
 http://epg.112114.xyz/douyu/1607787
-#EXTINF:-1 ,斗鱼歌舞HD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD6
 http://epg.112114.xyz/douyu/549212
-#EXTINF:-1 ,斗鱼歌舞HD7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD7
 http://epg.112114.xyz/douyu/592561
-#EXTINF:-1 ,斗鱼歌舞HD8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD8
 http://epg.112114.xyz/douyu/10386206
-#EXTINF:-1 ,斗鱼歌舞HD9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD9
 http://epg.112114.xyz/douyu/8711854
-#EXTINF:-1 ,斗鱼歌舞HD10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD10
 http://epg.112114.xyz/douyu/87777
-#EXTINF:-1 ,斗鱼歌舞HD11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD11
 http://epg.112114.xyz/douyu/90999
-#EXTINF:-1 ,斗鱼歌舞HD12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD12
 http://epg.112114.xyz/douyu/591657
-#EXTINF:-1 ,斗鱼歌舞HD13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞HD13
 http://epg.112114.xyz/douyu/1011
-#EXTINF:-1 ,斗鱼歌舞1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞1
 http://epg.112114.xyz/douyu/6266000
-#EXTINF:-1 ,斗鱼歌舞2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞2
 http://epg.112114.xyz/douyu/5628327
-#EXTINF:-1 ,斗鱼歌舞3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞3
 http://epg.112114.xyz/douyu/4582220
-#EXTINF:-1 ,斗鱼歌舞4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞4
 http://epg.112114.xyz/douyu/5103313
-#EXTINF:-1 ,斗鱼歌舞5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞5
 http://epg.112114.xyz/douyu/5746514
-#EXTINF:-1 ,斗鱼歌舞6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞6
 http://epg.112114.xyz/douyu/7771387
-#EXTINF:-1 ,斗鱼歌舞7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞7
 http://epg.112114.xyz/douyu/5367400
-#EXTINF:-1 ,斗鱼歌舞8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞8
 http://epg.112114.xyz/douyu/5278299
-#EXTINF:-1 ,斗鱼歌舞9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞9
 http://epg.112114.xyz/douyu/10118209
-#EXTINF:-1 ,斗鱼歌舞10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞10
 http://epg.112114.xyz/douyu/170426
-#EXTINF:-1 ,斗鱼歌舞11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞11
 http://epg.112114.xyz/douyu/22619
-#EXTINF:-1 ,斗鱼歌舞12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞12
 http://epg.112114.xyz/douyu/5772555
-#EXTINF:-1 ,斗鱼歌舞13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞13
 http://epg.112114.xyz/douyu/6508860
-#EXTINF:-1 ,斗鱼歌舞14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞14
 http://epg.112114.xyz/douyu/92000
-#EXTINF:-1 ,斗鱼歌舞15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼歌舞15
 http://epg.112114.xyz/douyu/9837104
-#EXTINF:-1 ,斗鱼综艺HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼综艺HD1
 http://epg.112114.xyz/douyu/131977
-#EXTINF:-1 ,斗鱼综艺HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼综艺HD2
 http://epg.112114.xyz/douyu/7298973
-#EXTINF:-1 ,斗鱼综艺HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼综艺HD3
 http://epg.112114.xyz/douyu/9236042
-#EXTINF:-1 ,斗鱼MTV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼MTV1
 http://epg.112114.xyz/douyu/231464
-#EXTINF:-1 ,斗鱼MTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼MTV2
 http://epg.112114.xyz/douyu/5635000
-#EXTINF:-1 ,斗鱼MTV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼MTV3
 http://epg.112114.xyz/douyu/17732
-#EXTINF:-1 ,斗鱼MTV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼MTV4
 http://epg.112114.xyz/douyu/9586235
-#EXTINF:-1 ,斗鱼搏击
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼搏击
 http://epg.112114.xyz/douyu/425809
-#EXTINF:-1 ,斗鱼车评
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼车评
 http://epg.112114.xyz/douyu/321987
-#EXTINF:-1 ,斗鱼读书
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼读书
 http://epg.112114.xyz/douyu/11211
-#EXTINF:-1 ,斗鱼旅游1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅游1
 http://epg.112114.xyz/douyu/1109218
-#EXTINF:-1 ,斗鱼旅游2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅游2
 http://epg.112114.xyz/douyu/6580174
-#EXTINF:-1 ,斗鱼收藏
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼收藏
 http://epg.112114.xyz/douyu/9812765
-#EXTINF:-1 ,斗鱼书画1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼书画1
 http://epg.112114.xyz/douyu/10633755
-#EXTINF:-1 ,斗鱼书画2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼书画2
 http://epg.112114.xyz/douyu/10633758
-#EXTINF:-1 ,斗鱼书画3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼书画3
 http://epg.112114.xyz/douyu/1319043
-#EXTINF:-1 ,斗鱼书画4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼书画4
 http://epg.112114.xyz/douyu/3436981
-#EXTINF:-1 ,斗鱼书画5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼书画5
 http://epg.112114.xyz/douyu/7856263
-#EXTINF:-1 ,斗鱼书画6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼书画6
 http://epg.112114.xyz/douyu/1066432
-#EXTINF:-1 ,斗鱼书画7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼书画7
 http://epg.112114.xyz/douyu/6327572
-#EXTINF:-1 ,斗鱼怀旧1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧1
 http://epg.112114.xyz/douyu/10891424
-#EXTINF:-1 ,斗鱼怀旧2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧2
 http://epg.112114.xyz/douyu/8023713
-#EXTINF:-1 ,斗鱼怀旧3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧3
 http://epg.112114.xyz/douyu/30191
-#EXTINF:-1 ,斗鱼怀旧4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧4
 http://epg.112114.xyz/douyu/9654885
-#EXTINF:-1 ,斗鱼怀旧5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧5
 http://epg.112114.xyz/douyu/7505922
-#EXTINF:-1 ,斗鱼怀旧6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧6
 http://epg.112114.xyz/douyu/60117
-#EXTINF:-1 ,斗鱼怀旧7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧7
 http://epg.112114.xyz/douyu/27120
-#EXTINF:-1 ,斗鱼怀旧8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧8
 http://epg.112114.xyz/douyu/9432
-#EXTINF:-1 ,斗鱼怀旧9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼怀旧9
 http://epg.112114.xyz/douyu/69247
-#EXTINF:-1 ,斗鱼旅行1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行1
 http://epg.112114.xyz/douyu/9970646
-#EXTINF:-1 ,斗鱼旅行2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行2
 http://epg.112114.xyz/douyu/6563725
-#EXTINF:-1 ,斗鱼旅行3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行3
 http://epg.112114.xyz/douyu/1668562
-#EXTINF:-1 ,斗鱼旅行4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行4
 http://epg.112114.xyz/douyu/9511092
-#EXTINF:-1 ,斗鱼旅行5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行5
 http://epg.112114.xyz/douyu/9358196
-#EXTINF:-1 ,斗鱼旅行6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行6
 http://epg.112114.xyz/douyu/454867
-#EXTINF:-1 ,斗鱼旅行7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行7
 http://epg.112114.xyz/douyu/4837387
-#EXTINF:-1 ,斗鱼旅行8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行8
 http://epg.112114.xyz/douyu/850030
-#EXTINF:-1 ,斗鱼旅行9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行9
 http://epg.112114.xyz/douyu/9378464
-#EXTINF:-1 ,斗鱼旅行10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行10
 http://epg.112114.xyz/douyu/10253213
-#EXTINF:-1 ,斗鱼旅行11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行11
 http://epg.112114.xyz/douyu/10319093
-#EXTINF:-1 ,斗鱼旅行12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行12
 http://epg.112114.xyz/douyu/442280
-#EXTINF:-1 ,斗鱼旅行13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行13
 http://epg.112114.xyz/douyu/1867491
-#EXTINF:-1 ,斗鱼旅行14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行14
 http://epg.112114.xyz/douyu/1255068
-#EXTINF:-1 ,斗鱼旅行15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行15
 http://epg.112114.xyz/douyu/9314668
-#EXTINF:-1 ,斗鱼旅行16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行16
 http://epg.112114.xyz/douyu/9172774
-#EXTINF:-1 ,斗鱼旅行17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行17
 http://epg.112114.xyz/douyu/4834417
-#EXTINF:-1 ,斗鱼旅行18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼旅行18
 http://epg.112114.xyz/douyu/2240445
-#EXTINF:-1 ,====== 【YY直播】,#genre# ======
-http://4/4.m3u8
-#EXTINF:-1 ,YY舞蹈993热舞不断
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",YY舞蹈993热舞不断
 http://mmitv.top/pltv/yy.php?id=22490906
-#EXTINF:-1 ,佳人如画郭mini
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佳人如画郭mini
 http://mmitv.top/pltv/yy.php?id=1349606469
-#EXTINF:-1 ,温馨美人兰梦莎
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温馨美人兰梦莎
 http://mmitv.top/pltv/yy.php?id=90144176
-#EXTINF:-1 ,性感尤物S曲线娅儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感尤物S曲线娅儿
 http://mmitv.top/pltv/yy.php?id=23239341
-#EXTINF:-1 ,幻影忆小璇正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幻影忆小璇正在直播
 http://mmitv.top/pltv/yy.php?id=1451539771
-#EXTINF:-1 ,天生媚骨舞媚娘
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天生媚骨舞媚娘
 http://mmitv.top/pltv/yy.php?id=91398488
-#EXTINF:-1 ,江南才女高梦云
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江南才女高梦云
 http://mmitv.top/pltv/yy.php?id=57092721
-#EXTINF:-1 ,动感热舞初夏
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动感热舞初夏
 http://mmitv.top/pltv/yy.php?id=44792132
-#EXTINF:-1 ,性感御姐小影正在热舞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感御姐小影正在热舞
 http://mmitv.top/pltv/yy.php?id=35340121
-#EXTINF:-1 ,妩媚撩人热舞陈依依
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",妩媚撩人热舞陈依依
 http://mmitv.top/pltv/yy.php?id=1354955656
-#EXTINF:-1 ,成都热舞沫沫o正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",成都热舞沫沫o正在直播
 http://mmitv.top/pltv/yy.php?id=34138567
-#EXTINF:-1 ,距离0.3，正在热舞中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离0.3正在热舞中
 http://mmitv.top/pltv/yy.php?id=33057051
-#EXTINF:-1 ,今晚来我办公室
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",今晚来我办公室
 http://mmitv.top/pltv/yy.php?id=1463002365
-#EXTINF:-1 ,性感舞蹈女神
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感舞蹈女神
 http://mmitv.top/pltv/yy.php?id=23191790
-#EXTINF:-1 ,小腰精距离0.3km
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小腰精距离0.3km
 http://mmitv.top/pltv/yy.php?id=1354805098
-#EXTINF:-1 ,高颜值唱跳小璐一
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高颜值唱跳小璐一
 http://mmitv.top/pltv/yy.php?id=23262001
-#EXTINF:-1 ,附近0.45km火爆s身
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",附近0.45km火爆s身
 http://mmitv.top/pltv/yy.php?id=64316154
-#EXTINF:-1 ,肚皮舞小喵喵
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",肚皮舞小喵喵
 http://mmitv.top/pltv/yy.php?id=62583373
-#EXTINF:-1 ,旗袍热舞女王小奶兔
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",旗袍热舞女王小奶兔
 http://mmitv.top/pltv/yy.php?id=51493029
-#EXTINF:-1 ,魅惑迷人舞喵小妍
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅惑迷人舞喵小妍
 http://mmitv.top/pltv/yy.php?id=75326027
-#EXTINF:-1 ,小嫣然正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小嫣然正在直播
 http://mmitv.top/pltv/yy.php?id=57497997
-#EXTINF:-1 ,S性感尤物附近人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",S性感尤物附近人
 http://mmitv.top/pltv/yy.php?id=1354505569
-#EXTINF:-1 ,性感女神梦露
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感女神梦露
 http://mmitv.top/pltv/yy.php?id=28064575
-#EXTINF:-1 ,新晋舞娘猫月
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新晋舞娘猫月
 http://mmitv.top/pltv/yy.php?id=20508392
-#EXTINF:-1 ,韩舞纯欲系雨宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",韩舞纯欲系雨宝
 http://mmitv.top/pltv/yy.php?id=15717158
-#EXTINF:-1 ,燃舞女神33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",燃舞女神33
 http://mmitv.top/pltv/yy.php?id=1512837
-#EXTINF:-1 ,认真的小白菜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",认真的小白菜
 http://mmitv.top/pltv/yy.php?id=1353107778
-#EXTINF:-1 ,距离0.85km热舞中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离0.85km热舞中
 http://mmitv.top/pltv/yy.php?id=83844152
-#EXTINF:-1 ,百变舞王羽美人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百变舞王羽美人
 http://mmitv.top/pltv/yy.php?id=47643868
-#EXTINF:-1 ,夏歌
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",夏歌
 http://mmitv.top/pltv/yy.php?id=87313712
-#EXTINF:-1 ,正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",正在直播
 http://mmitv.top/pltv/yy.php?id=1355230558
-#EXTINF:-1 ,有人疼才显得出众。
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有人疼才显得出众。
 http://mmitv.top/pltv/yy.php?id=1355055267
-#EXTINF:-1 ,辽宁608女团在你附近求
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",辽宁608女团在你附近求
 http://mmitv.top/pltv/yy.php?id=1355330671
-#EXTINF:-1 ,甜美少女红宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美少女红宝
 http://mmitv.top/pltv/yy.php?id=1354316637
-#EXTINF:-1 ,极品少女性感热舞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",极品少女性感热舞
 http://mmitv.top/pltv/yy.php?id=61311685
-#EXTINF:-1 ,创艺々小九黎``正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",创艺々小九黎``正在直播
 http://mmitv.top/pltv/yy.php?id=1382694117
-#EXTINF:-1 ,成都热舞沫沫o正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",成都热舞沫沫o正在直播
 http://mmitv.top/pltv/yy.php?id=19527638
-#EXTINF:-1 ,还不进来在等什么
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",还不进来在等什么
 http://mmitv.top/pltv/yy.php?id=1349422196
-#EXTINF:-1 ,依旧是你的初恋女神珊小瑚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",依旧是你的初恋女神珊小瑚
 http://mmitv.top/pltv/yy.php?id=1349695640
-#EXTINF:-1 ,江苏热舞萱橙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏热舞萱橙
 http://mmitv.top/pltv/yy.php?id=1352781642
-#EXTINF:-1 ,气质女神小晶宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",气质女神小晶宝
 http://mmitv.top/pltv/yy.php?id=1350613755
-#EXTINF:-1 ,空中舞蹈沫沫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中舞蹈沫沫
 http://mmitv.top/pltv/yy.php?id=15669373
-#EXTINF:-1 ,青春舞姬九姑娘
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",青春舞姬九姑娘
 http://mmitv.top/pltv/yy.php?id=1350185148
-#EXTINF:-1 ,风情万种湖南晓晓依
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风情万种湖南晓晓依
 http://mmitv.top/pltv/yy.php?id=1349884917
-#EXTINF:-1 ,【九五】新团求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【九五】新团求关注
 http://mmitv.top/pltv/yy.php?id=1458152250
-#EXTINF:-1 ,性感火辣美宝热舞中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感火辣美宝热舞中
 http://mmitv.top/pltv/yy.php?id=39833924
-#EXTINF:-1 ,甜美清纯小沐夕
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美清纯小沐夕
 http://mmitv.top/pltv/yy.php?id=1353524020
-#EXTINF:-1 ,燃舞蹈美女心宝已上线
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",燃舞蹈美女心宝已上线
 http://mmitv.top/pltv/yy.php?id=67429676
-#EXTINF:-1 ,爱舞蹈的梦呓
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱舞蹈的梦呓
 http://mmitv.top/pltv/yy.php?id=1350823503
-#EXTINF:-1 ,领取你的甜心吧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",领取你的甜心吧
 http://mmitv.top/pltv/yy.php?id=1355107171
-#EXTINF:-1 ,最炫萌浅浅古风舞蹈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",最炫萌浅浅古风舞蹈
 http://mmitv.top/pltv/yy.php?id=43182426
-#EXTINF:-1 ,可纯可御甜美米朵
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可纯可御甜美米朵
 http://mmitv.top/pltv/yy.php?id=1355370144
-#EXTINF:-1 ,灵魂钢管舞小小阳
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",灵魂钢管舞小小阳
 http://mmitv.top/pltv/yy.php?id=1353724536
-#EXTINF:-1 ,距离0.001千米
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离0.001千米
 http://mmitv.top/pltv/yy.php?id=1354807629
-#EXTINF:-1 ,娇媚性感钢管舞妲己
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",娇媚性感钢管舞妲己
 http://mmitv.top/pltv/yy.php?id=72789869
-#EXTINF:-1 ,河南小辣椒第一次跳舞紧张
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南小辣椒第一次跳舞紧张
 http://mmitv.top/pltv/yy.php?id=1355310431
-#EXTINF:-1 ,撩人小腰精筱静
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",撩人小腰精筱静
 http://mmitv.top/pltv/yy.php?id=37718051
-#EXTINF:-1 ,萌舞精灵小叶子
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",萌舞精灵小叶子
 http://mmitv.top/pltv/yy.php?id=1346329801
-#EXTINF:-1 ,肉感御姐乌啦啦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",肉感御姐乌啦啦
 http://mmitv.top/pltv/yy.php?id=14221597
-#EXTINF:-1 ,清纯热舞小琳儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯热舞小琳儿
 http://mmitv.top/pltv/yy.php?id=1349183318
-#EXTINF:-1 ,性感平面模特艾薇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感平面模特艾薇
 http://mmitv.top/pltv/yy.php?id=1352566633
-#EXTINF:-1 ,动感舞者馨儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动感舞者馨儿
 http://mmitv.top/pltv/yy.php?id=44792120
-#EXTINF:-1 ,性感尤物小蛮妖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感尤物小蛮妖
 http://mmitv.top/pltv/yy.php?id=1345830441
-#EXTINF:-1 ,来了裙子14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来了裙子14
 http://mmitv.top/pltv/yy.php?id=44125887
-#EXTINF:-1 ,美少女小甜7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美少女小甜7
 http://mmitv.top/pltv/yy.php?id=1353690551
-#EXTINF:-1 ,附近0.3km
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",附近0.3km
 http://mmitv.top/pltv/yy.php?id=1461225166
-#EXTINF:-1 ,别翻了，选我吧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",别翻了选我吧
 http://mmitv.top/pltv/yy.php?id=38971088
-#EXTINF:-1 ,幻影小叶子正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幻影小叶子正在直播
 http://mmitv.top/pltv/yy.php?id=1355322846
-#EXTINF:-1 ,小珍珠，宅男女神
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小珍珠宅男女神
 http://mmitv.top/pltv/yy.php?id=12972016
-#EXTINF:-1 ,【胜仕伊＋】九月正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕伊+】九月正在直播
 http://mmitv.top/pltv/yy.php?id=1461507834
-#EXTINF:-1 ,魅力无限小舞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力无限小舞
 http://mmitv.top/pltv/yy.php?id=92620318
-#EXTINF:-1 ,你的甜味辣妹~~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你的甜味辣妹~~
 http://mmitv.top/pltv/yy.php?id=1354758469
-#EXTINF:-1 ,距离0.01KM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离0.01KM
 http://mmitv.top/pltv/yy.php?id=1420137191
-#EXTINF:-1 ,重庆市【胜仕重庆】顺心(
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆市【胜仕重庆】顺心(
 http://mmitv.top/pltv/yy.php?id=1460250667
-#EXTINF:-1 ,新人舞蹈主播等一个人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新人舞蹈主播等一个人
 http://mmitv.top/pltv/yy.php?id=1355369472
-#EXTINF:-1 ,S级热舞小桃心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",S级热舞小桃心
 http://mmitv.top/pltv/yy.php?id=77921878
-#EXTINF:-1 ,雲源01女团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云源01女团
 http://mmitv.top/pltv/yy.php?id=1346398526
-#EXTINF:-1 ,一舞倾城卿以念
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",一舞倾城卿以念
 http://mmitv.top/pltv/yy.php?id=81646627
-#EXTINF:-1 ,热舞女神婉月
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热舞女神婉月
 http://mmitv.top/pltv/yy.php?id=1382750565
-#EXTINF:-1 ,芊芊会绝活~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芊芊会绝活~
 http://mmitv.top/pltv/yy.php?id=31258811
-#EXTINF:-1 ,清纯可爱卡小卡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯可爱卡小卡
 http://mmitv.top/pltv/yy.php?id=71688646
-#EXTINF:-1 ,超高颜值女团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超高颜值女团
 http://mmitv.top/pltv/yy.php?id=1355323746
-#EXTINF:-1 ,高颜值女神蔻蔻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高颜值女神蔻蔻
 http://mmitv.top/pltv/yy.php?id=1354335058
-#EXTINF:-1 ,火辣劲舞小仙贝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",火辣劲舞小仙贝
 http://mmitv.top/pltv/yy.php?id=21037333
-#EXTINF:-1 ,可爱迷人小依宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可爱迷人小依宝
 http://mmitv.top/pltv/yy.php?id=37276236
-#EXTINF:-1 ,热辣舞姬小梦梦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热辣舞姬小梦梦
 http://mmitv.top/pltv/yy.php?id=1349296313
-#EXTINF:-1 ,异域风情，摇摆至上
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",异域风情摇摆至上
 http://mmitv.top/pltv/yy.php?id=1461919286
-#EXTINF:-1 ,热辣女神小娅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热辣女神小娅
 http://mmitv.top/pltv/yy.php?id=1348859864
-#EXTINF:-1 ,湖南清纯舞魅娘
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南清纯舞魅娘
 http://mmitv.top/pltv/yy.php?id=14589074
-#EXTINF:-1 ,撩人小腰精曼迪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",撩人小腰精曼迪
 http://mmitv.top/pltv/yy.php?id=1354260427
-#EXTINF:-1 ,新主播第一天
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播第一天
 http://mmitv.top/pltv/yy.php?id=1355363977
-#EXTINF:-1 ,新主播第一天
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播第一天
 http://mmitv.top/pltv/yy.php?id=58184984
-#EXTINF:-1 ,合肥No·2清纯甜美女神
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",合肥No·2清纯甜美女神
 http://mmitv.top/pltv/yy.php?id=1353206490
-#EXTINF:-1 ,国威蓉儿正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",国威蓉儿正在直播
 http://mmitv.top/pltv/yy.php?id=1355329717
-#EXTINF:-1 ,世界一般，但我超nice
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",世界一般但我超nice
 http://mmitv.top/pltv/yy.php?id=1355277238
-#EXTINF:-1 ,靓妹妹组合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",靓妹妹组合
 http://mmitv.top/pltv/yy.php?id=1353810499
-#EXTINF:-1 ,有幸被照亮也想成为光
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有幸被照亮也想成为光
 http://mmitv.top/pltv/yy.php?id=1457007820
-#EXTINF:-1 ,辣舞大长腿求守护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",辣舞大长腿求守护
 http://mmitv.top/pltv/yy.php?id=11641570
-#EXTINF:-1 ,性感妩媚白玫瑰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感妩媚白玫瑰
 http://mmitv.top/pltv/yy.php?id=1346950960
-#EXTINF:-1 ,舞度°疯人院正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",舞度°疯人院正在直播
 http://mmitv.top/pltv/yy.php?id=1355385597
-#EXTINF:-1 ,甜美小精灵叶子
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美小精灵叶子
 http://mmitv.top/pltv/yy.php?id=22065835
-#EXTINF:-1 ,新人舞蹈主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新人舞蹈主播
 http://mmitv.top/pltv/yy.php?id=1382754019
-#EXTINF:-1 ,我妈说不要彩礼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",我妈说不要彩礼
 http://mmitv.top/pltv/yy.php?id=1353680816
-#EXTINF:-1 ,性感热舞女神大美
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感热舞女神大美
 http://mmitv.top/pltv/yy.php?id=1344748253
-#EXTINF:-1 ,迷人马甲线乱世佳人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",迷人马甲线乱世佳人
 http://mmitv.top/pltv/yy.php?id=1354268866
-#EXTINF:-1 ,夏沐正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",夏沐正在直播
 http://mmitv.top/pltv/yy.php?id=69029977
-#EXTINF:-1 ,贵州【胜仕贵阳】千寻(B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贵州【胜仕贵阳】千寻(B
 http://mmitv.top/pltv/yy.php?id=1455889975
-#EXTINF:-1 ,多变百搭
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",多变百搭
 http://mmitv.top/pltv/yy.php?id=1463698228
-#EXTINF:-1 ,清纯女神小米
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯女神小米
 http://mmitv.top/pltv/yy.php?id=33079001
-#EXTINF:-1 ,傻姑娘正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",傻姑娘正在直播
 http://mmitv.top/pltv/yy.php?id=1353268579
-#EXTINF:-1 ,古典小仙女姗姗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",古典小仙女姗姗
 http://mmitv.top/pltv/yy.php?id=21532277
-#EXTINF:-1 ,湖南猫猫快来尝试一下我
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南猫猫快来尝试一下我
 http://mmitv.top/pltv/yy.php?id=1355345206
-#EXTINF:-1 ,清纯玉女可爱团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯玉女可爱团
 http://mmitv.top/pltv/yy.php?id=1382648835
-#EXTINF:-1 ,撩人腰精若若
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",撩人腰精若若
 http://mmitv.top/pltv/yy.php?id=1353450347
-#EXTINF:-1 ,暴躁舞妹小毛晨
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",暴躁舞妹小毛晨
 http://mmitv.top/pltv/yy.php?id=1382695162
-#EXTINF:-1 ,嘿，别错过哦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",嘿别错过哦
 http://mmitv.top/pltv/yy.php?id=1641318
-#EXTINF:-1 ,大连最甜热舞笑笑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大连最甜热舞笑笑
 http://mmitv.top/pltv/yy.php?id=1355170989
-#EXTINF:-1 ,甜美女团幸运组
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美女团幸运组
 http://mmitv.top/pltv/yy.php?id=1351596482
-#EXTINF:-1 ,心动新团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",心动新团
 http://mmitv.top/pltv/yy.php?id=1355335829
-#EXTINF:-1 ,性感舞姬会沁
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感舞姬会沁
 http://mmitv.top/pltv/yy.php?id=1352926401
-#EXTINF:-1 ,长腿萌妹梦小梦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长腿萌妹梦小梦
 http://mmitv.top/pltv/yy.php?id=38460566
-#EXTINF:-1 ,姗姗来迟的你呀~~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",姗姗来迟的你呀~~
 http://mmitv.top/pltv/yy.php?id=10494783
-#EXTINF:-1 ,清冷女神安徽mi酱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清冷女神安徽mi酱
 http://mmitv.top/pltv/yy.php?id=15780308
-#EXTINF:-1 ,魅惑精灵彤宝儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅惑精灵彤宝儿
 http://mmitv.top/pltv/yy.php?id=67425180
-#EXTINF:-1 ,妖娆撩人小学妹
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",妖娆撩人小学妹
 http://mmitv.top/pltv/yy.php?id=26378048
-#EXTINF:-1 ,劲舞好声音九天星悦女团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",劲舞好声音九天星悦女团
 http://mmitv.top/pltv/yy.php?id=1382750816
-#EXTINF:-1 ,虎虎惹人疼~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",虎虎惹人疼~
 http://mmitv.top/pltv/yy.php?id=1460532215
-#EXTINF:-1 ,成熟魅女金幼儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",成熟魅女金幼儿
 http://mmitv.top/pltv/yy.php?id=60982983
-#EXTINF:-1 ,清纯女团求撩中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯女团求撩中
 http://mmitv.top/pltv/yy.php?id=1382628556
-#EXTINF:-1 ,【胜仕贵阳B】汐汐俏皮女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕贵阳B】汐汐俏皮女
 http://mmitv.top/pltv/yy.php?id=1456270606
-#EXTINF:-1 ,【胜仕龙程】雨涵正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕龙程】雨涵正在直播
 http://mmitv.top/pltv/yy.php?id=1458142970
-#EXTINF:-1 ,性感小伊娃
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感小伊娃
 http://mmitv.top/pltv/yy.php?id=1346992991
-#EXTINF:-1 ,温婉动人陈柒柒
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温婉动人陈柒柒
 http://mmitv.top/pltv/yy.php?id=98116203
-#EXTINF:-1 ,距离您0.1km进来看
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离您0.1km进来看
 http://mmitv.top/pltv/yy.php?id=1382750837
-#EXTINF:-1 ,可盐可甜小妤宸
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可盐可甜小妤宸
 http://mmitv.top/pltv/yy.php?id=32350292
-#EXTINF:-1 ,【湖南】舞蹈主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【湖南】舞蹈主播
 http://mmitv.top/pltv/yy.php?id=37331053
-#EXTINF:-1 ,性感妹妹在线哦~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感妹妹在线哦~
 http://mmitv.top/pltv/yy.php?id=1453917176
-#EXTINF:-1 ,呆萌美少年穆小宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呆萌美少年穆小宝
 http://mmitv.top/pltv/yy.php?id=24366921
-#EXTINF:-1 ,你们有三个共同好友
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你们有三个共同好友
 http://mmitv.top/pltv/yy.php?id=13088195
-#EXTINF:-1 ,你的长腿小可爱花花
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你的长腿小可爱花花
 http://mmitv.top/pltv/yy.php?id=92062485
-#EXTINF:-1 ,耐看型~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",耐看型~
 http://mmitv.top/pltv/yy.php?id=1355161013
-#EXTINF:-1 ,极致诱惑廖美童
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",极致诱惑廖美童
 http://mmitv.top/pltv/yy.php?id=1354561028
-#EXTINF:-1 ,山西古风萌小妹
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山西古风萌小妹
 http://mmitv.top/pltv/yy.php?id=20675231
-#EXTINF:-1 ,性感小甜甜柚子茶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感小甜甜柚子茶
 http://mmitv.top/pltv/yy.php?id=1354790968
-#EXTINF:-1 ,猫系女友待领取+莫莫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",猫系女友待领取+莫莫
 http://mmitv.top/pltv/yy.php?id=1382689437
-#EXTINF:-1 ,风情万种钢管女神亭子
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风情万种钢管女神亭子
 http://mmitv.top/pltv/yy.php?id=28364990
-#EXTINF:-1 ,一可正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",一可正在直播
 http://mmitv.top/pltv/yy.php?id=1382745339
-#EXTINF:-1 ,音豪一一正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音豪一一正在直播
 http://mmitv.top/pltv/yy.php?id=1462471205
-#EXTINF:-1 ,唱跳俱佳大理徐媛媛
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",唱跳俱佳大理徐媛媛
 http://mmitv.top/pltv/yy.php?id=22771183
-#EXTINF:-1 ,性感美腿淘淘求撩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感美腿淘淘求撩
 http://mmitv.top/pltv/yy.php?id=63241656
-#EXTINF:-1 ,小王心凌幼桃
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小王心凌幼桃
 http://mmitv.top/pltv/yy.php?id=26209613
-#EXTINF:-1 ,俏皮性感小涩豚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",俏皮性感小涩豚
 http://mmitv.top/pltv/yy.php?id=23475111
-#EXTINF:-1 ,模特心心附近50米
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",模特心心附近50米
 http://mmitv.top/pltv/yy.php?id=1355374697
-#EXTINF:-1 ,温柔女神沐阳
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温柔女神沐阳
 http://mmitv.top/pltv/yy.php?id=1353205700
-#EXTINF:-1 ,双胞胎长腿女友热舞中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",双胞胎长腿女友热舞中
 http://mmitv.top/pltv/yy.php?id=29488032
-#EXTINF:-1 ,【辉娱】青春活力少女团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【辉娱】青春活力少女团
 http://mmitv.top/pltv/yy.php?id=1355184942
-#EXTINF:-1 ,新主播求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求关注
 http://mmitv.top/pltv/yy.php?id=1355121373
-#EXTINF:-1 ,火爆身材附近0.8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",火爆身材附近0.8
 http://mmitv.top/pltv/yy.php?id=58752908
-#EXTINF:-1 ,人气练习生阿昊同学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",人气练习生阿昊同学
 http://mmitv.top/pltv/yy.php?id=1355054312
-#EXTINF:-1 ,可甜可盐super安~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可甜可盐super安~
 http://mmitv.top/pltv/yy.php?id=67427576
-#EXTINF:-1 ,四川妹子组合开播了
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",四川妹子组合开播了
 http://mmitv.top/pltv/yy.php?id=1456603903
-#EXTINF:-1 ,性感舞蹈小羊羊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感舞蹈小羊羊
 http://mmitv.top/pltv/yy.php?id=1347946089
-#EXTINF:-1 ,热舞不断吊环可可
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热舞不断吊环可可
 http://mmitv.top/pltv/yy.php?id=49763468
-#EXTINF:-1 ,一个有趣的小妖精
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",一个有趣的小妖精
 http://mmitv.top/pltv/yy.php?id=1355101572
-#EXTINF:-1 ,玩累了吧？进来歇一歇。
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",玩累了吧?进来歇一歇。
 http://mmitv.top/pltv/yy.php?id=1456464631
-#EXTINF:-1 ,魅惑热舞温暖暖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅惑热舞温暖暖
 http://mmitv.top/pltv/yy.php?id=1355177505
-#EXTINF:-1 ,江苏舞蹈主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏舞蹈主播
 http://mmitv.top/pltv/yy.php?id=33882124
-#EXTINF:-1 ,奇领小虎牙正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",奇领小虎牙正在直播
 http://mmitv.top/pltv/yy.php?id=13796649
-#EXTINF:-1 ,广西蹦迪纯欲小小
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西蹦迪纯欲小小
 http://mmitv.top/pltv/yy.php?id=1382753118
-#EXTINF:-1 ,河北星辰揽月女团清纯学妹
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北星辰揽月女团清纯学妹
 http://mmitv.top/pltv/yy.php?id=1382750815
-#EXTINF:-1 ,美女d-girls组合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美女d-girls组合
 http://mmitv.top/pltv/yy.php?id=47014997
-#EXTINF:-1 ,小奶思的直播间招主持~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小奶思的直播间招主持~
 http://mmitv.top/pltv/yy.php?id=1355305218
-#EXTINF:-1 ,先骗进来再说
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",先骗进来再说
 http://mmitv.top/pltv/yy.php?id=1341595638
-#EXTINF:-1 ,性感尤物甜娜baby
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感尤物甜娜baby
 http://mmitv.top/pltv/yy.php?id=27874820
-#EXTINF:-1 ,新人古典舞主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新人古典舞主播
 http://mmitv.top/pltv/yy.php?id=1382752534
-#EXTINF:-1 ,【胜仕贵阳】招财正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕贵阳】招财正在直播
 http://mmitv.top/pltv/yy.php?id=1463110483
-#EXTINF:-1 ,活泼可爱琳易求守护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",活泼可爱琳易求守护
 http://mmitv.top/pltv/yy.php?id=1346917819
-#EXTINF:-1 ,［乐舞传媒］然然正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",[乐舞传媒]然然正在直播
 http://mmitv.top/pltv/yy.php?id=1354760144
-#EXTINF:-1 ,【SK】魔仙堡小仙女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【SK】魔仙堡小仙女
 http://mmitv.top/pltv/yy.php?id=1382752290
-#EXTINF:-1 ,进来的都是BT~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",进来的都是BT~
 http://mmitv.top/pltv/yy.php?id=1459077784
-#EXTINF:-1 ,清纯热舞婉
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯热舞婉
 http://mmitv.top/pltv/yy.php?id=1354922165
-#EXTINF:-1 ,宝藏女神福晋在你心里
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝藏女神福晋在你心里
 http://mmitv.top/pltv/yy.php?id=1355094481
-#EXTINF:-1 ,清纯小可爱九尾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯小可爱九尾
 http://mmitv.top/pltv/yy.php?id=10687948
-#EXTINF:-1 ,河南Rs-江山多娇新女团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南Rs-江山多娇新女团
 http://mmitv.top/pltv/yy.php?id=1462199898
-#EXTINF:-1 ,东北小师妹
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东北小师妹
 http://mmitv.top/pltv/yy.php?id=67426609
-#EXTINF:-1 ,新主播极品长腿优优
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播极品长腿优优
 http://mmitv.top/pltv/yy.php?id=1382689011
-#EXTINF:-1 ,今天是个小仙女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",今天是个小仙女
 http://mmitv.top/pltv/yy.php?id=1459288300
-#EXTINF:-1 ,S级好身材辣妹子
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",S级好身材辣妹子
 http://mmitv.top/pltv/yy.php?id=67423166
-#EXTINF:-1 ,安徽【胜仕魔鱼】拉稀涵人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽【胜仕魔鱼】拉稀涵人
 http://mmitv.top/pltv/yy.php?id=1355299936
-#EXTINF:-1 ,呆萌可爱宝宝柒
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",呆萌可爱宝宝柒
 http://mmitv.top/pltv/yy.php?id=25295733
-#EXTINF:-1 ,超模洋芋在线舞蹈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超模洋芋在线舞蹈
 http://mmitv.top/pltv/yy.php?id=1462354217
-#EXTINF:-1 ,性感腰精笑笑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感腰精笑笑
 http://mmitv.top/pltv/yy.php?id=1350781922
-#EXTINF:-1 ,YY小妖精欲七
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",YY小妖精欲七
 http://mmitv.top/pltv/yy.php?id=1353935958
-#EXTINF:-1 ,新主播转角遇见巧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播转角遇见巧
 http://mmitv.top/pltv/yy.php?id=1461311799
-#EXTINF:-1 ,你下班一定遇到过她
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你下班一定遇到过她
 http://mmitv.top/pltv/yy.php?id=1355360275
-#EXTINF:-1 ,性感小天后
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感小天后
 http://mmitv.top/pltv/yy.php?id=1382751489
-#EXTINF:-1 ,11真的是新主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",11真的是新主播
 http://mmitv.top/pltv/yy.php?id=1453505707
-#EXTINF:-1 ,清纯甜美少女团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯甜美少女团
 http://mmitv.top/pltv/yy.php?id=1382627031
-#EXTINF:-1 ,安徽菇凉在上海
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽菇凉在上海
 http://mmitv.top/pltv/yy.php?id=52912598
-#EXTINF:-1 ,前方发现神兽
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",前方发现神兽
 http://mmitv.top/pltv/yy.php?id=1382754046
-#EXTINF:-1 ,韩系高颜值主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",韩系高颜值主播
 http://mmitv.top/pltv/yy.php?id=33140025
-#EXTINF:-1 ,你好呀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你好呀
 http://mmitv.top/pltv/yy.php?id=35979181
-#EXTINF:-1 ,御景恬心儿正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",御景恬心儿正在直播
 http://mmitv.top/pltv/yy.php?id=80722655
-#EXTINF:-1 ,迷人美腿炎求撩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",迷人美腿炎求撩
 http://mmitv.top/pltv/yy.php?id=1353391198
-#EXTINF:-1 ,安徽【胜仕伊＋】初一（B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽【胜仕伊+】初一(B
 http://mmitv.top/pltv/yy.php?id=1462830290
-#EXTINF:-1 ,性感热舞长腿叶叶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感热舞长腿叶叶
 http://mmitv.top/pltv/yy.php?id=1382747686
-#EXTINF:-1 ,性感魅力女神涵涵
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感魅力女神涵涵
 http://mmitv.top/pltv/yy.php?id=1353957369
-#EXTINF:-1 ,江苏丝丝很高兴认识你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏丝丝很高兴认识你
 http://mmitv.top/pltv/yy.php?id=1457613136
-#EXTINF:-1 ,重庆新主播多多关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆新主播多多关注
 http://mmitv.top/pltv/yy.php?id=1382754701
-#EXTINF:-1 ,灵动魅力小妖精
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",灵动魅力小妖精
 http://mmitv.top/pltv/yy.php?id=37739951
-#EXTINF:-1 ,精致歌手小茶茶sweet_G
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精致歌手小茶茶sweet_G
 http://mmitv.top/pltv/yy.php?id=1014628
-#EXTINF:-1 ,不坑不圈不骗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",不坑不圈不骗
 http://mmitv.top/pltv/yy.php?id=1355172050
-#EXTINF:-1 ,河南【胜仕郑州】柠檬(B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南【胜仕郑州】柠檬(B
 http://mmitv.top/pltv/yy.php?id=1382742617
-#EXTINF:-1 ,精灵古怪安安
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精灵古怪安安
 http://mmitv.top/pltv/yy.php?id=1462146611
-#EXTINF:-1 ,河南新主播求陪伴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南新主播求陪伴
 http://mmitv.top/pltv/yy.php?id=32338155
-#EXTINF:-1 ,胜仕【伊＋】小买买
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",胜仕【伊+】小买买
 http://mmitv.top/pltv/yy.php?id=1461949067
-#EXTINF:-1 ,性感女神0.6km
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感女神0.6km
 http://mmitv.top/pltv/yy.php?id=1354530746
-#EXTINF:-1 ,广州温柔小可爱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州温柔小可爱
 http://mmitv.top/pltv/yy.php?id=1355350913
-#EXTINF:-1 ,小腰精美娇儿等你来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小腰精美娇儿等你来
 http://mmitv.top/pltv/yy.php?id=73004387
-#EXTINF:-1 ,广东【蓝娱】依然玫瑰快进
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东【蓝娱】依然玫瑰快进
 http://mmitv.top/pltv/yy.php?id=1355378010
-#EXTINF:-1 ,纯情玉女林诗乔
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯情玉女林诗乔
 http://mmitv.top/pltv/yy.php?id=38278243
-#EXTINF:-1 ,凉宝美美哒正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凉宝美美哒正在直播
 http://mmitv.top/pltv/yy.php?id=1354944295
-#EXTINF:-1 ,性感比比安慕希
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感比比安慕希
 http://mmitv.top/pltv/yy.php?id=1382656474
-#EXTINF:-1 ,撩人小妖精千亦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",撩人小妖精千亦
 http://mmitv.top/pltv/yy.php?id=39668494
-#EXTINF:-1 ,性感热舞晨飘飘
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感热舞晨飘飘
 http://mmitv.top/pltv/yy.php?id=23190819
-#EXTINF:-1 ,等待有缘人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",等待有缘人
 http://mmitv.top/pltv/yy.php?id=1353293741
-#EXTINF:-1 ,新主播，求照顾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求照顾
 http://mmitv.top/pltv/yy.php?id=76360397
-#EXTINF:-1 ,伊人正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",伊人正在直播
 http://mmitv.top/pltv/yy.php?id=1354987203
-#EXTINF:-1 ,甜歌天后小姐姐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜歌天后小姐姐
 http://mmitv.top/pltv/yy.php?id=1354354770
-#EXTINF:-1 ,合肥虎娱新主播虎菲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",合肥虎娱新主播虎菲
 http://mmitv.top/pltv/yy.php?id=1353911096
-#EXTINF:-1 ,江苏郑阔爱i收留心碎男人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏郑阔爱i收留心碎男人
 http://mmitv.top/pltv/yy.php?id=1355293632
-#EXTINF:-1 ,长腿热舞李芯雨
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长腿热舞李芯雨
 http://mmitv.top/pltv/yy.php?id=22216229
-#EXTINF:-1 ,你的百变女友已上线
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你的百变女友已上线
 http://mmitv.top/pltv/yy.php?id=1507967677
-#EXTINF:-1 ,广东奇遇柳柳臭弟弟主动点
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东奇遇柳柳臭弟弟主动点
 http://mmitv.top/pltv/yy.php?id=1382751247
-#EXTINF:-1 ,安静唱歌西西吖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安静唱歌西西吖
 http://mmitv.top/pltv/yy.php?id=70386899
-#EXTINF:-1 ,性感迷人可爱娜娜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感迷人可爱娜娜
 http://mmitv.top/pltv/yy.php?id=33398467
-#EXTINF:-1 ,清纯萌妹兔兔
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯萌妹兔兔
 http://mmitv.top/pltv/yy.php?id=1353124075
-#EXTINF:-1 ,广东甜美少女伊甜baby
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东甜美少女伊甜baby
 http://mmitv.top/pltv/yy.php?id=1354888552
-#EXTINF:-1 ,暖心好嗓音Coco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",暖心好嗓音Coco
 http://mmitv.top/pltv/yy.php?id=1354519662
-#EXTINF:-1 ,安徽【胜仕总部】初伊(B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽【胜仕总部】初伊(B
 http://mmitv.top/pltv/yy.php?id=1382750653
-#EXTINF:-1 ,性感火辣小小白
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感火辣小小白
 http://mmitv.top/pltv/yy.php?id=56068834
-#EXTINF:-1 ,福建33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建33
 http://mmitv.top/pltv/yy.php?id=34391616
-#EXTINF:-1 ,愿世界美好与你环环相扣
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",愿世界美好与你环环相扣
 http://mmitv.top/pltv/yy.php?id=12039065
-#EXTINF:-1 ,642391静静正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",642391静静正在直播
 http://mmitv.top/pltv/yy.php?id=1461180086
-#EXTINF:-1 ,等风等雨不如等你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",等风等雨不如等你
 http://mmitv.top/pltv/yy.php?id=12076856
-#EXTINF:-1 ,魅惑仙女妖妖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅惑仙女妖妖
 http://mmitv.top/pltv/yy.php?id=1353798017
-#EXTINF:-1 ,女痞流氓汤小圆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",女痞流氓汤小圆
 http://mmitv.top/pltv/yy.php?id=38745893
-#EXTINF:-1 ,释怀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",释怀
 http://mmitv.top/pltv/yy.php?id=1463236835
-#EXTINF:-1 ,性感小腰精亿贝贝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感小腰精亿贝贝
 http://mmitv.top/pltv/yy.php?id=1457511727
-#EXTINF:-1 ,【胜仕嘉皇】喵喵~新主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕嘉皇】喵喵~新主播
 http://mmitv.top/pltv/yy.php?id=1463215734
-#EXTINF:-1 ,正在热舞主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",正在热舞主播
 http://mmitv.top/pltv/yy.php?id=1423287483
-#EXTINF:-1 ,性感劲舞小张张
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感劲舞小张张
 http://mmitv.top/pltv/yy.php?id=26583010
-#EXTINF:-1 ,娇俏可人小静香
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",娇俏可人小静香
 http://mmitv.top/pltv/yy.php?id=21516476
-#EXTINF:-1 ,气质女神小阿果
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",气质女神小阿果
 http://mmitv.top/pltv/yy.php?id=1351752939
-#EXTINF:-1 ,越努力越幸运加油宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",越努力越幸运加油宝
 http://mmitv.top/pltv/yy.php?id=1344666281
-#EXTINF:-1 ,热情气质女神小优礼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热情气质女神小优礼
 http://mmitv.top/pltv/yy.php?id=53481938
-#EXTINF:-1 ,认识你很高兴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",认识你很高兴
 http://mmitv.top/pltv/yy.php?id=1353161253
-#EXTINF:-1 ,天青色等烟雨，而我在等你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天青色等烟雨而我在等你
 http://mmitv.top/pltv/yy.php?id=1352909006
-#EXTINF:-1 ,腿长一米八
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",腿长一米八
 http://mmitv.top/pltv/yy.php?id=35926658
-#EXTINF:-1 ,人间小野猫又怂又狠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",人间小野猫又怂又狠
 http://mmitv.top/pltv/yy.php?id=21156032
-#EXTINF:-1 ,性感热舞冯梦梦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感热舞冯梦梦
 http://mmitv.top/pltv/yy.php?id=1382750434
-#EXTINF:-1 ,甜美小舞娘~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美小舞娘~
 http://mmitv.top/pltv/yy.php?id=1456801515
-#EXTINF:-1 ,新主播求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求关注
 http://mmitv.top/pltv/yy.php?id=68196896
-#EXTINF:-1 ,新主播，求霸道总裁
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求霸道总裁
 http://mmitv.top/pltv/yy.php?id=1382752188
-#EXTINF:-1 ,守护只为遇见你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",守护只为遇见你
 http://mmitv.top/pltv/yy.php?id=1355352911
-#EXTINF:-1 ,青春甜美酱宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",青春甜美酱宝
 http://mmitv.top/pltv/yy.php?id=21061129
-#EXTINF:-1 ,内蒙古自治区华矩-小羊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",内蒙古自治区华矩-小羊
 http://mmitv.top/pltv/yy.php?id=1355340491
-#EXTINF:-1 ,沈阳妹子4个卷轴跳舞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",沈阳妹子4个卷轴跳舞
 http://mmitv.top/pltv/yy.php?id=22203171
-#EXTINF:-1 ,超温柔超心动的小雨晗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超温柔超心动的小雨晗
 http://mmitv.top/pltv/yy.php?id=1353129198
-#EXTINF:-1 ,静ル正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",静ル正在直播
 http://mmitv.top/pltv/yy.php?id=88214692
-#EXTINF:-1 ,新主播，求照顾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求照顾
 http://mmitv.top/pltv/yy.php?id=1382752187
-#EXTINF:-1 ,新主播求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求关注
 http://mmitv.top/pltv/yy.php?id=1382751565
-#EXTINF:-1 ,XI新主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",XI新主播
 http://mmitv.top/pltv/yy.php?id=1352837836
-#EXTINF:-1 ,嗷呜嗷呜~韩小狸闪闪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",嗷呜嗷呜~韩小狸闪闪
 http://mmitv.top/pltv/yy.php?id=1354764491
-#EXTINF:-1 ,想你陪伴，要你守护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",想你陪伴要你守护
 http://mmitv.top/pltv/yy.php?id=1354670196
-#EXTINF:-1 ,性感热舞女神范范
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感热舞女神范范
 http://mmitv.top/pltv/yy.php?id=1382673011
-#EXTINF:-1 ,性感热舞小水水
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感热舞小水水
 http://mmitv.top/pltv/yy.php?id=1382734530
-#EXTINF:-1 ,霖哥是女的?正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",霖哥是女的?正在直播
 http://mmitv.top/pltv/yy.php?id=1528936
-#EXTINF:-1 ,新人求关注，求守护！
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新人求关注求守护!
 http://mmitv.top/pltv/yy.php?id=1458977780
-#EXTINF:-1 ,一起王者荣耀吗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",一起王者荣耀吗
 http://mmitv.top/pltv/yy.php?id=1354993333
-#EXTINF:-1 ,东营这个熊捻子木有爱情
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东营这个熊捻子木有爱情
 http://mmitv.top/pltv/yy.php?id=23454506
-#EXTINF:-1 ,元气软萌温情少女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",元气软萌温情少女
 http://mmitv.top/pltv/yy.php?id=1351543699
-#EXTINF:-1 ,性感撩人热舞婉
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感撩人热舞婉
 http://mmitv.top/pltv/yy.php?id=1355069583
-#EXTINF:-1 ,来钱来钱！！！
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钱来钱!!!
 http://mmitv.top/pltv/yy.php?id=1353809111
-#EXTINF:-1 ,蓝蓝正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",蓝蓝正在直播
 http://mmitv.top/pltv/yy.php?id=1355118136
-#EXTINF:-1 ,距离你700m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离你700m
 http://mmitv.top/pltv/yy.php?id=1354795011
-#EXTINF:-1 ,河南歌者36d张琳娅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南歌者36d张琳娅
 http://mmitv.top/pltv/yy.php?id=21065271
-#EXTINF:-1 ,甜美笑容紫喵
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美笑容紫喵
 http://mmitv.top/pltv/yy.php?id=43969923
-#EXTINF:-1 ,好运来大哥来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好运来大哥来
 http://mmitv.top/pltv/yy.php?id=1458102916
-#EXTINF:-1 ,御姐大长腿小红
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",御姐大长腿小红
 http://mmitv.top/pltv/yy.php?id=82751188
-#EXTINF:-1 ,性感马甲线希崽儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感马甲线希崽儿
 http://mmitv.top/pltv/yy.php?id=1351849309
-#EXTINF:-1 ,虎娱小沫宝正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",虎娱小沫宝正在直播
 http://mmitv.top/pltv/yy.php?id=1353724468
-#EXTINF:-1 ,哥哥们江晚饿死了
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",哥哥们江晚饿死了
 http://mmitv.top/pltv/yy.php?id=1355358224
-#EXTINF:-1 ,今天我请客，请你快乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",今天我请客请你快乐
 http://mmitv.top/pltv/yy.php?id=1455774168
-#EXTINF:-1 ,超甜的小宝贝在等你哦~~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超甜的小宝贝在等你哦~~
 http://mmitv.top/pltv/yy.php?id=1463050486
-#EXTINF:-1 ,第一天直播多多关照
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",第一天直播多多关照
 http://mmitv.top/pltv/yy.php?id=22277925
-#EXTINF:-1 ,四川村花正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",四川村花正在直播
 http://mmitv.top/pltv/yy.php?id=43180916
-#EXTINF:-1 ,性感小妖精丑果
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感小妖精丑果
 http://mmitv.top/pltv/yy.php?id=27993851
-#EXTINF:-1 ,江苏赵丽颖小露露
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏赵丽颖小露露
 http://mmitv.top/pltv/yy.php?id=78798168
-#EXTINF:-1 ,山东嘉柔做你的小野猫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东嘉柔做你的小野猫
 http://mmitv.top/pltv/yy.php?id=1355373060
-#EXTINF:-1 ,武汉小清爱笑爱闹交朋友
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武汉小清爱笑爱闹交朋友
 http://mmitv.top/pltv/yy.php?id=27704347
-#EXTINF:-1 ,YY颜值担当琪琪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",YY颜值担当琪琪
 http://mmitv.top/pltv/yy.php?id=1350676455
-#EXTINF:-1 ,可盐可甜的小璇璇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可盐可甜的小璇璇
 http://mmitv.top/pltv/yy.php?id=36298116
-#EXTINF:-1 ,新主播求照顾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求照顾
 http://mmitv.top/pltv/yy.php?id=1354363635
-#EXTINF:-1 ,温馨美人在线等你来撩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温馨美人在线等你来撩
 http://mmitv.top/pltv/yy.php?id=1355329237
-#EXTINF:-1 ,舞翩翩希望哥哥们开心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",舞翩翩希望哥哥们开心
 http://mmitv.top/pltv/yy.php?id=1355368339
-#EXTINF:-1 ,长腿异域风央央
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长腿异域风央央
 http://mmitv.top/pltv/yy.php?id=1353852378
-#EXTINF:-1 ,大连女孩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大连女孩
 http://mmitv.top/pltv/yy.php?id=1462360823
-#EXTINF:-1 ,丹宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",丹宝
 http://mmitv.top/pltv/yy.php?id=18341497
-#EXTINF:-1 ,白嫩水灵的哆哆热舞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",白嫩水灵的哆哆热舞
 http://mmitv.top/pltv/yy.php?id=1450361021
-#EXTINF:-1 ,四川樱桃等你好久了哦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",四川樱桃等你好久了哦
 http://mmitv.top/pltv/yy.php?id=80382993
-#EXTINF:-1 ,新主播求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求关注
 http://mmitv.top/pltv/yy.php?id=1355257230
-#EXTINF:-1 ,距离你500米
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离你500米
 http://mmitv.top/pltv/yy.php?id=1382754554
-#EXTINF:-1 ,【胜仕贵阳】招财正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕贵阳】招财正在直播
 http://mmitv.top/pltv/yy.php?id=1460495274
-#EXTINF:-1 ,新人求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新人求关注
 http://mmitv.top/pltv/yy.php?id=1355251760
-#EXTINF:-1 ,性感小腰精星瑶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感小腰精星瑶
 http://mmitv.top/pltv/yy.php?id=25845647
-#EXTINF:-1 ,你喜欢的大长腿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你喜欢的大长腿
 http://mmitv.top/pltv/yy.php?id=21109746
-#EXTINF:-1 ,RF小火柴正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RF小火柴正在直播
 http://mmitv.top/pltv/yy.php?id=1352984731
-#EXTINF:-1 ,甜蜜嗓音以琳
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜蜜嗓音以琳
 http://mmitv.top/pltv/yy.php?id=1354776341
-#EXTINF:-1 ,奇遇诗雨有诗又有你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",奇遇诗雨有诗又有你
 http://mmitv.top/pltv/yy.php?id=1354812881
-#EXTINF:-1 ,新主播求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求关注
 http://mmitv.top/pltv/yy.php?id=1462903397
-#EXTINF:-1 ,大连悠悠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大连悠悠
 http://mmitv.top/pltv/yy.php?id=1354584974
-#EXTINF:-1 ,谁家的小可爱吖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",谁家的小可爱吖
 http://mmitv.top/pltv/yy.php?id=1342861123
-#EXTINF:-1 ,你的惊喜待领取
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你的惊喜待领取
 http://mmitv.top/pltv/yy.php?id=1354653390
-#EXTINF:-1 ,唱跳唠D魅儿距0.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",唱跳唠D魅儿距0.1
 http://mmitv.top/pltv/yy.php?id=1354870159
-#EXTINF:-1 ,江苏性感尤物美女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏性感尤物美女
 http://mmitv.top/pltv/yy.php?id=24159399
-#EXTINF:-1 ,性感大长腿阿狸
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感大长腿阿狸
 http://mmitv.top/pltv/yy.php?id=31684162
-#EXTINF:-1 ,等一个惊喜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",等一个惊喜
 http://mmitv.top/pltv/yy.php?id=22998935
-#EXTINF:-1 ,治愈系女神静静
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",治愈系女神静静
 http://mmitv.top/pltv/yy.php?id=1354053579
-#EXTINF:-1 ,优雅气质女孩求守护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",优雅气质女孩求守护
 http://mmitv.top/pltv/yy.php?id=61898708
-#EXTINF:-1 ,徽娱木木桃正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徽娱木木桃正在直播
 http://mmitv.top/pltv/yy.php?id=31531919
-#EXTINF:-1 ,可是他给的太多了我也不想
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可是他给的太多了我也不想
 http://mmitv.top/pltv/yy.php?id=1355279162
-#EXTINF:-1 ,魅力热舞在等你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力热舞在等你
 http://mmitv.top/pltv/yy.php?id=1354887790
-#EXTINF:-1 ,我知道你会来，所以等你！
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",我知道你会来所以等你!
 http://mmitv.top/pltv/yy.php?id=1351278382
-#EXTINF:-1 ,情感咨询师雪儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",情感咨询师雪儿
 http://mmitv.top/pltv/yy.php?id=1339417867
-#EXTINF:-1 ,想被保护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",想被保护
 http://mmitv.top/pltv/yy.php?id=1353294327
-#EXTINF:-1 ,气质女神白闪闪.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",气质女神白闪闪.
 http://mmitv.top/pltv/yy.php?id=1353429949
-#EXTINF:-1 ,初夏承蒙厚爱正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",初夏承蒙厚爱正在直播
 http://mmitv.top/pltv/yy.php?id=23139888
-#EXTINF:-1 ,活力动感颜颜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",活力动感颜颜
 http://mmitv.top/pltv/yy.php?id=1382683193
-#EXTINF:-1 ,气质歌手尚佳香香
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",气质歌手尚佳香香
 http://mmitv.top/pltv/yy.php?id=1382700619
-#EXTINF:-1 ,【胜仕总部】恩鱼正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕总部】恩鱼正在直播
 http://mmitv.top/pltv/yy.php?id=16434663
-#EXTINF:-1 ,清纯可爱美双
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯可爱美双
 http://mmitv.top/pltv/yy.php?id=1382754553
-#EXTINF:-1 ,甜美气质女神思思
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美气质女神思思
 http://mmitv.top/pltv/yy.php?id=24690006
-#EXTINF:-1 ,性感黑丝小姐姐等你呦！
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感黑丝小姐姐等你呦!
 http://mmitv.top/pltv/yy.php?id=1460578088
-#EXTINF:-1 ,若小夕正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",若小夕正在直播
 http://mmitv.top/pltv/yy.php?id=33828884
-#EXTINF:-1 ,美萌小仙女小颖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美萌小仙女小颖
 http://mmitv.top/pltv/yy.php?id=66832271
-#EXTINF:-1 ,四川吉娜今天跳什么
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",四川吉娜今天跳什么
 http://mmitv.top/pltv/yy.php?id=1394112360
-#EXTINF:-1 ,借个肩膀靠靠可以吗……
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",借个肩膀靠靠可以吗......
 http://mmitv.top/pltv/yy.php?id=1342247966
-#EXTINF:-1 ,法儿正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法儿正在直播
 http://mmitv.top/pltv/yy.php?id=1353841688
-#EXTINF:-1 ,在我这休息一下叭~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",在我这休息一下叭~
 http://mmitv.top/pltv/yy.php?id=1454202229
-#EXTINF:-1 ,撩人御姐思馨
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",撩人御姐思馨
 http://mmitv.top/pltv/yy.php?id=96145177
-#EXTINF:-1 ,甜系女友雪芽儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜系女友雪芽儿
 http://mmitv.top/pltv/yy.php?id=1382753325
-#EXTINF:-1 ,距离你0.1km
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离你0.1km
 http://mmitv.top/pltv/yy.php?id=33631750
-#EXTINF:-1 ,背着老头偷偷直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",背着老头偷偷直播
 http://mmitv.top/pltv/yy.php?id=1393902893
-#EXTINF:-1 ,魅力御姐娇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力御姐娇
 http://mmitv.top/pltv/yy.php?id=1353242300
-#EXTINF:-1 ,我要你的拥抱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",我要你的拥抱
 http://mmitv.top/pltv/yy.php?id=29787730
-#EXTINF:-1 ,性感御姐红
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感御姐红
 http://mmitv.top/pltv/yy.php?id=1337073157
-#EXTINF:-1 ,元气少女紫晴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",元气少女紫晴
 http://mmitv.top/pltv/yy.php?id=84937688
-#EXTINF:-1 ,东北御姐娜娜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东北御姐娜娜
 http://mmitv.top/pltv/yy.php?id=36088627
-#EXTINF:-1 ,江西温婉小倾橙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西温婉小倾橙
 http://mmitv.top/pltv/yy.php?id=1353777051
-#EXTINF:-1 ,丝丝儿新主播请多关照
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",丝丝儿新主播请多关照
 http://mmitv.top/pltv/yy.php?id=1355357128
-#EXTINF:-1 ,YY王祖贤清纯甜宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",YY王祖贤清纯甜宝
 http://mmitv.top/pltv/yy.php?id=1450285522
-#EXTINF:-1 ,直播第一天
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播第一天
 http://mmitv.top/pltv/yy.php?id=1355383866
-#EXTINF:-1 ,晓依正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",晓依正在直播
 http://mmitv.top/pltv/yy.php?id=1339230662
-#EXTINF:-1 ,大长腿空姐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大长腿空姐
 http://mmitv.top/pltv/yy.php?id=1355362453
-#EXTINF:-1 ,缺爱又缺钙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",缺爱又缺钙
 http://mmitv.top/pltv/yy.php?id=21536075
-#EXTINF:-1 ,等个懂我的人过余生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",等个懂我的人过馀生
 http://mmitv.top/pltv/yy.php?id=1355376793
-#EXTINF:-1 ,旭+清风_...正在直
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",旭+清风_...正在直
 http://mmitv.top/pltv/yy.php?id=1348873088
-#EXTINF:-1 ,求家长守护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",求家长守护
 http://mmitv.top/pltv/yy.php?id=1353045344
-#EXTINF:-1 ,沈阳小祖贤
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",沈阳小祖贤
 http://mmitv.top/pltv/yy.php?id=1347289449
-#EXTINF:-1 ,佳月小宝贝在等你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佳月小宝贝在等你
 http://mmitv.top/pltv/yy.php?id=1355099578
-#EXTINF:-1 ,女王大长腿芒果泡泡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",女王大长腿芒果泡泡
 http://mmitv.top/pltv/yy.php?id=1354590323
-#EXTINF:-1 ,进来坐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",进来坐
 http://mmitv.top/pltv/yy.php?id=1462371231
-#EXTINF:-1 ,小哥哥求带走
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小哥哥求带走
 http://mmitv.top/pltv/yy.php?id=1355384000
-#EXTINF:-1 ,纯欲长腿小蝈蝈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯欲长腿小蝈蝈
 http://mmitv.top/pltv/yy.php?id=1455640700
-#EXTINF:-1 ,甜美可爱妞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美可爱妞
 http://mmitv.top/pltv/yy.php?id=13236890
-#EXTINF:-1 ,没人要的大宝贝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",没人要的大宝贝
 http://mmitv.top/pltv/yy.php?id=1353769753
-#EXTINF:-1 ,第一天求家长
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",第一天求家长
 http://mmitv.top/pltv/yy.php?id=1346308500
-#EXTINF:-1 ,尐丽正在直播瑜伽老师
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",尐丽正在直播瑜伽老师
 http://mmitv.top/pltv/yy.php?id=1355388634
-#EXTINF:-1 ,娇柔迷人云云
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",娇柔迷人云云
 http://mmitv.top/pltv/yy.php?id=1353325588
-#EXTINF:-1 ,特长是腿特长
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",特长是腿特长
 http://mmitv.top/pltv/yy.php?id=1346964240
-#EXTINF:-1 ,气质女神倩倩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",气质女神倩倩
 http://mmitv.top/pltv/yy.php?id=1570886
-#EXTINF:-1 ,震羽兮颜正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",震羽兮颜正在直播
 http://mmitv.top/pltv/yy.php?id=1355229009
-#EXTINF:-1 ,胖嘟嘟热舞中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",胖嘟嘟热舞中
 http://mmitv.top/pltv/yy.php?id=1353038244
-#EXTINF:-1 ,柔媚小蛮腰嘟嘟求撩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",柔媚小蛮腰嘟嘟求撩
 http://mmitv.top/pltv/yy.php?id=1346952447
-#EXTINF:-1 ,人美歌甜大涵涵
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",人美歌甜大涵涵
 http://mmitv.top/pltv/yy.php?id=1350165974
-#EXTINF:-1 ,食物链的顶端是？
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",食物链的顶端是?
 http://mmitv.top/pltv/yy.php?id=1355356027
-#EXTINF:-1 ,河北婉儿开播啦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北婉儿开播啦
 http://mmitv.top/pltv/yy.php?id=1460661632
-#EXTINF:-1 ,新人主播求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新人主播求关注
 http://mmitv.top/pltv/yy.php?id=1382754811
-#EXTINF:-1 ,珊珊姗姗来迟
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珊珊姗姗来迟
 http://mmitv.top/pltv/yy.php?id=1354507333
-#EXTINF:-1 ,可可爱爱小白白
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可可爱爱小白白
 http://mmitv.top/pltv/yy.php?id=1353099708
-#EXTINF:-1 ,气质御姐海草
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",气质御姐海草
 http://mmitv.top/pltv/yy.php?id=1339109003
-#EXTINF:-1 ,雪澜涛涛正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",雪澜涛涛正在直播
 http://mmitv.top/pltv/yy.php?id=32131076
-#EXTINF:-1 ,广东安安热爱生活中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东安安热爱生活中
 http://mmitv.top/pltv/yy.php?id=1461116228
-#EXTINF:-1 ,江苏清纯模特慧慧子
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏清纯模特慧慧子
 http://mmitv.top/pltv/yy.php?id=34914959
-#EXTINF:-1 ,吉林笑生日快乐今天跳点新
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林笑生日快乐今天跳点新
 http://mmitv.top/pltv/yy.php?id=1355296376
-#EXTINF:-1 ,马来西亚·慈慈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",马来西亚·慈慈
 http://mmitv.top/pltv/yy.php?id=1355313331
-#EXTINF:-1 ,新疆宝贝来啦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新疆宝贝来啦
 http://mmitv.top/pltv/yy.php?id=1382741025
-#EXTINF:-1 ,新主播求守护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求守护
 http://mmitv.top/pltv/yy.php?id=1355296742
-#EXTINF:-1 ,魅力热舞妙不可言
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力热舞妙不可言
 http://mmitv.top/pltv/yy.php?id=1355301625
-#EXTINF:-1 ,萝莉小可爱等你中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",萝莉小可爱等你中
 http://mmitv.top/pltv/yy.php?id=1350590738
-#EXTINF:-1 ,江西啊吖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西啊吖
 http://mmitv.top/pltv/yy.php?id=1382755356
-#EXTINF:-1 ,许昌
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",许昌
 http://mmitv.top/pltv/yy.php?id=1351325066
-#EXTINF:-1 ,江苏沫颜正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏沫颜正在直播
 http://mmitv.top/pltv/yy.php?id=1456756887
-#EXTINF:-1 ,该用户关注了你.....
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",该用户关注了你.....
 http://mmitv.top/pltv/yy.php?id=1354952728
-#EXTINF:-1 ,千予正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",千予正在直播
 http://mmitv.top/pltv/yy.php?id=1338859823
-#EXTINF:-1 ,新人漫漫等你来宠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新人漫漫等你来宠
 http://mmitv.top/pltv/yy.php?id=1459989450
-#EXTINF:-1 ,性感熟女倩倩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感熟女倩倩
 http://mmitv.top/pltv/yy.php?id=1354127913
-#EXTINF:-1 ,951雪儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",951雪儿
 http://mmitv.top/pltv/yy.php?id=1353724016
-#EXTINF:-1 ,【胜仕伊】平平正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕伊】平平正在直播
 http://mmitv.top/pltv/yy.php?id=1354416591
-#EXTINF:-1 ,不播咋整啊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",不播咋整啊
 http://mmitv.top/pltv/yy.php?id=37878455
-#EXTINF:-1 ,距离您100米
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离您100米
 http://mmitv.top/pltv/yy.php?id=1345637147
-#EXTINF:-1 ,直播间里比封面好看好多倍
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播间里比封面好看好多倍
 http://mmitv.top/pltv/yy.php?id=1354054598
-#EXTINF:-1 ,温柔甜美佳音
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温柔甜美佳音
 http://mmitv.top/pltv/yy.php?id=1354864373
-#EXTINF:-1 ,你是落在我生命里的一束光
+#EXTINF:-1 tvg-id="6124" tvg-name="生命频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png" group-title="港澳台",你是落在我生命里的一束光
 http://mmitv.top/pltv/yy.php?id=1355324300
-#EXTINF:-1 ,【胜仕贵阳】文文正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【胜仕贵阳】文文正在直播
 http://mmitv.top/pltv/yy.php?id=1451543453
-#EXTINF:-1 ,大连草莓-愿有人保护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大连草莓-愿有人保护
 http://mmitv.top/pltv/yy.php?id=1456387746
-#EXTINF:-1 ,慕恒猫猫正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",慕恒猫猫正在直播
 http://mmitv.top/pltv/yy.php?id=1450299070
-#EXTINF:-1 ,佳艺佳艺多才多艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佳艺佳艺多才多艺
 http://mmitv.top/pltv/yy.php?id=1354991309
-#EXTINF:-1 ,煜州有穆恩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",煜州有穆恩
 http://mmitv.top/pltv/yy.php?id=21658391
-#EXTINF:-1 ,距离001m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离001m
 http://mmitv.top/pltv/yy.php?id=1354932478
-#EXTINF:-1 ,也想被宠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",也想被宠
 http://mmitv.top/pltv/yy.php?id=1342857283
-#EXTINF:-1 ,华矩-佳人搬砖美少女正
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华矩-佳人搬砖美少女正
 http://mmitv.top/pltv/yy.php?id=1355112131
-#EXTINF:-1 ,甜心萝莉莲莲猪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜心萝莉莲莲猪
 http://mmitv.top/pltv/yy.php?id=1353396293
-#EXTINF:-1 ,可盐可甜的江苏小姐姐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可盐可甜的江苏小姐姐
 http://mmitv.top/pltv/yy.php?id=1458129556
-#EXTINF:-1 ,脱口秀达人昊宇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",脱口秀达人昊宇
 http://mmitv.top/pltv/yy.php?id=1460988667
-#EXTINF:-1 ,距离你0.01km
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离你0.01km
 http://mmitv.top/pltv/yy.php?id=1355348499
-#EXTINF:-1 ,热舞小樱桃到期主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热舞小樱桃到期主播
 http://mmitv.top/pltv/yy.php?id=1349959196
-#EXTINF:-1 ,柔媚聆静等你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",柔媚聆静等你
 http://mmitv.top/pltv/yy.php?id=1353500786
-#EXTINF:-1 ,温婉萌妹刘丫丫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温婉萌妹刘丫丫
 http://mmitv.top/pltv/yy.php?id=1451607333
-#EXTINF:-1 ,性感迷人妩媚娘
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感迷人妩媚娘
 http://mmitv.top/pltv/yy.php?id=21168979
-#EXTINF:-1 ,距离你1公里
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",距离你1公里
 http://mmitv.top/pltv/yy.php?id=1382753204
-#EXTINF:-1 ,云亿-小旋遇见你很高兴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云亿-小旋遇见你很高兴
 http://mmitv.top/pltv/yy.php?id=1355430545
-#EXTINF:-1 ,性感御姐思雨在线撩人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感御姐思雨在线撩人
 http://mmitv.top/pltv/yy.php?id=1353255143
-#EXTINF:-1 ,性感美腿念念
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感美腿念念
 http://mmitv.top/pltv/yy.php?id=1354868980
-#EXTINF:-1 ,开始混日子来呀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",开始混日子来呀
 http://mmitv.top/pltv/yy.php?id=75240499
-#EXTINF:-1 ,美颜开大了，你敢看吗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美颜开大了你敢看吗
 http://mmitv.top/pltv/yy.php?id=1350731752
-#EXTINF:-1 ,甜美可爱艺晨
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美可爱艺晨
 http://mmitv.top/pltv/yy.php?id=21514502
-#EXTINF:-1 ,纯美乐儿入你心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯美乐儿入你心
 http://mmitv.top/pltv/yy.php?id=83517742
-#EXTINF:-1 ,过任务
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",过任务
 http://mmitv.top/pltv/yy.php?id=1354865267
-#EXTINF:-1 ,四川小雅人傻好骗会跳舞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",四川小雅人傻好骗会跳舞
 http://mmitv.top/pltv/yy.php?id=1382754951
-#EXTINF:-1 ,性感美腿女王
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感美腿女王
 http://mmitv.top/pltv/yy.php?id=1354693449
-#EXTINF:-1 ,猪猪可难哭了
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",猪猪可难哭了
 http://mmitv.top/pltv/yy.php?id=1354489616
-#EXTINF:-1 ,撩人腰精小铃铛
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",撩人腰精小铃铛
 http://mmitv.top/pltv/yy.php?id=1352259941
-#EXTINF:-1 ,新主播，求照顾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求照顾
 http://mmitv.top/pltv/yy.php?id=1354795458
-#EXTINF:-1 ,性感美腿芸儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",性感美腿芸儿
 http://mmitv.top/pltv/yy.php?id=1354509617
-#EXTINF:-1 ,来啦来啦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来啦来啦
 http://mmitv.top/pltv/yy.php?id=25936729
-#EXTINF:-1 ,【六合】然然正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【六合】然然正在直播
 http://mmitv.top/pltv/yy.php?id=1453005066
-#EXTINF:-1 ,好身材大长腿燕燕求守护
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好身材大长腿燕燕求守护
 http://mmitv.top/pltv/yy.php?id=1345749868
-#EXTINF:-1 ,魅力女人也该来的总会来的
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力女人也该来的总会来的
 http://mmitv.top/pltv/yy.php?id=1344832266
-#EXTINF:-1 ,萌系公主伍月
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",萌系公主伍月
 http://mmitv.top/pltv/yy.php?id=1463336468
-#EXTINF:-1 ,火辣俏皮古灵精怪岁宝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",火辣俏皮古灵精怪岁宝
 http://mmitv.top/pltv/yy.php?id=1354789284
-#EXTINF:-1 ,你知道我在等你吗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你知道我在等你吗
 http://mmitv.top/pltv/yy.php?id=1354488560
-#EXTINF:-1 ,锁爱正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",锁爱正在直播
 http://mmitv.top/pltv/yy.php?id=1355276738
-#EXTINF:-1 ,舞蹈达人主播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",舞蹈达人主播
 http://mmitv.top/pltv/yy.php?id=1353591158
-#EXTINF:-1 ,缘分让我们相遇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",缘分让我们相遇
 http://mmitv.top/pltv/yy.php?id=1345854556
-#EXTINF:-1 ,进来有惊喜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",进来有惊喜
 http://mmitv.top/pltv/yy.php?id=1354774413
-#EXTINF:-1 ,正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",正在直播
 http://mmitv.top/pltv/yy.php?id=1355156567
-#EXTINF:-1 ,你的附近人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你的附近人
 http://mmitv.top/pltv/yy.php?id=1339765170
-#EXTINF:-1 ,太难了
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",太难了
 http://mmitv.top/pltv/yy.php?id=1355188076
-#EXTINF:-1 ,凉白开正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凉白开正在直播
 http://mmitv.top/pltv/yy.php?id=1355277406
-#EXTINF:-1 ,唱跳俱佳于薄荷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",唱跳俱佳于薄荷
 http://mmitv.top/pltv/yy.php?id=1354194945
-#EXTINF:-1 ,新主播，求关注！
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求关注!
 http://mmitv.top/pltv/yy.php?id=1353408566
-#EXTINF:-1 ,江苏泰兴一枝花
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏泰兴一枝花
 http://mmitv.top/pltv/yy.php?id=1350266408
-#EXTINF:-1 ,野蛮温柔小女人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",野蛮温柔小女人
 http://mmitv.top/pltv/yy.php?id=1354926714
-#EXTINF:-1 ,宠我有惊喜呀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宠我有惊喜呀
 http://mmitv.top/pltv/yy.php?id=1353905799
-#EXTINF:-1 ,想被护以周全
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",想被护以周全
 http://mmitv.top/pltv/yy.php?id=1351825646
-#EXTINF:-1 ,热舞女王偲偲在线摄魂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热舞女王偲偲在线摄魂
 http://mmitv.top/pltv/yy.php?id=1382690533
-#EXTINF:-1 ,H正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",H正在直播
 http://mmitv.top/pltv/yy.php?id=1461725670
-#EXTINF:-1 ,晓雨
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",晓雨
 http://mmitv.top/pltv/yy.php?id=28969500
-#EXTINF:-1 ,甜美可爱尐甜甜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜美可爱尐甜甜
 http://mmitv.top/pltv/yy.php?id=1352247549
-#EXTINF:-1 ,颖宝儿正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",颖宝儿正在直播
 http://mmitv.top/pltv/yy.php?id=1354555473
-#EXTINF:-1 ,你的心上人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",你的心上人
 http://mmitv.top/pltv/yy.php?id=1355378487
-#EXTINF:-1 ,乐多正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐多正在直播
 http://mmitv.top/pltv/yy.php?id=1355268307
-#EXTINF:-1 ,孙二娘
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",孙二娘
 http://mmitv.top/pltv/yy.php?id=76794228
-#EXTINF:-1 ,清纯舞蹈女神
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清纯舞蹈女神
 http://mmitv.top/pltv/yy.php?id=35405771
-#EXTINF:-1 ,我胡汉媛回来啦~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",我胡汉媛回来啦~
 http://mmitv.top/pltv/yy.php?id=25588446
-#EXTINF:-1 ,新主播，求关注
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新主播求关注
 http://mmitv.top/pltv/yy.php?id=1355365396
-#EXTINF:-1 ,吉林XL甜甜臭弟弟主动点
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林XL甜甜臭弟弟主动点
 http://mmitv.top/pltv/yy.php?id=1382647244
-#EXTINF:-1 ,魅惑御姐梦瑶
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅惑御姐梦瑶
 http://mmitv.top/pltv/yy.php?id=1354322736
-#EXTINF:-1 ,吉林XL幼恩超哇塞，快进
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林XL幼恩超哇塞快进
 http://mmitv.top/pltv/yy.php?id=1382705766
-#EXTINF:-1 ,撩人楚瑶等你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",撩人楚瑶等你
 http://mmitv.top/pltv/yy.php?id=1345139177
-#EXTINF:-1 ,吉林XL冉冉下一个没我好
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林XL冉冉下一个没我好
 http://mmitv.top/pltv/yy.php?id=1382705623
-#EXTINF:-1 ,小祸水正在直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小祸水正在直播
 http://mmitv.top/pltv/yy.php?id=1457665766
-#EXTINF:-1 ,小坏蛋好美一女的
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小坏蛋好美一女的
 http://mmitv.top/pltv/yy.php?id=30548833
-#EXTINF:-1 ,迷人仙女萌雨
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",迷人仙女萌雨
 http://mmitv.top/pltv/yy.php?id=1350279078
-#EXTINF:-1 ,温婉女神露娜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温婉女神露娜
 http://mmitv.top/pltv/yy.php?id=1349352210
-#EXTINF:-1 ,小媳妇儿回来了
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小媳妇儿回来了
 http://mmitv.top/pltv/yy.php?id=1351698424
-#EXTINF:-1 ,甜酷辣妹暖心子
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甜酷辣妹暖心子
 http://mmitv.top/pltv/yy.php?id=1354997439
-#EXTINF:-1 ,妩媚女神冉冉
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",妩媚女神冉冉
 http://mmitv.top/pltv/yy.php?id=1382701787
-#EXTINF:-1 ,====== 【小仙女直播】,#genre# ======
-http://5/5.m3u8
-#EXTINF:-1 ,小姐姐轮播直播点击换
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小姐姐轮播直播点击换
 http://wmsp.cc/video.php
-#EXTINF:-1 ,抖音轮播直播点击切换
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",抖音轮播直播点击切换
 http://mmitv.top/test/douyin.php?id=top
-#EXTINF:-1 ,花椒轮播直播点击切换
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",花椒轮播直播点击切换
 http://mmitv.top/test/hjzb.php?id=top
-#EXTINF:-1 ,6间房轮播直播点击切换
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",6间房轮播直播点击切换
 http://mmitv.top/test/6room.php?id=top
-#EXTINF:-1 ,千帆轮播直播点击切换
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",千帆轮播直播点击切换
 http://mmitv.top/test/qf56.php?id=top
-#EXTINF:-1 ,我秀轮播直播点击切换
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",我秀轮播直播点击切换
 http://mmitv.top/test/woxiu.php?id=top
-#EXTINF:-1 ,====== NewTV,#genre# ======
-http://6/6.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺
 http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺
 http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV潮妈辣婆
 http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-#EXTINF:-1 ,NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV潮妈辣婆
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 ,NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,NewTV东北热剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV东北热剧
 http://39.135.135.35:80/wh7f454c46tw1751026922_1159821621/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1554599523&from=1&hms_devid=691
-#EXTINF:-1 ,NewTV东北热剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV东北热剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 ,NewTV东北热剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,NewTV动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,NewTV古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV古装剧场
 http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 ,NewTV古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV古装剧场
 http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
-#EXTINF:-1 ,NewTV古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV古装剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 ,NewTV古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,NewTV海外剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV海外剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 ,NewTV海外剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,黑莓电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞
 http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
-#EXTINF:-1 ,黑莓电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞
 http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
 http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
 http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
 http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
-#EXTINF:-1 ,NewTV欢乐剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV欢乐剧场
 http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
-#EXTINF:-1 ,NewTV欢乐剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV欢乐剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 ,NewTV欢乐剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,NewTV家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV家庭剧场
 http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 ,NewTV家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV家庭剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 ,NewTV家庭剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,NewTV金牌综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV金牌综艺
 http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 ,NewTV金牌综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV金牌综艺
 http://39.135.138.59:18890/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1 ,NewTV金牌综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV金牌综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 ,NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV惊悚悬疑
 http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 ,NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品大剧
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 ,NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品大剧
 http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
-#EXTINF:-1 ,NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品大剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,NewTV精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品纪录
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 ,NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品纪录
 http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
-#EXTINF:-1 ,NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品纪录
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 ,NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,NewTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品体育
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 ,NewTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 ,NewTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV精品体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军旅剧场
 http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军旅剧场
 http://39.135.138.59:18890/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军旅剧场
 http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军旅剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,NewTV军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军旅剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,NewTV军事评论
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军事评论
 http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-#EXTINF:-1 ,NewTV军事评论
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军事评论
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 ,NewTV军事评论
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 ,NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV明星大片
 http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-#EXTINF:-1 ,NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV明星大片
 http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
-#EXTINF:-1 ,NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV明星大片
 http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
-#EXTINF:-1 ,NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV明星大片
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,NewTV明星大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV明星大片
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,NewTV农业致富
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV农业致富
 http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-#EXTINF:-1 ,NewTV农业致富
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV农业致富
 http://39.135.138.59:18890/PLTV/88888910/224/3221225670/index.m3u8
-#EXTINF:-1 ,NewTV农业致富
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV农业致富
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,NewTV农业致富
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 ,NewTV武搏世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV武搏世界
 http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1 ,NewTV武搏世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV武搏世界
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 ,NewTV武搏世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,新视觉
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 ,NewTV炫舞未来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV炫舞未来
 http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 ,NewTV炫舞未来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV炫舞未来
 http://39.135.138.59:18890/PLTV/88888910/224/3221225707/index.m3u8
-#EXTINF:-1 ,NewTV炫舞未来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV炫舞未来
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 ,NewTV炫舞未来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 ,NewTV怡伴健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV怡伴健康
 http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-#EXTINF:-1 ,NewTV怡伴健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV怡伴健康
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,NewTV怡伴健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV中国功夫
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 ,NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV中国功夫
 http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
-#EXTINF:-1 ,NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV中国功夫
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 ,NewTV中国功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,完美游戏
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",完美游戏
 http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 ,====== CIBN,#genre# ======
-http://7/7.m3u8
-#EXTINF:-1 ,CIBN-动画乐园
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-动画乐园
 http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
-#EXTINF:-1 ,CIBN-风尚运动
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-风尚运动
 http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
-#EXTINF:-1 ,CIBN-古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-古装剧场
 http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
-#EXTINF:-1 ,CIBN-纪录片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-纪录片
 http://211.94.219.178:18080/PLTV/68/224/3221226437/index.m3u8
-#EXTINF:-1 ,CIBN-骄阳剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-骄阳剧场
 http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
-#EXTINF:-1 ,CIBN-流金岁月
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-流金岁月
 http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
-#EXTINF:-1 ,CIBN-微电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-微电影
 http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
-#EXTINF:-1 ,CIBN-综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN-综合
 http://211.94.219.178:18080/PLTV/68/224/3221226420/index.m3u8
-#EXTINF:-1 ,====== SiTV,#genre# ======
-http://8/8.m3u8
-#EXTINF:-1 ,动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
 http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 ,都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
 http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 ,法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
 http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 ,极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
 http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 ,金色频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色频道
 http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
-#EXTINF:-1 ,劲爆体育
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
 http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,七彩戏剧
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
 http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 ,全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
 http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 ,生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 ,幸福彩
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海",幸福彩
 http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
-#EXTINF:-1 ,游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/2300000/mnf.m3u8
-#EXTINF:-1 ,极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
 http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
-#EXTINF:-1 ,游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://111.20.33.93/PLTV/88888893/224/3221226579/index.m3u8
-#EXTINF:-1 ,====== 求索,#genre# ======
-http://9/9.m3u8
-#EXTINF:-1 ,求索动物
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方",求索动物
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 ,求索动物
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 ,求索纪录
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 ,求索纪录
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 ,求索科学
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="地方",求索科学
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,求索科学
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="地方",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 ,求索生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",求索生活
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 ,求索生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,====== MIGU,#genre# ======
-http://10/10.m3u8
-#EXTINF:-1 ,MIGU今日推荐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU今日推荐
 http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-#EXTINF:-1 ,MIGU喜剧联盟
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU喜剧联盟
 http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 ,MIGU古天乐影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 ,MIGU成龙作品集
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU成龙作品集
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 ,MIGU张国荣影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU张国荣影院
 http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-#EXTINF:-1 ,MIGU周润发影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU周润发影院
 http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 ,MIGU怀旧老片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU怀旧老片
 http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1 ,MIGU云上电影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU云上电影院
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 ,MIGU葛优作品集
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU葛优作品集
 http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
-#EXTINF:-1 ,MIGU刘德华影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU刘德华影院
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 ,MIGU僵尸剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU僵尸剧场
 http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 ,MIGU刘亦菲影视展播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU刘亦菲影视展播
 http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
-#EXTINF:-1 ,MIGUTVB剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGUTVB剧场
 http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 ,MIGU试胆大会
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU试胆大会
 http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 ,MIGU军旅剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU军旅剧场
 http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-#EXTINF:-1 ,MIGUSNH48剧场公演
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGUSNH48剧场公演
 http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1 ,MIGU神探狄仁杰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU神探狄仁杰
 http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
-#EXTINF:-1 ,MIGU追剧少女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 ,MIGU经典贺岁片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MIGU经典贺岁片
 http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1 ,====== 少儿,#genre# ======
-http://11/11.m3u8
-#EXTINF:-1 ,优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
 http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
-#EXTINF:-1 ,金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8
-#EXTINF:-1 ,卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
 http://39.135.138.60:18890/PLTV/88888910/224/3221225677/index.m3u8
-#EXTINF:-1 ,南京少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,浙江少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 ,福州少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 ,====== 电影,#genre# ======
-http://12/12.m3u8
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://111.20.45.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://39.134.19.228:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002065?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 ,东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://112.25.48.11/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,福州影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福州影视
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 ,吉林影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林影视
 http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 ,徐州影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州影视
 http://stream1.huaihai.tv/wyys/playlist.m3u8
-#EXTINF:-1 ,浙江影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江影视
 http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
-#EXTINF:-1 ,K K_经典电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",K K_经典电影
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 ,K K_影视频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",K K_影视频道
 http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 ,====== 体育,#genre# ======
-http://13/13.m3u8
-#EXTINF:-1 ,CCTV5+体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+体育赛事
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1 ,极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
 http://183.207.255.190/live/program/live/jsqc/1300000/mnf.m3u8
-#EXTINF:-1 ,劲爆体育
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
 http://183.207.255.199/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,劲爆体育
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
-#EXTINF:-1 ,百视通体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-#EXTINF:-1 ,百视通体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-#EXTINF:-1 ,北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://39.135.138.58:18890/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 ,北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 ,魅力足球
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,魅力足球
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 ,咪咕视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 ,陕西体育休闲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西体育休闲
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西体育休闲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
-#EXTINF:-1 ,央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
 http://39.134.19.246:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=RR412920210403002853601204
-#EXTINF:-1 ,央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
 http://39.134.19.246:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,====== 地方,#genre# ======
-http://14/14.m3u8
-#EXTINF:-1 ,北京东奥
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京东奥
 http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 ,北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 ,北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 ,北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 ,北京通州
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京通州
 http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1 ,东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://117.169.120.140:8080/live/dongnanstv/.m3u8
-#EXTINF:-1 ,佛州生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛州生活
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1 ,福州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福州综合
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 ,广东生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东生活
 http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
-#EXTINF:-1 ,广东文化台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东文化台
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1 ,吉林公共新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林公共新闻
 http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,吉林生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林生活
 http://stream1.jlntv.cn/shpd/sd/live.m3u8
-#EXTINF:-1 ,吉林乡村
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",吉林乡村
 http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-#EXTINF:-1 ,晋中公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-#EXTINF:-1 ,晋中综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 ,南京教科
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京教科
 http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京生活
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京十八
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京十八
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京信息
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京信息
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,南京娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 ,山东潍坊1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东潍坊1
 http://stream.wfcmw.cn/1/sd/live.m3u8
-#EXTINF:-1 ,山东潍坊2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东潍坊2
 http://stream.wfcmw.cn/2/sd/live.m3u8
-#EXTINF:-1 ,山东潍坊3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东潍坊3
 http://stream.wfcmw.cn/3/sd/live.m3u8
-#EXTINF:-1 ,山东潍坊4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东潍坊4
 http://stream.wfcmw.cn/4/sd/live.m3u8
-#EXTINF:-1 ,上海都市
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 ,上海纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 ,上海纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 ,上海外语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海外语
 http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海外语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海新闻
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻
 http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 ,深圳蛇口
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",深圳蛇口
 http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
-#EXTINF:-1 ,生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://117.169.120.140:8080/live/hdtianjinstv/.m3u8
-#EXTINF:-1 ,西安新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西安新闻
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 ,西安新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西安新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 ,徐州-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州-1
 http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 ,徐州-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州-1
 http://stream1.huaihai.tv/xwzh/playlist.m3u8
-#EXTINF:-1 ,徐州-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州-3
 http://183.207.249.7/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 ,徐州TV-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州TV-4
 http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 ,徐州公共频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州公共频道
 http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 ,徐州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",徐州新闻综合
 http://183.207.248.11/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 ,浙江国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 ,浙江教科影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江教科影视
 http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 ,浙江教育台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江教育台
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,浙江教育台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江教育台
 http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江经济生活
 http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江开化
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江开化
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
-#EXTINF:-1 ,浙江留学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江留学
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 ,浙江龙泉
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江龙泉
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 ,浙江民生休闲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,浙江民生休闲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
-#EXTINF:-1 ,浙江钱江频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 ,浙江钱江台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江钱江台
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 ,浙江青田
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江青田
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 ,浙江庆元
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江庆元
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-#EXTINF:-1 ,浙江少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 ,浙江数码时代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江数码时代
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江松阳
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江松阳
 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-#EXTINF:-1 ,浙江遂昌
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江遂昌
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 ,浙江新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 ,浙江休闲台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江休闲台
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江影视
 http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
-#EXTINF:-1 ,浙江影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江影视
 http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-#EXTINF:-1 ,浙江云和
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江云和
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 ,舟山公共生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",舟山公共生活
 http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 ,舟山群岛旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",舟山群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:-1 ,舟山新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",舟山新闻综合
 http://stream.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 ,CNC中文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CNC中文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 ,CNC英文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CNC英文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-#EXTINF:-1 ,原住民电视
+#EXTINF:-1 tvg-id="6034" tvg-name="原住民频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="港澳台",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 ,澳视澳门
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,澳视澳门
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳门2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门2
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 ,大爱1
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 ,大爱2
+#EXTINF:-1 tvg-id="6142" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="港澳台",大爱2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 ,Luxury
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 ,nhk华语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",nhk华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 ,Sexy K-Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 ,kroneHit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",kroneHit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
