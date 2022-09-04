@@ -9,16 +9,34 @@
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json"},
+         {
+            "key":"t4public",
+            "name":"T4公共",
+            "type":4,
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=28801b1dbaf4418fb7bc221a575703dd&timeout=10&douban=96385077",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
       {
             "key": "Bili",
             "name": "👨‍👩‍👦‍👦哔哩套餐",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"
     },
+	        {   
+            "key": "在线直播",
+            "name": "在线直播(爬虫)",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "csp_xpath_cls",
       "name": "磁力搜索(XP)",
@@ -46,12 +64,11 @@
 {"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/Bili.json"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
-{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
-{"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://tv/token.json"}
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"28801b1dbaf4418fb7bc221a575703dd"},
+{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"28801b1dbaf4418fb7bc221a575703dd"},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"28801b1dbaf4418fb7bc221a575703dd"},
+{"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"28801b1dbaf4418fb7bc221a575703dd"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"28801b1dbaf4418fb7bc221a575703dd"}
     ],
 "parses":
 [{"name":"解析聚合","type":3,"url":"Demo"},
