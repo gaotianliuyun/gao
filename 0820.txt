@@ -17,6 +17,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"
     },
     {
       "key": "csp_xpath_cls",
