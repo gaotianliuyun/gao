@@ -1,6 +1,6 @@
 
 {
-       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
+       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0904.jar;md5;8d29a86d985a54225af22a82bb9328ee",
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
@@ -8,6 +8,7 @@
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [ 
+{"key":"Alist111","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json"},
 {
 "key": "csp_Alist11",
 "name": " Alist【聚合】",
