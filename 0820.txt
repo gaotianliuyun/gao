@@ -17,6 +17,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+    },
     {
       "key": "csp_xpath_cls",
       "name": "磁力搜索(XP)",
