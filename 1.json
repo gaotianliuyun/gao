@@ -151,7 +151,27 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
-   },    
+   },
+        {
+            "key": "饭团影视",
+            "name": "饭团影视(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/ftys.json"
+        },
+        {
+            "key": "abyy",
+            "name": "AB影院(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/abyy.json"
+        },
        {
        "key":"csp_Anime1",
        "name":"Anime",
