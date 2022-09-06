@@ -26,15 +26,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "柠檬",
-      "name": "柠檬",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11a0c4",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    //{      "key": "柠檬",      "name": "柠檬",      "type": 4,      "api": "https://vod.kooo.eu.org/t4/vip11a0c4",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
     {
       "key": "80S",
       "name": "80S",
@@ -53,42 +45,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "libvo",
-      "name": "libvo",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11a032",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "农民",
-      "name": "农民",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11fx64",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11o128",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "注视",
-      "name": "注视",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11p256",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    //{      "key": "libvo",      "name": "libvo",      "type": 4,      "api": "https://vod.kooo.eu.org/t4/vip11a032",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+    {      "key": "农民",      "name": "农民",      "type": 4,      "api": "https://vod.kooo.eu.org/t4/vip11fx64",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+    //{      "key": "泥巴",      "name": "泥巴",      "type": 4,      "api": "https://vod.kooo.eu.org/t4/vip11o128",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+    //{      "key": "注视",      "name": "注视",      "type": 4,      "api": "https://vod.kooo.eu.org/t4/vip11p256",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
     {
     "key":"在线之家",
     "name":"在线之家",
@@ -125,15 +85,7 @@
     "quickSearch": 1,
     "filterable": 0
    },
-   {
-    "key":"dr_鸭奈飞",
-    "name":"鸭奈飞",
-    "type":1,
-    "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-   },
+   //{    "key":"dr_鸭奈飞",    "name":"鸭奈飞",    "type":1,    "api":"http://cms.nokia.press/vod?rule=鸭奈飞",    "searchable": 1,    "quickSearch": 1,    "filterable": 0   },
    {
     "key":"蓝光影院",
     "name":"蓝光",
@@ -164,9 +116,9 @@
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/abyy.json"
         },
 {"key":"北雁资源","name":"北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
-{ "key":"小熊","name":"小熊影视(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1, "filterable":1},
+//{ "key":"小熊","name":"小熊影视(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1, "filterable":1},
 {"key":"mtv_zh_刺猬影视","name":"刺猬影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
-{"key":"csp_XYQBiu_jmzy","name":"橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/橘猫资源.json"},
+//{"key":"csp_XYQBiu_jmzy","name":"橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/橘猫资源.json"},
        {
        "key":"csp_Anime1",
        "name":"Anime",
