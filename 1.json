@@ -17,7 +17,7 @@
             "quickSearch":1,
             "filterable":0
         },
-    {
+{"key":"csp_xbb_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/555%E7%94%B5%E5%BD%B1.json"},    {
       "key": "低端",
       "name": "低端",
       "type": 4,
