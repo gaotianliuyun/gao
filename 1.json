@@ -17,6 +17,141 @@
             "quickSearch":1,
             "filterable":0
         },
+    {
+      "key": "T4备用",
+      "name": "备用",
+      "type": 4,
+      "api": "https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "低端",
+      "name": "低端",
+      "type": 4,
+      "api": "http://vod.kooo.eu.org/t4/vip110002",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11a0c4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "80S",
+      "name": "80S",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11cx08",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "简影",
+      "name": "简影",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11b016",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "libvo",
+      "name": "libvo",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11a032",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "农民",
+      "name": "农民",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11fx64",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11o128",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "注视",
+      "name": "注视",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/vip11p256",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+    "key":"在线之家",
+    "name":"在线之家",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=在线之家",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+    },
+    {
+    "key":"喵喵",
+    "name":"喵喵",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=喵喵",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+   },
+   {
+    "key":"万能影视",
+    "name":"万能",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=万能影视",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+   },
+   {
+    "key":"莫扎兔",
+    "name":"莫扎兔",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=莫扎兔",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+   },
+   {
+    "key":"dr_鸭奈飞",
+    "name":"鸭奈飞",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+   },
+   {
+    "key":"蓝光影院",
+    "name":"蓝光",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=蓝光影院",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+   },    
        {
        "key":"csp_Anime1",
        "name":"Anime",
@@ -308,7 +443,7 @@
             "filterable":1
         },
         {
-            "key": "低端",
+            "key": "低端爬虫",
             "name": "低端(爬虫)",
             "api":"csp_Ddrk",
             "type":3,
@@ -362,15 +497,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{
-      "key": "简影",
-      "name": "vip11",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11b016",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
         {
             "key": "Jianying",
             "name": "简影(爬虫)",
@@ -379,7 +505,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
+            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"
         },
         {
             "key": "Dy555",
@@ -399,15 +525,15 @@
             "quickSearch":1,
             "searchable":1
         },
-        {
-            "key": "剧荒",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        //{
+            //"key": "剧荒",
+            //"name": "剧荒(爬虫)",
+            //"type": 3,
+            //"api": "csp_Juhuang",
+            //"searchable": 1,
+            //"quickSearch": 1,
+            //"filterable": 1
+        //},
         {
             "key": "Wmkk",
             "name": "完美看看(爬虫)",
@@ -523,7 +649,7 @@
             "filterable": 1
         },
         {
-            "key": "蓝光影院",
+            "key": "蓝光影院XB",
             "name": "蓝光(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
