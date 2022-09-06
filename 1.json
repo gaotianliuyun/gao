@@ -163,6 +163,10 @@
             "filterable":0,
             "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/abyy.json"
         },
+{"key":"北雁资源","name":"北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
+{ "key":"小熊","name":"小熊影视(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1, "filterable":1},
+{"key":"mtv_zh_刺猬影视","name":"刺猬影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
+{"key":"csp_XYQBiu_jmzy","name":"橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/橘猫资源.json"},
        {
        "key":"csp_Anime1",
        "name":"Anime",
@@ -572,27 +576,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    //{
-      //"key": "小熊",
-      //"name": "小熊TV",
-      //"type": 3,
-      //"api": "csp_Xxys",
-      //"searchable": 1,
-      //"quickSearch": 1,
-      //"filterable": 1
-    //},
-      //{
-      //"key": "csp_Tkys",
-      //"name": "天空影视",
-      //"type": 3,
-      //"api": "csp_Tkys",
-      //"searchable": 1,
-      //"quickSearch": 1,
-      //"filterable": 1
-    //},
     {
       "key": "csp_biubiu_宝仙HD",
-      "name": "宝仙HD〔XB〕",
+      "name": "宝仙HD",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
