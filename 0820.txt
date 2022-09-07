@@ -1,6 +1,6 @@
 
 {
-       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0905.jar;md5;ee77d27ee6ecfc4b6bcea8315954ec0c",
+       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0904.jar;md5;8d29a86d985a54225af22a82bb9328ee",
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
@@ -19,7 +19,7 @@
         },
       {
             "key": "Bili",
-            "name": "👨‍👩‍👦‍👦哔哩套餐",
+            "name": "哔哩套餐",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -36,7 +36,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{"key":"Alist","name":"Alist(聚合)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0904.jar;md5;8d29a86d985a54225af22a82bb9328ee"},
+{"key":"Alist","name":"Alist(聚合)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json"},
     {
       "key": "csp_xpath_cls",
       "name": "磁力搜索(XP)",
