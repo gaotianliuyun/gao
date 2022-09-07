@@ -27,15 +27,6 @@
             "filterable": 1,
             "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"
     },
-        {   
-            "key": "在线直播",
-            "name": "在线直播(爬虫)",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 {"key":"Alist","name":"Alist(聚合)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json"},
     {
       "key": "csp_xpath_cls",
