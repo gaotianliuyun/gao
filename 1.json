@@ -12,7 +12,7 @@
             "key":"t4public",
             "name":"T4公共",
             "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10&douban=96385077",
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=5",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
