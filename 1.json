@@ -1,6 +1,6 @@
 
 {
-       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0901.jar;md5;d2ded0d4b8b12b325bfcd3b7d1ecd3ea",
+       "spider":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0906.jar;md5;c22e877441db6f0b3247e24be2dd4a44",
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
@@ -166,7 +166,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json"
-      //"jar": "https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"
     },
     {
       "key": "293视频",
@@ -176,7 +175,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-     //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
     },
      {
      "key": "csp_XYQBiu_影视工厂",
@@ -197,7 +195,6 @@
      "quickSearch":1,
      "filterable":1,
      "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/555dy.json"
-     //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
      },
      {
      "key": "csp_XYQBiu_剧荒",
@@ -240,7 +237,7 @@
      "ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/凌云影视.json"
      },
 {"key":"csp_xpath_007","name":"玲玲七(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/007.json"},
-{"key":"Alist","name":"Alist(聚合)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json","jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0904.jar;md5;8d29a86d985a54225af22a82bb9328ee"},
+{"key":"Alist","name":"Alist(聚合)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json"},
 {
 "key": "csp_Alist11",
 "name": " Alist【聚合】",
@@ -249,8 +246,7 @@
 "searchable": 1,
 "quickSearch": 0,
 "filterable": 0,
-"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com",
-"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"
+"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com"
 },
     {
       "key": "csp_Auete",
@@ -280,7 +276,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://gaotianliuyun.github.io/cat/json/茶杯狐.json"
-      //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
     },
      {
      "key":"3EDY",
@@ -299,7 +294,6 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1
-     //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0825.jar;md5;2155381c69173946b0b9d068218e7a97"
      },
      {
      "key":"csp_biubiu_voflix",
@@ -328,7 +322,6 @@
      "quickSearch":1,
      "filterable":0,
      "ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json"
-     //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
      },
 {
      "key":"csp_XYQBiu_e9",
@@ -338,7 +331,6 @@
      "quickSearch":1,
      "filterable":0,
      "ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json"
-     //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
      },
 {
      "key":"csp_xpath_tjyy",
@@ -370,7 +362,6 @@
      "quickSearch":1,
      "filterable":0,
      "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/lyys(xyq).json"
-     //"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/XYQBiu.jar;md5;12d2df395a9bdae64a9982a88f23d9e3"
      },
    {"key":"Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
    {
@@ -453,7 +444,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            //"jar":"https://gitcode.net/kuukey/a/-/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
         },
         {
             "key": "追剧喵",
