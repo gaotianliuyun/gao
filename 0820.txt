@@ -17,6 +17,8 @@
 [{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"全民","type":0,"url":"http://api.wpsseo.cn/?v="},
+{"name":"盘古","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
 {"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
 {"name":"嗅探","type":0,"url":"https://api.jiexi.la/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
