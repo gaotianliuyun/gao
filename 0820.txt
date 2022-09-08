@@ -7,17 +7,42 @@
         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vY2h1cWl1eXUvY2h1cWl1eXUvcmF3L2JyYW5jaC9tYXN0ZXIvbGlzdC50eHQ="
     ]}]}],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-"sites":[
-{”key":"t4public",”name":"T4",”type":4,”api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",”searchable":1,”quickSearch":1,”filterable":0},
-{”key":"Bili",”name":"Bili",”type":3,”api":"csp_Bili",”searchable":1,”quickSearch":0,”filterable":1,”ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"},
-{”key":"在线直播",”name":"Live",”type":3,”api":"csp_Yj1211",”searchable":1,”quickSearch":1,”filterable":1},
+    "sites": [ 
+         {
+            "key":"t4public",
+            "name":"T4",
+            "type":4,
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
+      {
+            "key": "Bili",
+            "name": "Bili",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"
+    },
+        {   
+            "key": "在线直播",
+            "name": "Live",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/Alist.json"},
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"28801b1dbaf4418fb7bc221a575703dd"}
-],
+    ],
 "parses":
 [{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
