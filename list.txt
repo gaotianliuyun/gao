@@ -937,7 +937,7 @@ H正在直播,http://mmitv.top/pltv/yy.php?id=1461725670
 6间房轮播直播点击切换,http://mmitv.top/test/6room.php?id=top
 千帆轮播直播点击切换,http://mmitv.top/test/qf56.php?id=top
 我秀轮播直播点击切换,http://mmitv.top/test/woxiu.php?id=top
-CCTV,#genre#
+Radio,#genre#
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
