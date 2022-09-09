@@ -972,20 +972,12 @@ FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
 香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
 香港电台第二台,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
 香港电台第三台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-香港电台第四台·音乐,https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
 香港电台第五台,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-香港电台普通话台,http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
 西澳华语广播电台,http://streamer5.rightclickitservices.com:7200/stream
-加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
-加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/chunklist_w441033106.m3u8
-加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
-加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/chunklist_w987170920.m3u8
-NHK中文广播,https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263948/live_s.m3u8
 马来西亚MY FM音乐台,http://astro1.rastream.com/myfm
 马来西亚Melody音乐台,https://astro3.rastream.com/melody
 纽西兰华人之声AM936新超凡,http://radio.936.nz:8000/am936
 纽西兰华人之声FM104.2音乐台,http://radio.936.nz:8000/fm994
-圣经广播网BBN Chinese,http://stream2.bbnradio.org:8000/chinese
 Mandarin Radio,http://streaming.radionomy.com/JamendoLounge
 CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
 CRI怀旧金曲频道,https://lhttp.qingting.fm/live/5022038/64k.mp3
@@ -995,7 +987,6 @@ CRI南海之声,http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
 上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
 上海动感101音乐广播,http://lhttp.qingting.fm/live/274/64k.mp3
 石家庄音乐广播,https://lhttp.qingting.fm/live/1654/64k.mp3
-山西音乐广播,https://lhttp.qingting.fm/live/4932/64k.mp3
 辽宁文艺广播,http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
 哈尔滨音乐广播,https://lhttp.qingting.fm/live/839/64k.mp3
 黑龙江都市女性广播,http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
@@ -1029,10 +1020,7 @@ CRI南海之声,http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
 甘肃黄河之声,http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 新疆音乐广播MYFM103.9,https://lhttp.qingting.fm/live/4029/64k.mp3
 新疆故事广播,https://lhttp.qingting.fm/live/1911/64k.mp3
-AsiaFM亚洲经典台,https://lhttp.qingting.fm/live/5021912/64k.mp3
-AsiaFM HD音乐台,https://lhttp.qingting.fm/live/5022405/64k.mp3
 AsiaFM亚洲音乐台,https://lhttp.qingting.fm/live/4581/64k.mp3
-CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 赤峯汉语综合广播 FM96,http://live.xmcdn.com/live/1085/64.m3u8
 九江交通广播 FM88.4 FM88.9,http://ls.qingting.fm/live/2785094.m3u8
 龙广都市女性台 FM102.1,http://stream3.hljtv.com/hljrd97/sd/live.m3u8
@@ -1045,11 +1033,7 @@ CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 新疆音乐广播 MyFM FM103.9,http://ls.qingting.fm/live/4029.m3u8
 长沙新闻广播 FM105.0,http://ls.qingting.fm/live/4877.m3u8
 郑州私家车 FM91.8,http://ls.qingting.fm/live/1222.m3u8
-纽约古典音乐台WQXR-FM 105.9,https://stream.wqxr.org/wqxr-web
-纽约古典音乐歌剧台,https://opera-stream.wqxr.org/operavore-web
 台湾古典音乐台Classical FM 97.7,http://59.120.88.155:8000/live.mp3
-佳音台北FM90.9,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch01/playlist.m3u8
-基督教福音良友电台,http://listen.txly1.net:8000/ly729_a
 纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
 PigpenRadio,http://178.79.158.160:8213/stream?type=http&nocache=8702
 晋城交通音乐广播 FM93.5,http://ls.qingting.fm/live/1189.m3u8
@@ -1171,11 +1155,6 @@ PigpenRadio,http://178.79.158.160:8213/stream?type=http&nocache=8702
 山东新闻广播 FM95,http://ls.qingting.fm/live/60180.m3u8
 山东音乐广播 FM99.1,http://live.xmcdn.com/live/794/64.m3u8
 山东音乐广播 FM99.1,http://ls.qingting.fm/live/1665.m3u8
-山西交通频道 FM88.0,http://live.xmcdn.com/live/885/64.m3u8
-山西农村广播 AM603,http://live.xmcdn.com/live/894/64.m3u8
-山西文艺广播 FM101.5,http://live.xmcdn.com/live/887/64.m3u8
-山西音乐广播 FM94,http://live.xmcdn.com/live/886/64.m3u8
-山西综合广播 FM90.4,http://live.xmcdn.com/live/893/64.m3u8
 陕西都市广播-陕广新闻 FM101.8,http://ls.qingting.fm/live/1609.m3u8
 陕西都市广播-陕广新闻 FM101.8,http://radio.sxtvs.com/radio/city.mp3
 陕西故事广播 AM603,http://ls.qingting.fm/live/1608.m3u8
@@ -1402,37 +1381,10 @@ PigpenRadio,http://178.79.158.160:8213/stream?type=http&nocache=8702
 珠海电台活力915,http://ls.qingting.fm/live/2473319.m3u8
 珠海电台交通音乐875,http://ls.qingting.fm/live/1275.m3u8
 珠海电台先锋951,http://ls.qingting.fm/live/1274.m3u8
-美国之音VOA 汉语,https://voa11.akacast.akamaistream.net/7/683/437793/v1/ibb.akacast.akamaistream.net/voa11
-法国国际广播电台中文,http://live02.rfi.fr/rfienchinois-64.mp3
-法国国际广播电台中文,http://live02.rfi.fr/rfichinois-96k.mp3
 台湾大千电台,http://stream.superfm99-1.com.tw:8554/
 国立教育广播电台台北总台FM台,https://cast.ner.gov.tw/1
 国立教育广播电台台北总台AM台,https://cast.ner.gov.tw/2
-CNR 藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
-CNR 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-CNR 华夏之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-CNR 民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-CNR 维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-CNR 文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
-CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
-CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI 海峡飞虹,http://sk.cri.cn/hxfh.m3u8
-CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
-CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
-CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 Love Radio FM103.7,http://live.xmcdn.com/live/55/64.m3u8
 Love Radio FM103.7,http://ls.qingting.fm/live/273.m3u8
 Love Radio FM103.7,http://rs-bj.ajmide.com/r_2/2.m3u8
@@ -1552,7 +1504,6 @@ MY FM 西安 FM105.5,http://ls.qingting.fm/live/4885.m3u8
 广西交通台 FM100.3,http://ls.qingting.fm/live/1758.m3u8
 广西女主播电台 FM97.0,http://live.xmcdn.com/live/300/64.m3u8
 广西女主播电台 FM97.0,http://ls.qingting.fm/live/1754.m3u8
-广西私家车930 FM93.0,http://live.xmcdn.com/live/302/64.m3u8
 广西私家车930 FM93.0,http://ls.qingting.fm/live/1756.m3u8
 广西新闻910 FM91.0,http://live.xmcdn.com/live/299/64.m3u8
 广西新闻910 FM91.0,http://ls.qingting.fm/live/1753.m3u8
