@@ -84,7 +84,7 @@ CCTV13,http://39.137.49.76:8080/PLTV/88888888/224/3221225638/index.m3u8?
 CCTV17,http://39.137.49.76:8080/PLTV/88888888/224/3221225907/index.m3u8?
 新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
 新华中文,http://39.135.138.60:18890/PLTV/88888888/224/3221225694/index.m3u8
-CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls?$移动超清1080P
+CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 CETV-3,http://111.20.33.70/PLTV/88888893/224/3221226226/index.m3u8
 CETV-4,http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
 兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
@@ -109,18 +109,18 @@ CETV-4,http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
 发现之旅,http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8
 老故事,http://111.20.33.70/PLTV/88888893/224/3221226236/index.m3u8
 女性时尚,http://111.20.33.70/PLTV/88888893/224/3221226237/index.m3u8
-CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN Espa?ol,http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 CNC英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
 CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CCTV西班牙语频道,https://livees.cgtn.com/1000e/prog_index.m3u8
+CCTV西班牙语频道,http://livees.cgtn.com/1000e/prog_index.m3u8
+CCTV西班牙语频道,http://livees.cgtn.com/500e/prog_index.m3u8
 CCTV法语频道,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CCTV法语频道,http://livefr.cgtn.com/1000f/prog_index.m3u8
+CCTV阿语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
 CCTV阿语频道,https://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Documentary,http://livedoc.cgtn.com/1000d/prog_index.m3u8
 CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
-西班牙中国环球电视网CGTN,http://livees.cgtn.com/1000e/prog_index.m3u8
 中央电视塔中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
 中央电视塔中塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 中央电视塔中塔西,https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
@@ -257,22 +257,6 @@ CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3
 CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
-CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
-CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
-CCTV7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
-CCTV10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
-CCTV12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
-CCTV14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
-CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
-冬奥纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
-黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
-纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
-金鹰纪实,http://111.20.33.70/PLTV/88888893/224/3221226351/index.m3u8
-全纪实,http://111.20.33.70/PLTV/88888893/224/3221226580/index.m3u8
-CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls?$移动超清1080P
 
 卫视,#genre#
 湖南卫视,http://111.20.33.93/PLTV/88888893/224/3221226211/index.m3u8
@@ -625,6 +609,13 @@ CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3
 快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
 茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
 金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+冬奥纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
+黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+金鹰纪实,http://111.20.33.70/PLTV/88888893/224/3221226351/index.m3u8
+全纪实,http://111.20.33.70/PLTV/88888893/224/3221226580/index.m3u8
 CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 
