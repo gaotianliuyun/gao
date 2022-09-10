@@ -423,7 +423,7 @@ LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 斗鱼旅行16,http://epg.112114.xyz/douyu/9172774
 斗鱼旅行17,http://epg.112114.xyz/douyu/4834417
 斗鱼旅行18,http://epg.112114.xyz/douyu/2240445
-【YY直播】,#genre#
+YY,#genre#
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 佳人如画郭mini,http://mmitv.top/pltv/yy.php?id=1349606469
 温馨美人兰梦莎,http://mmitv.top/pltv/yy.php?id=90144176
@@ -914,7 +914,7 @@ H正在直播,http://mmitv.top/pltv/yy.php?id=1461725670
 小媳妇儿回来了,http://mmitv.top/pltv/yy.php?id=1351698424
 甜酷辣妹暖心子,http://mmitv.top/pltv/yy.php?id=1354997439
 妩媚女神冉冉,http://mmitv.top/pltv/yy.php?id=1382701787
-【小仙女直播】,#genre#
+直播,#genre#
 小姐姐轮播直播点击换,http://wmsp.cc/video.php
 抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
 花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
