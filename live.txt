@@ -121,9 +121,6 @@ CCTV阿语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
 CCTV阿语频道,https://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Documentary,http://livedoc.cgtn.com/1000d/prog_index.m3u8
 CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
-中央电视塔中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
-中央电视塔中塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-中央电视塔中塔西,https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
 CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
 CCTV9,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
 CCTV13,http://111.20.33.93/PLTV/88888893/224/3221226233/index.m3u8
