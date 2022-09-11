@@ -6,7 +6,7 @@
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xbb_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"csp_appysv2_萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
-{"key":"csp_AppTT","name":"兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppTT","name":"兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/tt.jar;md5;610afb6bb32e7c6d8aef182883702ad1"},
 {"key":"低端","name":"低端","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"80S","name":"80S","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"简影","name":"简影","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
