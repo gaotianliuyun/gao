@@ -1,0 +1,134 @@
+//写法思路来自biubiu影院，海阔视界，xpath筛选。
+{
+    //规则名
+    "title": "99e",
+    //作者
+    "author": "认真の雪",
+    //请求UA
+    "UserAgent":"",
+    //分类链接起始页码,禁止负数于合含小数点。
+   
+     "firstpage": "1",
+     "homeContent":"1",
+    //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
+    "class_url": "https://m.e99w.com/list/{cateId}-{catePg}.html[firstPage=https://m.e99w.com/list/{cateId}.html]",
+    //分类名
+    "class_name": "电视剧&电影&动漫&综艺",
+    //分类名替换词，替换词中有英文&的用两个中文＆＆代替
+    "class_value": "2&1&3&4",
+    //筛选数据，json格式，参考xpath的筛选写法
+    "filterdata":{},
+    //分类是否二次截取
+    "cat_YN_twice": "0",
+    //分类二次截取前
+    "cat_twice_pre": "空",
+    //分类二次截取后
+    "cat_twice_suf": "空",
+    //分类数组截取前
+    "cat_arr_pre": "class=\"col-xs-3",
+    //分类数组截取后
+    "cat_arr_suf": "</li>",
+    //分类截取片单图片，截取前缀&&截取后缀
+    "cat_pic": "data-original=\"&&\"",
+    //分类截取片单标题，截取前缀&&截取后缀
+    "cat_title": "title=\"&&\"",
+    //分类截取片单副标题，截取前缀&&截取后缀
+    "cat_subtitle": "<span class=\"pic-text text-right\">&&</span>",
+    //分类截取片单链接，截取前缀&&截取后缀
+    "cat_url": "href=\"/vod/&&\"",  
+    //分类片单链接补前缀  
+    "cat_prefix": "https://m.e99w.com/play/",
+    //分类片单链接补后缀
+    "cat_suffix": "-1-1.html",
+    
+    //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
+    "search_url": "https://m.e99w.com/search/-------------.html?wd={wd}&submit=",
+    //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
+    "search_mode": "1",
+    //json片单图片
+   // "jsonpic": "pic",
+    //json片单标题
+   // "jsonname": "name",
+    //json片单链接
+   // "jsonid": "id",
+    //json片单副标题，这个很少有，预留着
+  //  "jsonstitle":"",
+    //搜索是否二次截取  
+    "sea_YN_twice": "0",
+    //搜索二次截取前
+    "sea_twice_pre": "空",
+    //搜索二次截取后
+    "sea_twice_suf": "空",
+    //搜索数组前缀
+    "sea_arr_pre": "class=\"col-xs-3",
+    //搜索数组后缀
+    "sea_arr_suf": "</li>",
+    //搜索片单图片，截取前缀&&截取后缀
+    "sea_pic": "data-original=\"&&\"",
+    //搜索片单标题，截取前缀&&截取后缀
+    "sea_title": "title=\"&&\"",
+    //搜索片单链接，截取前缀&&截取后缀
+    "sea_url": "href=\"&&\"",
+    //搜索片单链接补前缀
+    "search_prefix": "https://m.e99w.com",
+    //搜索片单链接补后缀，这个一般json搜索的需要
+    "search_suffix": "",
+    //搜索副标题，截取前缀&&截取后缀
+    "sea_subtitle": "",
+    
+    //片单链接是否直接播放，1是直接播放。
+    "force_play": "0",
+    //直接播放链接补前缀
+    "play_prefix": "",
+    //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接
+    "play_suffix": "",
+    //直接播放链接设置请求头，每一组用#分开
+    "play_header": "",
+    
+    //演员数据，截取前缀&&截取后缀
+    "proj_actor": "主演：</span>&&</p>",
+    //简介内容，截取前缀&&截取后缀
+    "proj_plot": "class=\"col-pd\">&&</div>",
+    //线路是否二次截取
+    "tab_YN_twice": "1",
+    //线路二次截取前
+    "tab_twice_pre": "<ul class=\"dropdown-menu",
+    //线路二次截取后
+    "tab_twice_suf": "</ul>",
+    //线路截取数组前
+    "tab_arr_pre": "<li",
+    //线路截取数组后
+    "tab_arr_suf": "</li>",
+    //线路标题，截取前缀&&截取后缀
+    "tab_title": ">&&</a>",
+    
+    //列表是否二次截取
+    "list_YN_twice": "0",
+    //列表二次截取前
+    "list_twice_pre": "空",
+    //列表二次截取后
+    "list_twice_suf": "空",
+    //列表数组截取前
+    "list_arr_pre": "class=\"stui-content__playlist clearfix",
+    //列表数组截取后
+    "list_arr_suf": "</ul>",
+    //集数是否二次截取
+    "epi_YN_twice": "0",
+    //集数二次截取前
+    "epi_twice_pre": "空",
+    //集数二次截取后
+    "epi_twice_suf": "空",
+    //集数数组截取前
+    "epi_arr_pre": "<a",
+    //集数数组截取后
+    "epi_arr_suf": "/a>",
+    //集数标题，截取前缀&&截取后缀
+    "epi_title": ">&&<",
+    //集数链接，截取前缀&&截取后缀
+    "epi_url": "href=\"&&\"",
+    //集数链接补前缀
+    "epiurl_prefix": "https://m.e99w.com",
+    //集数链接补后缀
+    "epiurl_suffix": "",
+    "Anal_MacPlayer":"1"
+}
