@@ -17,11 +17,9 @@
 [{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
-{"name":"嗅探","type":0,"url":"https://api.jiexi.la/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"Web","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}}
+{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv", "sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺"],
 "ijk":
