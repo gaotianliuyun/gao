@@ -7,6 +7,7 @@
 {"key":"csp_xbb_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"csp_AppTT","name":"兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/tt.jar;md5;610afb6bb32e7c6d8aef182883702ad1"},
 {"key":"csp_XYQBiu_聚合影视","name":"聚合影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/XYQBiu_fv.json"},
+{"key":"TT","name":"TT(爬虫)","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"在线之家","name":"在线之家","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"喵喵","name":"喵喵","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"万能影视","name":"万能","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable":1,"quickSearch":1,"filterable":0},
