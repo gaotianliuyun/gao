@@ -22,7 +22,6 @@
 {"key":"csp_biubiu_迷你库","name":"迷你库","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/miniku.json"},
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"bdys","name":"哔嘀磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/Bdys.json"},
-{"key":"293视频","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_影视工厂","name":"影视工厂","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/影视工厂.json"},
 {"key":"csp_XYQBiu_555影视","name":"555影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/555dy.json"},
 {"key":"csp_XYQBiu_剧荒","name":"剧荒","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/剧荒.json"},
