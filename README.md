@@ -1,2 +1,1 @@
-tvbox & diyp
-配置文件
+tvbox & diyp  配置文件
