@@ -1,5 +1,5 @@
 {
-"spider":"https://gaotianliuyun.github.io/TvJar/custom_spider.jar;md5;b173265c7208c562613e3086444963d3",
+"spider":"https://gaotianliuyun.github.io/TvJar/custom_spider.jar;md5;089c97237aa60626811b1a6fc0534d0d",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "sites":
