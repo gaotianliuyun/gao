@@ -1,7 +1,7 @@
 {
 "spider":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/0909.jar;md5;8cdee14fc4cb8313b6fd1f431bc28718",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"wallpaper":"https://takagen-wallpaper.herokuapp.com",
 "sites":
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xbb_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/555%E7%94%B5%E5%BD%B1.json"},
