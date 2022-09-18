@@ -1,7 +1,6 @@
 {
 "spider":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/0909.jar;md5;8cdee14fc4cb8313b6fd1f431bc28718",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "sites":
 [{"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Bili","name":"Bili","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/json/chuqiuyu.json"},
