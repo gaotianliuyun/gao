@@ -1,11 +1,11 @@
 {
-"spider":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/0917.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
+"spider":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/0919.jar;md5;1bdb09562c5d0fb27bf32cfa1eadd897",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "sites":
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xbb_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/555电影.json"},
-{"key":"csp_AppTT","name":"兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/tt.jar;md5;610afb6bb32e7c6d8aef182883702ad1"},
+{"key":"csp_AppTT","name":"兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_聚合影视","name":"聚合影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/XYQBiu_fv.json"},
 {"key":"在线之家","name":"在线之家","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"喵喵","name":"喵喵","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
