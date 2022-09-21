@@ -225,12 +225,7 @@ LBRTV,http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
 武博世界,http://39.134.66.110/PLTV/88888888/224/3221225547/index.m3u8
 炫舞未来,http://39.134.66.110/PLTV/88888888/224/3221225646/index.m3u8
 中国功夫,http://39.134.66.110/PLTV/88888888/224/3221225604/index.m3u8
-音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
-音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
-imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
-意大利V2,http://de1se01.v2beat.live/playlist.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -560,6 +555,8 @@ LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 斗鱼旅行17,http://epg.112114.xyz/douyu/4834417
 斗鱼旅行18,http://epg.112114.xyz/douyu/2240445
 YY,#genre#
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 佳人如画郭mini,http://mmitv.top/pltv/yy.php?id=1349606469
 温馨美人兰梦莎,http://mmitv.top/pltv/yy.php?id=90144176
