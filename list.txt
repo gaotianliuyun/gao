@@ -203,11 +203,7 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 游戏风云,http://111.20.33.93/PLTV/88888893/224/3221226803/index.m3u8
 快乐垂钓,http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
 茶频道,http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
-精彩电视剧,http://111.20.33.93/PLTV/88888893/224/3221226012/index.m3u8
-精彩体育,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
-精彩综艺,http://111.20.33.93/PLTV/88888893/224/3221226009/index.m3u8
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-LBRTV,http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
 极速汽车,http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 爱情喜剧,http://39.134.66.110/PLTV/88888888/224/3221225533/index.m3u8
 超级电视剧,http://39.134.66.110/PLTV/88888888/224/3221225637/index.m3u8
@@ -242,6 +238,9 @@ LBRTV,http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+精彩电视剧,http://111.20.33.93/PLTV/88888893/224/3221226012/index.m3u8
+精彩体育,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
+精彩综艺,http://111.20.33.93/PLTV/88888893/224/3221226009/index.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
@@ -261,7 +260,7 @@ LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 欢笑剧场4K,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 爱上4k,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4k,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
-欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
@@ -1950,6 +1949,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+LBRTV,http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
 世界,#genre#
 Thai PBS News,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
