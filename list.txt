@@ -204,6 +204,7 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 快乐垂钓,http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
 茶频道,http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+求索纪录,http://39.134.66.110/PLTV/88888888/224/3221225713/index.m3u8
 极速汽车,http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 黑莓电影,http://39.134.66.110/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.134.66.110/PLTV/88888888/224/3221225681/index.m3u8
@@ -229,7 +230,6 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 军旅剧场,http://39.134.66.110/PLTV/88888888/224/3221225560/index.m3u8
 军事评论,http://39.134.66.110/PLTV/88888888/224/3221225535/index.m3u8
 农业致富,http://39.134.66.110/PLTV/88888888/224/3221225552/index.m3u8
-求索纪录,http://39.134.66.110/PLTV/88888888/224/3221225713/index.m3u8
 武搏世界,http://39.134.66.110/PLTV/88888888/224/3221225547/index.m3u8
 炫舞未来,http://39.134.66.110/PLTV/88888888/224/3221225646/index.m3u8
 中国功夫,http://39.134.66.110/PLTV/88888888/224/3221225604/index.m3u8
@@ -244,8 +244,6 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 精彩电视剧,http://111.20.33.93/PLTV/88888893/224/3221226012/index.m3u8
 精彩体育,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
 精彩综艺,http://111.20.33.93/PLTV/88888893/224/3221226009/index.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 4K,#genre#
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
@@ -1983,4 +1981,5 @@ MostVideo TV 1,http://w4.mostvideo.tv/tv/ch1.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
