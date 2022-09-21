@@ -109,6 +109,7 @@ CCTV2,http://219.140.56.34:3333/tsfile/live/0002_1.m3u8
 CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8
 CCTV4,http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
 CCTV4,http://39.137.49.76:8080/PLTV/88888888/224/3221225621/index.m3u8?
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 卫视,#genre#
 安徽卫视,http://111.20.33.93/PLTV/88888893/224/3221226196/index.m3u8
 安徽卫视,http://111.20.33.93/PLTV/88888893/224/3221226203/index.m3u8
@@ -224,6 +225,10 @@ LBRTV,http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
 武博世界,http://39.134.66.110/PLTV/88888888/224/3221225547/index.m3u8
 炫舞未来,http://39.134.66.110/PLTV/88888888/224/3221225646/index.m3u8
 中国功夫,http://39.134.66.110/PLTV/88888888/224/3221225604/index.m3u8
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
+意大利V2,http://de1se01.v2beat.live/playlist.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
@@ -236,7 +241,6 @@ LBRTV,http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
 4K,#genre#
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8 $4K
 纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K,http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
@@ -250,6 +254,9 @@ LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱上4k,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 斗鱼,#genre# 
 斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
