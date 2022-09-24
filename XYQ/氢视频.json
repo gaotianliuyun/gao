@@ -1,0 +1,89 @@
+//写法思路来海阔视界，xpath筛选。
+//本文档为完整模板，实际情况可按规则写法删去不需要的。
+{
+
+    "title": "氢视频",
+    "author": "Mr.zuo",
+    "Headers":"MOBILE_UA",
+    "PicNeedProxy":"0",
+    "homeContent":"1",
+    "firstpage": "1",
+    "class_url": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "class_name": "电影&电视剧&综艺&动漫",
+    "class_value": "1&2&31&3",
+    "filterdata":{},
+    "cat_mode": "1",
+    
+    "cat_arr_rule": ".module-items&&a",
+
+    "cat_title": "a&&title",
+
+    "cat_url": "a&&href",
+
+    "cat_pic": ".lazyload&&data-original",
+
+    "cat_subtitle":".module-item-note&&Text",
+
+    "cat_prefix": "http://h1080p.com",
+
+    "cat_suffix": "",
+    
+    "SHeaders":"MOBILE_UA",
+
+    "search_url": "http://h1080p.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+
+    "sea_PtBody":"",
+ 
+    "search_mode": "0",
+ 
+    "sea_arr_rule": "list",
+
+    "sea_pic": "pic",
+ 
+    "sea_title": "name",
+ 
+    "sea_url": "id",
+
+    "sea_subtitle":"",
+    
+    "search_prefix": "http://h1080p.com/index.php/vod/detail/id/",
+
+    "search_suffix": ".html",
+    
+    "force_play": "0",
+
+    "play_prefix": "https://live.52sf.ga/huya/",
+
+    "play_suffix": "#isVideo=true#",
+
+    "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
+    
+    "proj_actor": ".module-info-item-content,1&&Text",
+
+    "proj_plot": ".module-info-introduction-content&&Text",
+    
+    "tab_arr_rule": ".module-tab-items-box&&.module-tab-item",
+ 
+    "tab_title": "Text",
+
+    "list_arr_rule": "body&&.module-play-list-content",
+
+    "epi_arr_rule": ".module-play-list-link",
+
+    "epi_title": "a&&Text",
+
+    "epi_url": "a&&href",
+
+    "epi_reverse": "0",
+
+    "epiurl_prefix": "http://h1080p.com",
+    "epiurl_suffix": "",
+    
+    
+ 
+    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"0",
+    "VideoFormat":".mp4#.m3u8#.flv",
+    "VideoFilter":".html#=http"
+}
