@@ -31,7 +31,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/极品影视.json",
+"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/黑洞影视.json",
 "jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XBPQ.jar"},
 {"key":"csp_XYQBiu_21","name":"XBPQ","type":3,"api":"csp_XBPQBiu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_分享短视频","name":"分享短视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/分享短视频.json"},
