@@ -1,0 +1,13 @@
+{
+    "作者": "好",
+    "站名": "爱看",
+    "分类url": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+    "播放数组": "<div class=\"module-play-list\">&&</div>",
+    "副标题": "item-note\"&&<div class=\"module-item-pic\"",
+    "搜索后缀": "/voddetail/",
+    "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
+    "线路标题": "<span>&&</span>",
+    "嗅探词": ".m3u8",
+    "过滤词": "",
+    "筛选": "0"
+}
