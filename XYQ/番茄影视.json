@@ -1,0 +1,11 @@
+{
+	"免嗅": "1",
+	"导演": "导演：&&</div",
+	"主演": "主演：&&</div",
+	"简介": "module-info-introduction-content&&</div>",
+	"副标题": "class=\"hl-lc-1 remarks\">&&</span>",
+	"播放标题": "span>&&</span",
+	"播放数组": "class=\"hl-plays-list&&</div>",
+	"分类": "国产电视剧$13#剧电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5",
+	"分类url": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"
+}
