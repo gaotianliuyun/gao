@@ -4174,7 +4174,6 @@ Erotic 3,http://195.154.185.179:80/xx_hot_tv/video.m3u8
 Redlight HD[1920x1080],http://93.152.174.144:4000/play/privatetv1/index.m3u8
 Redlight HD[1920x1080],http://93.152.174.144:4000/play/privatetv1/tracks-v1a1/index.m3u8
 Hustler HD[1280x720],http://193.33.240.8:80/hustler_hd/video.m3u8
-Hustler TV],http://78.83.191.18:8000/play/a078
 Pink\'o TV,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
 Pink\'o TV,http://93.152.174.144:4000/play/pinkotv/index.m3u8
 Erox,http://94.229.250.73:8008/play/a002
