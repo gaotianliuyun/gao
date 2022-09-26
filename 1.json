@@ -34,7 +34,7 @@
 {"key":"csp_XBPQ爱看","name":"爱看〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/爱看.json"},
 {"key":"csp_XBPQ饭团影视","name":"饭团影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/饭团影视.json"},
 {"key":"csp_XBPQ诺讯影视","name":"诺讯影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/诺讯影视.json"},
-{"key":"csp_SP293","name":"293视频〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP293","name":"293视频〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293.jar"},
 {"key":"csp_xml_小猫咪","name":"小猫咪〔JSON〕","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"csp_xbb_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"饭团影视","name":"饭团影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/ftys.json"},
