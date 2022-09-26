@@ -24,7 +24,7 @@
 {"key":"csp_XYQBiu_酷蚂蚁","name":"酷蚂蚁〔XYQ〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/酷蚂蚁.json"},
 {"key":"csp_XYQBiu_影视工厂","name":"影视工厂〔XYQ〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/影视工厂.json"},
 {"key":"csp_XYQBiu_小猫咪","name":"小猫咪〔XYQ〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/小猫咪.json"},
-{"key":"csp_XYQBiu_蓝光影院","name":"蓝光影院〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/蓝光影院.json"},
+{"key":"csp_XYQBiu_蓝光影院","name":"蓝光影院〔XYQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/蓝光影院.json"},
 {"key":"csp_XYQBiu_分享短视频","name":"分享短视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/分享短视频.json"},
 {"key":"csp_XYQBiu_聚合影视","name":"聚合影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/XYQBiu_fv.json"},
 {"key":"csp_XBPQ极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/极品影视.json"},
