@@ -41,7 +41,7 @@
 {"key":"csp_XBPQ看戏影视","name":"看戏影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/看戏影视.json"},
 {"key":"csp_XBPQ皮皮泡影视","name":"皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/皮皮泡影视.json"},
 {"key":"csp_XBPQ六度TV","name":"六度TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/六度TV.json"},
-{"key":"csp_XBPQ劇迷","name":"劇迷〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/劇迷.json"},
+{"key":"csp_XBPQ嘿嘿影视","name":"嘿嘿影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/嘿嘿影视.json"},
 {"key":"csp_SP293","name":"293视频〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
 {"key":"APPTT","name":"图图（SP）","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/Alist.json","jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
