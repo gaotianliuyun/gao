@@ -1,0 +1,9 @@
+{
+	"免嗅": "1",
+	"播放标题": ">&&<",
+	"导演": "导演：&&</div",
+	"主演": "主演：&&</div",
+	"简介": "module-info-introduction-content&&</div>",
+	"播放数组": "class=\"stui-content__playlist&&</div>",
+	"分类url": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
+}
