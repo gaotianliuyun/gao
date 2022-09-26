@@ -31,6 +31,7 @@
 {"key":"csp_XYQBiu_蓝光影院","name":"蓝光影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XYQ/蓝光影院.json"},
 {"key":"csp_SP293","name":"293视频〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
 {"key":"APPTT","name":"图图（SP）","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
+{"key":"低端爬虫","name":"低端","api":"csp_Ddrk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/Alist.json","jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
 {"key":"csp_xml_小猫咪","name":"小猫咪〔JSON〕","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"csp_xbb_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/555%E7%94%B5%E5%BD%B1.json"},
