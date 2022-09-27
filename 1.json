@@ -3,7 +3,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
-[{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=14ab7929c5724ffd9c3431d8fa19d421&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+[{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=c97bd222f6c141bdb9b3c7ae9d6ac814&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_007影视","name":"007影视(道长)","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=007影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_1080P","name":"1080P(道长)","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=1080P","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_360影视","name":"360影视(道长)","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=360影视","searchable":2,"quickSearch":0,"filterable":0},
@@ -139,12 +139,12 @@
 {"key":"csp_biubiu_cupfox","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/茶杯狐.json"},
 {"key":"csp_biubiu_voflix","name":"voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/voflix.json"},
 {"key":"Bili","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/chuqiuyu.json"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"Upyunso","name":"up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"zhaozy","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"Yiso","name":"一搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"14ab7929c5724ffd9c3431d8fa19d421"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"14ab7929c5724ffd9c3431d8fa19d421"}
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"c97bd222f6c141bdb9b3c7ae9d6ac814"},
+{"key":"Upyunso","name":"up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c97bd222f6c141bdb9b3c7ae9d6ac814"},
+{"key":"zhaozy","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"c97bd222f6c141bdb9b3c7ae9d6ac814"},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"c97bd222f6c141bdb9b3c7ae9d6ac814"},
+{"key":"Yiso","name":"一搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c97bd222f6c141bdb9b3c7ae9d6ac814"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"c97bd222f6c141bdb9b3c7ae9d6ac814"}
 ],
 "parses":
 [{"name":"解析聚合","type":3,"url":"Demo"},
