@@ -1,5 +1,5 @@
 {
-"spider":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/0928.jar",
+"spider":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/XBiu.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
@@ -85,11 +85,11 @@
 {"key":"csp_app_天天视频","name":"天天视频","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_app_群鑫影视","name":"群鑫影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
 {"key":"csp_app_MX影视","name":"MX影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"csp_xpath_tjyy","name":"奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/huigutongying.json","jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
-{"key":"XPF-bdys","name":"哔嘀影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/bdyscl.json","jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
-{"key":"csp_xpath_dm84","name":"动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/dm84.json","jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
-{"key":"csp_xpath_UM","name":"UM影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/UM.json","jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
-{"key":"csp_xpath_007","name":"玲玲七","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/007.json","jar":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/293tt.jar"},
+{"key":"csp_xpath_tjyy","name":"奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/huigutongying.json"},
+{"key":"XPF-bdys","name":"哔嘀影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/bdyscl.json"},
+{"key":"csp_xpath_dm84","name":"动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/dm84.json"},
+{"key":"csp_xpath_UM","name":"UM影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/UM.json"},
+{"key":"csp_xpath_007","name":"玲玲七","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/007.json"},
 {"key":"csp_xb_ysgc","name":"影视工厂(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_lgyy","name":"蓝光影院（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbb_达达龟","name":"达达龟（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
