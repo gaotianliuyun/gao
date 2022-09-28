@@ -6,7 +6,7 @@
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_biubiu_tvb云播","name":"tvb云播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/tvb云播.json"},
 {"key":"csp_XPath农民影视","name":"农民影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/农民影视.json"},
-{"key":"csp_XPath骚火电影","name":"骚火电影","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/骚火电影.json"},
+{"key":"csp_XPath骚火电影","name":"骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/骚火电影.json"},
 {"key":"csp_XPath小强迷","name":"小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/chuqiuyu/chuqiuyu/-/raw/master/json/小强迷.json"},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
