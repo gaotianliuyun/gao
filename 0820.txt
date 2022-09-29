@@ -1,6 +1,6 @@
 {
 "spider":"https://gaotianliuyun.github.io/gao/0929.jar;md5;77afd616fd7d56c0cce18204a0ff47eb",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nYW90aWFubGl1eXVuLmdpdGh1Yi5pby9nYW8vbGlzdC50eHQ="]}]}],
 "sites":
 [{"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
