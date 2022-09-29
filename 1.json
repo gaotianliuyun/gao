@@ -1,6 +1,6 @@
 {
 "spider":"https://gaotianliuyun.github.io/gao/0928.jar;md5;ff0ea5727d7f5bafb443a2f87ebf7724",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9jaHVxaXV5dS9jaHVxaXV5dS8tL3Jhdy9tYXN0ZXIvbGlzdC50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://gaotianliuyun.github.io/gao/list.txt"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
@@ -10,7 +10,7 @@
 {"key":"csp_XYQBiu_Fositv","name":"Fositv〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/Fositv.json"},
 {"key":"csp_XBPQ厂长资源","name":"厂长资源〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/厂长资源.json"},
 {"key":"csp_XBPQ大师兄","name":"大师兄〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/大师兄.json"},
-{"key":"csp_XBPQ影视工厂xBPQ","name":"影视工厂〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/影视工厂xBPQ.json"},
+{"key":"csp_XBPQ影视工厂xBPQ","name":"影视工厂〔XBPQ〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/影视工厂xBPQ.json"},
 {"key":"csp_XBPQ大米星球xBPQ","name":"大米星球〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/大米星球xBPQ.json"},
 {"key":"csp_XBPQVIP1280","name":"VIP1280〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/VIP1280.json"},
 {"key":"csp_XBPQVIP电影","name":"VIP电影〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/VIP电影.json"},
