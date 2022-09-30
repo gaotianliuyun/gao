@@ -132,6 +132,7 @@
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
+{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
 {"name":"懒人","type":1,"url":"http://120.53.102.254/jx1/jx75.php?url="},
