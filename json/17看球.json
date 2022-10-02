@@ -1,72 +1,74 @@
-//地址 https://ju54321.com  https://juyouav.com  https://avjs.vip  https://juyouav.com  https://mdav.vip https://www.2022xxj.com
+{
+  "author": "",
+  "name": "自定义规则讲解演示",
+  "url": "https://zh.xhamster3.com/", //填网站链接
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "shouye": "1",
 
-{"name": "新香蕉综合网-聚优站",
-"url": "https://zh.xhamster3.com",
-"tihuan": "cnzz.com",
-"User": "空",
- "shouye": "1",
+  "fenlei": "电影$/4k/#电视剧$/hd/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#记录$/index.php/vod/show/id/5/page/#国产剧$/index.php/vod/show/id/201/page/#港台剧$/index.php/vod/show/id/202/page/#日韩剧$/index.php/vod/show/id/203/page/#欧美剧$/index.php/vod/show/id/204/page/#海外剧$/index.php/vod/show/id/205/page/", //网站列表的分类
+  "houzhui": ".html", //网站翻页链接的后缀
 
-"fenlei": "水果解说$/categories/4k/sy-u-#中文无码$/categories/hd/si-u-#中文综合$/categories/cfnm/si-v-#中文近亲$/xjzy/si-w-#中文护士$/xjzy/si-x-#中文师生$/xjzy/si-y-#中文强奸$/xjzy/si-z-#国产自拍$/xjzy/si-2-#美女主播$/xjzy/si-3-#三级伦理$/xjzy/si-7-
+  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截取就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "class=\"pic\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "</li>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
 
-#（超清）亚洲ＡＶ$/cq/su-ab-#自拍偷拍$/cq/su-bb-#超清传媒$/cq/su-cb-#3D动漫$/cq/su-eb-#欧美ＡＶ$/cq/su-db-#乱伦人妻$/cq/su-fb-#丝袜制服$/cq/su-gb-#直播录播$/cq/su-hb-#SM另类$/cq/su-ib-#超清三级$/cq/su-jb-
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "",
+  "fubiaotihou": "",
 
-#（国产）麻豆原创$/gccm/st-b-#91制片厂$/gccm/st-c-#糖心Vlgo$/gccm/st-q-#天美传媒$/gccm/st-d-#蜜桃传媒 $/gccm/st-e-#皇家华人$/gccm/st-f-#星空传媒$/gccm/st-g-#精东影业$/gccm/st-h-#乐播传媒$/gccm/st-i-#乌鸦传媒$/gccm/st-j-#兔子先生$/gccm/st-k-#杏吧原创$/gccm/st-l-#mini传媒$/gccm/st-m-#大象传媒$/gccm/st-n-#开心鬼传媒$/gccm/st-o-#PsychoPorn$/gccm/st-p-
 
-#（久久）国产自拍$/99re/sr-kb-#肛交$/99re/sr-fb-#口爆颜射$/99re/sr-eb-#潮吹$/99re/sr-bb-#会员认证作品$/99re/sr-cb-#制服丝袜$/99re/sr-db-#一本道$/99re/sr-X-#高清$/99re/sr-Y-#日本有码$/99re/sr-W-#加勒比$/99re/sr-V-#日本无码$/99re/sr-U-#李宗瑞全集$/99re/sr-T-#中文字幕$/99re/sr-S-#欧美$/99re/sr-R-#东京热$/99re/sr-gb-#小格式综合$/99re/sr-hb-#女主播系列$/99re/sr-ib-#成人动漫$/99re/sr-jb-#SM性虐$/99re/sr-lb-#韩国综合$/99re/sr-mb-
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/index.php/vod/detail/id/", //搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
 
-#（废柴）VIP专区$/fcw/se-R-#偷拍系列$/fcw/se-U-#国产自拍$/fcw/se-W-#日本有码$/fcw/se-S-#日本无码$/fcw/se-T-#成人动漫$/fcw/se-V-#韩国综合$/fcw/se-X-#VR专区$/fcw/se-Y-#欧美$/fcw/se-Z-",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"zu", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
-"houzhui": ".html",
-"shifouercijiequ": "1",
-"jiequqian": "class=\"list-videos\"",
-"jiequhou": "class=\"pagination\"",
-"jiequshuzuqian": "<a",
-"jiequshuzuhou": "</a>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/?m=search-type-so-0.html&TXT=",
-"sousuohou": "&submit=",
-"sousuohouzhui": "/detail/",
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"jspic": "空",
-"jsname": "空",
-"jsid": "空",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "class=\"uk-width-1-5",
-"ssjiequshuzuhou": "</a>",
-"sstupianqian": "data-original=\"",
-"sstupianhou": "\"",
-"ssbiaotiqian": "title=\"",
-"ssbiaotihou": "\"",
-"sslianjieqian": "href=\"",
-"sslianjiehou": "\"",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"item\">更新",
+  "zhuangtaiqian": "更新：</span>", //状态前关键词
+  "zhuangtaihou": "</p>", //状态后关键词
+  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanhou": "</p>", //导演态后关键词
+  "zhuyanqian": "主演：</span>", //主演前关键词
+  "zhuyanhou": "</p>", //主演后关键词
+  "juqingqian": "简介：</span>", //剧情前关键词
+  "juqinghou": "</div>", //剧情后关键词
 
-//"bfjiequshuzuqian": "class=\"read-btn uk-margin-bottom",
-"bfjiequshuzuhou": "猜你喜欢",
-"zhuangtaiqian": "类型：",
-"zhuangtaihou": "</div>",
-"daoyanqian": "更新：",
-"daoyanhou": "</div>",
-"zhuyanqian": "主演：",
-"zhuyanhou": "</div>",
-"juqingqian": "片名：",
-"juqinghou": "</div>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""}
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bflianjieqian": "href=\"", //播放剧集链接前关键词
+  "bflianjiehou": "\"" //播放剧集链接后关键词
+}
