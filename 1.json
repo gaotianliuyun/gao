@@ -4,7 +4,6 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xbb_17看球","name":"看球（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/17看球.json"},
 {"key":"csp_xbb_2022xxj","name":"2022xxj（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/2022xxj.json"},
 {"key":"csp_xbb_akmeiju","name":"akmeiju（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/akmeiju.json"},
 //{"key":"csp_xbb_gaoaa","name":"gaoaa（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/gaoaa.json"},
