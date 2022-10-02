@@ -13,6 +13,7 @@
 {"key":"csp_xbb_xjxj88","name":"xjxj88（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/xjxj88.json"},
 {"key":"csp_xbb_umkan","name":"umkan（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/umkan.json"},
 {"key":"csp_xpath_HOHO","name":"HOHO(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/Hoho.json"}, 
+{"key":"csp_XBPQ唐人街","name":"唐人街〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/唐人街.json"},
 {"key":"csp_XBPQ1080在线","name":"1080在线〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/1080在线.json"},
 {"key":"csp_XBPQ98影院","name":"98影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/98影院.json"},
 {"key":"csp_XYQBiu_APP影院","name":"APP影院〔XBPQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/APP影院.json"},
