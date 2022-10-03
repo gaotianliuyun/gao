@@ -55,6 +55,7 @@
 [{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"Parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
