@@ -4,7 +4,16 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-    {
+{
+      "key": "RelaxSP",
+      "name": "轻松",
+      "api": "csp_RelaxSP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+    "jar":"https://gaotianliuyun.github.io/gao/RelaxSP.jar"
+    },    {
       "key": "PpTV",
       "name": "📺PPTV(官)",
       "type": 0,
