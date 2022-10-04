@@ -5,7 +5,7 @@
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/Alist.json"},
 {"key":"Bili","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/chuqiuyu.json"},
-{"key":"2022xxj","name":"2022xxj","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/2022xxj.json","jar":"https://gaotianliuyun.github.io/gao/0929.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
+{"key":"2022xxj","name":"2022xxj","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gaotianliuyun.github.io/gao/json/2022xxj.json"},
 //{"key":"泥巴","name":"泥巴","type":3,"api":"csp_Nbys","searchable":1,"filterable":1},
 //{"key":"朱古力","name":"朱古力","type":3,"api":"csp_Pig","searchable":1,"filterable":1},
 //{"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"filterable":1},
