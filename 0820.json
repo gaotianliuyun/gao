@@ -26,7 +26,6 @@
 {"key":"低端爬虫","name":"低端","api":"csp_Ddrk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"3EDY","name":"3EDY","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nianying","name":"念影","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
