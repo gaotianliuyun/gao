@@ -10,19 +10,14 @@
   "cateName": "/span/text()",
   "cateId": "/@href",
   "cateIdR": "/vod/type/id/(\\S+).html",
-  "cateManual": {
-    "电影": "1",	
-    "电视剧": "2",
-    "国产剧": "13",
-    "港台剧": "14",
-    "欧美剧": "16",
-    "日韩剧": "15",
-    "综艺": "3",
-    "动漫": "4",
-    "纪录片": "20"
-    },
-"分类url":"https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}/by/{by}/page/{catePg}.html",
-//"分类url":"https://www.hohovod.com/vod/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html",  
+  "cateManual": {"电影": "1",	"电视剧": "2","国产剧": "13","港台剧": "14","欧美剧": "16","日韩剧": "15","综艺": "3","动漫": "4","纪录片": "20"},
+"简介": "class=\"video-info-item video-info-content vod_content&&</div>",
+//"分类url":"https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}/by/{by}/page/{catePg}.html",
+//"主页url": "https://www.hohovod.com",
+"分类url":"https://www.hohovod.com/vod/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html",  
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</small>",
+"播放数组":"class=\"scroll-content\">&&</div>",
 // Home Summary =====================================================
   "homeVodNode": "//div[@class='module-item-cover']",
   "homeVodName": "/div[@class='module-item-pic']/a/@title",
@@ -33,7 +28,7 @@
   "homeVodMark": "//div[@class='module-item-caption']/span/text()",
   
 // Category Summary =================================================
-  "cateUrl": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}/by/{by}/page/{catePg}.html",
+"cateUrl": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}/by/{by}/page/{catePg}.html",
   "cateVodNode": "//div[@class='module-item-cover']",
   "cateVodName": "/div[@class='module-item-pic']/a/@title",
   "cateVodId": "/div[@class='module-item-pic']/a/@href",
