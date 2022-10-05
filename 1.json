@@ -46,6 +46,7 @@
       ]
     },
 {"key":"csp_XBPQhoho","name":"hoho〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/hoho.json"},
+{"key":"csp_XBPQXBPQ/F7好看剧.json","name":"F7好看剧〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/F7好看剧.json"},
 {"key":"csp_XBPQgimy","name":"gimy〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/gimy.json"},
 {"key":"csp_XBiugimy","name":"gimy〔XBiu〕","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/gimy.json"},
 {"key":"csp_XBPQzjmiao","name":"zjmiao〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/zjmiao1.json"},
