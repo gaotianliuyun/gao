@@ -4,6 +4,8 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_XBPQ电影先生","name":"电影先生〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/电影先生.json"},
+{"key":"csp_XBPQF7好看剧","name":"F7好看剧〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/F7好看剧.json"},
 {
       "key": "RelaxSP",
       "name": "轻松",
@@ -13,7 +15,8 @@
       "quickSearch": 1,
       "filterable": 1,
     "jar":"https://gaotianliuyun.github.io/gao/RelaxSP.jar"
-    },    {
+    },
+ {
       "key": "PpTV",
       "name": "📺PPTV(官)",
       "type": 0,
