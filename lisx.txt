@@ -1,5 +1,4 @@
-x,#genre#
-SP,#genre#
+0,#genre#
 彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
 彩虹电影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
 LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
