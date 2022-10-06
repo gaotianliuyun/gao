@@ -5,8 +5,8 @@
 "sites":
 [{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_XBPQ零零七影视.json","name":"零零七影视〔XBPQ〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/零零七影视.json"},
-{"key":"csp_XBPQ奇粹影视.json","name":"奇粹影视〔XBPQ〕","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/奇粹影视.json"},
-{"key":"csp_XBPQ无插件直播.json","name":"无插件直播〔XBPQ〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/无插件直播.json"},
+{"key":"csp_XBPQ奇粹影视.json","name":"奇粹影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/奇粹影视.json"},
+{"key":"csp_XBPQ无插件直播.json","name":"无插件直播〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/无插件直播.json"},
 {"key":"csp_XBPQ段友影视.json","name":"段友影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/段友影视.json"},
 {"key":"csp_XBPQ热播库.json","name":"热播库〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/热播库.json"},
 {"key":"csp_XBPQ素白白.json","name":"素白白〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/素白白.json"},
@@ -14,7 +14,7 @@
 {"key":"csp_XBPQ酷客影视.json","name":"酷客影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/酷客影视.json"},
 {"key":"csp_XBPQ花猫TV.json","name":"花猫TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/花猫TV.json"},
 {"key":"csp_XBPQ七小时影院","name":"七小时影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/七小时影院.json"},
-{"key":"csp_XBPQ冷曦影视.json","name":"冷曦影视〔XBPQ〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/冷曦影视.json"},
+{"key":"csp_XBPQ冷曦影视.json","name":"冷曦影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/冷曦影视.json"},
 {"key":"csp_XBPQ胖虎","name":"胖虎〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/胖虎影视.json"},
 
 {"key":"csp_XBPQ极品影视.json","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/极品影视.json"},
