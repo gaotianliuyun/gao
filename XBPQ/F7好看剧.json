@@ -11,7 +11,7 @@
         "电影": "1",
         "剧集": "2", 
         "综艺": "3",     
-            
+           
         "动漫": "4",
 	"Bilibili": "20"    
     },
@@ -22,8 +22,19 @@
     "homeVodImg": "//div[@class='module-item-pic']/img/@data-original",
     "homeVodImgR": "",
     "homeVodMark": "//div[@class='module-item-note']/text()",
-   // "cateUrl": "https://www.f7hkj.cc/vodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-      "cateUrl": "https://www.f7hkj.cc/vodtype/{cateId}.html",
+
+  "分类": "电影$1#剧集$2#综艺$3#动漫$4#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$17#Bilibili$20",
+  "分类url": "https://www.f7hkj.cc/vodshow/{cateId}-{area}-{by}-{class}--------{year}.html",
+//"cateUrl": "https://www.f7hkj.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+//   "cateUrl": "https://www.f7hkj.cc/vodtype/{cateId}.html",
+  "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
+  "线路标题": "<span>&&</small>",
+  "播放数组": "<div class=\"module-play-list-content &&</div>",
+  //"播放列表": "<a&&/a>",
+  //"播放标题": ">&&<",
+  //"播放链接": "f7hkj.cc&&\"",
+  
+	
     "cateVodNode": "//div[@class='module-items module-poster-items-base']/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
