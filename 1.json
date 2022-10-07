@@ -1,5 +1,5 @@
 {
-"spider":"https://gaotianliuyun.github.io/gao/0928.jar;md5;ff0ea5727d7f5bafb443a2f87ebf7724",
+"spider":"https://gaotianliuyun.github.io/gao/1008.jar;md5;f4ba0b967a9fad08afa06d198e3b796d",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nYW90aWFubGl1eXVuLmdpdGh1Yi5pby9nYW8vbGlzdC50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
@@ -105,8 +105,8 @@
 {"key":"csp_XYQBiu_16","name":"万能影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/万能影视.json"},
 {"key":"csp_XYQBiu_分享短视频","name":"分享短视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/分享短视频.json"},
 {"key":"csp_XYQBiu_聚合影视","name":"聚合影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/XYQBiu_fv.json"},
-{"key":"csp_XYQBiu_zxzj","name":"在线之家〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/zxzj.json"},
-{"key":"csp_XYQBiu_氢视频","name":"️氢视频〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/氢视频.json"},
+{"key":"csp_XYQBiu_zxzj","name":"在线之家〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/zxzj.json","jar":"https://gaotianliuyun.github.io/gao/0929.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
+{"key":"csp_XYQBiu_氢视频","name":"️氢视频〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/氢视频.json","jar":"https://gaotianliuyun.github.io/gao/0929.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
 
 {"key":"csp_app_9E03","name":"9E03（V2）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_app_gotka","name":"速播影视（V2）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
