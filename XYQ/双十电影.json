@@ -1,5 +1,4 @@
 {
-  "作者": "菜妮丝",
   "站名": "双十电影",
   "主页url": "https://www.1010dianying.com",
   
@@ -8,18 +7,18 @@
   //"分类url": "https://www.1010dy3.com/show/{cateId}{area}{by}{class}{year}/page/{catePg}",
   "分类url": "https://www.1010dianying.com/vodshow1237/{cateId}-{area}-{by}-{class}-{lang}-------{year}/",
   
-  "副标题": "text-right\">&&</span>",
+  //"副标题": "text-right\">&&</span>",
   
-  "搜索后缀": "/detail/",
+  //"搜索后缀": "/detail/",
   
-  "导演": "导演：&&</p>",
-  "主演": "主演：&&</p>",
-  "简介": "<p class=\"col-pd\">&&</span>",
+ // "导演": "导演：&&</p>",
+  //"主演": "主演：&&</p>",
+  //"简介": "<p class=\"col-pd\">&&</span>",
   
   "线路数组": "class=\"stui-pannel__head&&</div>",
-  "线路标题": "class=\"title\">&&</h3>",
+  "线路标题": "class=\"title&&</h3>",
   
-  "播放数组": "<ul class=\"stui-content&&</ul>",
+  "播放数组": "class=\"stui-content__playlist&&</ul>",
   
   "筛选": {
 "1":[
