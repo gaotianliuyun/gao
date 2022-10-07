@@ -62,9 +62,6 @@
 {"key":"csp_XBPQUM影院.json","name":"UM影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/UM影院.json"},
 {"key":"csp_XBPQApp影视.json","name":"App影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/App影视.json"},
 
-{"key":"csp_XBPQ胖虎影视","name":"胖虎影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/胖虎影视.json"},
-{"key":"csp_XBPQ酷客影院","name":"酷客影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/酷客影院.json"},
-{"key":"csp_XYQBiu_素白白","name":"素白白〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/素白白.json"},
 {"key":"csp_XBPQzjmiao","name":"追喵〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/zjmiao1.json"},
 {"key":"csp_XBPQ双十电影","name":"双十电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/双十电影.json"},
 {"key":"csp_XBPQ大米星球xBPQ","name":"大米星球〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XYQ/大米星球xBPQ.json"},
