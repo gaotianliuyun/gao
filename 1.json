@@ -39,9 +39,10 @@
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"多多","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
 
-{"key":"csp_xb_ysgc","name":"影视工厂（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key":"csp_xb_lgyy","name":"蓝光影院（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xbb_达达龟","name":"达达龟（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xbiu_ysgc","name":"影视工厂（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
+{"key":"csp_xbiu_lgyy","name":"蓝光影院（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xbiu_达达龟","name":"达达龟（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xbiu_reboku","name":"reboku（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.reboku.cc/so/{wd}----------{pg}---.html"},
 
 {"key":"csp_XBPQ好看影视.json","name":"好看影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/好看影视.json"},
 {"key":"csp_XBPQ段友影视.json","name":"段友影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/XBPQ/段友影视.json"},
