@@ -62,7 +62,7 @@
 {"name":"懒人","type":1,"url":"http://120.53.102.254/jx1/jx75.php?url="},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"Web","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}}],
-rules":[
+"rules":[
 {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
 {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},
 {"host":"*","rule":["/m3u8.php","path="]},
