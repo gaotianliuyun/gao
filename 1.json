@@ -3,6 +3,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"Alist99","name":"Alist","type":3,"api":"csp_Alist3","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
+{"key":"Alist999","name":"Alist","type":3,"api":"csp_Alist3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--i0v44m.xyz"},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
