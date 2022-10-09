@@ -3,6 +3,9 @@
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
+{"key":"drpy_js_真不卡11","name":"真不卡[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"},
+{"key":"drpy_js_360影视11","name":"360影视[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
+
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"./Js/555影视.js"},
 {"key":"drpy_js_1080P","name":"1080P[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"./Js/1080P.js"},
@@ -49,8 +52,6 @@
 {"key":"drpy_js_追剧喵","name":"追剧喵[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"./Js/追剧喵.js"},
 
 {"key":"csp_xBPQ_在线影视","name":"在线影视xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/zaixiandianying8.json"},
-{"key":"drpy_js_真不卡11","name":"真不卡[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"},
-{"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
 {"key":"酷云77(DR)","name":"酷云77[JS]","type":3,"api":"https://gaotianliuyun.github.io/gao/libs/drpy.min.js","ext":"https://gaotianliuyun.github.io/gao/Js/酷云77.js"},
 {"key":"555影视(DR)","name":"555影视[JS]","type":3,"api":"https://gaotianliuyun.github.io/gao/libs/drpy.min.js","ext":"https://gaotianliuyun.github.io/gao/Js/555影视.js"},
 {"key":"追剧喵(DR)","name":"追剧喵[JS]","type":3,"api":"https://gaotianliuyun.github.io/gao/libs/drpy.min.js","ext":"https://gaotianliuyun.github.io/gao/Js/追剧喵.js"},
