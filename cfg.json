@@ -41,7 +41,7 @@
 {"key":"drpy_js_优酷","name":"优酷[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"https://gaotianliuyun.github.io/gao/Js/优酷.js"},
 {"key":"drpy_js_在线之家","name":"在线之家[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"https://gaotianliuyun.github.io/gao/Js/在线之家.js"},
 {"key":"drpy_js_真不卡","name":"真不卡[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"https://gaotianliuyun.github.io/gao/Js/真不卡.js"},
-{"key":"drpy_js_追剧喵","name":"追剧喵[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"https://gaotianliuyun.github.io/gao/Js/追剧喵.js"}
+{"key":"drpy_js_追剧喵","name":"追剧喵[DRPY]","type":3,"api":"https://gaotianliuyun.github.io/gao/drpy.js","ext":"https://gaotianliuyun.github.io/gao/Js/追剧喵.js"},
 {"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
