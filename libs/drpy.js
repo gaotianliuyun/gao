@@ -1,6 +1,6 @@
 import './lib/util.js';
-import cheerio from './lib/cheerio.min.js';
-import './lib/crypto-js.js'
+import cheerio from 'assets://js/lib/cheerio.min.js';
+import 'assets://js/lib/crypto-js.js'
 // import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
 
 // const key = 'drpy_zbk';
@@ -649,8 +649,8 @@ function homeParse(homeObj) {
                                 }
 
                                 classes.push({
-                                    'type_id': url,
-                                    'type_name': name
+                                    'type_id': url.trim(),
+                                    'type_name': name.trim()
                                 });
                             } catch (e) {
                                 console.log(`分类列表定位第${idex}个元素正常报错:${e.message}`);
