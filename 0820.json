@@ -49,6 +49,8 @@
 {"key":"csp_xb_huix","name":"回响（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
 {"key":"csp_xb_aikan","name":"爱看影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"},	
 
+{"key":"csp_XBPQ乐猪.json","name":"乐猪〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
+{"key":"csp_XBPQ骚火电影.json","name":"骚火电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/骚火电影.json"},
 {"key":"csp_XBPQ段友影视.json","name":"段友影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/段友影视.json"},
 {"key":"csp_XBPQ热播库.json","name":"热播库〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播库.json"},
 {"key":"csp_XBPQ素白白.json","name":"素白白〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/素白白.json"},
