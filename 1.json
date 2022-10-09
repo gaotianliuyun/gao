@@ -5,6 +5,7 @@
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_XBPQ乐猪.json","name":"乐猪.json〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
 {"key":"csp_XBPQ骚火电影.json","name":"骚火电影.json〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/骚火电影.json"},
+{"key":"drpy_js_真不卡","name":"真不卡[DRPY]","type":3,"api":"./js/drpy.js","ext":"./js/真不卡.js"},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
