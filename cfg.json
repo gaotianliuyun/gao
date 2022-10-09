@@ -42,6 +42,7 @@
 {"key":"drpy_js_在线之家","name":"在线之家[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/在线之家.js"},
 {"key":"drpy_js_真不卡","name":"真不卡[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"},
 {"key":"drpy_js_追剧喵","name":"追剧喵[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧喵.js"}],
+"spider":"./1008.jar;md5;f4ba0b967a9fad08afa06d198e3b796d",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "parses":[{"name":"8090","url":"https://www.8090g.cn/?url="}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
