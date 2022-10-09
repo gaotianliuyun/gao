@@ -1947,7 +1947,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 LBRTV,http://111.20.33.93/PLTV/88888893/224/3221226000/index.m3u8
 世界,#genre#
-翡翠台,http://113.64.147.40:808/hls/67/index.m3u8Thai PBS News,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
