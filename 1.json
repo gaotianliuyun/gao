@@ -3,16 +3,9 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{
-"key": "csp_Alist11",
-"name": " Alist【聚合】",
-"type": 3,
-"api": "csp_Alist",
-"searchable": 1,
-"quickSearch": 0,
-"filterable": 0,
-"ext":"https://anime.mqmmw.ga"
-},
+{"key":"drpy_js_Alist","name":"Alist[DRPY]","type":3,"api":"./Js/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Js/alist_js.json"}
+{"key":"drpy_js_看视界","name":"555看视界[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/看视界.js"},
+{"key":"drpy_js_奇优影院","name":"奇优影院[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/奇优影院.js"},
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
