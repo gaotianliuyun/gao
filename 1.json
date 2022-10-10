@@ -1,5 +1,5 @@
 {
-"spider":"./0928.jar;md5;ff0ea5727d7f5bafb443a2f87ebf7724",
+"spider":"./1008.jar;md5;f4ba0b967a9fad08afa06d198e3b796d",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
