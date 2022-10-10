@@ -5,7 +5,7 @@
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"drpy_js_Alist","name":"Alist[DRPY]","type":3,"api":"./Js/alist.js","ext":"./Js/alist_js.json"},
 {"key":"drpy_js_看视界","name":"555看视界[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/看视界.js"},
-{"key":"drpy_js_奇优影院","name":"奇优影院[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./Js/奇优影院.js"},
+{"key":"drpy_js_奇优影院","name":"奇优影院[DRPY]","type":3,"api":"./lib/drpy.js","ext":"./Js/奇优影院.js"},
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
