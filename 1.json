@@ -3,6 +3,17 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{
+"key": "csp_Alist11",
+"name": " Alist【聚合】",
+"type": 3,
+"api": "csp_Alist",
+"searchable": 1,
+"quickSearch": 0,
+"filterable": 0,
+"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com",
+"jar":"https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"
+},
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
