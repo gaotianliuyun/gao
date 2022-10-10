@@ -35,6 +35,7 @@
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"多多","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
 
+{"key":"drpy_js_看视界","name":"看视界[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/看视界.js"},
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
 {"key":"drpy_js_1080P","name":"1080P[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/1080P.js"},
