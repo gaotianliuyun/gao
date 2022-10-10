@@ -1,4 +1,5 @@
 {"sites":[{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"drpy_js_看视界","name":"555看视界[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/看视界.js"},
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
 {"key":"drpy_js_1080P","name":"1080P[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/1080P.js"},
