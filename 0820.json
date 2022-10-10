@@ -196,9 +196,7 @@
 {"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
 {"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-{"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
-{"name":"懒人","type":1,"url":"http://120.53.102.254/jx1/jx75.php?url="},
-{"name":"Web","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}}],
+{"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="}],
 "rules":[
 {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
 {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},
