@@ -4,7 +4,7 @@
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
-{"key":"Bili","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"./chuqiuyu.json"},
+{"key":"Bili","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/chuqiuyu.json"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/猫了个咪.js"},
 {"key":"drpy_js_喵喵","name":"喵喵[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/喵喵.js"},
