@@ -1,4 +1,4 @@
-{"sites":[{"key":"drpy_js_drpy","name":"drpy[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/drpy.js"},
+{"sites":[{"key":"drpy_js_drpy","name":"豆瓣[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/drpy.js"},
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
 {"key":"drpy_js_1080P","name":"1080P[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/1080P.js"},
