@@ -4,13 +4,122 @@
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"Nmys","name":"Nmys","api":"csp_Nmys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"Mjxq","name":"Mjxq","api":"csp_Mjxq","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"LiteApple","name":"LiteApple","api":"csp_LiteApple","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{
+            "key": "csp_xb_qsp",
+            "name": "❤️氢视频┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+        },
+        {
+            "key": "csp_xb_jiumeng",
+            "name": "❤️旧梦影视┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://150.158.130.238:4433/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html"
+        },
+        {
+            "key": "csp_xb_1080ys",
+            "name": "❤️1080影视┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://1080p.tv/vodshow/{cateId}--------{catePg}---"
+        },
+        {
+            "key": "csp_XBiu_cokemv",
+            "name": "❤️cokemv┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+        },
+        {
+            "key": "csp_XBiu_4K极客",
+            "name": "❤️4K极客┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.i8k.cc/vodshow/{cateId}--------{catePg}---.html"
+        },
+
+        {
+            "key": "csp_xb_aiku",
+            "name": "❤️爱酷影视┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"
+        },
+        {
+            "key": "csp_xb_shm",
+            "name": "❤️神马影视┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+        },
+        {
+            "key": "csp_xb_fg",
+            "name": "❤️疯狗影视┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"
+        },
+        {
+            "key": "csp_xb_huix",
+            "name": "❤️回响影视┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
+        },
+        {
+            "key": "csp_xb_aikan ",
+            "name": "❤️爱看影视┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
+        },
  
-{"key":"drpy_js_看视界","name":"555看视界[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/看视界.js"},
+{"key":"drpy_js_看视界","name":"看视界[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/看视界.js"},
 {"key":"低端爬虫","name":"低端","api":"csp_Ddrk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{
+      "key": "低端1",
+      "name": "低端嗅探",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "click": "ddys.tv;#vjsp > button",
+      "filterable": 1
+    },
 {"key":"293","name":"293","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
 {"key":"drpy_js_1080P","name":"1080P[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/1080P.js"},
