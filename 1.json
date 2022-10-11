@@ -1,9 +1,10 @@
 {
-"spider":"./1008.jar;md5;f4ba0b967a9fad08afa06d198e3b796d",
+"spider":"./0928.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
+{"key":"KanSJ","name":"KanSJ","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
