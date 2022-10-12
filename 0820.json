@@ -1,5 +1,5 @@
 {
-"spider":"./1008.jar;md5;f4ba0b967a9fad08afa06d198e3b796d",
+"spider":"./1008+.jar;md5;6d99c46de900f7b85bbfa8ced2d780b0",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
@@ -9,6 +9,8 @@
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"Lib","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Dy555","name":"555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Tkys","name":"Tkys","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Bttoo","name":"两个变态","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
