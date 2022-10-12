@@ -8,7 +8,7 @@
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/猫了个咪.js"},
 {"key":"drpy_js_喵喵","name":"喵喵[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/喵喵.js"},
-{"key":"麻豆传媒","name":"麻豆传媒（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/麻豆传媒.json"},
+{"key":"麻豆传媒","name":"麻豆传媒（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/madou.json"},
 {"key":"Gaoav","name":"Gaoav（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/Gaoav.json"},
 {"key":"2022xxj","name":"2022xxj","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./2022xxj.json"},
 {"key":"madouse.la","name":"成人01","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"filterable":1},
