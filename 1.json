@@ -6,10 +6,12 @@
 
 {"key":"KanSJ","name":"KanSJ","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"66992","name":"66992（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
-{"key":"jable2","name":"jable2（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/jable.json"},
-{"key":"四虎影院","name":"四虎影院（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/四虎影院.json"},
 {"key":"麻豆传媒2","name":"麻豆传媒（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/麻豆传媒.json"},
+{"key":"Gaoav","name":"Gaoav（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/Gaoav.json"},
+{"key":"2024xxj","name":"2024xxj（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/2024xxj.json"},
+{"key":"jiuai","name":"jiuai（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/jiuai.json"},
+{"key":"大秀福利","name":"大秀福利（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/大秀福利.json"},
+{"key":"新香蕉","name":"新香蕉（XBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/新香蕉.json"},
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
