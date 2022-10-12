@@ -94,6 +94,7 @@
 {"key":"csp_biubiu_cupfox","name":"茶杯狐（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/茶杯狐.json"},
 {"key":"csp_biubiu_voflix","name":"voflix（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
 {"key":"Bili","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
+{"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
 {"key":"Upyunso","name":"up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3865f0ab8f124688ad786a262af9b940"},
