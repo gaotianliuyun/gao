@@ -6,8 +6,16 @@
 
 {"key":"KanSJ","name":"KanSJ","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_XYQBiu_农民影视","name":"️农民影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/农民影视.json"},
-{"key":"csp_XYQBiu_XYQHiker","name":"️XYQHiker〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/XYQHiker.json"},
+{"key":"6699","name":"6699（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66991","name":"66991（XP）","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66992","name":"66992（XP）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66993","name":"66993（XP）","type":3,"api":"csp_XBiuBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66994","name":"66994（XP）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66995","name":"66995（XP）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66996","name":"66996（XP）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66997","name":"66997（XP）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66998","name":"66998（XP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
+{"key":"66999","name":"66999（XP）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/6699.json"},
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/360影视.js"},
 {"key":"drpy_js_555影视","name":"555影视[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/555影视.js"},
@@ -54,9 +62,6 @@
 {"key":"drpy_js_真不卡","name":"真不卡[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/真不卡.js"},
 {"key":"drpy_js_追剧喵","name":"追剧喵[DRPY]","type":3,"api":"./drpy.js","ext":"./Js/追剧喵.js"},
 
-{"key":"csp_xBPQ_在线影视","name":"在线影视xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/zaixiandianying8.json"},
-{"key":"csp_XBPQ乐猪.json","name":"乐猪.json〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
-{"key":"csp_XBPQ骚火电影.json","name":"骚火电影.json〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/骚火电影.json"},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
