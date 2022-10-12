@@ -1,6 +1,7 @@
 {
   "author": "",
   "name": "md",
+  
   "url": "https://qq.jdav1.shop", //填网站链接https://wnvod.net/vodtype/1.html
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
