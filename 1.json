@@ -4,6 +4,26 @@
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
+{"key": "csp_xBPQ_片库影视",
+"name": "️️片库影视",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext":"{
+\"免嗅\":\"0\",
+\"嗅探词\": \"m3u8\",
+\"副标题\":\"></i>&&</span>\",
+\"状态\": \"状态：&&</p>\",
+\"简介\": \"zkjj_a\\\" style=\\\"\\\">&&</p>\",
+\"播放数组\":\"class=\\\"bd\\\">&&</ul>\",
+\"播放标题\":\">&&<\",
+\"线路数组\":\"class=\\\"on\\\"&&/li> \",
+\"线路标题\":\">&&<\",
+\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#电影$1#综艺$3\",
+\"分类url\":\"https://m.pianku5.me/list/{cateId}--------{catePg}---/\"}"
+},
 
 {"key":"Dy555","name":"555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"EEEDY","name":"3Edy","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
