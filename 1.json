@@ -4,16 +4,6 @@
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key": "csp_xBPQ_片库影视",
-"name": "️️片库影视",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext":"./XBPQ/片库影视.json"
-},
-
 {"key":"Dy555","name":"555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"EEEDY","name":"3Edy","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"JianYing","name":"JianYing","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":1},
