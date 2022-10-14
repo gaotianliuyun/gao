@@ -67,6 +67,7 @@
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="}],
 "rules":[
+{"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
 {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
 {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},
 {"host":"*","rule":["/m3u8.php","path="]},
