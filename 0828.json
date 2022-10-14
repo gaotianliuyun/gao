@@ -66,7 +66,9 @@
 {"key":"drpy_js_凌云影视","name":"凌云影视[DRPY]-坏","type":3,"api":"./drpy.js","ext":"./js/凌云影视.js"},
 {"key":"drpy_js_小猫咪","name":"小猫咪[DRPY]-坏","type":3,"api":"./drpy.js","ext":"./js/小猫咪.js"},
 {"key":"drpy_js_夜空","name":"夜空[DRPY]-坏","type":3,"api":"./drpy.js","ext":"./js/夜空.js"}],
-"parses":[{"name":"8090","url":"https://www.8090g.cn/?url="}],
+"parses":[{"name":"8090","url":"https://www.8090g.cn/?url="}
+{"name":"测试","type":1,"url":"http://hhjson.cgys001.com/hhjson.php?url="},
+{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
