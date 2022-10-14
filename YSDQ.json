@@ -1,75 +1,81 @@
 {
-    "Alist": {
-  "Eren's":"https://alist.sharefiles.repl.co",
-  "9T":"https://drive.9t.ee",
-  "梓澪の妙妙屋":"https://xn--i0v44m.xyz",
-  "资源小站":"https://pan.142856.xyz",
-  "晴园的宝藏库":"https://alist.52qy.repl.co",
-  "米奇妙妙屋":"https://anime.mqmmw.ga",
-  "嗨翻":"https://pan.hikerfans.com",
-  "小兵组网盘影视":"https://6vv.app",
-  "小光盘":"https://alist.xiaoguanxiaocheng.life",
-  "一只鱼":"https://alist.youte.ml",
-  "七米蓝":"https://al.chirmyram.com", 
-  "非盘":"http://www.feifwp.top",
-  "帅盘":"https://hi.shuaipeng.wang",
-  "神族九帝":"https://alist.shenzjd.com",
-  "姬路白雪":"https://pan.jlbx.xyz",
-  "听闻网盘":"https://wangpan.sangxuesheng.com",
-  "DISK":"http://124.222.140.243:8080",
-  "云播放":"https://quanzi.laoxianghuijia.cn",
-  "星梦":"https://pan.bashroot.top",
-  "小江":"https://dyj.me",
-  "触光":"https://pan.ichuguang.com",
-  "好汉吧":"https://8023.haohanba.cn",
-  "AUNEY":"http://121.227.25.116:8008",
-  "资源小站":"https://960303.xyz/",
-  "fenwe":"http://www.fenwe.tk:5244",
-  "轻弹浅唱":"https://g.xiang.lol",
-  "Alist测试":"https://ali.liucn.repl.co",
-  "秋雨分享":"https://share.laowang.me",
-  "讯维云盘":"https://pan.xwbeta.com",
-  "帅仔1":"http://43.139.29.179:5244/",
-  "帅仔2":"http://43.139.29.179:5245/"
-    },
-    "Ali": {
-        "token": "3865f0ab8f124688ad786a262af9b940"
-    },
-    "Zhibo": [
-        {
-            "pf": "douyu",
-            "id": "原创IP",
-            "name": "斗鱼-原创IP"
-        },
-        {
-            "pf": "douyu",
-            "id": "热门游戏",
-            "name": "斗鱼-热门游戏"
-        },
-        {
-            "pf": "douyu",
-            "id": "主机游戏",
-            "name": "斗鱼-主机游戏"
-        },
-        {
-            "pf": "huya",
-            "id": "音乐",
-            "name": "虎牙-音乐"
-        },
-        {
-            "pf": "huya",
-            "id": "一起看",
-            "name": "虎牙-一起看"
-        },
-        {
-            "pf": "huya",
-            "id": "三国杀",
-            "name": "虎牙-三国杀"
-        },
-        {
-            "pf": "sport",
-            "id": "sport",
-            "name": "体育-全部"
-        }
-    ]
+"Alist":{
+"SB盘":"http://sbpan.tk",
+"灭火器":"https://alist1.owen10086.repl.co",
+ "moepan": "https://www.moepan.cf", 
+"西南第一捧心人":"http://116.205.232.165:5244",
+"课程搜索":"https://www.souke365.cn",
+"博哥":"http://www.top12345.top/"
+"Eren's":"https://alist.sharefiles.repl.co",
+"9T":"https://drive.9t.ee",
+"梓澪の妙妙屋":"https://xn--i0v44m.xyz",
+"资源小站":"https://pan.142856.xyz",
+"晴园的宝藏库":"https://alist.52qy.repl.co",
+"米奇妙妙屋":"https://anime.mqmmw.ga",
+"嗨翻":"https://pan.hikerfans.com",
+"小兵组网盘影视":"https://6vv.app",
+"小光盘":"https://alist.xiaoguanxiaocheng.life",
+"一只鱼":"https://alist.youte.ml",
+"七米蓝":"https://al.chirmyram.com",
+"非盘":"http://www.feifwp.top",
+"帅盘":"https://hi.shuaipeng.wang",
+"神族九帝":"https://alist.shenzjd.com",
+"姬路白雪":"https://pan.jlbx.xyz",
+"听闻网盘":"https://wangpan.sangxuesheng.com",
+"DISK":"http://124.222.140.243:8080",
+"云播放":"https://quanzi.laoxianghuijia.cn",
+"星梦":"https://pan.bashroot.top",
+"小江":"https://dyj.me",
+"触光":"https://pan.ichuguang.com",
+"好汉吧":"https://8023.haohanba.cn",
+"AUNEY":"http://121.227.25.116:8008",
+"资源小站":"https://960303.xyz/",
+"fenwe":"http://www.fenwe.tk:5244",
+"轻弹浅唱":"https://g.xiang.lol",
+"Alist测试":"https://ali.liucn.repl.co",
+"秋雨分享":"https://share.laowang.me",
+"讯维云盘":"https://pan.xwbeta.com",
+"帅仔1":"http://43.139.29.179:5244/",
+"帅仔2":"http://43.139.29.179:5245/"
+},
+"Ali":{
+"token":"3865f0ab8f124688ad786a262af9b940"
+},
+"Zhibo":[
+{
+"pf":"douyu",
+"id":"原创IP",
+"name":"斗鱼-原创IP"
+},
+{
+"pf":"douyu",
+"id":"热门游戏",
+"name":"斗鱼-热门游戏"
+},
+{
+"pf":"douyu",
+"id":"主机游戏",
+"name":"斗鱼-主机游戏"
+},
+{
+"pf":"huya",
+"id":"音乐",
+"name":"虎牙-音乐"
+},
+{
+"pf":"huya",
+"id":"一起看",
+"name":"虎牙-一起看"
+},
+{
+"pf":"huya",
+"id":"三国杀",
+"name":"虎牙-三国杀"
+},
+{
+"pf":"sport",
+"id":"sport",
+"name":"体育-全部"
+}
+]
 }
