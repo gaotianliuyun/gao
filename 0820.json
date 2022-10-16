@@ -145,7 +145,7 @@
 {"key":"csp_XPath农民影视","name":"农民影视（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/农民影视.json"},
 {"key":"csp_XBPQ零零七影视.json","name":"零零七影视〔XPF〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零零七影视.json"},
 {"key":"csp_xpath_348","name":"348（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/348p.json"},
-{"key":"csp_xpath_工人","name":"工人（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":".json/grp.json"},
+{"key":"csp_xpath_工人","name":"工人（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/grp.json"},
 {"key":"csp_xpath_UM","name":"UM影院（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/UM.json"},
 {"key":"csp_xpath_HOHO","name":"HOHO(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Hoho.json"},
 
