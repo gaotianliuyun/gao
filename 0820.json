@@ -59,6 +59,7 @@
 {"key":"csp_xb_cokemv","name":"cokemv（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_XBiu_REPEN","name":"RENPE（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
 
+{"key":"csp_xBPQ_快看影视","name":"快看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"嗅探词\":\"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\",\"分类\":\"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman\",\"分类url\":\"http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html\",\"免嗅\":\"0\",\"副标题\":\"class=\\\"score\\\">&&</span>\",\"播放数组\":\"class=\\\"playlist&&</ul>\"}"},
 {"key":"csp_XBPQ乐猪.json","name":"乐猪〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
 {"key":"csp_XBPQ骚火电影.json","name":"骚火电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/骚火电影.json"},
 {"key":"csp_xBPQ_在线影视","name":"在线影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/zaixiandianying8.json"},
