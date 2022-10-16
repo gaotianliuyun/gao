@@ -1,4 +1,4 @@
-{"spider":"./proxy.jar",
+{"spider":"./proxy.jar;md5;4bed081148b328833c20d6ab4d7c99ec",
 "sites":[{"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"./lib/drpy.ym.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_低端","name":"低端[DRPY]","type":3,"api":"./lib/drpy.ym.js","ext":"./js/ddys.js"},
 {"key":"drpy_js_菜狗","name":"菜狗[DRPY]","type":3,"api":"./lib/drpy.ym.js","ext":"./js/菜狗.js"},
