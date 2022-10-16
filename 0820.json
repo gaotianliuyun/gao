@@ -111,6 +111,8 @@
 {"key":"csp_XBPQlibvio","name":"libvio〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/libvio.json"},
 {"key":"csp_XBPQ荐片","name":"荐片〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/荐片.json"},
 {"key":"csp_XBPQ影视工厂xBPQ","name":"影视工厂〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/影视工厂xBPQ.json"},
+{"key":"csp_xBPQ_DOUYIN","name":"短视频〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\n\"分类url\":\"http://www.sharenice.net/{cateId}?page={catePg}\",\n\"分类\":\"抖音$douyin#快手$kuaishou#微视$weishi#场库$changku#美拍$meipai#秒拍$miaopai#全民$quanmin#梨$lishipin#好兔$haotu#开眼$kaiyan\",\n\"链接\":\"http://www.sharenice.net&&\\\"\",\n\"直接播放\":\"1\"\n}"},
+{"key":"奇粹影视","name":"️奇粹影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\":\"http://www.blssv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\",\"数组\":\"class=\\\"module-item-pic&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"span>&&<[替换:多多广告>>免嗅秒播]\",\"免嗅\":\"0\",\"分类\":\"电影$20#连续剧$21#动漫$22#海外$23#综艺$24\",\"播放数组\":\"class=\\\"sort-item&&</div>\",\"播放列表\":\"<a&&/a>[不含序号:2]\",\"简介\":\"剧情：&&</p>\",\"搜索后缀\":\"/vod/detail/id/\"}"},
 
 {"key":"csp_XYQBiu_2","name":"e9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/e9视频.json"},
 {"key":"csp_XYQBiu_3","name":"️fositv〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/fositv.json"},
@@ -142,7 +144,6 @@
 {"key":"XPF-bdys","name":"哔嘀影视（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/bdyscl.json"},
 {"key":"csp_XPath农民影视","name":"农民影视（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/农民影视.json"},
 {"key":"csp_XBPQ零零七影视.json","name":"零零七影视〔XPF〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零零七影视.json"},
-//{"key":"csp_xpath_dm84","name":"动漫巴士（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/dm84.json"},
 {"key":"csp_xpath_UM","name":"UM影院（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/UM.json"},
 {"key":"csp_xpath_HOHO","name":"HOHO(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Hoho.json"},
 
