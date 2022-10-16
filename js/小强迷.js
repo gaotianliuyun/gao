@@ -1,6 +1,6 @@
 muban.首图2.二级.content = '.stui-content__desc&&Text';
 muban.首图2.二级.title = '.stui-content__detail&&h3&&Text;.stui-content__detail&&p:eq(1)&&Text;';
-muban.首图2.二级.重定向='js:let url = jsp.pd(html,".playbtn&&a&&href");log(url);html = request(url)';
+muban.首图2.二级.重定向='js:let url = jsp.pd(html,".playbtn&&a&&href");log("重定向到:"+url);html = request(url)';
 muban.首图2.二级.tabs='.t-ul&&li';
 muban.首图2.二级.lists='.stui-content__playlist:eq(#id)&&li';
 
