@@ -15,6 +15,7 @@ tvbox & diyp  配置文件
    
    以上配置均可完美在q版的tvbox上食用。
 2. diyp配置：
+
    （1）list.txt  线路一；
    
    （2）iptv.txt  线路二；
