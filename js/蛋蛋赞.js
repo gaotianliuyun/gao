@@ -3,7 +3,7 @@ var rule={
     host:'https://www.dandanzan10.top',
     // homeUrl:'/',
     url:'/fyclass/index_fypage.html[/fyclass/index.html]',   
-    //searchUrl:'/search/**/',
+    searchUrl:'/so/**-**--.html',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
@@ -20,5 +20,5 @@ var rule={
 
     double:true, // 推荐内容是否双层定位
    二级:{"title":"h1&&Text;.product-excerpt:eq(2)&&Text","img":".thumb&&src","desc":";;.product-excerpt:eq(3)&&Text;.product-excerpt:eq(1)&&Text;.product-excerpt:eq(0)&&Text","content":".product-excerpt:eq(5)&&Text","tabs":".playlists dl dt","lists":".play-div-oa:eq(#id) li"},
-   搜索:'ul.img-list.clearfix&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+   搜索:'.lists-content&&ul&&li;*;*;*;*',
 }
