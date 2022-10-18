@@ -30,6 +30,20 @@
             "ext" : "./js/斗鱼直播.js"
         },
             {
+            "key" : "drpy_js_HDmoli",
+            "name" : "HDmoli[DRPY]",
+            "type" : 3,
+            "api" : "assets://js/lib/drpy.min.js",
+            "ext" : "./js/HDmoli.js"
+        },
+            {
+            "key" : "drpy_js_电影大师",
+            "name" : "电影大师[DRPY]",
+            "type" : 3,
+            "api" : "assets://js/lib/drpy.min.js",
+            "ext" : "./js/电影大师.js"
+        },
+            {
             "key" : "drpy_js_酷云77",
             "name" : "酷云77[DRPY]",
             "type" : 3,
@@ -561,10 +575,9 @@
                 "/video/tos/cn/"]
         },
             {
-            "host" : "*",
+            "host" : "hdmoli.com",
             "rule" : [
-                "default.365yg.com",
-                "/video/tos/cn/"]
+                ".m3u8"]
         },
             {
             "host" : "http://www.xiaopin.tv",
@@ -572,7 +585,7 @@
                 "https://vali-ugc.cp31.ott.cibntv.net"]
         },
             {
-            "host" : "*",
+            "host" : "2",
             "rule" : [
                 "ysting.ysxs8.vip",
                 "m4a"]
@@ -584,7 +597,7 @@
                 "obj/tos-cn"]
         },
             {
-            "host" : "*",
+            "host" : "1",
             "rule" : [
                 "/m3u8.php",
                 "path="]
