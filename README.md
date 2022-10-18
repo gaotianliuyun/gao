@@ -7,7 +7,7 @@ tvbox & diyp  配置文件
    
    （3）0829.json  完全来源于俊佬的top97的jar包和配置；
    
-   （4）js.json  来源于tg频道watson的本地包；
+   （4）js.json  来源于tg频道watson的本地包，道长drpy本地通用包；
    
    （5）1.json  测试用的配置，慎用；
    
