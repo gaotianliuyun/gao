@@ -1,21 +1,16 @@
 {
-"spider":"./top97+.jar",
+"spider":"./1014.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_XYQBiu_23影院-xyqh","name":"23影院-xyqh〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/23影院-xyqh.json"},
-{"key":"csp_XYQBiu_l0l影院xyqh","name":"️l0l影院xyqh〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/l0l影院xyqh.json"},
-{"key":"csp_XYQBiu_RP影视xyqh","name":"RP影视xyqh〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/RP影视xyqh.json"},
-{"key":"csp_XYQBiu_90影视网xyq","name":"️90影视网xyq〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/90影视网xyq.json"},
-{"key":"csp_XYQBiu_秋霞电影xyq","name":"秋霞电影xyq〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/秋霞电影xyq.json"},
-{"key":"csp_XYQBiu_23影视xyq","name":"️23影视xyq〔XYQH〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/23影视xyq.json"},
-{"key":"csp_XYQBiu_freeokxbpq","name":"freeokxbpq〔XYQH〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/freeokxbpq.json"},
 
+{"key":"csp_Xxys","name":"🐻小熊┃SP","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"📕Cok┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dy555","name":"555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"EEEDY","name":"3Edy","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"JianYing","name":"JianYing","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Mjxq","name":"Mjxq","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP293","name":"SP293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tkys","name":"Tkys","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Zxzj","name":"Zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
