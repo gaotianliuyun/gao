@@ -4,7 +4,25 @@
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_Cokemv","name":"📕Cok┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+ {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Bili","name": "哔哩","type":3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"地址"},
+ {"key": "Cokemv","name": "可乐","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Czsapp","name": "厂长","type":3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "If101","name": "101","type":3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Kuaikan","name": "快看","type":3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Kunyu","name": "七七","type":3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Lib","name": "Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Smdyy","name": "神马","type":3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "SP360","name": "SP360","type":3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Xiaoh","name": "Xiaoh","type":3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Zhaozy","name": "资源","type":3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"},
+ {"key": "AliPS","name": "盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"},
+ {"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"}
 
 {"key":"csp_Xxys","name":"小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
