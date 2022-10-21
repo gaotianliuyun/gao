@@ -1,13 +1,6 @@
 {
-    "spider" : "./web.jar",
+    "spider" : "./w.jar",
     "sites" : [
-            {
-            "key" : "drpy_js_360影视",
-            "name" : "360影视[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/360影视.js"
-        },
             {
             "key" : "drpy_js_豆瓣",
             "name" : "豆瓣[DRPY]",
@@ -16,11 +9,130 @@
             "ext" : "./js/豆瓣.js"
         },
             {
+            "key" : "drpy_js_真不卡",
+            "name" : "真不卡[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/真不卡.js"
+        },
+            {
+            "key" : "drpy_js_360影视",
+            "name" : "360影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/360影视.js"
+        },
+            {
+            "key" : "drpy_js_奇珍异兽",
+            "name" : "奇珍异兽[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/奇珍异兽.js"
+        },
+            {
+            "key" : "drpy_js_优酷",
+            "name" : "优酷[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/优酷.js"
+        },
+            {
+            "key" : "drpy_js_腾云驾雾",
+            "name" : "腾云驾雾[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/腾云驾雾.js"
+        },
+            {
+            "key" : "drpy_js_百忙无果",
+            "name" : "百忙无果[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/百忙无果.js"
+        },
+            {
+            "key" : "drpy_js_菜狗",
+            "name" : "菜狗[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/菜狗.js"
+        },
+            {
+            "key" : "drpy_js_gaze",
+            "name" : "gaze[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/gaze.js"
+        },
+            {
+            "key" : "drpy_js_JRS看直播",
+            "name" : "JRS看直播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/JRS看直播.js"
+        },
+            {
+            "key" : "drpy_js_JRS看比赛",
+            "name" : "JRS看比赛[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/JRS看比赛.js"
+        },
+            {
+            "key" : "drpy_js_JRS看球网",
+            "name" : "JRS看球网[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/JRS看球网.js"
+        },
+            {
+            "key" : "drpy_js_哔哩直播",
+            "name" : "哔哩直播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/哔哩直播.js"
+        },
+            {
+            "key" : "drpy_js_310直播",
+            "name" : "310直播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/310直播.js"
+        },
+            {
             "key" : "drpy_js_抓饭体育",
             "name" : "抓饭体育[DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/抓饭体育.js"
+        },
+            {
+            "key" : "drpy_js_星辰",
+            "name" : "星辰[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/星辰.js"
+        },
+            {
+            "key" : "drpy_js_来看点播",
+            "name" : "来看点播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/来看点播.js"
+        },
+            {
+            "key" : "drpy_js_四个圈影视",
+            "name" : "四个圈影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/四个圈影视.js"
+        },
+            {
+            "key" : "drpy_js_云播",
+            "name" : "云播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/云播.js"
         },
             {
             "key" : "drpy_js_斗鱼直播",
@@ -35,6 +147,20 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/HDmoli.js"
+        },
+            {
+            "key" : "drpy_js_vidhub",
+            "name" : "vidhub[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/vidhub.js"
+        },
+            {
+            "key" : "drpy_js_JustLive",
+            "name" : "JustLive[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/JustLive.js"
         },
             {
             "key" : "drpy_js_追剧啦",
@@ -72,11 +198,11 @@
             "ext" : "./js/酷云77.js"
         },
             {
-            "key" : "drpy_js_厂长",
-            "name" : "厂长[DRPY]",
+            "key" : "drpy_js_厂长资源",
+            "name" : "厂长资源[DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
-            "ext" : "./js/厂长.js"
+            "ext" : "./js/厂长资源.js"
         },
             {
             "key" : "drpy_js_快看",
@@ -100,27 +226,6 @@
             "ext" : "./js/蛋蛋赞.js"
         },
             {
-            "key" : "drpy_js_菜狗",
-            "name" : "菜狗[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/菜狗.js"
-        },
-            {
-            "key" : "drpy_js_奇珍异兽",
-            "name" : "奇珍异兽[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/奇珍异兽.js"
-        },
-            {
-            "key" : "drpy_js_百忙无果",
-            "name" : "百忙无果[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/百忙无果.js"
-        },
-            {
             "key" : "drpy_js_69美剧",
             "name" : "69美剧[DRPY]",
             "type" : 3,
@@ -133,20 +238,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/唐人街影视.js"
-        },
-            {
-            "key" : "drpy_js_优酷",
-            "name" : "优酷[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/优酷.js"
-        },
-            {
-            "key" : "drpy_js_真不卡",
-            "name" : "真不卡[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/真不卡.js"
         },
             {
             "key" : "drpy_js_素白白",
@@ -520,13 +611,6 @@
             "ext" : "./js/奇优影院.js"
         },
             {
-            "key" : "drpy_js_腾云驾雾",
-            "name" : "腾云驾雾[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/腾云驾雾.js"
-        },
-            {
             "key" : "drpy_js_凌云影视",
             "name" : "凌云影视[DRPY]",
             "type" : 3,
@@ -567,6 +651,20 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/AGE动漫.js"
+        },
+            {
+            "key" : "drpy_js_omofun动漫",
+            "name" : "omofun动漫[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/omofun动漫.js"
+        },
+            {
+            "key" : "drpy_js_异世界动漫",
+            "name" : "异世界动漫[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/异世界动漫.js"
         },
             {
             "key" : "push_agent",
@@ -738,32 +836,6 @@
             "name" : "parwix1",
             "type" : 0,
             "url" : "https://jx.parwix.com:4433/player/?url=",
-            "ext" : {
-                "flag" : [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"]
-            }
-        },
-            {
-            "name" : "parwix2",
-            "type" : 0,
-            "url" : "https://jx.parwix.com:4433/player/analysis.php?v=",
             "ext" : {
                 "flag" : [
                     "qq",
