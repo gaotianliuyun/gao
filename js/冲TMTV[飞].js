@@ -1,0 +1,16 @@
+var rule={
+title:'冲TMTV',
+host:'https://chongtmtv.com',
+url:'/index.php/vod/show/id/fyclass/page/fypage.html',
+searchUrl:'/vod/search/page/fypage/wd/**.html',
+searchable:2,
+quickSearch:1,
+filterable:0,
+headers:{'User-Agent':'MOBILE_UA', },
+class_name:'电影&电视剧&综艺&动漫',
+class_url:'1&2&3&4',
+推荐:'.list-a.size;a&&title;.lazy&&data-original;.list-remarks&&Text;a&&href',
+一级:'.list-a.size&&ul li;a&&title;.lazy&&data-original;.list-remarks&&Text;a&&href',
+二级:{"title":"h2&&a&&Text","img":".lazyload&&data-original","desc":";.data:eq(0) a:eq(2)&&Text;.data:eq(0) a:eq(1)&&Text;.data:eq(2)&&Text;.data:eq(3)&&Text","content":".play-bottom.cor4&&Text","tabs":".swiper-wrapper&&a","lists":".content-playlist:eq(#id) a"},
+搜索:'.myui-vodlist__media.clearfix li;*;*;*;*',
+}

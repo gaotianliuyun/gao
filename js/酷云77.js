@@ -20,6 +20,7 @@ var rule = {
     class_url:'0&1&2&3&4',
     limit:20,
     play_parse:true,
+    play_json:0,
     // 手动调用解析请求json的url,此lazy不方便
     // lazy:'js:input={parse:1,url:input};',
     lazy:'',
