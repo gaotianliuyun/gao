@@ -1,0 +1,16 @@
+var rule={
+title:'追剧达人',
+host:'http://zjdr.tv',
+url:'/vodshow/id/fyclass/page/fypage.html',
+searchUrl:'/vod/search/page/fypage/wd/**.html',
+searchable:2,
+quickSearch:1,
+filterable:0,
+headers:{'User-Agent':'MOBILE_UA', },
+class_name:'电影&电视剧&综艺&动漫',
+class_url:'1&2&3&4',
+推荐:'.module-main;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+一级:'.module-poster-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+二级:{"title":"h1&&Text;.module-info-items div:eq(5) p&&Text","img":".lazyload&&data-original","desc":";;;.module-info-items div:eq(4) a&&Text;.module-info-items div:eq(3) a&&Text","content":".show-desc&&Text","tabs":".module-tab-items-box div","lists":".module-play-list:eq(#id) a"},
+搜索:'.module-poster-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+}

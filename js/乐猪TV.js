@@ -3,8 +3,8 @@ var rule = {
     host:'http://www.lezhutv.com',
     // homeUrl:'/',
     url:'/type/fyclass-fypage.html',
-    searchUrl:'/s/**/fypage.html',
-    searchable:0,
+    searchUrl:'/search-pg-fypage-wd-**.html',
+    searchable:2,
     quickSearch:0,
     headers:{
         'User-Agent':'UC_UA'
@@ -14,10 +14,10 @@ var rule = {
     play_parse:true,
     lazy:'',
     limit:5,
-    推荐:'.movie-list-body;.movie-list-item;.movie-title&&Text;.movie-post-lazyload&&data-original;.movie-rating&&Text;a&&href',
+    推荐:'ul.tbox_m2;li;*;*;*;*',
     double:true, // 推荐内容是否双层定位
     一级:'ul.tbox_m2 li;a&&title;a&&data-original;span&&Text;a&&href',
-    二级:{"title":".data h4&&Text","img":".item-lazy&&data-original","desc":".cr3.starLink&&Text","content":".tbox_js&&Text","tabs":".tbox_t&&h3","lists":".list_block.show:eq(#id) li"},
-    搜索:'.vod-search-list;.movie-title&&Text;.Lazy&&data-original;.getop&&Text;a&&href;.getop:eq(-1)&&Text',
+    二级:{"title":".data h4&&Text","img":".item-lazy&&data-original","desc":".cr3.starLink&&Text","content":".tbox_js&&Text","tabs":"js:pdfa=jsp.pdfa;TABS=pdfa(html,'.tbox_t h3').map(function(it,idex){return '线路'+(idex+1)})","lists":"ul.list_block:eq(#id) li"},
+    搜索:'ul.tbox_m li;*;*;*;*',
 	
 }
