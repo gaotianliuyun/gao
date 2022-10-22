@@ -2,8 +2,43 @@
 "spider":"./1022.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "sites":
-[{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-
+[
+    {
+      "key": "Zjdr",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Cokemv",
+      "name": "可乐",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Czsapp",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "IKan",
+      "name": "爱看",
+      "type": 3,
+      "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "mtv_pc_简影影视", 
             "name": "简影影视(爬虫)", 
@@ -31,8 +66,7 @@
             "api": "csp_Gitcafe", 
             "searchable": 1, 
             "quickSearch": 1, 
-            "filterable": 1, 
-            "jar": "./top97_1.jar"
+            "filterable": 1
         }, 
         {
             "key": "IQIYI_xin", 
@@ -41,8 +75,7 @@
             "api": "csp_IQIYI", 
             "searchable": 1, 
             "quickSearch": 1, 
-            "filterable": 1, 
-            "jar": "./top97_1.jar"
+            "filterable": 1
         }, 
         {
             "key": "SP360_xin", 
@@ -51,8 +84,7 @@
             "api": "csp_SP360", 
             "searchable": 1, 
             "quickSearch": 1, 
-            "filterable": 1, 
-            "jar": "./top97_1.jar"
+            "filterable": 1
         }, 
         {
             "key": "QQ_xin", 
@@ -61,8 +93,7 @@
             "api": "csp_QQ", 
             "searchable": 1, 
             "quickSearch": 1, 
-            "filterable": 1, 
-            "jar": "./top97_1.jar"
+            "filterable": 1
         }, 
         {
             "key": "MGTV_xin", 
@@ -71,8 +102,7 @@
             "api": "csp_MGTV", 
             "searchable": 1, 
             "quickSearch": 1, 
-            "filterable": 1, 
-            "jar": "./top97_1.jar"
+            "filterable": 
         }, 
 {"key":"csp_xb_lez","name":"乐猪(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/lezhu.json"},
 {"key":"csp_xb_zxzj","name":"在线之家(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/zxzj.json"},
@@ -88,6 +118,7 @@
 {"key":"csp_xb_cokemv","name":"cokemv(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_XBiu_REPEN","name":"RENPE┃R","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
 {"key":"csp_xBiu_爱看影视","name":"xBiu|爱看影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
+
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
