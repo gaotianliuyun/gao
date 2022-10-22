@@ -5,13 +5,15 @@ tvbox & diyp  配置文件
    
    （2）0820.txt  精简的源，jar的来源dxawi/1的仓库，据说是baitian wu精缝的包；
    
-   （3）0829.json  完全来源于俊佬的top97的jar包和配置；
+   （3）0828.json  完全来源于唐三的jar包和配置；
    
-   （4）js.json  来源于tg频道watson的本地包，道长drpy本地通用包；
+   （4）0829.json  完全来源于俊佬的top97的jar包和配置；
    
-   （5）1.json  测试用的配置，慎用；
+   （5）js.json  来源于tg频道watson的本地包，道长drpy本地通用包；
    
-   （6）9918.json  nsfw的源，慎用。
+   （6）1.json  测试用的配置，慎用；
+   
+   （7）9918.json  nsfw的源，慎用。
    
    以上配置均可完美在q版的tvbox上食用。
 2. diyp配置：
