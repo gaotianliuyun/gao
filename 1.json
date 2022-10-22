@@ -102,7 +102,7 @@
             "api": "csp_MGTV", 
             "searchable": 1, 
             "quickSearch": 1, 
-            "filterable": 
+            "filterable": 1
         }, 
 {"key":"csp_xb_lez","name":"乐猪(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/lezhu.json"},
 {"key":"csp_xb_zxzj","name":"在线之家(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/zxzj.json"},
