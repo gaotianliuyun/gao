@@ -353,7 +353,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "./1.txt;desc"
     }
   ],
   "parses": [
