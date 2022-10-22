@@ -65,6 +65,20 @@
             "ext" : "./js/酷奇MV.js"
         },
             {
+            "key" : "drpy_js_爱车MV",
+            "name" : "爱车MV[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/爱车MV.js"
+        },
+            {
+            "key" : "drpy_js_JRKAN直播",
+            "name" : "JRKAN直播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/JRKAN直播.js"
+        },
+            {
             "key" : "drpy_js_JRS看直播",
             "name" : "JRS看直播[DRPY]",
             "type" : 3,
@@ -667,6 +681,13 @@
             "ext" : "./js/秋霞.js"
         },
             {
+            "key" : "drpy_js_有声小说吧",
+            "name" : "有声小说吧[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/有声小说吧.js"
+        },
+            {
             "key" : "drpy_js_兔小贝",
             "name" : "兔小贝[DRPY]",
             "type" : 3,
@@ -729,6 +750,18 @@
                 "/video/tos/cn/"]
         },
             {
+            "host" : "www.sharenice.net",
+            "rule" : [
+                "huoshan.com",
+                "/video/"]
+        },
+            {
+            "host" : "www.sharenice.net",
+            "rule" : [
+                "sovv.qianpailive.com",
+                "vid="]
+        },
+            {
             "host" : "hdmoli.com",
             "rule" : [
                 ".m3u8"]
@@ -740,9 +773,9 @@
                 "index.m3u8?expires="]
         },
             {
-            "host" : "2",
+            "host" : "m.ysxs8.vip",
             "rule" : [
-                "ysting.ysxs8.vip",
+                "xmcdn.com",
                 "m4a"]
         },
             {
@@ -1227,5 +1260,7 @@
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"],
-    "wallpaper" : "http://刚刚.live/图"
+    "wallpaper" : [
+        "./lib/01.png",
+        "./lib/03.png"]
 }
