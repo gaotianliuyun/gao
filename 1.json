@@ -1,4 +1,4 @@
-{"spider":"./1022.jar",
+{"spider":"./jar/1022.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "rules":[{"host":"*","rule":["default.365yg.com"]},
