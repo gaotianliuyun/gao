@@ -142,6 +142,13 @@
             "ext" : "./js/JRS看球网.js"
         },
             {
+            "key" : "drpy_js_88看球",
+            "name" : "88看球[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/88看球.js"
+        },
+            {
             "key" : "drpy_js_310直播",
             "name" : "310直播[DRPY]",
             "type" : 3,
