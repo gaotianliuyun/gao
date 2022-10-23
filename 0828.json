@@ -506,5 +506,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "./tang.jar"
+  "spider": "./jar/tang.jar"
 }
