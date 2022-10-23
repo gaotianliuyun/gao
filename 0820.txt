@@ -1,5 +1,5 @@
 {
-"spider":"./cs.jar;md5;5a7488362fc669c8f3e41dd094884948",
+"spider":"./jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":
