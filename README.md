@@ -1,4 +1,4 @@
-tvbox & diyp  配置文件
+tvbox & diyp & kodi 配置文件
 1. tvbox配置：
    
    （1）0820.json  较全面的源，jar的来源于每日神器的jar包。使用多jar，加上俊于的新小纸条，和唐三的Zjdr、Cokemv、IKan、Smdyy；
@@ -24,7 +24,14 @@ tvbox & diyp  配置文件
    
    （3）live.txt  线路三。
    
-   以上配置原名称为绿色直播源；****x.txt为nsfw直播源，慎用；****xx.txt为测试直播源，慎用。
+   以上配置原名称为绿色直播源；****x.txt为nsfw直播源，慎用；****xx.txt为测试用直播源，慎用。
+3. kodi配置
+
+   （1）YSDQ.json  影视大全（改）的配置文件
+   
+   （2）list.m3u  PVR IPTV Simple 直播源，绿色源。
+   
+   （3）listx.m3u  PVR IPTV Simple 直播源，nsfw源，慎用。
 
 如果喜欢，请复刻自用，切勿传播。谢谢！
 
