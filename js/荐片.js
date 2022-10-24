@@ -33,6 +33,7 @@ var rule = {
     }],
     lazy:'',
     double:true,
+    图片来源:'@Referer=www.jianpianapp.com@User-Agent=jianpian-version353',
 	推荐:'json:data;room;*;cover;*;*',
 	一级:'json:data;title;path;playlist.title;id',
     二级:{
