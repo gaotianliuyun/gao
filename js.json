@@ -72,6 +72,14 @@
             "ext" : "./js/酷云77.js"
         },
             {
+            "key" : "drpy_js_DJ音乐",
+            "name" : "DJ音乐[DRPY]",
+            "type" : 3,
+            //"click" : "djuu.com;#jp-audio_0",
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/DJ音乐.js"
+        },
+            {
             "key" : "drpy_js_短视频",
             "name" : "短视频[DRPY]",
             "type" : 3,
@@ -653,6 +661,13 @@
             "ext" : "./js/奇优影院.js"
         },
             {
+            "key" : "drpy_js_饭团",
+            "name" : "饭团[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/饭团.js"
+        },
+            {
             "key" : "drpy_js_Voflix",
             "name" : "Voflix[DRPY]",
             "type" : 3,
@@ -825,6 +840,12 @@
             "rule" : [
                 "douyinvod.com",
                 "/video/tos/cn/"]
+        },
+            {
+            "host" : "www.djuu.com",
+            "rule" : [
+                "mp4.djuu.com",
+                "m4a"]
         },
             {
             "host" : "www.sharenice.net",
