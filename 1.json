@@ -11,7 +11,7 @@
   {"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
   {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
   {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
-]
+],
 "sites":[{"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Zjdr","name":"Zjdr┃SP","type":3,"api":"csp_Zjdr","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/tang.jar"},
 {"key":"csp_Dy555","name":"Dy555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/tang.jar"},
