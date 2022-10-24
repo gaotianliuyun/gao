@@ -76,7 +76,7 @@
 {"key":"csp_biubiu_cupfox","name":"茶杯狐（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/茶杯狐.json"},
 {"key":"csp_biubiu_voflix","name":"voflix（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
 {"key":"Bili","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
 {"key":"Upyunso","name":"up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
 {"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"},
