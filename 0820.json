@@ -14,7 +14,8 @@
 {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
 {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},
 {"host":"*","rule":["ysting.ysxs8.vip","m4a"]}],
-"sites":[{"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+"sites":[{"key":"drpy_js_豆瓣","name":"影视推荐","type":3,"api":"./lib/drpy.min.js","ext":"./js/豆瓣.js"},
+
 {"key":"csp_kuaikan","name":"快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 {"key":"csp_AppTT","name":"图图┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -40,6 +41,7 @@
 {"key":"csp_Yj1211","name": "网红直播┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Dm84","name":"动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name": "日本动漫┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"Gitcafe","name":"小纸条┃SP","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
 {"key":"csp_IQIYI","name":"爱奇艺┃SP","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV┃SP","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频┃SP","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
@@ -191,7 +193,7 @@
 {"key":"csp_biubiu_宝仙HD","name":"宝仙（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/宝仙HD.json"},
 {"key":"csp_biubiu_cupfox","name":"茶杯狐（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/茶杯狐.json"},
 {"key":"csp_biubiu_voflix","name":"voflix（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
+
 {"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
 {"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
