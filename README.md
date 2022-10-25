@@ -11,9 +11,11 @@ tvbox & diyp & kodi 配置文件
    
    （5）js.json  来源于tg频道watson的本地包，道长drpy本地通用包；
    
-   （6）1.json  测试用的配置，慎用；
+   （6）xBPQ.json  纯xBPQ源，jar包来源于tg群组“xBPQ_1022_终版之打死也不改.jar”，配置资源来源于shadowchiu369/TVBox的仓库。
    
-   （7）9918.json  nsfw的源，慎用。
+   （7）1.json  测试用的配置，慎用；
+   
+   （8）9918.json  nsfw的源，慎用。
    
    以上配置均可完美在q版的tvbox上食用。
 2. diyp配置：
