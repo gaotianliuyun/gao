@@ -75,9 +75,24 @@
             "key" : "drpy_js_DJ音乐",
             "name" : "DJ音乐[DRPY]",
             "type" : 3,
-            //"click" : "djuu.com;#jp-audio_0",
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/DJ音乐.js"
+        },
+            {
+            "key" : "drpy_js_蜻蜓FM",
+            "name" : "蜻蜓FM[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/蜻蜓FM.js",
+            "playerType":"2"
+        },
+            {
+            "key" : "drpy_js_海盗听书",
+            "name" : "海盗听书[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/海盗听书.js",
+            "playerType":"2"
         },
             {
             "key" : "drpy_js_短视频",
@@ -759,6 +774,13 @@
             "ext" : "./js/蛋蛋赞.js"
         },
             {
+            "key" : "drpy_js_酷酷韩剧",
+            "name" : "酷酷韩剧[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/酷酷韩剧.js"
+        },
+            {
             "key" : "drpy_js_冲TMTV[飞]",
             "name" : "冲TMTV[飞][DRPY]",
             "type" : 3,
@@ -836,16 +858,16 @@
         }],
     "rules" : [
             {
-            "host" : "*",
-            "rule" : [
-                "douyinvod.com",
-                "/video/tos/cn/"]
-        },
-            {
             "host" : "www.djuu.com",
             "rule" : [
                 "mp4.djuu.com",
                 "m4a"]
+        },
+            {
+            "host" : "http://www.sharenice.net/douyin",
+            "rule" : [
+                "https://www.douyin.com/aweme/",
+                "video_id="]
         },
             {
             "host" : "www.sharenice.net",
