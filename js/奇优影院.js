@@ -5,7 +5,7 @@ muban.首图2.二级.desc = '.stui-content__detail&&p:eq(1)&&Text;.stui-content_
 muban.首图2.二级.content = '.stui-pannel_bd:eq(1)&&Text';
 var rule = Object.assign(muban.首图2,{
     title:'奇优影院',
-    host:'http://1e6e.com',
+    host:'http://www.qiyoudy1.com',
     // host:'https://www.gdjilong.com/',
     url:'/list/fyclass_fypage.html',
     searchUrl:'/search.php;**',
