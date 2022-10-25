@@ -107,7 +107,6 @@
 {"key":"csp_xBPQ胖虎","name":"胖虎〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/胖虎影视.json"},
 {"key":"csp_xBPQ电影先生","name":"电影先生〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/电影先生.json"},
 {"key":"csp_xBPQF7好看剧","name":"F7好看剧〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/F7好看剧.json"},
-{"key":"csp_xBPQgimy","name":"剧迷〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/剧迷.json"},
 {"key":"csp_xBPQ极品影视.json","name":"极品影视〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/极品影视.json"},
 {"key":"csp_xBPQUM影院.json","name":"UM影院〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/UM影院.json"},
 {"key":"csp_xBPQApp影视.json","name":"App影视〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/APP影视.json"},
