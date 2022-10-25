@@ -1,0 +1,35 @@
+{
+"作者":"张弘",
+"站名":"巨人影院",
+"主页url":"http://www.jurenm.com/",
+"热门推荐":"1",
+"数组":"<li class=\"hl-list-item&&</li>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"class=\"hl-lc-1 remarks\">&&</span>",
+"搜索模式":"0",
+"搜索url": "https://www.jurenm.com/search.html?wd={wd}&submit=",
+"搜索链接前缀":"https://www.jurenm.com",
+"搜索链接后缀":"",
+"线路数组": "hl-tabs-btn hl-slide-swiper&&/a>",
+"线路标题":"></i>&&<",
+"播放数组":"hl-plays-list&&</ul>",
+"状态":"类型：&&</li>",
+"导演": "导演：&&</li>",
+"主演": "主演：&&</li>",
+"简介": "简介：&&</li>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&</a>",
+"播放链接":"href=\"&&\"",
+"免嗅":"1",
+"分类":"电影$1#电视剧$2#动漫$3#综艺$4#动画片$6",
+"分类url":"http://www.jurenm.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+"年份":"2000-2022",
+"筛选":"1"
+}
+
+
+
+
+

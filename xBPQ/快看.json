@@ -1,0 +1,68 @@
+{"作者":"张弘",
+"站名":"快看影视",
+"主页url":"https://www.kuaikanys.net/",
+"头部集合":"User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
+"热门推荐":"1",
+"二次截取":"",
+"数组":"tu\">&&</div>",
+"图片":"img src=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"<span class=\"score\">&&</span>",
+"线路数组":"tit\"&&</div>",
+"线路标题":">&&</span>",
+"搜索url": "https://www.kuaikanys.net/{wd}----------{pg}---.html",
+"搜索模式": "1",
+"搜索二次截取": "",
+"搜索数组": "<li>&&</li>",
+"搜索图片": "img src=\"&&\"",
+"搜索标题": "title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索链接前缀": "",
+"搜索后缀":"/v/",
+"播放二次截取":"",
+"播放数组":"playlist&&</ul>",
+"状态":"<em>&&</em>",
+"导演":"导演：&&</ul>",
+"主演":"主演：&&</li>",
+"简介":"简介：&&</span>",
+"列表二次截取":"",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+"免嗅":"0",
+"分类url":"https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html",
+"分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
+"筛选":{
+"dianying":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"动作片","v":"dongzuopian"},
+{"n":"喜剧片","v":"xijupian"},
+{"n":"爱情片","v":"aiqingpian"},
+{"n":"科幻片","v":"kehuanpian"},
+{"n":"恐怖片","v":"kongbupian"},
+{"n":"剧情片","v":"juqingpian"},
+{"n":"战争片","v":"zhanzhengpian"}
+]
+}
+],
+"lianxuju":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"国产剧","v":"guochanju"},
+{"n":"港台剧","v":"gangtaiju"},
+{"n":"日韩剧","v":"rihanju"},
+{"n":"欧美剧","v":"oumeiju"},
+{"n":"其他剧","v":"qitaju"}
+]
+}
+]
+}
+}

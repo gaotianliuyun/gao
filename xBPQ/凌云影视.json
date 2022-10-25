@@ -1,0 +1,189 @@
+{
+    "title": "凌云影视",
+    "author": "",
+    "UserAgent":"",
+    "firstpage": "1",
+    "homeContent": "1",
+     "class_url": "https://www.lingyun.in/list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "class_name": "电视剧&电影&综艺&动漫",
+    "class_value": "tv&movie&variety&cartoon",
+    "filterdata":{
+"tv": [
+{"key": "area","name": "地区","value": [
+{"n": "全部","v": ""},
+{"n": "大陆","v": "大陆"},
+{"n": "香港","v": "香港"},
+{"n": "美国","v": "美国"},
+{"n": "日本","v": "日本"},
+{"n": "韩国","v": "韩国"},
+{"n": "印度","v": "印度"},
+{"n": "其他","v": "其他"}]},
+{"key": "class","name": "类型","value": [
+{"n": "全部","v": ""},
+{"n": "剧情","v": "剧情"},
+{"n": "科幻","v": "科幻"},
+{"n": "动作","v": "动作"},
+{"n": "喜剧","v": "喜剧"},
+{"n": "爱情","v": "爱情"},
+{"n": "冒险","v": "冒险"},
+{"n": "战争","v": "战争"}]},
+{"key": "year","name": "年代","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}]}
+],
+"movie": [
+{"key": "area","name": "地区","value": [
+{"n": "全部","v": ""},
+{"n": "大陆","v": "大陆"},
+{"n": "香港","v": "香港"},
+{"n": "美国","v": "美国"},
+{"n": "日本","v": "日本"},
+{"n": "韩国","v": "韩国"},
+{"n": "印度","v": "印度"},
+{"n": "其他","v": "其他"}]},
+{"key": "class","name": "类型","value": [
+{"n": "全部","v": ""},
+{"n": "剧情","v": "剧情"},
+{"n": "科幻","v": "科幻"},
+{"n": "动作","v": "动作"},
+{"n": "喜剧","v": "喜剧"},
+{"n": "爱情","v": "爱情"},
+{"n": "冒险","v": "冒险"},
+{"n": "战争","v": "战争"}]},
+{"key": "year","name": "年代","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}]}
+],
+"variety": [
+{"key": "area","name": "地区","value": [
+{"n": "全部","v": ""},
+{"n": "内地","v": "内地"},
+{"n": "港台","v": "港台"},
+{"n": "日韩","v": "日韩"},
+{"n": "欧美","v": "欧美"}]},
+{"key": "class","name": "类型","value": [
+{"n": "全部","v": ""},
+{"n": "剧情","v": "剧情"},
+{"n": "科幻","v": "科幻"},
+{"n": "动作","v": "动作"},
+{"n": "喜剧","v": "喜剧"},
+{"n": "爱情","v": "爱情"},
+{"n": "冒险","v": "冒险"},
+{"n": "战争","v": "战争"}]},
+{"key": "year","name": "年代","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}]}
+],
+"cartoon": [
+{"key": "area","name": "地区","value": [
+{"n": "全部","v": ""},
+{"n": "大陆","v": "大陆"},
+{"n": "日本","v": "日本"},
+{"n": "其他","v": "其他"}]},
+{"key": "class","name": "类型","value": [
+{"n": "全部","v": ""},
+{"n": "剧情","v": "剧情"},
+{"n": "科幻","v": "科幻"},
+{"n": "动作","v": "动作"},
+{"n": "喜剧","v": "喜剧"},
+{"n": "爱情","v": "爱情"},
+{"n": "冒险","v": "冒险"},
+{"n": "战争","v": "战争"}]},
+{"key": "year","name": "年代","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}]}
+]
+},
+
+
+    "cat_YN_twice": "0",
+    "cat_twice_pre": "",
+    "cat_twice_suf": "",
+    "cat_arr_pre": "class=\"li-img",
+    "cat_arr_suf": "</li>",
+    "cat_pic": "data-src=\"&&\"",
+    "cat_title": "alt=\"&&\"",
+    "cat_subtitle": "class=\"icon-play\"></i>&&</span>",
+    "cat_url": "href=\"&&\"",
+    "cat_prefix": "https://www.lingyun.in",
+    "cat_suffix": "",
+
+
+    "search_url": "https://www.lingyun.in/search.html?wd={wd}",//搜索网址
+    "search_mode": "1",//搜索模式，0是json格式，1是网页截取
+    "jsonpic": "vod_pic",
+    "jsonname": "vod_name",
+    "jsonid": "vod_id",
+    "jsonstitle":"",
+    "sea_YN_twice": "0",//是否二次截取
+    "sea_twice_pre": "",//截取前
+    "sea_twice_suf": "",//截取后
+    "sea_arr_pre": "<dl><dt><a",//数组前
+    "sea_arr_suf": "</dt>",//数组后
+    "sea_pic": "data-src=\"&&\"",//图片
+    "sea_title": "alt=\"&&\"",//标题
+    "sea_url": "href=\"&&\"",//地址
+    "search_prefix": "https://www.lingyun.in",//地址前缀
+    "search_suffix": "",//地址后缀
+    "sea_subtitle": "空",//副标题
+
+
+    "force_play": "0",
+    "play_prefix": "空",
+    "play_suffix": "空",
+    "play_header": "空",
+
+    "proj_actor": "og:video:actor\" content=\"&&\"",//演员
+    "proj_plot": "og:description\" content=\"&&\"",//简介
+    "tab_YN_twice": "1",
+    "tab_twice_pre": "py-tabs",
+    "tab_twice_suf": "<div class=\"bd\">",
+    "tab_arr_pre": "<li",//线路前
+    "tab_arr_suf": "</li>",//线路后
+    "tab_title": "class=\"\">&&<small>",//线路名字
+
+    "list_YN_twice": "0",
+    "list_twice_pre": "空",
+    "list_twice_suf": "空",
+    "list_arr_pre": "<ul class=\"player ckp\">",//播放列表前
+    "list_arr_suf": "</ul>",//播放列表后
+
+    "epi_YN_twice": "0",
+    "epi_twice_pre": "空",
+    "epi_twice_suf": "空",
+    "epi_arr_pre": "<a",
+    "epi_arr_suf": "/a>",
+    "epi_title": "html\">&&<",
+    "epi_url": "href=\"&&\"",
+    "epiurl_prefix": "https://www.lingyun.in",
+    "epiurl_suffix": "",
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"1",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#item/video#is_play_url=1"
+    
+}
