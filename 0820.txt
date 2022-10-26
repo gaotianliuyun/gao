@@ -13,7 +13,6 @@
 {"key":"AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tbook","name":"听书网","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
 {"key":"Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"IKan","name":"爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
