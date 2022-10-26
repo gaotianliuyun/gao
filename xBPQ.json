@@ -61,7 +61,7 @@
 //{"key":"csp_xBPQ剧迷","name":"剧迷〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/剧迷.json"},
 {"key":"csp_xBPQ看了么","name":"看了么〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看了么.json"},
 {"key":"csp_xBPQ看戏影视","name":"看戏影视〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看戏影视.json"},
-{"key":"csp_xBPQ酷狗MV","name":"酷狗MV〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷狗MV.json"},
+//{"key":"csp_xBPQ酷狗MV","name":"酷狗MV〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷狗MV.json"},
 {"key":"csp_xBPQ酷客影院","name":"酷客影院〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷客影院.json"},
 {"key":"csp_xBPQ酷蚂蚁","name":"酷蚂蚁〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷蚂蚁.json"},
 {"key":"csp_xBPQ酷奇MV","name":"酷奇MV〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷奇MV.json"},
