@@ -6,8 +6,7 @@
 {"host":"*","rule":["huoshan.com","/item/video/"]},
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
-"sites":
-[{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+"sites":[{"key":"drpy_js_豆瓣","name":"影视推荐","type":3,"api":"./lib/drpy.min.js","ext":"./js/豆瓣.js"},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist1.json"},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪","type":3,"api":"./lib/drpy.ym.js","ext":"./js/猫了个咪.js"},
 {"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐","type":3,"api":"./lib/drpy.ym.js","ext":"./js/玩偶姐姐.js"},
@@ -20,6 +19,7 @@
 {"key":"麻豆传媒","name":"麻豆传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/madou.json"},
 {"key":"Gaoav","name":"Gaoav","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/Gaoav.json"},
 {"key":"2022xxj","name":"2022xxj","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./2022xxj.json"},
+{"key":"T4","name":"T4爬虫","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=http://刚刚.live/json/alitoken.json&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"madouse.la","name":"成人01","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"51smt4.xyz","name":"成人02","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"bttcj.com","name":"成人04","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
