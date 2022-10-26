@@ -30,6 +30,13 @@
             "ext" : "./js/优酷.js"
         },
             {
+            "key" : "drpy_js_爱酷影视",
+            "name" : "#爱酷影视#[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/爱酷影视.js"
+        },
+            {
             "key" : "drpy_js_腾云驾雾",
             "name" : "#腾讯#[DRPY]",
             "type" : 3,
@@ -732,7 +739,7 @@
             "name" : "独播库[DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
-            "ext" : "./js/独播库.js"
+            "ext" : "./js/独播库[飞].js"
         },
             {
             "key" : "drpy_js_豆芽影院",
