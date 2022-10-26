@@ -18,6 +18,12 @@ var rule = {
     double:true,
     推荐:'.list-ul;a;.list-name&&Text;img&&data-original;.module-slide-author&&Text;a&&href',
     一级:'.book-ol&&li;h4&&Text;img&&data-original;.book-submeta&&Text;a&&href',
-    二级:{title:'h2&&Text',img:'.bookimg&&img&&data-original',desc:'.book-rand-a:eq(0)&&Text;.book-rand-a:eq(1)&&Text;.book-rand-a:eq(2)&&Text;.book-rand-a:eq(3)&&Text',content:'.book_intro&&Text',tabs:'.list-contitle&&h3',lists:'#playlist:eq(#id)&&ul&&li'},
+    二级:{title:'h2&&Text',img:'.bookimg&&img&&data-original',desc:'.book-rand-a:eq(0)&&Text;.book-rand-a:eq(1)&&Text;.book-rand-a:eq(2)&&Text;.book-rand-a:eq(3)&&Text',content:'.book_intro&&Text',
+    tabs:'.list-contitle&&h3',
+    lists:'',
+    lists:'js:pd=jsp.pd;let url=pd(html,".bookbutton&&a&&href");log(url);html=request(url);let v=pd(html,".booksite&&script&&Html");var document={};var VideoListJson;VideoListJson=eval(v.split("VideoListJson=")[1].split(",urlinfo")[0]);log(typeof VideoListJson);let list1=VideoListJson[0][1];LISTS=[list1];log(LISTS);',
+   // 有声小说有防盗链,我服了(上面的列表数据正常拿到了,没法播放)
+    lists:'#playlist:eq(#id)&&ul&&li',
+    },
     搜索:'*',
 }
