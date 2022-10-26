@@ -151,6 +151,7 @@
 {"key":"csp_app_独优影视","name":"独优影视（V2）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_app_段友影视","name":"段友影视（V2）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
 {"key":"csp_app_天天视频","name":"天天视频（V1）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key":"XPF-人人影视","name":"人人影视（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
 {"key":"csp_XPath小强迷","name":"小强迷（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/小强迷.json"},
 {"key":"csp_xpath_tjyy","name":"奇优影院（XPM）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/huigutongying.json"},
 {"key":"XPF-zxzj","name":"在线之家（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zxzj.json"},
