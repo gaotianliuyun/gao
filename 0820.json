@@ -127,6 +127,7 @@
 {"key":"csp_xBPQ片吧","name":"片吧〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/片吧.json"},
 {"key":"csp_xBPQ影视工厂","name":"影视工厂〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/影视工厂.json"},
 
+{"key":"csp_XYQBiu_酷狗MV","name":"酷狗MV〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/酷狗MV.json"},
 {"key":"csp_XYQBiu_2","name":"e9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/e9视频.json"},
 {"key":"csp_XYQBiu_3","name":"️fositv〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/fositv.json"},
 {"key":"csp_XYQBiu_6","name":"艾菲影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/艾菲影视.json"},
