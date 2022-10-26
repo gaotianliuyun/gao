@@ -3,7 +3,7 @@ tvbox & diyp & kodi 配置文件
    
    （1）0820.json  较全面的源，jar的来源于每日神器的jar包。使用多jar，加上俊于的新小纸条，和唐三的Zjdr、Cokemv、IKan、Smdyy、Tbook；
    
-   （2）0820.txt  精简的源，jar的来源dxawi/1的仓库，据说是baitian wu精缝的包。使用多jar，加上俊于的新小纸条；
+   （2）0820.txt  精简的源，jar的来源唐三的jar包。使用多jar，加上俊于的新小纸条、QQ、MGTV、IQIYI、SP360；
    
    （3）0828.json  完全来源于唐三的jar包和配置；
    
