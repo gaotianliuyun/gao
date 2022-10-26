@@ -6,10 +6,10 @@
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
  "sites":[
-{"key":"csp_xBPQ动视影视","name":"动视影视〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/动视影视.json"},
-{"key":"csp_XYQ动视影视","name":"动视影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/动视影视.json"},
-{"key":"csp_xBPQ555电影","name":"555电影〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
-{"key":"csp_XYQ555电影","name":"555电影〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
+{"key":"XPF-动漫巴士","name":"人人影视（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
+{"key":"XPF-动漫巴士2","name":"人人影视（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
+{"key":"XPF-动漫巴士3","name":"人人影视（XPM）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
+{"key":"XPF-动漫巴士4","name":"人人影视（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
 
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"}],
