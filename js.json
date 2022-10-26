@@ -84,7 +84,7 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/蜻蜓FM.js",
-            "playerType":"2"
+            "playerType" : "2"
         },
             {
             "key" : "drpy_js_海盗听书",
@@ -92,14 +92,23 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/海盗听书.js",
-            "playerType":"2"
+            "playerType" : "2"
+        },
+            {
+            "key" : "drpy_js_听书网",
+            "name" : "听书网[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/听书网.js",
+            "playerType" : "2"
         },
             {
             "key" : "drpy_js_短视频",
             "name" : "短视频[DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
-            "ext" : "./js/短视频.js"
+            "ext" : "./js/短视频.js",
+            "click" : "douyinpic.com"
         },
             {
             "key" : "drpy_js_酷奇MV",
@@ -224,6 +233,7 @@
             "key" : "drpy_js_荐片",
             "name" : "荐片[DRPY]",
             "type" : 3,
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/荐片.js"
         },
@@ -683,6 +693,20 @@
             "ext" : "./js/饭团.js"
         },
             {
+            "key" : "drpy_js_兰花影院",
+            "name" : "兰花影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/兰花影院.js"
+        },
+            {
+            "key" : "drpy_js_我爱电影网",
+            "name" : "我爱电影网[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/我爱电影网.js"
+        },
+            {
             "key" : "drpy_js_Voflix",
             "name" : "Voflix[DRPY]",
             "type" : 3,
@@ -695,6 +719,34 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/映迷影院.js"
+        },
+            {
+            "key" : "drpy_js_趣享星趣",
+            "name" : "趣享星趣[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/趣享星趣.js"
+        },
+            {
+            "key" : "drpy_js_独播库",
+            "name" : "独播库[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/独播库.js"
+        },
+            {
+            "key" : "drpy_js_豆芽影院",
+            "name" : "豆芽影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/豆芽影院.js"
+        },
+            {
+            "key" : "drpy_js_NY影院",
+            "name" : "NY影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/NY影院.js"
         },
             {
             "key" : "drpy_js_新视觉影视",
@@ -866,20 +918,7 @@
             {
             "host" : "http://www.sharenice.net/douyin",
             "rule" : [
-                "https://www.douyin.com/aweme/",
-                "video_id="]
-        },
-            {
-            "host" : "www.sharenice.net",
-            "rule" : [
-                "huoshan.com",
-                "/video/"]
-        },
-            {
-            "host" : "www.sharenice.net",
-            "rule" : [
-                "sovv.qianpailive.com",
-                "vid="]
+                "https://www.douyin.com/aweme/v1/play/?video_id="]
         },
             {
             "host" : "hdmoli.com",
@@ -891,12 +930,6 @@
             "rule" : [
                 "bilivideo.com/live-bvc",
                 "index.m3u8?expires="]
-        },
-            {
-            "host" : "m.ysxs8.vip",
-            "rule" : [
-                "xmcdn.com",
-                "m4a"]
         },
             {
             "host" : "www.agemys.cc",
