@@ -84,7 +84,7 @@
 {"key":"api.yinwoapi.com","name":"成人69","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"sewozyapi.com","name":"成人70","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"api.apilyzy.com","name":"成人71","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"}],
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"f6fcd2d1c0e54601805413721d89e0ca"}],
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
