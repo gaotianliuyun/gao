@@ -1100,11 +1100,6 @@
             "url" : "Sequence"
         },
             {
-            "name" : "测试",
-            "type" : 1,
-            "url" : "https://api.8a5.cn/10.php?url="
-        },
-            {
             "name" : "江湖1080",
             "type" : 1,
             "url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="
