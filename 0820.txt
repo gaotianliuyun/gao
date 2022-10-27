@@ -1,5 +1,5 @@
 {
-"spider":"./jar/tang.jar;md5;5c5d8940dd415ed3cf775eb45ecd17fe",
+"spider":"./jar/tang.jar;md5;456e591b3f88da9e9398e33d657d2a9a",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
@@ -8,6 +8,7 @@
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "sites":[{"key":"drpy_js_豆瓣","name":"影视推荐","type":3,"api":"./lib/drpy.min.js","ext":"./js/豆瓣.js"},
 {"key":"Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dy555","name":"555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ddys","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
