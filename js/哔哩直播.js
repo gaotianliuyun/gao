@@ -54,7 +54,7 @@ var rule = {
     timeout:5000,
     limit:8,
     play_parse:true,
-    play_json:[{re:'*', json:{jx:1, parse:0}}],
+    play_json:[{re:'*', json:{jx:0, parse:1}}],
     play_json:0,
     lazy:'',
     double:false,
