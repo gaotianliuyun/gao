@@ -165,7 +165,7 @@
 {"key":"csp_xpath_工人","name":"工人（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/grp.json"},
 {"key":"csp_xpath_UM","name":"UM影院（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/UM.json"},
 {"key":"csp_xpath_HOHO","name":"HOHO(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Hoho.json"},
-{"key":"csp_xpath_独播库","name":"独播库(系统播)(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/duboku.json"},
+{"key":"csp_xpath_独播库","name":"独播库(XPMF)","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/duboku.json"},
 
 {"key":"csp_biubiu_tvb云播","name":"tvb云播（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/tvb云播.json"},
 {"key":"csp_xbb_zjmiao.json","name":"追喵（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/zjmiao.json"},
