@@ -11,7 +11,7 @@ tvbox & diyp & kodi 配置文件
    
    （5）js.json  资源来源于道长仓库“晚风拂柳颜/dr_py”；
    
-   （6）xBPQ.json  纯xBPQ源，jar包来源于tg群组“xBPQ_1022_终版之打死也不改.jar”，配置资源来源于shadowchiu369/TVBox的仓库。
+   （6）xBPQ.json  纯xBPQ源，jar包来源于tg群组“xBPQ_1022_终版之打死也不改.jar”，配置资源来源于“shadowchiu369/TVBox”的仓库。
    
    （7）1.json  测试用的配置，慎用；
    
