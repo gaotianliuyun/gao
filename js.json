@@ -30,13 +30,6 @@
             "ext" : "./js/优酷.js"
         },
             {
-            "key" : "drpy_js_爱酷影视",
-            "name" : "#爱酷影视#[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/爱酷影视.js"
-        },
-            {
             "key" : "drpy_js_腾云驾雾",
             "name" : "#腾讯#[DRPY]",
             "type" : 3,
@@ -151,6 +144,13 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/JustLive.js"
+        },
+            {
+            "key" : "drpy_js_哔哩直播",
+            "name" : "哔哩直播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/哔哩直播.js"
         },
             {
             "key" : "drpy_js_JRKAN直播",
@@ -739,7 +739,7 @@
             "name" : "独播库[DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
-            "ext" : "./js/独播库[飞].js"
+            "ext" : "./js/独播库.js"
         },
             {
             "key" : "drpy_js_豆芽影院",
@@ -824,6 +824,126 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/秋霞.js"
+        },
+            {
+            "key" : "drpy_js_蛋蛋赞",
+            "name" : "蛋蛋赞[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/蛋蛋赞.js"
+        },
+            {
+            "key" : "drpy_js_艾旦影视",
+            "name" : "艾旦影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/艾旦影视.js"
+        },
+            {
+            "key" : "drpy_js_大猪蹄子",
+            "name" : "大猪蹄子[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/大猪蹄子.js"
+        },
+            {
+            "key" : "drpy_js_蛋蛋魔法",
+            "name" : "蛋蛋魔法[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/蛋蛋魔法.js"
+        },
+            {
+            "key" : "drpy_js_电影先生",
+            "name" : "电影先生[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/电影先生.js"
+        },
+            {
+            "key" : "drpy_js_多瑙影视",
+            "name" : "多瑙影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/多瑙影视.js",
+            "playerType" : "2"
+        },
+            {
+            "key" : "drpy_js_捷华影视",
+            "name" : "捷华影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/捷华影视.js"
+        },
+            {
+            "key" : "drpy_js_欧乐影院",
+            "name" : "欧乐影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/欧乐影院.js"
+        },
+            {
+            "key" : "drpy_js_霹雳影视",
+            "name" : "霹雳影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/霹雳影视.js"
+        },
+            {
+            "key" : "drpy_js_七小时影院",
+            "name" : "七小时影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/七小时影院.js"
+        },
+            {
+            "key" : "drpy_js_视中心影视",
+            "name" : "视中心影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/视中心影视.js"
+        },
+            {
+            "key" : "drpy_js_我爱跟剧",
+            "name" : "我爱跟剧[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/我爱跟剧.js"
+        },
+            {
+            "key" : "drpy_js_小宝影视",
+            "name" : "小宝影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/小宝影视.js"
+        },
+            {
+            "key" : "drpy_js_小宝影院",
+            "name" : "小宝影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/小宝影院.js"
+        },
+            {
+            "key" : "drpy_js_新安影院",
+            "name" : "新安影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/新安影院.js"
+        },
+            {
+            "key" : "drpy_js_影渣渣",
+            "name" : "影渣渣[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/影渣渣.js"
+        },
+            {
+            "key" : "drpy_js_HoHo影视",
+            "name" : "HoHo影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/HoHo影视.js"
         },
             {
             "key" : "drpy_js_蛋蛋赞",
@@ -935,8 +1055,8 @@
             {
             "host" : "https://live.bilibili.com",
             "rule" : [
-                "bilivideo.com/live-bvc",
-                "index.m3u8?expires="]
+                "bilivideo.com",
+                "index.m3u8"]
         },
             {
             "host" : "www.agemys.cc",
@@ -978,6 +1098,11 @@
             "name" : "Json轮询",
             "type" : 2,
             "url" : "Sequence"
+        },
+            {
+            "name" : "测试",
+            "type" : 1,
+            "url" : "https://api.8a5.cn/10.php?url="
         },
             {
             "name" : "江湖1080",
