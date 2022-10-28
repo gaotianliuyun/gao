@@ -42,6 +42,7 @@
 {"key":"csp_Smdyy","name":"神马┃SP","type":3,"api":"csp_Smdyy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/tang.jar"},
 {"key":"Tbook","name":"听书网┃SP","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/tang.jar"},
 {"key":"Lgyy","name":"蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/tang.jar"},
+{"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/tang.jar"},
 
 {"key":"T4","name":"T4爬虫","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=http://刚刚.live/json/alitoken.json&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
