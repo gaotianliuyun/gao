@@ -47,7 +47,8 @@ var rule = {
     searchable:2,
     quickSearch:0,
     headers:{
-        "User-Agent":"PC_UA"
+        "User-Agent":"PC_UA",
+        "Cookie": "searchneed=ok"
         //"Cookie": "" 
         // Cookie获取方法 https://github.com/UndCover/PyramidStore/blob/main/list.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9
     },
