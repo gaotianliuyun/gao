@@ -8,6 +8,7 @@
  "sites":[
 {"key":"csp_xpath_独播库","name":"🦋独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/duboku.json"},
 {"key":"csp_xBPQ4K影院.json","name":"4K影院〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/4K影院.json"},
+{"key":"csp_xBPQNO视频.json","name":"NO视频〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/NO视频.json"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"}],
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
