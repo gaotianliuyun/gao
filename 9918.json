@@ -1,7 +1,7 @@
 {
 "spider":"./jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./listx.txt"]}]}],
-"wallpaper":"./json/t9.jpg",
+"wallpaper":"https://floral-cell-82a6.254586273.workers.dev",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
