@@ -103,6 +103,13 @@
             "playerType" : "2"
         },
             {
+            "key" : "drpy_js_有声小说吧",
+            "name" : "有声小说吧[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/有声小说吧.js"
+        },
+            {
             "key" : "drpy_js_短视频",
             "name" : "短视频[DRPY]",
             "type" : 3,
@@ -960,6 +967,13 @@
             "ext" : "./js/酷酷韩剧.js"
         },
             {
+            "key" : "drpy_js_UrleBird[飞]",
+            "name" : "UrleBird[飞][DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/UrleBird[飞].js"
+        },
+            {
             "key" : "drpy_js_冲TMTV[飞]",
             "name" : "冲TMTV[飞][DRPY]",
             "type" : 3,
@@ -972,13 +986,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/KUBO影视[飞].js"
-        },
-            {
-            "key" : "drpy_js_有声小说吧",
-            "name" : "有声小说吧[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/有声小说吧.js"
         },
             {
             "key" : "drpy_js_兔小贝",
@@ -1043,9 +1050,18 @@
                 "m4a"]
         },
             {
-            "host" : "http://www.sharenice.net/douyin",
+            "host" : "www.sharenice.net",
             "rule" : [
-                "https://www.douyin.com/aweme/v1/play/?video_id="]
+                "douyin.com",
+                "/play/"]
+        },
+            {
+            "host" : "m.ysxs8.vip",
+            "rule" : [
+                "ysting.ysxs8.vip:81",
+                "xmcdn.com"],
+            "filter" : [
+            ]
         },
             {
             "host" : "hdmoli.com",
@@ -1053,7 +1069,7 @@
                 ".m3u8"]
         },
             {
-            "host" : "https://live.bilibili.com",
+            "host" : "live.bilibili.com",
             "rule" : [
                 "bilivideo.com",
                 "index.m3u8"]
@@ -1065,7 +1081,7 @@
                 "obj/tos-cn"]
         },
             {
-            "host" : "https://www.fun4k.com",
+            "host" : "www.fun4k.com",
             "rule" : [
                 "https://hd.ijycnd.com/play",
                 "index.m3u8"]
