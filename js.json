@@ -638,6 +638,20 @@
             "ext" : "./js/在线之家.js"
         },
             {
+            "key" : "drpy_js_在线189",
+            "name" : "在线189[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/在线189.js"
+        },
+            {
+            "key" : "drpy_js_南瓜影院",
+            "name" : "南瓜影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/南瓜影院.js"
+        },
+            {
             "key" : "drpy_js_瓜皮TV",
             "name" : "瓜皮TV[DRPY]",
             "type" : 3,
