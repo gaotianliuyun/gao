@@ -1,7 +1,7 @@
 tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路大神用爱发光，如有侵权，请联系删除。
 1. tvbox配置：
    
-   （1）0820.json  较全面的源，jar的来源于每日神器的jar包。使用多jar，加上俊于的新小纸条，和唐三的Zjdr、Cokemv、IKan、Smdyy、Tbook、Lgyy；
+   （1）0820.json  较全面的源，jar的来源于每日神器的jar包。使用多jar，加上俊于的新小纸条，和唐三的个别爬虫；
    
    （2）0820.txt  精简的源，jar的来源唐三的jar包。使用多jar，加上俊于的新小纸条、QQ、MGTV、IQIYI、SP360；
    
