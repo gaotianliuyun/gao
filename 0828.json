@@ -30,7 +30,7 @@
 {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
 {"key":"XPF-人人影视","name":"人人影视（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
 {"key":"csp_XPath小强迷","name":"小强迷（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/小强迷.json"},
-{"key":"csp_xp_yingba","name":"电影吧（XP）","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yingba.json"},
+{"key":"csp_xp_yingba","name":"电影吧（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yingba.json"},
 {"key":"XPF-动漫巴士","name":"动漫巴士（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/动漫巴士.json"},
 {"key":"csp_XPath农民影视","name":"农民影视（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/农民影视.json"},
 {"key":"csp_xp_348z","name":"348电影（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/348z.json"},
