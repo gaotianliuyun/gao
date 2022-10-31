@@ -1,12 +1,21 @@
-﻿var rule = Object.assign(muban.vfed,{
+var rule={
 title:'兰花影院',
-host:'https://www.lanhua.tv/',
-'User-Agent':'MOBILE_UA',
-class_parse:'ul.top_nav&&li;a&&Text;a&&href;./(\\d+).html',
-cate_exclude:'午夜影院|VIP蓝光影院|电视直播',
-推荐:'.cbox_list;ul&&li;a&&title;.lazyload&&data-original;.pic_text.text_right&&Text;a&&href',
+host:'https://cucutube.com',
+//host:'https://www.lanhua.tv',
+url:'/vodshow/fyclass--------fypage---.html',
+searchUrl:'/vodsearch/**----------fypage---.html',
+searchable:2,
+quickSearch:0,
+filterable:0,
+headers:{'User-Agent':'MOBILE_UA', },
+class_name:'电影&电视剧&综艺&动漫&纪录片',
+class_url:'1&2&3&4&5',
+play_parse:true,
+lazy:'',
+limit:6,
+推荐:'.module-list;.module-items&&.module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
 double:true, // 推荐内容是否双层定位
-一级:'.vodlist&&li;a&&title;.lazyload&&data-original;.pic_text.text_right&&Text;a&&href',
-二级:{"title":".hd_tit&&Text;.content_min&&ul&&li&&Text","img":".lazyload&&data-original","desc":";;;.content_min&&ul&&li:eq(2) a&&Text;.content_min&&ul&&li:eq(3) a&&Text","content":".context&&span&&Text","tabs":".play_source_tab&&.active","lists":".content_playlist:eq(#id) li"},
-搜索:'.vodlist&&li;*;*;*;*',
-});
+一级:'.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+二级:{"title":"h1&&Text;.video-info-aux&&div&&a:eq(0)&&Text","img":".module-item-pic&&img&&data-src","desc":";.video-info-aux&&a:eq(1)&&Text;.video-info-aux&&a:eq(2)&&Text;.video-info-items:eq(1)&&.video-info-actor&&Text;.video-info-items:eq(0)&&.video-info-actor&&Text","content":".video-info-items:eq(7)&&.video-info-content&&Text","tabs":".module-tab-item.tab-item","lists":".module-player-list:eq(#id)&&.scroll-content&&a"},
+搜索:'.module-items&&.module-search-item;h3&&Text;*;.video-serial&&Text;*',
+}
