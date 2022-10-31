@@ -72,7 +72,7 @@
 {"key":"csp_xp_yingba","name":"电影吧（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yingba.json"},
 {"key":"csp_xbb_voflix","name":"Voflix（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
 {"key":"csp_xbb_金眼影视","name":"金眼影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/金眼影视.json"},
-{"key":"csp_xbb_奈菲影院","name":"奈菲影院"（XB）,"type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/奈菲影院.json"},
+{"key":"csp_xbb_奈菲影院","name":"奈菲影院（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/奈菲影院.json"},
 {"key":"csp_xbb_骚火VIP","name":"骚火VIP（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/shdy.json"},
 {"key":"csp_xbb_稀饭影视","name":"稀饭影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/稀饭影视.json"},
 {"key":"csp_biubiu_tvb云播","name":"tvb云播（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/tvb云播.json"},
