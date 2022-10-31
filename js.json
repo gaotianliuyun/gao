@@ -386,11 +386,11 @@
             "ext" : "./js/69美剧.js"
         },
             {
-            "key" : "drpy_js_唐人街影视",
-            "name" : "唐人街影视[DRPY]",
+            "key" : "drpy_js_唐人街影视[飞]",
+            "name" : "唐人街影视[飞][DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
-            "ext" : "./js/唐人街影视.js"
+            "ext" : "./js/唐人街影视[飞].js"
         },
             {
             "key" : "drpy_js_素白白",
@@ -755,6 +755,13 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/兰花影院.js"
+        },
+            {
+            "key" : "drpy_js_9U电影",
+            "name" : "9U电影[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/9U电影.js"
         },
             {
             "key" : "drpy_js_我爱电影网",
