@@ -260,6 +260,55 @@
             "ext" : "./js/星辰.js"
         },
             {
+            "key" : "drpy_js_7喜影院",
+            "name" : "7喜影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/7喜影院.js"
+        },
+            {
+            "key" : "drpy_js_首播影院",
+            "name" : "首播影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/首播影院.js"
+        },
+            {
+            "key" : "drpy_js_米宝影院",
+            "name" : "米宝影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/米宝影院.js"
+        },
+            {
+            "key" : "drpy_js_31看影院",
+            "name" : "31看影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/31看影院.js"
+        },
+            {
+            "key" : "drpy_js_神马影视",
+            "name" : "神马影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/神马影视.js"
+        },
+            {
+            "key" : "drpy_js_视觉影院",
+            "name" : "视觉影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/视觉影院.js"
+        },
+            {
+            "key" : "drpy_js_利丽娅电影",
+            "name" : "利丽娅电影[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/利丽娅电影.js"
+        },
+            {
             "key" : "drpy_js_楚门影院",
             "name" : "楚门影院[DRPY]",
             "type" : 3,
