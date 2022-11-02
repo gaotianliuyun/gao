@@ -54,7 +54,7 @@
 {"key":"csp_Tbook","name":"听书网┃SP","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"./jar/tang.jar"},
 {"key":"csp_Yanet","name":"鸭奈飞┃SP","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"./jar/tang.jar"},
 
-{"key":"T4","name":"T4爬虫","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=http://刚刚.live/json/alitoken.json&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看直播.js"},
 {"key":"drpy_js_JRS看比赛","name":"JRS看比赛[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看比赛.js"},
