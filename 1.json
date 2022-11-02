@@ -10,6 +10,8 @@
 {"key":"T4","name":"T4爬虫","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"影视推荐js","type":3,"api":"./lib/drpy.min.js","ext":"./js/豆瓣.js"},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
+{"key":"Alist2","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
+{"key":"Alist3","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist1.json"},
 {"key":"AList1","name": "AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 
 {"key":"csp_Supjav","name":"Supjav┃SP","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1},
