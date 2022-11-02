@@ -7,6 +7,8 @@
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "sites":[
+{"key":"kd","name":"酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"kulunli","name":"酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Eighteen","name":"Eighteen","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
