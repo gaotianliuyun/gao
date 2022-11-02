@@ -911,6 +911,27 @@
             "ext" : "./js/量子影视.js"
         },
             {
+            "key" : "drpy_js_539影院",
+            "name" : "539影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/539影院.js"
+        },
+            {
+            "key" : "drpy_js_西瓜影视",
+            "name" : "西瓜影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/西瓜影视.js"
+        },
+            {
+            "key" : "drpy_js_追剧影视",
+            "name" : "追剧影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/追剧影视.js"
+        },
+            {
             "key" : "drpy_js_Fun4K",
             "name" : "Fun4K[DRPY]",
             "type" : 3,
