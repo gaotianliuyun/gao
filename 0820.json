@@ -38,7 +38,7 @@
 {"key":"csp_Xxys","name":"🐻小熊┃SP","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📺360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"teng","name":"🐧小腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1"},
+{"key":"teng","name":"🐧小腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"ai","name":"🐨爱奇┃SP","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"MGT","name":"🍋芒果┃SP","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_jihuang","name":"🚀剧荒┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
