@@ -12,7 +12,7 @@
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "./json/Alist.json"
     },
     {
       "key": "哔哩",
@@ -191,10 +191,11 @@
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
 {"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
-{"key":"upyunsou","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
-{"key":"yisou","name":"宜搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
-{"key":"AliPS","name":"AliPS","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"}],
+{"key":"upyunsou","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"}
+//{"key":"yisou","name":"宜搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
+//{"key":"AliPS","name":"AliPS","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
+//{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"}
+ ],
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
