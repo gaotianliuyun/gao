@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fongmi.jar;md5;ddd9f5118f6f8882efea6591ef712cd8",
+"spider":"./jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./listx.txt"]}]}],
 "wallpaper":"https://gao.chuqiuyu.tk",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
