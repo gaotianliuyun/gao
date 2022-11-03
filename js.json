@@ -253,11 +253,46 @@
             "ext" : "./js/荐片.js"
         },
             {
+            "key" : "drpy_js_追剧迷",
+            "name" : "追剧迷[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/追剧迷.js"
+        },
+            {
+            "key" : "drpy_js_盛世电影网",
+            "name" : "盛世电影网[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/盛世电影网.js"
+        },
+            {
+            "key" : "drpy_js_回响影视",
+            "name" : "回响影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/回响影视.js"
+        },
+            {
+            "key" : "drpy_js_溪谷影视",
+            "name" : "溪谷影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/溪谷影视.js"
+        },
+            {
             "key" : "drpy_js_星辰",
             "name" : "星辰[DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/星辰.js"
+        },
+            {
+            "key" : "drpy_js_艾菲影视",
+            "name" : "艾菲影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/艾菲影视.js"
         },
             {
             "key" : "drpy_js_7喜影院",
@@ -1150,7 +1185,7 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 0,
-            "ext" : "http://刚刚.live/json/alitoken.json"
+            "ext" : "a52cc59d21374117858c0dccb4b3c117"
         }],
     "lives" : [
             {
