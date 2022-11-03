@@ -1,4 +1,4 @@
-{"spider":"./jar/fongmi.jar;md5;ddd9f5118f6f8882efea6591ef712cd8",
+{"spider":"./jar/xo1102.jar;md5;c4ba98711fac35daff17780d0817f5dc",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
@@ -23,10 +23,10 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
+      "key": "Wmkk",
+      "name": "Wmkk",
       "type": 3,
-      "api": "csp_Nbys",
+      "api": "csp_Wmkk",
       "searchable": 1,
       "filterable": 1
     },
