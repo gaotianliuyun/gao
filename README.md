@@ -15,7 +15,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （7）1.json  测试用的配置，慎用；
    
-   （8）9918.json  nsfw的源，慎用。
+   （8）9918.json  nsfw的源，慎用。用的fongmi的jar包，里面不含直播解析，因此q版无法看直播，fongmi最新版可以看。
    
    以上配置均可完美在q版的tvbox上食用。
 2. diyp配置：
