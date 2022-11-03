@@ -1,6 +1,6 @@
 {
 "spider":"./jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b",
-"lives":[{"name":"直播","type":0,"url":"./listx.txt"}],
+"lives":[{"name":"直播","type":0,"url":"https://gaotianliuyun.github.io/gao/listx.txt"}],
 "wallpaper":"https://gao.chuqiuyu.tk",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
