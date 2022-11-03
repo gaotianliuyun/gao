@@ -253,6 +253,13 @@
             "ext" : "./js/荐片.js"
         },
             {
+            "key" : "drpy_js_歪片星球",
+            "name" : "歪片星球[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/歪片星球.js"
+        },
+            {
             "key" : "drpy_js_追剧迷",
             "name" : "追剧迷[DRPY]",
             "type" : 3,
