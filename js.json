@@ -1129,6 +1129,20 @@
             "ext" : "./js/酷酷韩剧.js"
         },
             {
+            "key" : "drpy_js_稀饭影视",
+            "name" : "稀饭影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/稀饭影视.js"
+        },
+            {
+            "key" : "drpy_js_欧帝影院[飞]",
+            "name" : "欧帝影院[飞][DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/欧帝影院[飞].js"
+        },
+            {
             "key" : "drpy_js_UrleBird[飞]",
             "name" : "UrleBird[飞][DRPY]",
             "type" : 3,
@@ -1286,6 +1300,11 @@
             "url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="
         },
             {
+            "name" : "rx2",
+            "type" : 1,
+            "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
+        },
+            {
             "name" : "keyu",
             "type" : 1,
             "url" : "http://newjiexi.gotka.top/keyu3.php?url=",
@@ -1316,6 +1335,35 @@
                     "爱奇艺",
                     "qq",
                     "奇艺"]
+            }
+        },
+            {
+            "name" : "bozrc",
+            "type" : 0,
+            "url" : "https://jx.bozrc.com:4433/player/?url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "leshi",
+                    "LS",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"],
+                "header" : {
+                    "User-Agent" : ""
+                }
             }
         },
             {
