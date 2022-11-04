@@ -9,7 +9,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （4）0829.json  完全来源于俊于的top97的jar包和配置；
    
-   （5）js.json  资源来源于道长仓库“晚风拂柳颜/dr_py”；
+   （5）js.json  资源来源于tg频道“watson”，猫爪收集整理的道长drpy(js)资源；
    
    （6）xBPQ.json  纯xBPQ源，jar包来源于tg群组“xBPQ_1022_终版之打死也不改.jar”，配置资源来源于“shadowchiu369/TVBox”的仓库。
    
