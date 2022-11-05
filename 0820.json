@@ -88,6 +88,7 @@
 {"key":"csp_xb_1080ys","name":"1080影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodshow/{cateId}--------{catePg}---"},
 {"key":"csp_xb_aiku","name":"爱酷影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
 
+{"key":"csp_xBPQ_六度TV","name":"六度TV(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/六度TV.json"},
 {"key":"csp_xBPQ_爱看影视","name":"爱看影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"},
 {"key":"csp_xBPQ_花猫","name":"️花猫tv(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"副标题$class=\"pic-text\">&&</span>#线路数组$/span><h3class=\"title&&/h3>#搜索后缀$/detail/#播放数组$class=\"stui-content__playlist&&</div>#分类url$http://www.huamaotv.com/type/{cateId}-{catePg}.html"},
 {"key":"csp_xBPQ_巨人影院","name":"巨人影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"播放数组\":\"<ulclass=\\\"hl-plays-list&&/ul>\",\"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3#动画片$6\",\"分类url\":\"https://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html\"}"},
