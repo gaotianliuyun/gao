@@ -407,6 +407,20 @@
             "ext" : "./js/看片狂人.js"
         },
             {
+            "key" : "drpy_js_浮生半日",
+            "name" : "浮生半日[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/浮生半日.js"
+        },
+            {
+            "key" : "drpy_js_八蛋影视",
+            "name" : "八蛋影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/八蛋影视.js"
+        },
+            {
             "key" : "drpy_js_美视网",
             "name" : "美视网[DRPY]",
             "type" : 3,
