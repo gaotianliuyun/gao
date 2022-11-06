@@ -1,5 +1,5 @@
 {
-"spider":"./jar/cs.jar;md5;7872d920760313dfc84de7d26866228c",
+"spider":"./jar/cs.jar;md5;41adc42519e9deebb135eeea035d59eb",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"https://www.dmoe.cc/random.php",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
@@ -87,7 +87,7 @@
 {"key":"csp_biubiu_cupfox","name":"茶杯狐（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/茶杯狐.json"},
 {"key":"csp_biubiu_voflix","name":"voflix（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
 {"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://gaotianliuyun.github.io/gao/json/chuqiuyu.json"},
-{"key":"AList","name": "AList","type": 3,"api":"csp_AList","searchable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
+{"key":"AList","name": "AList","type": 3,"api":"csp_AList","searchable":1,"ext": "./json/alist.json"},
 {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
