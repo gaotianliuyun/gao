@@ -6,7 +6,14 @@
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
  "sites":[
-{"key":"csp_xBPQ_六度TV","name":"六度TV(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/六度TV.json"},
+{"key":"csp_XYQBiu_爱看影视","name":"️爱看影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/爱看影视.json"},
+{"key":"csp_XYQBiu_厂长影视","name":"️厂长影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/厂长影视.json"},
+{"key":"csp_XYQBiu_乐猪TV","name":"️乐猪TV〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/乐猪TV.json"},
+{"key":"csp_XYQBiu_农民影视","name":"️农民影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/农民影视.json"},
+{"key":"csp_XYQBiu_皮皮泡","name":"️皮皮泡〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/皮皮泡.json"},
+{"key":"csp_XYQBiu_素白白影视","name":"️素白白影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/素白白影视.json"},
+{"key":"csp_XYQBiu_鸭奈飞影视","name":"️鸭奈飞影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/鸭奈飞影视.json"},
+{"key":"csp_XYQBiu_追剧达人","name":"️追剧达人〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/追剧达人.json"},
 
 {"key":"csp_SP360","name":"📺360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
