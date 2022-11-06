@@ -175,7 +175,7 @@
 {"key":"csp_xbb_奈菲影院","name":"奈菲影院（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/奈菲影院.json"},
 {"key":"csp_xbb_稀饭影视","name":"稀饭影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/稀饭影视.json"},
 
-{"key":"xuexi","name":"学习园地","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/xuexi.txt"},
+{"key":"xuexi","name":"学习园地","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/bili.json"},
 {"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
 {"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
