@@ -220,7 +220,7 @@
             "key" : "drpy_js_学生球赛录像[js1]",
             "name" : "体育|学生球赛录像[js1][DRPY]",
             "type" : 3,
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
+            "api" : "./lib/drpy.min.js",
             "ext" : "./js/学生球赛录像[js1].js"
         },
             {
@@ -258,6 +258,20 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/歪片星球.js"
+        },
+            {
+            "key" : "drpy_js_BD影视",
+            "name" : "BD影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/BD影视.js"
+        },
+            {
+            "key" : "drpy_js_2099电影",
+            "name" : "2099电影[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/2099电影.js"
         },
             {
             "key" : "drpy_js_落攻阁影视",
