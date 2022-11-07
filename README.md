@@ -5,11 +5,11 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （2）0820.txt  精简的源，jar的来源唐三的jar包。使用多jar，加上俊于的新小纸条；
    
-   （3）0827.json  完全来源fongmi的jar包和配置；
+   （3）0827.json  完全来源于fongmi的jar包和配置；
    
    （4）0828.json  完全来源于唐三的jar包和配置；
    
-   （5）0829.json  完全来源于俊于的top97的jar包和配置；
+   （5）0829.json  完全来源于俊于的jar包和配置；
    
    （6）js.json  资源来源于tg频道“watson”，猫爪收集整理的道长drpy(js)资源；
    
@@ -17,7 +17,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （8）1.json  测试用的配置，慎用；
    
-   （9）9918.json  nsfw的源，慎用。
+   （9）9918.json  nsfw的源，慎用。jar的来源fongmi的jar包.
    
    以上配置均可完美在q版的tvbox上食用。
 2. diyp配置：
