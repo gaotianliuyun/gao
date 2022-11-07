@@ -1,4 +1,4 @@
-{"spider":"./jar/xo1104.jar;md5;ca07e741640debc3777bb9a227cfb884",
+{"spider":"./jar/xo1104.jar;md5;9fbbd6626f9c5608e54680258922eb73",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=suiji",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
