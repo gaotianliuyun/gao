@@ -42,4 +42,5 @@ var rule = {
     一级:'.list-works li;a&&title;img&&src;.list-book-cs span:eq(0)&&Text;a&&href',
     二级:{title:'h1&&Text;.book-info dd:eq(1)&&Text',img:'.book-img img&&src',desc:';;.book-info dd:gt(3):lt(6)&&Text;.book-info dd:eq(3)&&Text;.book-info dd:eq(2)&&Text',content:'.div-b&&Text',tabs:'.playlist-top&&h2',lists:'#playlist:eq(#id) li'},
     搜索:'*',
+    // 预处理:'log("我是预处理");let html=request("https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/version.txt");log(html);rule_fetch_params.headers.Cookie="searchneed=ok";',
 }

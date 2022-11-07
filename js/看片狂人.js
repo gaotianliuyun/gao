@@ -1,6 +1,7 @@
 var rule = {
     title:'看片狂人',
     host:'https://www.kpkuang.de',
+    //host:'https://www.kpkuang.org/',    
     // homeUrl:'/',
     url:'/vodshow/fyclass--------fypage-----.html',
     searchUrl:'/vodsearch/**----------fypage---.html',
