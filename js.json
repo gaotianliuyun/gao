@@ -2,6 +2,13 @@
     "spider" : "./w.jar",
     "sites" : [
             {
+            "key" : "drpy_js_豆瓣",
+            "name" : "搜索|豆瓣[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/drpy.js"
+        },
+            {
             "key" : "drpy_js_360影视",
             "name" : "官源|360[DRPY]",
             "type" : 3,
