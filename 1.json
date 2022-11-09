@@ -7,18 +7,18 @@
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
  "sites":[
 {"key":"csp_xBPQ_溪谷影视","name":"溪谷影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/溪谷影视.json"},
-{"key":"csp_xBPQ_视觉影院","name":"视觉影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/视觉影院.json"},
+{"key":"csp_XYQH_视觉影院","name":"视觉影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/视觉影院.json"},
 {"key":"csp_xBPQ_追剧达人","name":"追剧达人(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/追剧达人.json"},
-{"key":"csp_xBPQ_牛马TV","name":"牛马TV(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/牛马TV.json"},
+{"key":"csp_XYQH_牛马TV","name":"牛马TV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/牛马TV.json"},
 {"key":"csp_xBPQ_耐看点播","name":"耐看点播(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/耐看点播.json"},
 {"key":"csp_xBPQ_莫扎兔","name":"莫扎兔(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/莫扎兔.json"},
 {"key":"csp_xBPQ_核桃影院","name":"核桃影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/核桃影院.json"},
-{"key":"csp_xBPQ_电视直播","name":"电视直播(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
-{"key":"csp_xBPQ_短视频","name":"短视频(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
+{"key":"csp_XYQH_电视直播","name":"电视直播(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
+{"key":"csp_XYQH_短视频","name":"短视频(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_xBPQ_1010电影","name":"1010电影(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/1010电影.json"},
 {"key":"csp_xBPQ_255TV","name":"255TV(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/255TV.json"},
 {"key":"csp_xBPQ_创意影视","name":"创意影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/创意影视.json"},
-{"key":"csp_xBPQ_城市影视","name":"城市影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/城市影视.json"},
+{"key":"csp_XYQH_城市影视","name":"城市影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/城市影视.json"},
 
   
 {"key":"csp_XYQBiu_爱看影视","name":"️爱看影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/爱看影视.json"},
