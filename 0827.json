@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;7e6f4ae428932223a5f64dfca9e50c1a",
+  "spider": "./jar/custom_spider.jar;md5;50312162df32af94104285e780c504fe",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -16,7 +16,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "./json/alist.json"
     },
     {
       "key": "哔哩",
@@ -25,7 +25,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "ext": "./json/bili.json"
     },
     {
       "key": "泥巴",
