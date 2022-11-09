@@ -2,16 +2,25 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "HDIK",
   "主页url": "http://hdik.xyz",
-  "免嗅": "1",
   
-  "分类": "电视剧$1#电影$2#动漫$3#纪录片$4#综艺$5",
+  "分类": "电视剧&电影&动漫&纪录片&综艺",
+  "分类值": "1&2&3&4&5",
   
   "分类url": "http://hdik.xyz/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   
   "副标题": "text-right\">&&</span>",
   
-  "搜索后缀":"/index.php/vod/detail/id/",
+  "搜索模式": "1",
+  "搜索url": "/index.php/vod/search/page/{pg}/wd/{wd}.html",
+  "搜索数组": "<li class=\"clearfix\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索副标题": "text-right\">&&</span>",
+  "搜索链接": "href=\"&&\"",
   
+  "影片年代": "年份：&&</p>",
+  "影片地区": "地区：&&<span",
+  "影片类型": "分类：&&<span",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
   "简介": "display: none;\"><p>&&</span>",

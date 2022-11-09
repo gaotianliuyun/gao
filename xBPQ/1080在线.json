@@ -2,15 +2,26 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "1080在线",
   "主页url": "https://1080zx.com",
-  "免嗅": "1",
   
-  "分类": "电影$1#剧集$2#动漫$4#综艺$3",
+  "分类": "电影&剧集&动漫&综艺",
+  "分类值": "1&2&4&3",
+  
   "分类url": "https://1080zx.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
   
+  "数组": "myui-vodlist__box\">&&</li>",
   "副标题": "text-right\">&&</span>",
-  "搜索url":"https://1080zx.com/search/-------------.html?wd={wd}&submit=",
-  "搜索后缀":"/detail/",
   
+  "搜索模式": "1",
+  "搜索url": "/search/{wd}----------{pg}---.html",
+  "搜索数组": "<li class=\"clearfix\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "text-right\">&&</span>",
+  
+  "影片年代": ">(&&)",
+  "影片地区": "地区：&&</p>",
+  "影片类型": "类型：&&</p>",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
   "简介": "display: none;\">&&</span>",

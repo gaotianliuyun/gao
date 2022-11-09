@@ -1,67 +1,41 @@
 {
-"站名": "低端影视",
-"主页url": "https://ddys.tv",
-"请求头": "",
-"头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://ddys.tv",
-"热门推荐": "1",
-"起始页": "1",
-"直接播放": "0",
-"倒序播放": "0",
-"图片代理": "0",
-"二次截取": "",
-"数组": "<article id=\"post&&<div class=\"post-complete",
-"图片": "url(&&)",
-"标题": "rel=\"bookmark\">&&<",
-"副标题": "rel=\"category tag\">&&<",
-"链接": "data-href=\"https://ddys.tv&&\"",
-"链接前缀": "",
-
-"线路二次截取": "切换季数&&</div>",
-"线路数组": "<a&&/a>",
-"线路标题": ">&&<",
-"线路链接": "href=\"&&\"",
-
-"状态": "类型:&&简介:",
-"导演": "导演:&&<br>",
-"主演": "演员:&&<br>",
-"简介": "简介:&&</p>",
-
-"播放二次截取": "",
-"播放数组": "tracks\":&&</script>",
-"列表二次截取": "",
-"播放列表": "javascript&&\"image\"[替换:.mp4>>你我他.mp5#/v/*你>>空#我>>/?ep=#他>><序号>]",
-"播放标题": "caption\":\"&&\"",
-"播放链接": "src0\":\"&&.mp5",
-"播放链接前缀": "rel=\"canonical\" href=\"&&/\"[替换:https://ddrk.me>>https://ddys.tv]",
-"播放链接后缀": "",
-"免嗅": "0",
-"嗅探词":".m3u8#.mp4#.douyin",
-"过滤词":"",
-"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://ddys.tv",
-
-"搜索url": "https://ddys.tv/?s={wd}&post_type=post",
-"搜索模式": "1",
-"搜索二次截取": "",
-"搜索数组": "<article id=\"post&&class=\"entry-content",
-"搜索图片": "https://ddys.tv/favicon-32x32.png",
-"搜索标题": "rel=\"bookmark\">&&<",
-"搜索链接": "href=\"https://ddys.tv&&\"",
-"搜索链接前缀": "",
-
-"分类url": "https://ddys.tv/{cateId}/page/{catePg}/",
-"分类": "欧美电影$category/movie/western-movie#日韩电影$category/movie/asian-movie#华语电影$category/movie/chinese-movie#欧美剧$category/drama/western-drama#日剧$category/drama/jp-drama#韩剧$category/drama/kr-drama#华语剧$category/drama/cn-drama#豆瓣top250$tag/douban-top250#所有电影$category/movie#动画$category/anime",
-"分类二次截取": "",
-"分类数组": "",
-"分类标题": "",
-"分类ID": "",
-"类型": "",
-"剧情": "",
-
-"地区": "",
-
-"年份": "",
-
-"排序": "",
-
-"筛选": ""
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "低端影视",
+  "主页url": "https://ddys.tv",
+  
+  
+  "分类": "所有电影&连载剧集&本季新番&欧美电影&日韩电影&华语电影&豆瓣电影Top250&欧美剧&日剧&韩剧&华语剧&其他地区&动画",
+  "分类值": "category/movie&category/airing&category/anime/new-bangumi&category/movie/western-movie&category/movie/asian-movie&category/movie/chinese-movie&tag/douban-top250&category/drama/western-drama&category/drama/jp-drama&category/drama/kr-drama&category/drama/cn-drama&category/drama/other&category/anime",
+  
+  "分类url": "https://ddys.tv/{cateId}/page/{catePg}/",
+  
+  "数组": "<article id=\"post&&<div class=\"post-complete",
+  "图片": "url(&&)",
+  "标题": "rel=\"bookmark\">&&<",
+  "副标题": "rel=\"category tag\">&&<",
+  "链接": "data-href=\"&&\"",
+  
+  "搜索模式": "1",
+  "搜索url": "/?s={wd}&post_type=post",
+  "搜索数组": "<article id=\"post&&class=\"entry-content",
+  "搜索图片": "https://cainisi.cf/暂无封面.jpg",
+  "搜索标题": "rel=\"bookmark\">&&<",
+  "搜索链接": "href=\"&&\"",
+  
+  "影片地区": "地区:&&<br",
+  "影片类型": "类型:&&<br",
+  "导演": "导演:&&<br",
+  "主演": "演员:&&<br",
+  "简介": "简介:&&</p>",
+  
+  "线路二次截取": "<div class=\"page-links\">&&</div>",
+  "线路数组": "<a&&/a>",
+  "线路链接": "href=\"&&\"",
+  "线路合并": "1",
+  
+  "播放数组": "tracks\":&&</script>",
+  "播放列表": "javascript&&\"image\"[替换:.mp4>>你我他.mp5#/v/*你>>空#我>>/?ep=#他>><序号>]",
+  "播放标题": "caption\":\"&&\"",
+  "播放链接": "src0\":\"&&.mp5",
+  "播放链接前缀": "rel=\"canonical\" href=\"&&/\"[替换:https://ddrk.me>>https://ddys.tv]"
 }
