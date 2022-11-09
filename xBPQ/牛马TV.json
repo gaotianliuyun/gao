@@ -1,63 +1,50 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
-  "站名": "皮皮泡",
-  "主页url": "https://www.pipipao.com",
+  "站名": "牛马TV",
+  "主页url": "https://www.niumatv.cc",
   
-  "分类": "电影&电视剧&综艺&动漫&纪录片",
-  "分类值": "dianying&dianshiju&zongyi&dongman&jilupian",
+  "分类": "电影&电视剧&综艺&动漫",
+  "分类值": "dianying&dianshiju&zongyi&dongman",
   
-  "分类url": "https://www.pipipao.com/vodshow/id/{cateId}{class}{area}{year}{by}/page/{catePg}.html",
+  "分类url": "https://www.niumatv.cc/vodshow{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   
   "副标题": "text-right\">&&</span>",
   
   "搜索模式": "1",
   "搜索url": "/vodsearch{wd}/page/{pg}.html",
-  "搜索数组": "<div class=\"thumb\">&&</a>",
+  "搜索数组": "stui-vodlist__item\">&&</a>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",
-  "搜索链接": "href=\"&&\"",
   "搜索副标题": "text-right\">&&</span>",
+  "搜索链接": "href=\"&&\"",
   
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",
   "影片类型": "类型：&&<span",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
-  "简介": "<p class=\"col-pd\">&&</p>",
+  "简介": "stui-content__desc col-pd clearfix\">&&</div>",
   
-  "线路数组": "<span class=\"more&&</div>",
-  "线路标题": "class=\"title\">&&</h3>",
+  "线路数组": "pull-right\">&&</div>",
+  "线路标题": "title\">&&</h3>",
   
   "播放数组": "<ul class=\"stui-content&&</ul>",
   
   "筛选":{
-
 "dianying":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":"dianying"},
-  {"n":"动作片","v":"dongzuopian"},
-  {"n":"喜剧片","v":"xijupian"},
-  {"n":"爱情片","v":"aiqingpian"},
-  {"n":"科幻片","v":"kehuanpian"},
-  {"n":"恐怖片","v":"kongbupian"},
-  {"n":"剧情片","v":"juqingpian"},
-  {"n":"战争片","v":"zhanzhengpian"},
-  {"n":"动画片","v":"donghuapian"}]},
-  
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
-  {"n":"动作","v":"/class/动作"},
   {"n":"喜剧","v":"/class/喜剧"},
   {"n":"爱情","v":"/class/爱情"},
-  {"n":"科幻","v":"/class/科幻"},
   {"n":"恐怖","v":"/class/恐怖"},
+  {"n":"动作","v":"/class/动作"},
+  {"n":"科幻","v":"/class/科幻"},
   {"n":"剧情","v":"/class/剧情"},
   {"n":"战争","v":"/class/战争"},
-  {"n":"动画","v":"/class/动画"},
-  {"n":"奇幻","v":"/class/奇幻"},
-  {"n":"灾难","v":"/class/灾难"},
   {"n":"警匪","v":"/class/警匪"},
   {"n":"犯罪","v":"/class/犯罪"},
+  {"n":"动画","v":"/class/动画"},
+  {"n":"奇幻","v":"/class/奇幻"},
   {"n":"武侠","v":"/class/武侠"},
   {"n":"冒险","v":"/class/冒险"},
   {"n":"枪战","v":"/class/枪战"},
@@ -73,8 +60,7 @@
   {"n":"运动","v":"/class/运动"},
   {"n":"农村","v":"/class/农村"},
   {"n":"儿童","v":"/class/儿童"},
-  {"n":"网络电影","v":"/class/网络电影"},
-  {"n":"Netflix","v":"/class/Netflix"}]},
+  {"n":"网络电影","v":"/class/网络电影"}]},
   
   {"key":"area","name":"地区","value":[
   {"n":"全部","v":""},
@@ -133,14 +119,6 @@
   {"n":"评分","v":"/by/score"}]}],
   
 "dianshiju":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":"dianshiju"},
-  {"n":"日韩剧","v":"rihanju"},
-  {"n":"欧美剧","v":"oumeiju"},
-  {"n":"泰国剧","v":"taiguoju"},
-  {"n":"国产剧","v":"guochanju"},
-  {"n":"港台剧","v":"gangtaiju"}]},
-  
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"言情","v":"/class/言情"},
@@ -260,32 +238,26 @@
 "zongyi":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
-  {"n":"剧情","v":"/class/剧情"},
-  {"n":"喜剧","v":"/class/喜剧"},
-  {"n":"爱情","v":"/class/爱情"},
-  {"n":"动作","v":"/class/动作"},
-  {"n":"悬疑","v":"/class/悬疑"},
-  {"n":"恐怖","v":"/class/恐怖"},
-  {"n":"奇幻","v":"/class/奇幻"},
-  {"n":"惊悚","v":"/class/惊悚"},
-  {"n":"犯罪","v":"/class/犯罪"},
-  {"n":"科幻","v":"/class/科幻"},
+  {"n":"选秀","v":"/class/选秀"},
+  {"n":"情感","v":"/class/情感"},
+  {"n":"访谈","v":"/class/访谈"},
+  {"n":"播报","v":"/class/播报"},
+  {"n":"旅游","v":"/class/旅游"},
   {"n":"音乐","v":"/class/音乐"},
-  {"n":"其他","v":"/class/其他"}]},
+  {"n":"美食","v":"/class/美食"},
+  {"n":"纪实","v":"/class/纪实"},
+  {"n":"曲艺","v":"/class/曲艺"},
+  {"n":"生活","v":"/class/生活"},
+  {"n":"游戏互动","v":"/class/游戏互动"},
+  {"n":"财经","v":"/class/财经"},
+  {"n":"求职","v":"/class/求职"}]},
   
   {"key":"area","name":"地区","value":[
   {"n":"全部","v":""},
-  {"n":"美国","v":"/area/美国"},
-  {"n":"新加坡","v":"/area/新加坡"},
-  {"n":"马来西亚","v":"/area/马来西亚"},
-  {"n":"印度","v":"/area/印度"},
-  {"n":"英国","v":"/area/英国"},
-  {"n":"法国","v":"/area/法国"},
-  {"n":"德国","v":"/area/德国"},
-  {"n":"加拿大","v":"/area/加拿大"},
-  {"n":"西班牙","v":"/area/西班牙"},
-  {"n":"俄罗斯","v":"/area/俄罗斯"},
-  {"n":"其它","v":"/area/其它"}]},
+  {"n":"中国大陆","v":"/area/中国大陆"},
+  {"n":"港台","v":"/area/港台"},
+  {"n":"日韩","v":"/area/日韩"},
+  {"n":"欧美","v":"/area/欧美"}]},
   
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
@@ -366,7 +338,6 @@
   {"n":"穿越","v":"/class/穿越"},
   {"n":"谍战","v":"/class/谍战"},
   {"n":"历史","v":"/class/历史"},
-  {"n":"伦理","v":"/class/伦理"},
   {"n":"动画","v":"/class/动画"},
   {"n":"原声","v":"/class/原声"},
   {"n":"生活","v":"/class/生活"},
@@ -414,12 +385,6 @@
   {"n":"1960","v":"/year/1960"},
   {"n":"1950","v":"/year/1950"}]},
   
-  {"key":"by","name":"排序","value":[
-  {"n":"时间","v":"/by/time"},
-  {"n":"人气","v":"/by/hits"},
-  {"n":"评分","v":"/by/score"}]}],
-  
-"jilupian":[
   {"key":"by","name":"排序","value":[
   {"n":"时间","v":"/by/time"},
   {"n":"人气","v":"/by/hits"},
