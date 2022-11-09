@@ -1,5 +1,5 @@
 {
-"spider":"./jar/cs.jar;md5;793c2ad457fb87aa5ad8bfb4a4eac5be",
+"spider":"./jar/cs.jar;md5;40fe59f5044303b0a1b8c18249d3e0bf",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"https://www.dmoe.cc/random.php",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
