@@ -19,6 +19,7 @@
 {"key":"csp_xBPQ_255TV","name":"255TV(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/255TV.json"},
 {"key":"csp_xBPQ_创意影视","name":"创意影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/创意影视.json"},
 {"key":"csp_xBPQ_城市电影","name":"城市电影(XYQH)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/城市电影.json"},
+{"key":"csp_xBPQ_短视频.json","name":"短视频.json(XYQH)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 
   
 {"key":"csp_XYQBiu_爱看影视","name":"️爱看影视〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/爱看影视.json"},
