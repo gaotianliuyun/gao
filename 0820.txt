@@ -1,6 +1,6 @@
 {
-"spider":"./jar/cs.jar;md5;40fe59f5044303b0a1b8c18249d3e0bf",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
+"spider":"./jar/cs.jar;md5;36e2c9c0d4829aa10a056a0b16abb4bf",
+"lives":[{"name":"直播","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "wallpaper":"https://www.dmoe.cc/random.php",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
@@ -35,7 +35,7 @@
 {"key":"csp_IQIYI","name":"爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
 {"key":"csp_MGTV","name":"芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
 {"key":"csp_QQ","name":"腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
-{"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看直播.js"},
 {"key":"drpy_js_JRS看比赛","name":"JRS看比赛[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看比赛.js"},
@@ -92,7 +92,8 @@
 {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
-{"key":"push_agent","name":"推送","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"}],
+{"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"}
+],
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
