@@ -1,5 +1,5 @@
-{"spider":"./jar/xo.jar;md5;1c3849989bca743018b55a2fba946a26",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
+{"spider":"./jar/xo.jar;md5;89c9eaec380dc16ec274b772346270ba",
+"lives":[{"name":"直播","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=suiji",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
@@ -57,7 +57,7 @@
 {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_GitCafexin","name":"新小纸条┃SP","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
-{"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=http://ali.饭太硬.ml/tok&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看直播.js"},
 {"key":"drpy_js_JRS看比赛","name":"JRS看比赛[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看比赛.js"},
