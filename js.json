@@ -281,6 +281,13 @@
             "ext" : "./js/爱壹帆[飞].js"
         },
             {
+            "key" : "drpy_js_99影院",
+            "name" : "99影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/99影院.js"
+        },
+            {
             "key" : "drpy_js_2099电影",
             "name" : "2099电影[DRPY]",
             "type" : 3,
@@ -1273,6 +1280,22 @@
             "rule" : [
                 "mp4.djuu.com",
                 "m4a"]
+        },
+            {
+            "host" : "www.sharenice.net",
+            "rule" : [
+                "huoshan.com",
+                "/item/video/"],
+            "filter" : [
+            ]
+        },
+            {
+            "host" : "www.sharenice.net",
+            "rule" : [
+                "sovv.qianpailive.com",
+                "vid="],
+            "filter" : [
+            ]
         },
             {
             "host" : "www.sharenice.net",
