@@ -13,7 +13,7 @@
 {"key":"csp_xBPQ_耐看点播","name":"耐看点播(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/耐看点播.json"},
 {"key":"csp_xBPQ_莫扎兔","name":"莫扎兔(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/莫扎兔.json"},
 {"key":"csp_xBPQ_核桃影院","name":"核桃影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/核桃影院.json"},
-{"key":"csp_xBPQ_电视直播","name":"电视直播(XYQH)","type":3,"api":"csp_xBPQr","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
+{"key":"csp_xBPQ_电视直播","name":"电视直播(XYQH)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
 {"key":"csp_xBPQ_短视频","name":"短视频(XYQH)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_xBPQ_1010电影","name":"1010电影(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/1010电影.json"},
 {"key":"csp_xBPQ_255TV","name":"255TV(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/255TV.json"},
