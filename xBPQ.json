@@ -1,5 +1,5 @@
 {"spider":"./jar/xBPQ1107.jar",
-"lives":[{"name":"直播","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+"lives":[{"name":"直播","type":0,"url":"https://tvbox.cainisi.cf/TV/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
