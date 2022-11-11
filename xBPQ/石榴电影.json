@@ -1,0 +1,43 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "石榴电影",
+  "首页": "电影",
+  "主页url": "https://hei19.com",
+  
+  "分类": "电影&剧集&综艺&动漫",
+  "分类值": "1&2&3&4",
+  
+  "分类url": "https://hei19.com/catalog?column={cateId}&sort=1&per_page=72&page={catePg}",
+  
+  "二次截取": "type=\"application/json\">&&</script>",
+  "数组": "props.pageProps.mediaData.data",
+  "图片": "cover",
+  "标题": "name",
+  "副标题": "tag",
+  "链接前缀": "https://hei19.com/detail/",
+  "链接": "id",
+  
+  "搜索模式": "1",
+  "搜索url": "https://hei19.com/search?type=1&keywords={wd}&page={pg}",
+  "搜索二次截取": "type=\"application/json\">&&</script>",
+  "搜索数组": "props.pageProps.searchMovieList.data",
+  "搜索图片": "pic",
+  "搜索标题": "name",
+  "搜索链接": "id",
+  "搜索副标题": "resolution",
+  "搜索链接前缀": "https://hei19.com/detail/",
+  
+  "影片年代": "props.pageProps.videoDetail.videoinfo.year",
+  "影片地区": "props.pageProps.videoDetail.videoinfo.area",
+  "影片类型": "props.pageProps.videoDetail.videoinfo.type",
+  "导演": "props.pageProps.videoDetail.videoinfo.director[].name(♥)",
+  "主演": "props.pageProps.videoDetail.videoinfo.starring[].name(♥)",
+  "简介": "props.pageProps.videoDetail.videoinfo.introduction",
+  
+  "线路标题": "播放列表",
+  
+  "播放二次截取": "type=\"application/json\">&&</script>",
+  "播放列表": "props.pageProps.videoDetail.videoepisode.data",
+  "播放标题": "episode",
+  "播放链接": "url"
+}
