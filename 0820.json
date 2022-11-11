@@ -1,4 +1,4 @@
-{"spider":"./jar/xo.jar;md5;89c9eaec380dc16ec274b772346270ba",
+{"spider":"./jar/xo.jar;md5;521bbffb1bb48f5d45e516a799df9f44",
 "lives":[{"name":"直播","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=suiji",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
