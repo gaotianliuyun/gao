@@ -1,4 +1,4 @@
-{"spider":"./jar/xBPQ1107.jar",
+{"spider":"./jar/xo.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./list.txt"]}]}],
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
