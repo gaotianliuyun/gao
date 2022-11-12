@@ -23,7 +23,8 @@ var rule = {
     lists:'',
     lists:'js:pd=jsp.pd;let url=pd(html,".bookbutton&&a&&href");log(url);html=request(url);let v=pd(html,".booksite&&script&&Html");var document={};var VideoListJson;VideoListJson=eval(v.split("VideoListJson=")[1].split(",urlinfo")[0]);log(typeof VideoListJson);let list1=VideoListJson[0][1];LISTS=[list1];log(LISTS);',
    // 有声小说有防盗链,我服了(上面的列表数据正常拿到了,没法播放)
-    lists:'#playlist:eq(#id)&&ul&&li',
+   //  lists:'#playlist:eq(#id)&&ul&&li',
+    lists:'#playlist ul li',
     },
     搜索:'*',
 }
