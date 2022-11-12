@@ -2,6 +2,12 @@
   "spider": "./jar/top98.jar",
   "lives": [
     {
+      "name": "直播",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
       "group": "redirect",
       "channels": [
         {
@@ -10,7 +16,8 @@
             "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
           ]
         }
-      ]
+      ],
+      "epg":"http://epg.51zmt.top:8000/api/diyp/"
     }
   ],
   "rules": [
@@ -87,33 +94,6 @@
       "name": "360",
       "type": 3,
       "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SPQQ",
-      "name": "QQ",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SPIQY",
-      "name": "IQIYI",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "SPMGTV",
-      "name": "MGTV",
-      "type": 3,
-      "api": "csp_MGTV",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
