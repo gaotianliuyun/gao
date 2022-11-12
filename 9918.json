@@ -1,5 +1,5 @@
 {
-"spider":"./jar/custom_spider.jar;md5;50312162df32af94104285e780c504fe",
+"spider":"./jar/custom_spider.jar;md5;31c827630ca9bb126c47afcc01279dc0",
 "lives":[{"name":"直播","type":0,"url":"https://gaotianliuyun.github.io/gao/listx.txt"}],
 "wallpaper":"https://gao.chuqiuyu.tk",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
