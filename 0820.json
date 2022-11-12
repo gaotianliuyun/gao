@@ -56,7 +56,7 @@
 {"key":"csp_If101","name":"🛫If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_GitCafexin","name":"新小纸条┃SP","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/top97_1.jar"},
+{"key":"csp_GitCafexin","name":"新小纸条┃SP","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/top98.jar"},
 {"key":"t4public","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=http://ali.饭太硬.ml/tok&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看直播.js"},
