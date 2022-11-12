@@ -1,5 +1,5 @@
 {
-"spider":"./jar/cs.jar;md5;36e2c9c0d4829aa10a056a0b16abb4bf",
+"spider":"./jar/cs.jar;md5;e0924826e82aa56b850549b520bfd67f",
 "lives":[{"name":"直播","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "wallpaper":"https://www.dmoe.cc/random.php",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
