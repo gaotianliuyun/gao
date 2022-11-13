@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/top98.jar",
+  "spider": "./jar/top98_1.jar",
   "lives": [
     {
       "name": "直播",
@@ -94,6 +94,15 @@
       "name": "360",
       "type": 3,
       "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "nbys",
+      "name": "泥巴(墙)",
+      "type": 3,
+      "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
