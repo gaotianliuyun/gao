@@ -1199,6 +1199,13 @@
             "ext" : "./js/稀饭影视.js"
         },
             {
+            "key" : "drpy_js_大中影视[飞]",
+            "name" : "大中影视[飞][DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/大中影视[飞].js"
+        },
+            {
             "key" : "drpy_js_欧帝影院[飞]",
             "name" : "欧帝影院[飞][DRPY]",
             "type" : 3,
