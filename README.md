@@ -3,7 +3,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （1）0820.json  较全面的源，jar的来源于WEWA（饭太硬）的jar包。使用多jar，加上俊于的新小纸条和菜妮丝的短视频、电视直播；
    
-   （2）0820.txt  精简的源，jar的来源唐三的jar包。使用多jar，加上俊于的新小纸条；
+   （2）0820.txt  精简的源，jar的来源唐三的jar包；
    
    （3）0827.json  完全来源于fongmi的jar包和配置；
    
@@ -11,7 +11,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （5）0829.json  完全来源于俊于的jar包和配置；
    
-   （6）js.json  资源来源于tg频道“watson”，猫爪收集整理的道长drpy(js)资源；
+   （6）js.json  资源来源于猫爪收集整理的道长drpy(js)资源；
    
    （7）xBPQ.json  纯xBPQ源，jar包和配置来源于菜妮丝。
    
