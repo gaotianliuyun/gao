@@ -93,7 +93,6 @@ MTV,#genre#
 王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
 李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
 李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
-邓紫棋,#genre# 
 邓紫棋★01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240401970214.mp4
 邓紫棋★02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240522651855.mp4
 邓紫棋★03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407338165.mp4
