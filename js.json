@@ -316,6 +316,34 @@
             "ext" : "./js/追剧迷.js"
         },
             {
+            "key" : "drpy_js_追剧兔",
+            "name" : "追剧兔[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/追剧兔.js"
+        },
+            {
+            "key" : "drpy_js_煲剧吧",
+            "name" : "煲剧吧[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/煲剧吧.js"
+        },
+            {
+            "key" : "drpy_js_闪影影院",
+            "name" : "闪影影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/闪影影院.js"
+        },
+            {
+            "key" : "drpy_js_在线之家Ⅱ",
+            "name" : "在线之家Ⅱ[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/在线之家Ⅱ.js"
+        },
+            {
             "key" : "drpy_js_盛世电影网",
             "name" : "盛世电影网[DRPY]",
             "type" : 3,
