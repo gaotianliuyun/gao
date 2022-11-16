@@ -43,7 +43,7 @@
 {"key":"csp_xb_zbk","name":"真不卡(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_ysgc","name":"影视工厂(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_cokemv","name":"cokemv(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{{"key":"csp_xb_5G","name":"5G(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91dyy.tv/te/{cateId}-{catePg}.html"},
+{"key":"csp_xb_5G","name":"5G(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91dyy.tv/te/{cateId}-{catePg}.html"},
 {"key":"csp_xb_9sha","name":"9杀(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_webdillo","name":"宝仙HD(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_XBiu_REPEN","name":"RENPE(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
