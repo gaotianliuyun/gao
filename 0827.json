@@ -3,7 +3,7 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
-      "name": "直播",
+      "name": "MV",
       "type": 0,
       "url": "./MV.txt"
     }
