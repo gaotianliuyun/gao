@@ -267,6 +267,20 @@
             "ext" : "./js/金曼影视.js"
         },
             {
+            "key" : "drpy_js_天天影视",
+            "name" : "天天影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/天天影视.js"
+        },
+            {
+            "key" : "drpy_js_蚂蚁影视",
+            "name" : "蚂蚁影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/蚂蚁影视.js"
+        },
+            {
             "key" : "drpy_js_BD影视",
             "name" : "BD影视[DRPY]",
             "type" : 3,
@@ -1449,6 +1463,160 @@
                     "爱奇艺",
                     "qq",
                     "奇艺"]
+            }
+        },
+            {
+            "name" : "ckflv",
+            "type" : 1,
+            "url" : "http://api.ckflv.cn/?url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"]
+            }
+        },
+            {
+            "name" : "tkys",
+            "type" : 1,
+            "url" : "https://rx.bt5v.com/json/jsonindex.php/?url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"]
+            }
+        },
+            {
+            "name" : "xifanys",
+            "type" : 1,
+            "url" : "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"]
+            }
+        },
+            {
+            "name" : "酷享影视",
+            "type" : 1,
+            "url" : "http://pandown.pro/app/kxjx.php?url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"]
+            }
+        },
+            {
+            "name" : "江湖",
+            "type" : 1,
+            "url" : "http://pandown.pro/app/ysmjx.php?url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905",
+                    "优播线路",
+                    "腾播线路"],
+                "header" : {
+                    "User-Agent" : "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+            {
+            "name" : "左岸",
+            "type" : 1,
+            "url" : "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
+            "ext" : {
+                "flag" : [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"]
             }
         },
             {
