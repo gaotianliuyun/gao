@@ -1,5 +1,5 @@
 {
-"spider":"./jar/custom_spider.jar;md5;2d2edf4641fcba0a6f315a29cdbbef51",
+"spider":"./jar/custom_spider.jar;md5;efc8d7ab428b7bb8459f6d5614388ee2",
 "lives":[{"name":"节目线路一","type":0,"url":"https://gaotianliuyun.github.io/gao/listx.txt"}],
 "wallpaper":"https://gao.chuqiuyu.tk",
 "rules":[{"host":"www.6080dy1.com","rule":["m3u8.php",".m3u8"]},
