@@ -1,12 +1,11 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;2d2edf4641fcba0a6f315a29cdbbef51",
+  "spider": "./jar/custom_spider.jar;md5;efc8d7ab428b7bb8459f6d5614388ee2",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "./MV.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "url": "./MV.txt"
     }
   ],
   "sites": [
