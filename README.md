@@ -31,13 +31,96 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    （3）live.txt  线路三。
    
    以上配置原名称为绿色直播源；****x.txt为nsfw直播源，慎用；****xx.txt为测试用直播源，慎用。
-3. kodi配置
+3. kodi配置：
 
    （1）YSDQ.json  影视大全（改）的配置文件
    
    （2）list.m3u  PVR IPTV Simple 直播源，绿色源。
    
    （3）listx.m3u  PVR IPTV Simple 直播源，nsfw源，慎用。
+4. TVBox各路大佬配置（排名不分先后）：
+    
+   （1）唐三：https://hutool.ml/tang
+   
+   （2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+   
+   （3）俊于：http://home.jundie.top:81/top98.json
+   
+   （4）饭太硬：http://饭太硬.ga/x/o.json
+   
+   （5）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+   
+   （6）小雅dr：http://drpy.site/js1
+   
+   （7）菜妮丝：https://tvbox.cainisi.cf
+   
+   （8）神器：https://神器每日推送.tk/pz.json
+   
+   （9）巧技：http://pandown.pro/tvbox/tvbox.json
+   
+   （10）刚刚：http://刚刚.live/猫
+   
+   （11）道长： https://drpy.owen10086.repl.co/config/2
+   
+   （12）吾爱有三：http://52bsj.vip:98/0805
+   
+   （13）潇洒：https://download.kstore.space/download/2863/01.txt
+   
+   （14）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt   
+   
+   （15）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
+               https://notabug.org/imbig66/tv-spider-man/raw/master/i
+               https://notabug.org/imbig66/tv-spider-man/raw/master/0731.json
+   
+   （16）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
+                  https://maoyingshi.cc/tiaoshizhushou/2.txt
+                  https://maoyingshi.cc/tiaoshizhushou/3.txt
+                  
+   （17）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+   
+   （18）BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+   
+   （19）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
+   
+   （20）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+   
+   （21）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt  
+   
+   （22）Ray：https://dxawi.github.io/0/0.json
+   
+   （23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+              https://kebedd69.github.io/TVbox-interface/甜蜜.json
+
+   （24）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+   
+   （25）几个NSFW：https://pan.css.lc/api/v3/file/get/40885/18.json?sign=oLnYy8foYU4pWmNuWKSyG_AIN_WuBfjEYtMPtHLkNHE%3D%3A0
+                  https://raw.githubusercontents.com/FongMi/CatVodSpider/main/json/adult.json
+                  http://jm.pooo.eu.org/jm?url=http://shuyuan.miaogongzi.net/shuyuan/1665613472.json
+                  https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json
+                  https://agit.ai/xiaohewanwan/jar/raw/branch/main/12.json
+5. 随机轮换壁纸：
+
+   （1）https://bing.img.run/rand.php
+   
+   （2）http://www.kf666888.cn/api/tvbox/img
+   
+   （3）https://picsum.photos/1280/720/?blur=10
+      
+   （4）http://刚刚.live/图 
+  
+   （5）http://饭太硬.ga/深色壁纸/api.php
+ 
+   （6）https://www.dmoe.cc/random.php
+      
+   （7）https://api.btstu.cn/sjbz/zsy.php
+      
+   （8）https://api.btstu.cn/sjbz/?lx=dongman
+      
+   （9）http://api.btstu.cn/sjbz/?lx=meizi
+      
+   （10）http://api.btstu.cn/sjbz/?lx=suiji
+   
+   （11）https://pictures.catvod.eu.org/
 
 如果喜欢，请复刻自用，切勿传播。谢谢！
 
