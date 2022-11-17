@@ -68,7 +68,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （14）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt   
    
-   （15）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
+   （15）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
     
    （16）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
                   
