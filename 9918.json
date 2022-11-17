@@ -21,7 +21,6 @@
 {"key":"PigAV","name":"PigAV","type":3,"api":"csp_Pig","searchable":1,"filterable":1},
 {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
 {"key":"Supjav","name":"Supjav","type":3,"api":"csp_Supjav","searchable":1,"filterable":1},
-{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"filterable":1},
 {"key":"测试","name":"CABLEAV(4KAV)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/qq.json","jar":"./jar/xo.jar"},
 {"key":"s嗷嗷","name":"️nowav(H规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/881.json","jar":"./jar/xo.jar"},
 {"key":"91色色","name":"91sesex(H规则)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/79.json","jar":"./jar/xo.jar"},
