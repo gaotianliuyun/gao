@@ -1192,6 +1192,27 @@
             "ext" : "./js/小宝影视.js"
         },
             {
+            "key" : "drpy_js_麻花影视",
+            "name" : "麻花影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/麻花影视.js"
+        },
+            {
+            "key" : "drpy_js_乐动影视",
+            "name" : "乐动影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/乐动影视.js"
+        },
+            {
+            "key" : "drpy_js_KOK影视",
+            "name" : "KOK影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/KOK影视.js"
+        },
+            {
             "key" : "drpy_js_小宝影院",
             "name" : "小宝影院[DRPY]",
             "type" : 3,
