@@ -68,17 +68,9 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （14）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt   
    
-   （15）胖虎：1 https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
-   
-               2 https://notabug.org/imbig66/tv-spider-man/raw/master/i
-               
-               3 https://notabug.org/imbig66/tv-spider-man/raw/master/0731.json
-   
-   （16）云星日记：1 https://maoyingshi.cc/tiaoshizhushou/1.txt
-   
-                  2 https://maoyingshi.cc/tiaoshizhushou/2.txt
-                  
-                  3 https://maoyingshi.cc/tiaoshizhushou/3.txt
+   （15）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
+    
+   （16）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
                   
    （17）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
    
@@ -92,21 +84,9 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （22）Ray：https://dxawi.github.io/0/0.json
    
-   （23）甜蜜：1 https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+   （23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
    
-              2 https://kebedd69.github.io/TVbox-interface/甜蜜.json
-
    （24）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-   
-   （25）几个NSFW：1 https://pan.css.lc/api/v3/file/get/40885/18.json?sign=oLnYy8foYU4pWmNuWKSyG_AIN_WuBfjEYtMPtHLkNHE%3D%3A0
-   
-                  2 https://raw.githubusercontents.com/FongMi/CatVodSpider/main/json/adult.json
-                  
-                  3 http://jm.pooo.eu.org/jm?url=http://shuyuan.miaogongzi.net/shuyuan/1665613472.json
-                  
-                  4 https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json
-                  
-                  5 https://agit.ai/xiaohewanwan/jar/raw/branch/main/12.json
 5. 随机轮换壁纸：
 
    （1）https://bing.img.run/rand.php
