@@ -1936,6 +1936,21 @@
             "group" : "软解码",
             "options" : [
                     {
+                    "category" : 1,
+                    "name" : "probesize",
+                    "value" : "5000000"
+                },
+                    {
+                    "category" : 1,
+                    "name" : "analyzeduration",
+                    "value" : "5000000"
+                },
+                    {
+                    "category" : 1,
+                    "name" : "dns_cache_clear",
+                    "value" : "1"
+                },
+                    {
                     "category" : 4,
                     "name" : "opensles",
                     "value" : "0"
@@ -2004,6 +2019,11 @@
                     "category" : 4,
                     "name" : "mediacodec-hevc",
                     "value" : "0"
+                },
+                    {
+                    "category" : 1,
+                    "name" : "dns_cache_clear",
+                    "value" : "1"
                 },
                     {
                     "category" : 1,
@@ -2015,6 +2035,21 @@
             "group" : "硬解码",
             "options" : [
                     {
+                    "category" : 1,
+                    "name" : "probesize",
+                    "value" : "5000000"
+                },
+                    {
+                    "category" : 1,
+                    "name" : "analyzeduration",
+                    "value" : "5000000"
+                },
+                    {
+                    "category" : 1,
+                    "name" : "dns_cache_clear",
+                    "value" : "1"
+                },
+                    {
                     "category" : 4,
                     "name" : "opensles",
                     "value" : "0"
@@ -2082,6 +2117,11 @@
                     {
                     "category" : 4,
                     "name" : "mediacodec-hevc",
+                    "value" : "1"
+                },
+                    {
+                    "category" : 1,
+                    "name" : "dns_cache_clear",
                     "value" : "1"
                 },
                     {
