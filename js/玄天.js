@@ -5,5 +5,5 @@ var rule = Object.assign(muban.首图2,{
     host:'https://m.7caa.com',
     url:'/list/fyclass-fypage.html',
     searchUrl:'/search/**----------fypage---.html',
-    lazy:'通用免嗅'
+    // lazy:'通用免嗅'
 });
