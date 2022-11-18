@@ -63,6 +63,7 @@
 {"key":"csp_If101","name":"🛫 If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"🛫  小 宝 ┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"t4public","name":"T4","type":4,"api":"https://t4.饭太硬.ml/vod?sites=all&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看直播.js"},
 {"key":"drpy_js_JRS看比赛","name":"JRS看比赛[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看比赛.js"},
@@ -95,6 +96,7 @@
 {"key":"csp_xb_1080ys","name":"1080影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodshow/{cateId}--------{catePg}---"},
 {"key":"csp_xb_aiku","name":"爱酷影视（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
 
+{"key":"csp_xBPQ_360影视","name":"360影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/360影视.json"},
 {"key":"csp_xBPQ_TVB云播","name":"TVB云播(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/TVB云播.json"},
 {"key":"csp_xBPQ_剧白白","name":"剧白白(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/剧白白.json"},
 {"key":"csp_xBPQ_喵喵电影","name":"喵喵电影(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/喵喵电影.json"},
