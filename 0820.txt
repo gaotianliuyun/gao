@@ -40,6 +40,7 @@
 {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
 {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
+{"key":"t4public","name":"T4","type":4,"api":"https://t4.饭太硬.ml/vod?sites=all&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看直播.js"},
 {"key":"drpy_js_JRS看比赛","name":"JRS看比赛[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRS看比赛.js"},
