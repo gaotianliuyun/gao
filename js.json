@@ -274,6 +274,34 @@
             "ext" : "./js/天天影视.js"
         },
             {
+            "key" : "drpy_js_乐鱼影视",
+            "name" : "乐鱼影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/乐鱼影视.js"
+        },
+            {
+            "key" : "drpy_js_爱猫影院",
+            "name" : "爱猫影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/爱猫影院.js"
+        },
+            {
+            "key" : "drpy_js_猫影汇",
+            "name" : "猫影汇[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/猫影汇.js"
+        },
+            {
+            "key" : "drpy_js_超前点播",
+            "name" : "超前点播[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/超前点播.js"
+        },
+            {
             "key" : "drpy_js_蚂蚁影视",
             "name" : "蚂蚁影视[DRPY]",
             "type" : 3,
