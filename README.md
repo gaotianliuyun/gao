@@ -21,7 +21,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （10）9918.json  nsfw的源，慎用。jar的来源fongmi的jar包.
    
-   APP推荐使用q215613905和FongMi版本，[DRPY]数据源适用于q215613905版，直播多线路适用于FongMi版。
+   APP推荐使用q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS）和FongMi（项目地址：https://github.com/FongMi/TV）版本，[DRPY]数据源适用于q215613905版，直播多线路适用于FongMi版。
 2. diyp配置：
 
    （1）list.txt  线路一；
