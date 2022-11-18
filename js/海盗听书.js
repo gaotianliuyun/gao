@@ -35,7 +35,7 @@ var rule = {
     class_url:'1&2&3',
     play_parse:true,
     play_json:0,
-    lazy:"let bookId=input.match(/play\\/(.*?)\\//)[1];let chapterId=input.match(/.*\\/(.*?)\\.html/)[1];let url='https://app.tingxiaoshuo.cc/listen/apptingchina/AppGetChapterUrl2022?uid=09e0bbefd378830f9615a98f239aceab&chapterId='+chapterId+'&bookId='+bookId;let res=request(url,{headers:{'User-Agent':PC_UA}});res=JSON.parse(res);input=res.src;log(input);",
+    lazy:"js:let bookId=input.match(/play\\/(.*?)\\//)[1];let chapterId=input.match(/.*\\/(.*?)\\.html/)[1];let url='https://app.tingxiaoshuo.cc/listen/apptingchina/AppGetChapterUrl2022?uid=09e0bbefd378830f9615a98f239aceab&chapterId='+chapterId+'&bookId='+bookId;log(url);let res=request(url,{headers:{'User-Agent':PC_UA}});res=JSON.parse(res);input=res.src;log(input);",
     limit:6,
     double:true,
     推荐:'*',
