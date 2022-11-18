@@ -6,6 +6,18 @@
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
  "sites":[
+{"key":"csp_XBiu_图图","name":"图图(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_XB_图图","name":"图图（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_xBPQ_图图","name":"图图(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_XYQ_图图","name":"图图〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_XYQH_图图","name":"️图图〔XYQH〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_V1_图图","name":"图图（V1）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_V2_图图","name":"图图（V2）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_XP-图图","name":"图图（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_XPF_图图","name":"图图（XPF）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_XPM_图图","name":"图图（XPM）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+{"key":"csp_XPMF_图图","name":"图图（XPMF）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
+
 {"key":"csp_xBPQ_短视频","name":"短视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_xBPQ_电视直播","name":"电视直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
 
