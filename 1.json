@@ -6,9 +6,8 @@
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
  "sites":[
-{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"T4","name":"T4爬虫","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4public1","name":"豆瓣1","type":4,"api":"https://t4.饭太硬.ml/vod?sites=all&ali_token=159594d3dcf74013932e64448cf9c279&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4public2","name":"豆瓣2","type":4,"api":"https://t4.饭太硬.ml/vod?sites=all&ali_token=http://ali.饭太硬.ml/tok&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"csp_XBiu_图图","name":"图图(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
 {"key":"csp_XB_图图","name":"图图（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
