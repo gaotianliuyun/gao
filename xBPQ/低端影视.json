@@ -18,7 +18,7 @@
   "搜索模式": "1",
   "搜索url": "/?s={wd}&post_type=post",
   "搜索数组": "<article id=\"post&&class=\"entry-content",
-  "搜索图片": "https://cainisi.cf/暂无封面.jpg",
+  "搜索图片": "https://tuapi.eees.cc/api.php?category={dongman,fengjing,meinv}&type=302",
   "搜索标题": "rel=\"bookmark\">&&<",
   "搜索链接": "href=\"&&\"",
   
