@@ -105,7 +105,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"QQ专用4K","type":1,"url":"http://43.143.123.112:8182/qq/api.php?tk=zdytv202211&defn=uhd&url="},
 {"name":"💋So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
-酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"freejson","type":0,"url":"https://h5.freejson.xyz/player/?url="},
