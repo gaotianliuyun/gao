@@ -273,6 +273,13 @@
             "ext" : "./js/艾斯影院.js"
         },
             {
+            "key" : "drpy_js_348电影网",
+            "name" : "348电影网[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/348电影网.js"
+        },
+            {
             "key" : "drpy_js_金曼影视",
             "name" : "金曼影视[DRPY]",
             "type" : 3,
