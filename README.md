@@ -5,7 +5,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （2）0820.txt  精简的源，jar的来源唐三的jar包；
    
-   （3）0820.json  较全面的源，jar的来源于俊于的jar包。
+   （3）0821.json  较全面的源，jar的来源于俊于的jar包。
    
    （4）0827.json  完全来源于fongmi的jar包和配置；
    
