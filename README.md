@@ -5,7 +5,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （2）0820.txt  精简的源，jar的来源唐三的jar包；
    
-   （3）0821.json  较全面的源，jar的来源于俊于的jar包。
+   （3）0821.json  jar的来源于俊于的jar包，在原有俊于配置的基础上添加了一些XBiu、XBiuBiu、XF规则的源；
    
    （4）0827.json  完全来源于fongmi的jar包和配置；
    
@@ -15,11 +15,11 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    
    （7）js.json  资源来源于watson chen收集整理的道长drpy(js)资源；
    
-   （8）xBPQ.json  纯xBPQ源，jar包和配置来源于菜妮丝。
+   （8）xBPQ.json  纯xBPQ源，jar包和配置来源于菜妮丝；
    
    （9）1.json  测试用的配置，慎用；
    
-   （10）9918.json  nsfw的源，慎用。jar的来源fongmi的jar包.
+   （10）9918.json  nsfw的源，慎用，jar的来源fongmi的jar包。
    
    APP推荐使用q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ）和FongMi（项目地址：https://github.com/FongMi/TV ）版本，[DRPY]数据源适用于q215613905版，直播多线路适用于FongMi版。
 2. diyp配置：
