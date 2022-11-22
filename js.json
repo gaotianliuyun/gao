@@ -11,7 +11,7 @@
             {
             "key" : "drpy_js_Alist",
             "name" : "Alist[DRPY]",
-            "type" : 3,
+            "type" : 3,        
             "api" : "./lib/alist.min.js",
             "ext" : "./js/alist.json"
         },
