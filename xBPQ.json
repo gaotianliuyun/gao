@@ -1,6 +1,6 @@
 {
 //爬虫
-"spider":"./jar/xBPQ1107.jar",
+"spider":"./jar/xBPQ1107.jar;md5;cbed3e092e72cf6a5daae15d3084bfce",
 
 //壁纸
 "wallpaper":"https://tuapi.eees.cc/api.php?category={dongman,fengjing,meinv}&type=302",
@@ -23,7 +23,7 @@
 {"key":"csp_xBPQ_双十电影","name":"双十电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/双十电影.json"},
 {"key":"csp_xBPQ_番茄影视","name":"番茄影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/番茄影视.json"},
 {"key":"csp_xBPQ_蓝光影院","name":"蓝光影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/蓝光影院.json"},
-{"key":"csp_xBPQ_黑洞网","name":"黑洞网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/黑洞网.json"},
+//{"key":"csp_xBPQ_黑洞网","name":"黑洞网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/黑洞网.json"},
 {"key":"csp_xBPQ_RENPE","name":"RENPE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/RENPE.json"},
 {"key":"csp_xBPQ_热播库","name":"热播库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/热播库.json"},
 {"key":"csp_xBPQ_555电影","name":"555电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/555电影.json"},
@@ -80,26 +80,35 @@
 {"key":"说明1","name":"菜妮丝","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明2","name":"https://cainisi.cf","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明3","name":"提供接口更新维护","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"说明4","name":"联系：524187805","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"说明5","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
+{"key":"说明4","name":"不要相信视频中的任何广告","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0}
 
 ],
 
 //解析
 "parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
-//type1 聚合.并发.轮询
+//{"name":"Web聚合","type":3,"url":"Web"},
+//{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"默认解析","type":3,"url":"Demo"},
+//{"name":"解析聚合","type":3,"url":"Demo"},
+//{"name":"Json并发","type":2,"url":"Parallel"},
+//{"name":"Json轮询","type":2,"url":"Sequence"},
+
 //{"name":"ckflv","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name":"Leaf","type":1,"url":"https://api.leafone.cn/api/jx?url="},
-{"name":"图图","type":1,"url":"http://45.207.11.9:7728/api.php?url="},
+//{"name":"图图","type":1,"url":"http://45.207.11.9:7728/api.php?url="},
 {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url="},
+{"name":"江湖","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"1920lg","type":1,"url":"https://www.1920lgzy.top/json.php?url="},
+{"name":"萝莉","type":1,"url":"http://101.34.67.237/parse/api/插萝莉慢.js?url="},
+{"name":"DYG","type":1,"url":"http://101.34.67.237/parse/api/dyg.js?url="},
+//{"name":"BT5V","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
 
 {"name":"777一","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"777二","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"LLQ","type":0,"url":"https://player.maqq.cn/?url="},
+{"name":"So","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
+{"name":"rx88","type":0,"url":"https://freejx.rx88.top:1234/?url="},
 {"name":"云","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"七彩","type":0,"url":"https://www.xymav.com/?url="},
 {"name":"盘古","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
@@ -111,7 +120,22 @@
 {"name":"1988","type":0,"url":"https://vip.198830.com/?url="},
 {"name":"555","type":0,"url":"https://jiexi.555jiexi.net:555/player/?url="},
 {"name":"鸿途","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="}
+{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"万能","type":0,"url":"https://json.legendwhb.cn/llq/?url="},
+{"name":"小千","type":0,"url":"http://jx.nikucms.com/pc/index6.php?url="},
+{"name":"91","type":0,"url":"http://91fanli.top/m3u8/?url="},
+{"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+{"name":"全民","type":0,"url":"http://api.wpsseo.cn/?v="},
+{"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
+{"name":"M2090","type":0,"url":"https://m2090.com/?url="},
+{"name":"盘古云","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
+{"name":"H8","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
+{"name":"BL","type":0,"url":"https://svip.bljiex.cc/?v="},
+{"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"七哥","type":0,"url":"https://jx.nnxv.cn/tv.php?url="},
+{"name":"RDNK","type":0,"url":"https://jx.rdhk.net/?v="}
 
 ],
 
