@@ -6,9 +6,9 @@
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
  "sites":[
-{"key":"csp_MV","name":"直播转点播MV","type":3,"api":"csp_xBPQ","ext":"{\"分类url\":\"./live2xbpq/{cateId}{catePg}.html\",\"分类\":\"MV$MV\",\"数组\":\"<li&&</li>\",\"图片\":\"./live2xbpq/1.jpg\",\"标题\":\"href=\\\"/*/&&.html\\\"\",\"链接\":\"href=\\\"&&\\\"\",\"链接前缀\":\"./live2xbpq\",\"播放数组\":\"<divclass=\\\"module-play-list-content&&</div>\",\"播放标题\":\"title=\\\"&&\\\"\",\"播放链接\":\"href=\\\"&&\\\"\"}"},
-{"key":"csp_sjb4k","name":"直播转点播sjb4k","type":3,"api":"csp_xBPQ","ext":"{\"分类url\":\"./live2xbpq/{cateId}{catePg}.html\",\"分类\":\"C$sjb4k\",\"数组\":\"<li&&</li>\",\"图片\":\"./live2xbpq/1.jpg\",\"标题\":\"href=\\\"/*/&&.html\\\"\",\"链接\":\"href=\\\"&&\\\"\",\"链接前缀\":\"./live2xbpq\",\"播放数组\":\"<divclass=\\\"module-play-list-content&&</div>\",\"播放标题\":\"title=\\\"&&\\\"\",\"播放链接\":\"href=\\\"&&\\\"\"}"},
-
+{	"key": "csp_sjb4k",	"name": "直播转点播sjb4k",	"type": 3,	"api": "csp_xBPQ",	"ext": "{           \"分类url\": \"./live2xbpq/{cateId}{catePg}.html\",           \"分类\": \"sjb4k$sjb4k\",           \"数组\": \"<li&&</li>\",           \"图片\": \"./live2xbpq/1.jpg\",           \"标题\": \"href=\\\"/*/&&.html\\\"\",           \"链接\": \"href=\\\"&&\\\"\",           \"链接前缀\": \"./live2xbpq\",           \"播放数组\": \"<div class=\\\"module-play-list-content&&</div>\",           \"播放标题\": \"title=\\\"&&\\\"\",           \"播放链接\": \"href=\\\"&&\\\"\"           }"},
+{	"key": "csp_MV",	"name": "直播转点播MV",	"type": 3,	"api": "csp_xBPQ",	"ext": "{           \"分类url\": \"./live2xbpq/{cateId}{catePg}.html\",           \"分类\": \"MV$MV\",           \"数组\": \"<li&&</li>\",           \"图片\": \"./live2xbpq/1.jpg\",           \"标题\": \"href=\\\"/*/&&.html\\\"\",           \"链接\": \"href=\\\"&&\\\"\",           \"链接前缀\": \"./live2xbpq\",           \"播放数组\": \"<div class=\\\"module-play-list-content&&</div>\",           \"播放标题\": \"title=\\\"&&\\\"\",           \"播放链接\": \"href=\\\"&&\\\"\"           }"},
+  
 {"key":"csp_XBiu_图图","name":"图图(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
 {"key":"csp_XB_图图","name":"图图（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
 {"key":"csp_xBPQ_图图","name":"图图(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/图图.json"},
