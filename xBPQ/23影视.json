@@ -12,13 +12,8 @@
   "标题": "<a class=\"channelname\"*>&&</a>",
   "副标题": "pack-prb\"><span>&&</span>",
   
-  "搜索模式": "1",
-  "搜索url": "/vodsearch/page/{pg}/wd/{wd}.html",
-  "搜索数组": "<li class=\"padd cf\">&&</p>",
-  "搜索图片": "data-original=\"&&\"",
-  "搜索标题": "title=\"&&23影视",
-  "搜索副标题": "状态：</span>&&</span>",
-  "搜索链接": "href=\"&&\"",
+  "搜索模式": "0",
+  "搜索后缀": "/voddetail/",
   
   "影片地区": "地区：&&</p>",
   "影片类型": "类型：&&</p>",
