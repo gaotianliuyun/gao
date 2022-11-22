@@ -259,6 +259,13 @@
             "ext" : "./js/歪片星球.js"
         },
             {
+            "key" : "drpy_js_布雷蓝光",
+            "name" : "布雷蓝光[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/布雷蓝光.js"
+        },
+            {
             "key" : "drpy_js_私人影院",
             "name" : "私人影院[DRPY]",
             "type" : 3,
@@ -2782,16 +2789,16 @@
                     {
                     "category" : 1,
                     "name" : "probesize",
-                    "value" : "5000000"
+                    "value" : "204800"
                 },
                     {
                     "category" : 1,
                     "name" : "analyzeduration",
-                    "value" : "5000000"
+                    "value" : "50000"
                 },
                     {
-                    "category" : 1,
-                    "name" : "dns_cache_clear",
+                    "category" : 4,
+                    "name" : "sync-av-start",
                     "value" : "1"
                 },
                     {
@@ -2802,7 +2809,7 @@
                     {
                     "category" : 4,
                     "name" : "overlay-format",
-                    "value" : "842225234"
+                    "value" : "IjkMediaPlayer.SDL_FCC_RV32"
                 },
                     {
                     "category" : 4,
@@ -2827,7 +2834,7 @@
                     {
                     "category" : 1,
                     "name" : "fflags",
-                    "value" : "fastseek"
+                    "value" : "nobuffer"
                 },
                     {
                     "category" : 2,
@@ -2842,7 +2849,7 @@
                     {
                     "category" : 4,
                     "name" : "enable-accurate-seek",
-                    "value" : "0"
+                    "value" : "1"
                 },
                     {
                     "category" : 4,
@@ -2872,7 +2879,7 @@
                     {
                     "category" : 1,
                     "name" : "dns_cache_timeout",
-                    "value" : "600000000"
+                    "value" : "-1"
                 }]
         },
             {
@@ -2881,16 +2888,16 @@
                     {
                     "category" : 1,
                     "name" : "probesize",
-                    "value" : "5000000"
+                    "value" : "204800"
                 },
                     {
                     "category" : 1,
                     "name" : "analyzeduration",
-                    "value" : "5000000"
+                    "value" : "50000"
                 },
                     {
-                    "category" : 1,
-                    "name" : "dns_cache_clear",
+                    "category" : 4,
+                    "name" : "sync-av-start",
                     "value" : "1"
                 },
                     {
@@ -2901,7 +2908,7 @@
                     {
                     "category" : 4,
                     "name" : "overlay-format",
-                    "value" : "842225234"
+                    "value" : "IjkMediaPlayer.SDL_FCC_RV32"
                 },
                     {
                     "category" : 4,
@@ -2926,7 +2933,7 @@
                     {
                     "category" : 1,
                     "name" : "fflags",
-                    "value" : "fastseek"
+                    "value" : "nobuffer"
                 },
                     {
                     "category" : 2,
@@ -2941,7 +2948,7 @@
                     {
                     "category" : 4,
                     "name" : "enable-accurate-seek",
-                    "value" : "0"
+                    "value" : "1"
                 },
                     {
                     "category" : 4,
@@ -2971,7 +2978,7 @@
                     {
                     "category" : 1,
                     "name" : "dns_cache_timeout",
-                    "value" : "600000000"
+                    "value" : "-1"
                 }]
         }],
     "wallpaper" : "http://刚刚.live/图"
