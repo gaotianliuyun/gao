@@ -9,6 +9,13 @@
             "ext" : "./js/drpy.js"
         },
             {
+            "key" : "drpy_js_Alist",
+            "name" : "Alist[DRPY]",
+            "type" : 3,
+            "api" : "./lib/alist.min.js",
+            "ext" : "./js/alist.json"
+        },
+            {
             "key" : "drpy_js_360影视",
             "name" : "官源|360[DRPY]",
             "type" : 3,
