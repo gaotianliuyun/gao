@@ -134,4 +134,5 @@
 {"key":"drpy_js_兔小贝","name":"兔小贝[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"AnFuns[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_AGE动漫","name":"AGE动漫[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/AGE动漫.js"},
-{"key":"drpy_js_异世界动漫","name":"异世界动漫[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/异世界动漫.js"}]}
+{"key":"drpy_js_异世界动漫","name":"异世界动漫[DRPY]","type":3,"api":"./lib/drpy.min.js","ext":"./js/异世界动漫.js"}],
+"parses":[{"name":"野","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="}]}
