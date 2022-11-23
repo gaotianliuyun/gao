@@ -1,6 +1,8 @@
 var rule={
     title:'厂长资源',
-    host:'https://www.czspp.com',
+    host:'https://www.czzy.tv',
+    //host:'https://www.c-zzy.com',
+     //host:'WWW.CZZY.TV',
     url:'/fyclass/page/fypage',
     searchUrl:'/xssearch?q=**&f=_all&p=fypage',
     searchable:2,//是否启用全局搜索,
