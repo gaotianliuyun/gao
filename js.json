@@ -161,39 +161,11 @@
             "ext" : "./js/JustLive.js"
         },
             {
-            "key" : "drpy_js_哔哩直播",
-            "name" : "哔哩直播[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/哔哩直播.js"
-        },
-            {
             "key" : "drpy_js_JRKAN直播",
             "name" : "体育|JRKAN直播[DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/JRKAN直播.js"
-        },
-            {
-            "key" : "drpy_js_JRS看直播",
-            "name" : "体育|JRS看直播[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/JRS看直播.js"
-        },
-            {
-            "key" : "drpy_js_JRS看比赛",
-            "name" : "体育|JRS看比赛[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/JRS看比赛.js"
-        },
-            {
-            "key" : "drpy_js_JRS看球网",
-            "name" : "体育|JRS看球网5G[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/JRS看球网.js"
         },
             {
             "key" : "drpy_js_88看球",
@@ -236,6 +208,13 @@
             "type" : 3,
             "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
             "ext" : "./js/乐猪TV.js"
+        },
+            {
+            "key" : "drpy_js_BD360",
+            "name" : "BD360[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/BD360.js"
         },
             {
             "key" : "drpy_js_子子影视",
@@ -579,13 +558,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/起飞影院.js"
-        },
-            {
-            "key" : "drpy_js_厂长资源",
-            "name" : "厂长资源[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/厂长资源.js"
         },
             {
             "key" : "drpy_js_快看",
@@ -1168,48 +1140,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/稀饭影视.js"
-        },
-            {
-            "key" : "drpy_js_唐人街影视[飞]",
-            "name" : "唐人街影视[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/唐人街影视[飞].js"
-        },
-            {
-            "key" : "drpy_js_爱壹帆[飞]",
-            "name" : "爱壹帆[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/爱壹帆[飞].js"
-        },
-            {
-            "key" : "drpy_js_欧帝影院[飞]",
-            "name" : "欧帝影院[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/欧帝影院[飞].js"
-        },
-            {
-            "key" : "drpy_js_UrleBird[飞]",
-            "name" : "UrleBird[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/UrleBird[飞].js"
-        },
-            {
-            "key" : "drpy_js_冲TMTV[飞]",
-            "name" : "冲TMTV[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/冲TMTV[飞].js"
-        },
-            {
-            "key" : "drpy_js_KUBO影视[飞]",
-            "name" : "KUBO影视[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/KUBO影视[飞].js"
         },
             {
             "key" : "drpy_js_兔小贝",
@@ -2650,6 +2580,21 @@
                     "value" : "50000"
                 },
                     {
+                    "category" : 1,
+                    "name" : "flush_packets",
+                    "value" : "1"
+                },
+                    {
+                    "category" : 4,
+                    "name" : "find_stream_info",
+                    "value" : "1"
+                },
+                    {
+                    "category" : 4,
+                    "name" : "render-wait-start",
+                    "value" : "1"
+                },
+                    {
                     "category" : 4,
                     "name" : "sync-av-start",
                     "value" : "1"
@@ -2747,6 +2692,21 @@
                     "category" : 1,
                     "name" : "analyzeduration",
                     "value" : "50000"
+                },
+                    {
+                    "category" : 1,
+                    "name" : "flush_packets",
+                    "value" : "1"
+                },
+                    {
+                    "category" : 4,
+                    "name" : "find_stream_info",
+                    "value" : "1"
+                },
+                    {
+                    "category" : 4,
+                    "name" : "render-wait-start",
+                    "value" : "1"
                 },
                     {
                     "category" : 4,
