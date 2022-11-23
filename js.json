@@ -11,7 +11,7 @@
             {
             "key" : "drpy_js_Alist",
             "name" : "Alist[DRPY]",
-            "type" : 3,        
+            "type" : 3,
             "api" : "./lib/alist.min.js",
             "ext" : "./js/alist.json"
         },
@@ -357,13 +357,6 @@
             "ext" : "./js/石榴影院.js"
         },
             {
-            "key" : "drpy_js_爱壹帆[飞]",
-            "name" : "爱壹帆[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/爱壹帆[飞].js"
-        },
-            {
             "key" : "drpy_js_99影院",
             "name" : "99影院[DRPY]",
             "type" : 3,
@@ -474,20 +467,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/米宝影院.js"
-        },
-            {
-            "key" : "drpy_js_31看影院",
-            "name" : "31看影院[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/31看影院.js"
-        },
-            {
-            "key" : "drpy_js_神马影视",
-            "name" : "神马影视[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/神马影视.js"
         },
             {
             "key" : "drpy_js_视觉影院",
@@ -602,20 +581,6 @@
             "ext" : "./js/起飞影院.js"
         },
             {
-            "key" : "drpy_js_海兔影院",
-            "name" : "海兔影院[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/海兔影院.js"
-        },
-            {
-            "key" : "drpy_js_电影大师",
-            "name" : "电影大师[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/电影大师.js"
-        },
-            {
             "key" : "drpy_js_厂长资源",
             "name" : "厂长资源[DRPY]",
             "type" : 3,
@@ -642,20 +607,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/69美剧.js"
-        },
-            {
-            "key" : "drpy_js_唐人街影视[飞]",
-            "name" : "唐人街影视[飞][DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/唐人街影视[飞].js"
-        },
-            {
-            "key" : "drpy_js_素白白",
-            "name" : "素白白[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/素白白.js"
         },
             {
             "key" : "drpy_js_双十电影",
@@ -726,13 +677,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/喵喵.js"
-        },
-            {
-            "key" : "drpy_js_MXONE",
-            "name" : "MXONE[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/MXONE.js"
         },
             {
             "key" : "drpy_js_Nike影视",
@@ -812,13 +756,6 @@
             "ext" : "./js/爱看电影.js"
         },
             {
-            "key" : "drpy_js_特狗影视",
-            "name" : "特狗影视[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/特狗影视.js"
-        },
-            {
             "key" : "drpy_js_皮皮泡",
             "name" : "皮皮泡[DRPY]",
             "type" : 3,
@@ -840,13 +777,6 @@
             "ext" : "./js/胖虎影视.js"
         },
             {
-            "key" : "drpy_js_牛马TV",
-            "name" : "牛马TV[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/牛马TV.js"
-        },
-            {
             "key" : "drpy_js_人人影视",
             "name" : "人人影视[DRPY]",
             "type" : 3,
@@ -859,20 +789,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/万能影视.js"
-        },
-            {
-            "key" : "drpy_js_小强迷",
-            "name" : "小强迷[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/小强迷.js"
-        },
-            {
-            "key" : "drpy_js_玄天",
-            "name" : "玄天[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/玄天.js"
         },
             {
             "key" : "drpy_js_鸭奈飞",
@@ -910,13 +826,6 @@
             "ext" : "./js/南瓜影院.js"
         },
             {
-            "key" : "drpy_js_瓜皮TV",
-            "name" : "瓜皮TV[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/瓜皮TV.js"
-        },
-            {
             "key" : "drpy_js_555影视",
             "name" : "555影视[DRPY]",
             "type" : 3,
@@ -936,13 +845,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/莫扎兔.js"
-        },
-            {
-            "key" : "drpy_js_追剧喵",
-            "name" : "追剧喵[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/追剧喵.js"
         },
             {
             "key" : "drpy_js_1080P",
@@ -971,20 +873,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/大米星球.js"
-        },
-            {
-            "key" : "drpy_js_剧白白",
-            "name" : "剧白白[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/剧白白.js"
-        },
-            {
-            "key" : "drpy_js_库马伊",
-            "name" : "库马伊[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/库马伊.js"
         },
             {
             "key" : "drpy_js_看视界",
@@ -1099,13 +987,6 @@
             "ext" : "./js/188看.js"
         },
             {
-            "key" : "drpy_js_凌云影视",
-            "name" : "凌云影视[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/凌云.js"
-        },
-            {
             "key" : "drpy_js_麦豆com",
             "name" : "麦豆com[DRPY]",
             "type" : 3,
@@ -1190,13 +1071,6 @@
             "ext" : "./js/蛋蛋魔法.js"
         },
             {
-            "key" : "drpy_js_电影先生",
-            "name" : "电影先生[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/电影先生.js"
-        },
-            {
             "key" : "drpy_js_多瑙影视",
             "name" : "多瑙影视[DRPY]",
             "type" : 3,
@@ -1210,13 +1084,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/捷华影视.js"
-        },
-            {
-            "key" : "drpy_js_欧乐影院",
-            "name" : "欧乐影院[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/欧乐影院.js"
         },
             {
             "key" : "drpy_js_霹雳影视",
@@ -1275,20 +1142,6 @@
             "ext" : "./js/KOK影视.js"
         },
             {
-            "key" : "drpy_js_小宝影院",
-            "name" : "小宝影院[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/小宝影院.js"
-        },
-            {
-            "key" : "drpy_js_新安影院",
-            "name" : "新安影院[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/新安影院.js"
-        },
-            {
             "key" : "drpy_js_影渣渣",
             "name" : "影渣渣[DRPY]",
             "type" : 3,
@@ -1310,13 +1163,6 @@
             "ext" : "./js/蛋蛋赞.js"
         },
             {
-            "key" : "drpy_js_酷酷韩剧",
-            "name" : "酷酷韩剧[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/酷酷韩剧.js"
-        },
-            {
             "key" : "drpy_js_稀饭影视",
             "name" : "稀饭影视[DRPY]",
             "type" : 3,
@@ -1324,11 +1170,18 @@
             "ext" : "./js/稀饭影视.js"
         },
             {
-            "key" : "drpy_js_大中影视[飞]",
-            "name" : "大中影视[飞][DRPY]",
+            "key" : "drpy_js_唐人街影视[飞]",
+            "name" : "唐人街影视[飞][DRPY]",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
-            "ext" : "./js/大中影视[飞].js"
+            "ext" : "./js/唐人街影视[飞].js"
+        },
+            {
+            "key" : "drpy_js_爱壹帆[飞]",
+            "name" : "爱壹帆[飞][DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/爱壹帆[飞].js"
         },
             {
             "key" : "drpy_js_欧帝影院[飞]",
@@ -1378,13 +1231,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/AGE动漫.js"
-        },
-            {
-            "key" : "drpy_js_omofun动漫",
-            "name" : "omofun动漫[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/omofun动漫.js"
         },
             {
             "key" : "drpy_js_异世界动漫",
