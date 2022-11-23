@@ -1,6 +1,7 @@
 var rule={
     title:'石榴影院',
-    host:'https://hei19.com',
+    //host:'https://hei19.com',
+    host:'https://hei17.com',
     // homeUrl:'/',
     url:'/catalog?column=fyclass&sort=1&per_page=72&page=fypage',
     searchUrl:'/search?type=1&keywords=**&page=fypage',
