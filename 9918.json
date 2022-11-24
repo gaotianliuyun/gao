@@ -112,5 +112,5 @@
 {"key":"sewozyapi.com","name":"成人70","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"api.apilyzy.com","name":"成人71","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"cj.apiabzy.com","name":"成人72","type":1,"api":"http://cj.apiabzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok"}]}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok"}]},
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"]}
