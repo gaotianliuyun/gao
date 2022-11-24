@@ -28,9 +28,6 @@
 {"key":"kd","name":"酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kulunli","name":"酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪","type":3,"api":"./lib/drpy.js","ext":"./js/猫了个咪.js"},
-{"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐","type":3,"api":"./lib/drpy.js","ext":"./js/玩偶姐姐.js"},
-{"key":"drpy_js_朱古力","name":"朱古力","type":3,"api":"./lib/drpy.js","ext":"./js/朱古力.js"},
-{"key":"drpy_js_吸瓜","name":"吸瓜","type":3,"api":"./lib/drpy.js","ext":"./js/吸瓜.js"},
 {"key":"drpy_js_banan","name":"banan","type":3,"api":"./lib/drpy.min.js","ext":"./js/banan.js"},
 {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy.min.js","ext":"./js/Missav.js"},
 {"key":"drpy_js_18av","name":"18av","type":3,"api":"./lib/drpy.min.js","ext":"./js/18av.js"},
@@ -112,5 +109,4 @@
 {"key":"sewozyapi.com","name":"成人70","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"api.apilyzy.com","name":"成人71","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"cj.apiabzy.com","name":"成人72","type":1,"api":"http://cj.apiabzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok"}],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"]}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://ali.xn--sss604efuw.ml/tok"}]}
