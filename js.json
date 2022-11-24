@@ -378,6 +378,20 @@
             "ext" : "./js/私人影院.js"
         },
             {
+            "key" : "drpy_js_天空影视",
+            "name" : "天空影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/天空影视.js"
+        },
+            {
+            "key" : "drpy_js_爱看影视",
+            "name" : "爱看影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/爱看影视.js"
+        },
+            {
             "key" : "drpy_js_348电影网",
             "name" : "348电影网[DRPY]",
             "type" : 3,
@@ -474,6 +488,13 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/利丽娅电影.js"
+        },
+            {
+            "key" : "drpy_js_土狗影院",
+            "name" : "土狗影院[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/土狗影院.js"
         },
             {
             "key" : "drpy_js_楚门影院",
@@ -693,13 +714,6 @@
             "ext" : "./js/大师兄影视.js"
         },
             {
-            "key" : "drpy_js_天空影视",
-            "name" : "天空影视[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/天空影视.js"
-        },
-            {
             "key" : "drpy_js_完美看看",
             "name" : "完美看看[DRPY]",
             "type" : 3,
@@ -712,13 +726,6 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/快云影院.js"
-        },
-            {
-            "key" : "drpy_js_爱看影视",
-            "name" : "爱看影视[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/爱看影视.js"
         },
             {
             "key" : "drpy_js_爱看电影",
@@ -937,6 +944,13 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/乐动影视.js"
+        },
+            {
+            "key" : "drpy_js_伊人追剧",
+            "name" : "伊人追剧[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/伊人追剧.js"
         },
             {
             "key" : "drpy_js_兔小贝",
