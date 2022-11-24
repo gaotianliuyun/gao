@@ -78,13 +78,7 @@
     {
       "host": "*",
       "rule": [
-        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
-      ]
-    },
-    {
-      "host": "*",
-      "rule": [
-        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
       ]
     }
   ],
@@ -117,6 +111,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
+        "💢小雅":"http://alistxy.ganggang.live:5678",
         "🦀9T(Adult)": "https://drive.9t.ee",
         "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
         "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
