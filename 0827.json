@@ -1,11 +1,12 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;3161b616a35606b97460c59b19ed3b40",
+  "spider": "./jar/custom_spider.jar;md5;1c966cffc8bda2bc28ede2c65a230f06",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "./MV.txt"
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
   "sites": [
@@ -16,7 +17,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "./json/alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "哔哩",
