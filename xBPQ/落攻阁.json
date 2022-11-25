@@ -1,12 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "落攻阁",
-  "主页url": "https://www.mfxs0.cn",
+  "主页url": "http://www.lggys.cn",
   
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
   
-  "分类url": "https://www.mfxs0.cn/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
+  "分类url": "http://www.lggys.cn/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
