@@ -21,14 +21,10 @@
 "9T":"https://drive.9t.ee",
 "木偶":"https://www.kugutsu.ml"
 },
-    "keyu": {
-        "jx": "http://newjiexi.gotka.top/keyu3.php?url=",
-        "gs": "data,url"
-    },
-    "QiQi": {
-        "jx": "http://lanlan.ckflv.cn/?url=",
-        "gs": "data,url"
-    },
+"QiQi":{
+"jx":"http://lanlan.ckflv.cn/?url=",
+"gs":"data,url"
+},
 "Ali":{
 "token":"http://ali.饭太硬.ml/tok"
 },
