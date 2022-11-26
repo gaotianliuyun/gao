@@ -31,11 +31,15 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    （3）live.txt  线路三。
    
    以上配置原名称为绿色直播源；****x.txt为nsfw直播源，慎用；****xx.txt为测试用直播源，慎用。
-3. kodi配置：
+3. kodi插件及配置：
 
-   （1）YSDQ.json  影视大全（改）的配置文件
+   （1）plugin.video.ysdq.zip  kodi插件影视大全by小明；
    
-   （2）list.m3u  PVR IPTV Simple 直播源，绿色源。
+   （2）plugin.video.ysdqg.zip  kodi插件影视大全（改）by霜辉月明;
+
+   （1）YSDQ.json  影视大全（改）的配置文件;
+   
+   （2）list.m3u  PVR IPTV Simple 直播源，绿色源;
    
    （3）listx.m3u  PVR IPTV Simple 直播源，nsfw源，慎用。
 4. TVBox各路大佬配置（排名不分先后）：
