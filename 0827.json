@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;1c966cffc8bda2bc28ede2c65a230f06",
+  "spider": "./jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -17,7 +17,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "./json/Alist.json"
+      "ext": "./json/alist.json"
     },
     {
       "key": "哔哩",
