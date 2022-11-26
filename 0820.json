@@ -1,4 +1,4 @@
-{"spider":"./jar/xo.jar;md5;9d768be18080c6f5437bbe29ac6484bc",
+{"spider":"./jar/xo.jar;md5;e80798750eca57470f29d1942bce39bb",
 "lives":[{"name":"综合一","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
@@ -16,8 +16,8 @@
 "sites":[
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Coke┃SP","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo","name":"✌BTtwo┃SP","type":3,"api":"csp_Bttoo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"csp_Bttoo","name":"✌BTtwo┃SP","type":3,"api":"csp_Bttoo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"🍙饭团┃SP","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vofl","name":"🎈Voflix┃SP","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -34,6 +34,7 @@
 {"key":"csp_Dy1010","name":"❤️双十┃SP","type":3,"api":"csp_Dy1010","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
@@ -184,7 +185,7 @@
 
 {"key":"xuexi","name":"学习园地","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/bili.json"},
 {"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
-{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist.json"},
+{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
 {"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"upyunsou","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
