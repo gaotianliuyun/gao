@@ -34,7 +34,7 @@
 {"key":"Gaoav","name":"Gaoav","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/Gaoav.json","jar":"./jar/xo.jar"},
 {"key":"2022xxj","name":"2022xxj","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/2022xxj.json","jar":"./jar/xo.jar"},
 {"key":"紙條","name":"紙條","type":3,"api":"csp_Paper","searchable":1,"ext":"http://home.jundie.top:666/token.txt"},
-{"key":"Alist","name":"Alist","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Alist1.json"},
+{"key":"Alist","name":"Alist","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist1.json"},
 {"key":"Bili","name":"哔哩","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/bilibili.json"},
 {"key":"madouse.la","name":"成人01","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"51smt4.xyz","name":"成人02","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"filterable":1},
