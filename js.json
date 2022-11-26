@@ -10,7 +10,7 @@
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_酷客影院","name":"影视 | 酷客影院[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/酷客影院.js"},
-{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js0]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext":"./js/乐猪TV.js"},
+{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/乐猪TV.js"},
 {"key":"drpy_js_影渣渣","name":"影视 | 影渣渣[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/影渣渣.js"},
 {"key":"drpy_js_奇优影院","name":"影视 | 奇优影院[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/奇优影院.js"},
 {"key":"drpy_js_影视工厂","name":"影视 | 影视工厂[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/影视工厂.js"},
@@ -112,6 +112,7 @@
 {"key":"drpy_js_起飞影院","name":"影视 | 起飞影院[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/起飞影院.js"},
 {"key":"drpy_js_趣享星趣","name":"影视 | 趣享星趣[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/趣享星趣.js"},
 {"key":"drpy_js_人人影视","name":"影视 | 人人影视[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/人人影视.js"},
+{"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/骚火电影.js"},
 {"key":"drpy_js_盛世电影","name":"影视 | 盛世电影[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/盛世电影网.js"},
 {"key":"drpy_js_视觉影院","name":"影视 | 视觉影院[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/视觉影院.js"},
 {"key":"drpy_js_视中影视","name":"影视 | 视中影视[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/视中心影视.js"},
@@ -227,7 +228,7 @@
 "ijk":[
 {"group":"软解码","options":[
 {"category":1,"name":"probesize","value":"204800"},
-{"category":1,"name":"analyzeduration","value":"100000"},
+{"category":1,"name":"analyzeduration","value":"90000"},
 {"category":1,"name":"flush_packets","value":"1"},
 {"category":4,"name":"find_stream_info","value":"1"},
 {"category":4,"name":"render-wait-start","value":"1"},
@@ -250,7 +251,7 @@
 {"category":1,"name":"dns_cache_timeout","value":"-1"}]},
 {"group":"硬解码","options":[
 {"category":1,"name":"probesize","value":"204800"},
-{"category":1,"name":"analyzeduration","value":"100000"},
+{"category":1,"name":"analyzeduration","value":"90000"},
 {"category":1,"name":"flush_packets","value":"1"},
 {"category":4,"name":"find_stream_info","value":"1"},
 {"category":4,"name":"render-wait-start","value":"1"},
