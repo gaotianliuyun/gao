@@ -115,7 +115,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "易搜",
@@ -124,7 +124,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "盤搜",
@@ -133,7 +133,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "push_agent",
@@ -142,7 +142,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.xn--sss604efuw.ml/tok"
+      "ext": "http://ali.饭太硬.ml/tok"
     }
   ]
 }
