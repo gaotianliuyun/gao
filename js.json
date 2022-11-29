@@ -11,7 +11,7 @@
 {"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐猪TV.js"},
 {"key":"drpy_js_RP影视","name":"影视 | RP影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/RP影视.js"},
 {"key":"drpy_js_影渣渣","name":"影视 | 影渣渣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影渣渣.js"},
-{"key":"drpy_js_cokemv","name":"影视 | cokemv[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
+{"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key":"drpy_js_酷客影院","name":"影视 | 酷客影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
 {"key":"drpy_js_奇优影院","name":"影视 | 奇优影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇优影院.js"},
@@ -104,7 +104,6 @@
 {"key":"drpy_js_米宝影院","name":"影视 | 米宝影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/米宝影院.js"},
 {"key":"drpy_js_喵喵影院","name":"影视 | 喵喵影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/喵喵.js"},
 {"key":"drpy_js_莫扎兔儿","name":"影视 | 莫扎兔儿[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/莫扎兔.js"},
-{"key":"drpy_js_奈飞中文","name":"影视 | 奈飞中文[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
 {"key":"drpy_js_南瓜影院","name":"影视 | 南瓜影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影院.js"},
 {"key":"drpy_js_胖虎影视","name":"影视 | 胖虎影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎影视.js"},
 {"key":"drpy_js_霹雳影视","name":"影视 | 霹雳影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/霹雳影视.js"},
@@ -228,8 +227,8 @@
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
 "ijk":[
 {"group":"软解码","options":[
-{"category":1,"name":"probesize","value":"104800"},
-{"category":1,"name":"analyzeduration","value":"200000"},
+{"category":1,"name":"probesize","value":"307200"},
+{"category":1,"name":"analyzeduration","value":"50000"},
 {"category":1,"name":"flush_packets","value":"1"},
 {"category":4,"name":"find_stream_info","value":"1"},
 {"category":4,"name":"render-wait-start","value":"1"},
@@ -251,8 +250,8 @@
 {"category":1,"name":"dns_cache_clear","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"-1"}]},
 {"group":"硬解码","options":[
-{"category":1,"name":"probesize","value":"104800"},
-{"category":1,"name":"analyzeduration","value":"200000"},
+{"category":1,"name":"probesize","value":"307200"},
+{"category":1,"name":"analyzeduration","value":"50000"},
 {"category":1,"name":"flush_packets","value":"1"},
 {"category":4,"name":"find_stream_info","value":"1"},
 {"category":4,"name":"render-wait-start","value":"1"},
