@@ -126,6 +126,7 @@
 
 //{"name":"ckflv","type":1,"url":"http://api.ckflv.cn/?url="},
 //{"name":"图图","type":1,"url":"http://45.207.11.9:7728/api.php?url="},
+{"name":"Q1","type":1,"url":"http://150.158.175.250:88/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url="},
 {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url="},
 {"name":"Leaf","type":1,"url":"https://api.leafone.cn/api/jx?url="},
