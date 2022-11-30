@@ -47,16 +47,16 @@ var rule = {
     searchable:2,
     quickSearch:0,
     headers:{
-        "User-Agent":"PC_UA",
-        "Cookie": "searchneed=ok"
+        "User-Agent":"PC_UA"
         //"Cookie": "" 
         // Cookie获取方法 https://github.com/UndCover/PyramidStore/blob/main/list.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9
     },
     timeout:5000,
     limit:8,
     play_parse:true,
-    play_json:[{re:'*', json:{jx:0, parse:1}}],
-    play_json:0,
+    // play_json:[{re:'*', json:{jx:0, parse:1,header:JSON.stringify({"user-agent":"Mozilla/5.0 (Linux; U; Android 9; zh-CN; MI 9 Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.5.5.1035 Mobile Safari/537.36"})}}],
+    play_json:[{re:'*', json:{jx:0, parse:1,header:JSON.stringify({"user-agent":"uc_ua"})}}],
+    // play_json:0,
     lazy:'',
     double:false,
     推荐:'*',
