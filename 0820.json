@@ -74,7 +74,6 @@
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
-{"key":"csp_视频","name":"直播转点播","type":3,"api":"csp_xBPQ","ext":"{ \"分类url\": \"./live2xbpq/{cateId}{catePg}.html\",   \"分类\": \"三万九MV$MV#世界杯4k$sjb4k\",   \"数组\": \"<li&&</li>\",     \"图片\": \"http://120.53.102.254/live/img1.php\",        \"标题\": \"href=\\\"/*/&&.html\\\"\",    \"链接\": \"href=\\\"&&\\\"\",      \"链接前缀\": \"./live2xbpq\",     \"播放数组\": \"<div class=\\\"module-play-list-content&&</div>\",     \"播放标题\": \"title=\\\"&&\\\"\",    \"播放链接\": \"href=\\\"&&\\\"\" }"},
 {"key":"csp_xBPQ_短视频","name":"短视频〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_xBPQ_电视直播","name":"电视直播〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
 
