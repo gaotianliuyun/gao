@@ -17,11 +17,41 @@
 "姬路白雪":"https://pan.jlbx.xyz",
 "神族九帝":"https://alist.shenzjd.com",
 "資源小站":"https://960303.xyz",
-"Disk":"http://124.222.140.243:8080"
+"Disk":"http://124.222.140.243:8080",
 "9T":"https://drive.9t.ee",
 "木偶":"https://www.kugutsu.ml"
 },
     "QiQi":[ 
+        {
+          "jx":"http://newjiexi.gotka.top/keyu3.php?url=",
+          "jxfrom":"other",
+          "gs":"data,url",
+          "erro":""
+          },
+        {
+          "jx":"https://tljiaqing.nde.tw/m3u8/?url=",
+          "jxfrom":"other",
+          "gs":"data,url",
+          "erro":""
+          },
+        {
+          "jx":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
+          "jxfrom":"other",
+          "gs":"data,url",
+          "erro":""
+          },
+        {
+          "jx":"http://newjiexi.gotka.top/keyu3.php?url=",
+          "jxfrom":"other",
+          "gs":"data,url",
+          "erro":""
+          },
+        {
+          "jx":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=",
+          "jxfrom":"other",
+          "gs":"data,url",
+          "erro":""
+          },
         {
           "jx":"http://lanlan.ckflv.cn/?url=",
           "jxfrom":"other",
@@ -37,7 +67,7 @@
     ],
     "Bili": {
         "cookie": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/cookie.txt", 
-        "category": "纪录片,纪录片|相声,相声小品"
+        "category": "纪录片,纪录片超清|健身,健身超清|舞蹈,舞蹈超清|音乐,音乐超清|MV,MV4K|演唱会,演唱会4K|白噪音,白噪音4K|风景,风景4K|美食,美食超清|动物世界,动物世界超清|戏曲,戏曲超清|小姐姐,小姐姐4K|相声,相声小品超清"
     },
 "Ali":{
 "token":"http://ali.饭太硬.ml/tok"
