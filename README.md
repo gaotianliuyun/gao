@@ -89,6 +89,8 @@ tvbox & diyp & kodi 配置文件。所有资源均来自网络，都源于各路
    （22）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
    
    （23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+   
+   （24）肥猫：http://我不是.肥猫.love:63
 5. 随机轮换壁纸：
 
    （1）https://bing.img.run/rand.php
