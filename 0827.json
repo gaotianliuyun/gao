@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;7d655c54d086110028be6074c85dce66",
+  "spider": "./jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -13,6 +13,15 @@
     {
       "key": "AList",
       "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "./json/Alist.json"
+    },
+    {
+      "key": "AList1",
+      "name": "AList1",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
