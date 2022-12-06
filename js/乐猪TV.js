@@ -9,7 +9,8 @@ var rule = {
     quickSearch:0,
     headers:{
         // 'User-Agent':'UC_UA'
-        'User-Agent':'MOBILE_UA'
+        'User-Agent':'MOBILE_UA',
+        // 'Cookie':'test',
     },
     timeout:5000,
     class_parse:'div.nav a;a&&Text;a&&href;/(\\d.+).html',
