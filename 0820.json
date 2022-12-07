@@ -62,6 +62,15 @@
 {"key":"csp_Xiaoh","name":"🛫  小 宝 ┃墙外","type":3,"api":"csp_Xiaoh","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"t4public","name":"T4","type":4,"api":"https://t4.饭太硬.ml/vod?sites=all&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"xuexi","name":"学习园地","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/bili.json"},
+{"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
+{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
+{"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"upyunsou","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"yisou","name":"宜搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
+
 {"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPath3","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/88看球.json"},
 {"key":"csp_xpath_qiumi","name":"⚽Jrs球迷","type": 3,"api": "csp_XPath3","playerType":2,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./json/dj看球.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQ/310直播.json"},
@@ -180,14 +189,6 @@
 {"key":"csp_xbb_奈菲影院","name":"奈菲影院（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/奈菲影院.json"},
 {"key":"csp_xbb_稀饭影视","name":"稀饭影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/稀饭影视.json"},
 
-{"key":"xuexi","name":"学习园地","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"./json/bili.json"},
-{"key":"Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
-{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
-{"key":"csp_LocalFile","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"upyunsou","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"yisou","name":"宜搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
