@@ -1,7 +1,12 @@
-{"spider":"./w.jar",
+{"spider":"./fm.jar",
  "sites":[
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+{"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
+{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./js/alistjar.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
+{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "./lib/token.txt"},
+{"key": "易搜","name": "阿里 |易搜","type": 3,"api": "csp_YiSo","ext": "./lib/token.txt"},
+{"key": "盘搜","name": "阿里 |盘搜","type": 3,"api": "csp_PanSou","ext": "./lib/token.txt"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
@@ -136,7 +141,7 @@
 {"key":"drpy_js_追剧达人","name":"影视 | 追剧达人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
-{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"55c39cb673654d2baf5929c1cbe59a95"}],
+{"key": "push_agent","name": "阿里 |推送","type": 3,"api": "csp_Push","ext": "./lib/token.txt"}],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]}]}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
@@ -149,7 +154,6 @@
 {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
-{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
