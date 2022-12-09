@@ -71,6 +71,7 @@
 {"key":"csp_xBPQ_喵喵电影","name":"喵喵电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/喵喵电影.json"},
 {"key":"csp_xBPQ_Auete","name":"Auete","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/Auete.json"},
 {"key":"csp_xBPQ_动漫巴士","name":"动漫巴士","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/动漫巴士.json"},
+{"key":"csp_xBPQ_看一看影视","name":"看一看影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/看一看影视.json"},
 
 {"key":"csp_xBPQ_短视频","name":"短视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 {"key":"csp_xBPQ_电视直播","name":"电视直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
@@ -90,15 +91,10 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="},
 {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-{"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
-{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url="},
+{"name":"4K","type":0,"url":"https://jx.4kdv.com/?url="},
+{"name":"高速接口","type":0,"url":"https://jsap.attakids.com/?url="},
+{"name":"综合/B站","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
-{"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
-{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"肥猫解析1","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-{"name":"肥猫解析2","type":1,"url":"http://jx.mfjx.tk/?url="},
-{"name":"juhe","type":1,"url":"https://play.fuqizhishi.com/juhe/api.php?appkey=caijijuhe220902&url="},
-{"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
 {"name":"菜妮丝","type":0,"url":"https://jx.cainisi.cf/?v="}
 ],
 
