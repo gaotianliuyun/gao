@@ -290,7 +290,8 @@ CCTV16-4K-50P-HLG源,http://154.3.37.107:8280/live/1/hls.m3u8
 咪咕世界杯4K回放-2,http://183.60.255.55/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.236.32
 4K测试源,http://159.75.85.63:5680/d/ad/playad.m3u8
 CCTV-8K-组播AVS3源,http://182.138.154.241:8000/udp/239.93.42.61:5140
-江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u84K,#genre#
+江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+4K,#genre#
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
