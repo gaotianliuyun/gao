@@ -1,0 +1,20 @@
+var rule = {
+    title: '九酷',
+    host: 'https://jiuku.site',
+    class_name:'电影&电视剧&综艺&动漫',
+    class_url:'1&2&3&4',
+    homeUrl: '',
+    searchUrl: '',
+    searchable: 1,
+    quickSearch: 1,
+    filterable: 1,
+    headers:{'User-Agent':'MOBILE_UA'},
+    // 分类链接fypage参数支持1个()表达式
+    url: '/index.php/api/vod#type=fyclass&page=fypage',
+    detailUrl:'/index.php/vod/detail/id/fyid.html',
+    推荐:'',
+    一级:'',
+    一级:'js:let body=input.split("#")[1];let t=Math.round(new Date/1e3).toString();let key=md5("DS"+t+"DCC147D11943AF75");let url=input.split("#")[0];body=body+"&time="+t+"&key="+key;print(body);fetch_params.body=body;let html=post(url,fetch_params);let data=JSON.parse(html);VODS=data.list;',
+    二级:'',
+    搜索:'',
+}
