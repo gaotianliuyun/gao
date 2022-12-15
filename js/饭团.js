@@ -1,8 +1,16 @@
-var rule={
+var rule = {
     title:'饭团',
-    模板:'首图',
     host:'https://fositv.com',
-    url:'/vod____type/fyclass-fypage.html',
+    url:'/vod_____type/fyclass-fypage.html',
+    searchUrl:'/vod_____search/-------------.html?wd=**&submit=',
+    searchable:2,
+    quickSearch:0,
+    filterable:0,
+    headers:{'User-Agent':'MOBILE_UA',},
+    class_name:'电影&电视剧&综艺&动漫&记录',
+    class_url:'1&2&3&4&5',
+    推荐:'.myui-vodlist__thumb.lazyload;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+    一级:'.myui-vodlist__thumb;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
     二级:{"title":".text-fff&&Text;.myui-player__data p&&Text","img":"","desc":".myui-player__data p&&Text;;;.text-collapse p:eq(1)&&Text;.text-collapse p:eq(0)&&Text","content":".data&&Text","tabs":".nav-tabs:eq(0) li","lists":".myui-content__list:eq(#id) li"},
-    searchUrl:'/vod_search/-------------.html?wd=**',
+    搜索:'.myui-vodlist__thumb;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
 }
