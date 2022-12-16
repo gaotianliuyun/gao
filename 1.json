@@ -36,7 +36,7 @@
 {"key":"upyunsou","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
 {"key":"yisou","name":"宜搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
 {"key":"AliPS","name":"AliPS","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"}
  ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
