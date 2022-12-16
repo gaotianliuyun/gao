@@ -44,14 +44,11 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"xifanys","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"EXO","type":0,"url":"https://rx.69mj.com/?url=","ext":{"flag":["rx","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
-{"name":"freejson","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"1-26db","type":0,"url":"http://vip.26db.cn/g/?url="},
 {"name":"2-小猫咪","type":0,"url":"http://player.xmmi.xyz/player/?url="},
-{"name":"6-麒麟","type":0,"url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
 {"name":"解析05","type":0,"url":"http://id190.tpddns.cn:81/jsonch/?url="},
 {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"BL","type":0,"url":"https://svip.bljiex.cc/?v=","ext":{"flag":["ltnb"]}},
 {"name":"freejx","type":0,"url":"https://freejx.rx88.top:1234/?url="},
 {"name":"8old","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
@@ -69,7 +66,6 @@
 {"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"Bt5v","type":1,"url":"proxy://do=jx&name=bt5v&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
-{"name":"Q1解析二","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"]}
