@@ -1,5 +1,5 @@
 {
-"spider": "./jar/cs.jar;md5;d9a481854e58a26f605c97c32acb7d10",
+"spider": "./jar/cs.jar;md5;f91ccc935879eab565edc27b5dc53416",
 "lives":[{"name":"综合一","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
