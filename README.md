@@ -91,6 +91,8 @@ tvbox & diyp & kodi 配置文件。所有资源均来自于各路大神无私分
    （23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
    
    （24）肥猫：http://我不是.肥猫.love:63
+   
+   （25）免费解析：https://jx.mfjx.tk/tvbox.json
 5. 随机轮换壁纸：
 
    （1）https://bing.img.run/rand.php
