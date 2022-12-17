@@ -15,9 +15,18 @@ var rule={
     class_url:'1&3&13&14&15',
     lazy:'',
     limit:6,
-    推荐:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
+    // 推荐:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    推荐:'.module-items:eq(0);.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
     一级:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
-    二级:{"title":"h1&&Text;.video-info-header&&Text","img":".lazyload&&data-src","desc":".video-info-items:eq(1)&&Text;.video-info-items:eq(2)&&Text;.video-info-items:eq(3)&&Text","content":".vod_content&&Text","tabs":".module-tab-item","lists":".sort-item:eq(#id) a"},
+    二级:{
+    	"title":"h1&&Text;.video-info-header&&Text",
+    	"img":".lazyload&&data-src",
+    	// "desc":".video-info-items:eq(1)&&Text;.video-info-items:eq(2)&&Text;.video-info-items:eq(3)&&Text",
+    	"desc":";;;.video-info-main .video-info-actor:eq(1)&&Text;.video-info-main .video-info-actor:eq(0)&&Text",
+    	"content":".vod_content&&Text",
+    	"tabs":".module-tab-item",
+    	"lists":".sort-item:eq(#id) a"
+	},
     搜索:'.module-items;.lazyload&&alt;.lazyload&&data-src;.tag-link&&Text;*',
 }
