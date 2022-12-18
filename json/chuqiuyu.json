@@ -1,5 +1,5 @@
 {
-  "cookie":"_uuid=5E4B2B98-1014A-84D8-FA33-EC210C5BEC10DA82367infoc; buvid3=E9D0A426-85E9-E6C7-C75E-206A3E1BEB4D81910infoc; b_nut=1666168082; buvid4=4FC87B9C-3540-2275-688C-8612D3EA719B81910-022101916-ZLe640jXRAMHySuaCe9aUw==; rpdid=|(k|u)YYm)uY0J'uYYYuY)uuu; i-wanna-go-back=-1; fingerprint=9c214a6da0197a48e576ccf22e9f0ac7; buvid_fp_plain=undefined; nostalgia_conf=-1; DedeUserID=3493076028885079; DedeUserID__ckMd5=60a8757a1f4d6ae9; buvid_fp=9c214a6da0197a48e576ccf22e9f0ac7; CURRENT_QUALITY=80; b_ut=5; PVID=2; bp_video_offset_3493076028885079=undefined; bsource=search_google; SESSDATA=42b8ada6,1683277266,4bd05*b2; bili_jct=2dbe39aea02b41324395630a24d4775f; sid=89gnel66; innersign=0; b_lsid=9EF63922_1844D55A286; CURRENT_FNVAL=4048",
+"cookie":"_uuid=5E4B2B98-1014A-84D8-FA33-EC210C5BEC10DA82367infoc;buvid3=E9D0A426-85E9-E6C7-C75E-206A3E1BEB4D81910infoc;b_nut=1666168082;buvid4=4FC87B9C-3540-2275-688C-8612D3EA719B81910-022101916-ZLe640jXRAMHySuaCe9aUw==;rpdid=|(k|u)YYm)uY0J'uYYYuY)uuu;i-wanna-go-back=-1;fingerprint=9c214a6da0197a48e576ccf22e9f0ac7;buvid_fp_plain=undefined;nostalgia_conf=-1;DedeUserID=3493076028885079;DedeUserID__ckMd5=60a8757a1f4d6ae9;buvid_fp=9c214a6da0197a48e576ccf22e9f0ac7;CURRENT_QUALITY=80;b_ut=5;PVID=2;bp_video_offset_3493076028885079=undefined;bsource=search_google;SESSDATA=42b8ada6,1683277266,4bd05*b2;bili_jct=2dbe39aea02b41324395630a24d4775f;sid=89gnel66;innersign=0;b_lsid=9EF63922_1844D55A286;CURRENT_FNVAL=4048",
 "classes":[
 {"type_name":"帕梅拉","type_id":"帕梅拉"},
 {"type_name":"太极拳","type_id":"太极拳"},
@@ -1032,7 +1032,7 @@
 ]
 },
 {"key":"tid","name":"分类","value":[
-{"n":"全部","v":"音乐"},
+{"n":"全部","v":"音乐4K"},
 {"n":"钢琴","v":"钢琴曲"},
 {"n":"小提琴","v":"小提音乐"},
 {"n":"手风琴","v":"手风音乐"},
@@ -1073,10 +1073,14 @@
 ]
 },
 {"key":"tid","name":"分类","value":[
-{"n":"全部","v":"歌曲"},
+{"n":"全部","v":"歌曲超清"},
+{"n":"歌曲合集","v":"经典无损音乐合集"},
+{"n":"歌曲热榜","v":"2022年歌曲排行榜"},
 {"n":"香港歌曲","v":"香港歌曲"},
 {"n":"台湾歌曲","v":"台湾歌曲"},
 {"n":"内地歌曲","v":"内地歌曲"},
+{"n":"粤语歌曲","v":"粤语歌曲"},
+{"n":"闽南歌曲","v":"闽南语歌曲"},
 {"n":"英文歌曲","v":"英文歌曲"},
 {"n":"日文歌曲","v":"日文歌曲"},
 {"n":"印度歌曲","v":"印度歌曲"},
@@ -1087,12 +1091,18 @@
 {"n":"网红翻唱","v":"网红翻唱"},
 {"n":"劲歌","v":"劲歌"},
 {"n":"慢歌","v":"慢歌"},
+{"n":"古风","v":"古风歌曲"},
+{"n":"舞曲","v":"DJ歌曲"},
 {"n":"欢快歌曲","v":"欢快歌曲"},
 {"n":"伤感歌曲","v":"伤感歌曲"},
 {"n":"70年代歌曲","v":"70年代歌曲"},
 {"n":"80年代歌曲","v":"80年代歌曲"},
 {"n":"90年代歌曲","v":"90年代歌曲"},
-{"n":"00后歌曲","v":"00后歌曲"},
+{"n":"00年代歌曲","v":"00年代歌曲"},
+{"n":"10年代歌曲","v":"10年代歌曲"},
+{"n":"2020年歌曲","v":"2020年歌曲"},
+{"n":"2021年歌曲","v":"2021年歌曲"},
+{"n":"2022年歌曲","v":"2022年歌曲"},
 {"n":"经典儿歌","v":"经典儿歌"},
 {"n":"大合唱","v":"大合唱"},
 {"n":"音乐汇","v":"音乐汇"},
