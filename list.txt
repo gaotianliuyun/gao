@@ -213,10 +213,10 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
-世界杯,#genre#
-抖音4K50P世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
-抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
-BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+肥羊4K,#genre#
+4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -229,13 +229,17 @@ CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaib
 北京IPTV-4K,http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
 北京BesTV-4K,http://beifeng.site:4000/udp/239.3.1.249:8001
 4K影视,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
+芒果娱乐4K,http://74.119.193.113:8280/live/mgyl4k/hls.m3u8
 咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
 咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-1,http://117.136.156.68:80/000000001000/3000000010000015686/index.m3u8
+咪咕体育-4K-HLG源-1,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K-HLG源-2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 Astro Super Sport 4K-2,http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
+Astro Super Sport 4K-3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484698
+BBC UHD,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 Quadro 4K,http://91.207.180.142/Quadro4K/index.m3u8
 Museum 4k,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
 Home 4k,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
@@ -244,10 +248,14 @@ V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&s
 V Sports UHD备,http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=HRUNWEM0Q2
 Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 Now Sports UHD HK备,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
-SuperSport 4k World CUP,http://cdn.spmr.tv:8080/pr8k4n/video.m3u8?token=HRUNWEM0Q2
+SuperSport 4k World CUP,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484694
 BeIN Sports 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=HRUNWEM0Q2
 TF1 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
+FOX US 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484693
+FOX 1 Sports US 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484692
+FUSSBALLTV 2 UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484703
+FUSSBALLTV 3 UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484704
 BT Sport Ultimate 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
@@ -260,14 +268,19 @@ Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stre
 TRT 4k,http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
 TRT 4k-1,http://toolsworldiptv.org:8080/live/geriHiOeu4sekxxxxx211/geriHiOeu4/365.ts
 TRT 4k-2,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=HRUNWEM0Q2
+TRT 4k-3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484700
 DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 DIGI 4k备,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=HRUNWEM0Q2
-Rai 4k,http://saveukraine.only4.tv/8185/video.m3u8?token=y3DBG7q3sk
+Rai 4k,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484701
 Rai 4k备,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=HRUNWEM0Q2
 C4k360,http://cdnx1.plusx.tv:8880/C4K360/mono.m3u8?token=cb776083b1e1b6f9bb2222
 TVP 4k,http://barebudget.h1ott.com:80/play/live.php?mac=00:1a:79:27:1f:ef&stream=1057230&extension=ts&play_token=FFHcEjJdsM
 TVP 4k-1,http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
 TVP 4k-2,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=HRUNWEM0Q2
+KINO 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234326
+Our Siberia 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234329
+SERIAL 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234325
+Ultra Cinema UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234331
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
 TRAVELXP TV 4K,http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
@@ -281,32 +294,8 @@ MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
-4K河南,http://154.3.37.107:8280/live/0/hls.m3u8
-CCTV16-4K-50P-HLG源,http://154.3.37.107:8280/live/1/hls.m3u8
-咪咕体育-4K-HLG源,http://154.3.37.107:8280/live/2/hls.m3u8
-芒果娱乐4K,http://154.3.37.107:8280/live/3/hls.m3u8
-抖音世界杯随机回放,http://mmmitv.top/test/douyin-x.php?id=rand
-咪咕世界杯4K回放-1,http://111.13.18.208/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.243.171
-咪咕世界杯4K回放-2,http://183.60.255.55/tptv.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?GuardEncType=2&hwcdnbacksourceflag=223.110.236.32
-4K测试源,http://159.75.85.63:5680/d/ad/playad.m3u8
 CCTV-8K-组播AVS3源,http://182.138.154.241:8000/udp/239.93.42.61:5140
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-4K,#genre#
-纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-欢笑剧场4K,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-爱上4K,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
-欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-Clarity-4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-LoveNature-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 斗鱼,#genre# 
 斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
