@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;e889b257fb9dbaf519f3c095231c12ea",
+  "spider": "./jar/custom_spider.jar;md5;eb125a06ca94c3f1ff38f8f1034f0ff9",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -32,7 +32,7 @@
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
-      "api": "csp_Nbys",
+      "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1
     },
@@ -131,6 +131,24 @@
       "name": "盤搜",
       "type": 3,
       "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "UP雲搜",
+      "name": "UP雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok"
