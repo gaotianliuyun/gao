@@ -12,7 +12,7 @@
   "副标题": "<span>&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "/index.php?m=vod-search;post;wd={wd}&search=",
+  "搜索url": "/index.php?m=vod-search;post;wd={wd}",
   "搜索数组": "vbox\">&&</li>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",

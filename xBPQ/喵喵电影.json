@@ -3,7 +3,7 @@
   "站名": "喵喵电影",
   "主页url": "https://www.2345ka.com",
   
-  "分类": "电影&电视剧&综艺&动漫&音乐",
+  "分类": "电影&电视剧&综艺&动漫&热舞",
   "分类值": "1&2&3&4&6",
   
   "分类url": "https://www.2345ka.com/t/{cateId}/{catePg}.html",
@@ -12,7 +12,7 @@
   "标题": "title=\"&&\"[替换:影片信息>>空]",
   
   "搜索模式": "1",
-  "搜索url": "/s/{wd}/{pg}.html",
+  "搜索url": "/search?wd={wd}",
   "搜索数组": "<div class=\"box flex\">&&txtHide\">",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",

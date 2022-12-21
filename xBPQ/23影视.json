@@ -12,8 +12,13 @@
   "标题": "<a class=\"channelname\"*>&&</a>",
   "副标题": "pack-prb\"><span>&&</span>",
   
-  "搜索模式": "0",
-  "搜索后缀": "/voddetail/",
+  "搜索模式": "1",
+  "搜索url": "/vodsearch.html?wd={wd}",
+  "搜索数组": "<div class=\"ecimgbor&&</p>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "href*>&&</a>",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "author\">&&</span>",
   
   "影片地区": "地区：&&</p>",
   "影片类型": "类型：&&</p>",

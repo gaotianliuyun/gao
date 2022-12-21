@@ -18,7 +18,7 @@
   "链接": "id",
   
   "搜索模式": "1",
-  "搜索url": "/search?type=1&keywords={wd}&page={pg}",
+  "搜索url": "/search?type=1&keywords={wd}",
   "搜索二次截取": "type=\"application/json\">&&</script>",
   "搜索数组": "props.pageProps.searchMovieList.data",
   "搜索图片": "pic",

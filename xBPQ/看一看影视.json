@@ -12,7 +12,7 @@
   "副标题": "<i>&&</i>",
   
   "搜索模式": "1",
-  "搜索url": "/index.php?m=vod-search-pg-{pg}-wd-{wd}.html",
+  "搜索url": "/index.php?m=vod-search-pg-1-wd-{wd}.html",
   "搜索数组": "p1 m1\">&&</li>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",

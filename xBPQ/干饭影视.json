@@ -6,8 +6,7 @@
   "分类": "电影&剧集&综艺&动漫",
   "分类值": "1&2&3&4",
   
-  "分类url": "https://www.gfysys1.com/vodtype/{cateId}-{catePg}.html",
-  //"分类url": "https://www.gfysys1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.gfysys1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "搜索模式": "0",
   "搜索后缀": "/voddetail/",
@@ -22,9 +21,9 @@
   "线路数组": "<li><a href=\"#playlist&&/a>",
   "线路标题": ">&&<[替换:（>>👉#）>>集♥]",
   
-  "播放数组": "<ul class=\"stui-content&&</ul>"
+  "播放数组": "<ul class=\"stui-content&&</ul>",
   
- /* "筛选":{
+  "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
@@ -198,5 +197,5 @@
   {"key":"by","name":"排序","value":[
   {"n":"时间","v":"time"},
   {"n":"人气","v":"hits"},
-  {"n":"评分","v":"score"}]}]}*/
+  {"n":"评分","v":"score"}]}]}
 }
