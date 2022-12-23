@@ -221,7 +221,7 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei15
 欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K-25P-HLG源,http://159.75.85.63:8280/cctv4k.php
+CCTV4K-25P-HLG源,http://lu1.cc/itv/php/cctv4k.php
 CCTV16-4K-SDR源,http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -250,8 +250,23 @@ Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 Now Sports UHD HK备,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
 SuperSport 4k World CUP,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484694
 BeIN Sports 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=HRUNWEM0Q2
+Sky Sport UHD,http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=HRUNWEM0Q2
 TF1 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
+CANAL+ UHD,http://cineapp.org:8000/zbigniew/zbigniew/166355
+CANAL+ LDC UHD,http://cineapp.org:8000/zbigniew/zbigniew/166356
+Evenement UHD,http://cineapp.org:8000/zbigniew/zbigniew/166357
+BOX OFFICE CANAL+ UHD,http://cineapp.org:8000/zbigniew/zbigniew/166359
+Prima Sport 4K,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/62774
+Eurosport 4K,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/53743
+Ziggo Sport 4K,http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+FILM 24/7 UHD,http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216226
+FILM 24/7 UHD 2,http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216227
+ARES CINEMA 4K,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/80107
+Magura Media 4k,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/37414
+Premium Film 4K,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/53102
+FluxRO 4K,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/95468
+IMPACT Filme 4K,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/95902
+RTL UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
 FOX US 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484693
 FOX 1 Sports US 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484692
 FUSSBALLTV 2 UHD,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484703
