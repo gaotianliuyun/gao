@@ -1,12 +1,12 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;9fbfe50fb567b4762fc34320a5bd35f0",
+  "spider": "./jar/custom_spider.jar;md5;8211cf471a24a780127bf9e96ebd32ff",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "直播",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "sites": [
