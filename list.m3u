@@ -3,10 +3,14 @@
 http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="肥羊4K频道",4K60PHLG-HEVC-EAC3测试
 http://159.75.85.63:5680/d/ad/playad.m3u8
-#EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="肥羊8K频道",BTV纪实科教-8KSDR源
+#EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="肥羊4K频道",BTV纪实科教-8KSDR源
 http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="肥羊4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4KHLG小果源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="肥羊4K频道",欢笑剧场4KHLG小果源
+http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="肥羊4K频道",欢笑剧场4k百视通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="肥羊4K频道",欢笑剧场4K
 http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="肥羊4K频道",纯享4K
@@ -14,11 +18,19 @@ http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id
 #EXTINF:-1 tvg-name="纯享4K备" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="肥羊4K频道",纯享4K备
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K-25P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="肥羊4K频道",CCTV4K-25P-HLG源
-http://lu1.cc/itv/php/cctv4k.php
-#EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="肥羊4K频道",CCTV16-4K-SDR源
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="肥羊4K频道",CCTV-4K25P-SDR-百事通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV4K-50P-HLG小果源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="肥羊4K频道",CCTV4K-50P-HLG小果源
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="肥羊4K频道",CCTV16-4K25P-SDR-百视通源
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="肥羊4K频道",CCTV16-4K25P-SDR源
 http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1 tvg-name="CCTV16-4K-25PHLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="肥羊4K频道",CCTV16-4K-25PHLG源
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
+#EXTINF:-1 tvg-name="CCTV16-4K-50P-HLG小果源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="肥羊4K频道",CCTV16-4K-50P-HLG小果源
+http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-name="CCTV16-4K-50P-IPV6-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="肥羊4K频道",CCTV16-4K-50P-IPV6-HLG源
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="肥羊4K频道",爱上4K
@@ -26,13 +38,13 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-name="北京IPTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg" group-title="肥羊4K频道",北京IPTV-4K
 http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="北京BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="肥羊4K频道",北京BesTV-4K
-http://beifeng.site:4000/udp/239.3.1.249:8001
+http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-name="4K影视" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="肥羊4K频道",4K影视
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="肥羊4K频道",河南4K
 http://74.119.193.113:8280/live/hn4k/hls.m3u8
-#EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="肥羊4K频道",芒果娱乐4K
-http://74.119.193.113:8280/live/mgyl4k/hls.m3u8
+#EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/4kcgq.png" group-title="肥羊4K频道",4K超高清电影
+http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 tvg-name="咪咕体育-4K-SDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="肥羊4K频道",咪咕体育-4K-SDR源
 http://120.234.220.107:9000/udp/239.20.0.66:3136
 #EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="肥羊4K频道",咪咕体育-4K-HLG源
@@ -48,7 +60,7 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="肥羊4K频道",Astro Super Sport 4K-2
 http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="肥羊4K频道",Astro Super Sport 4K-3
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484698
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/bbc.png" group-title="肥羊4K频道",BBC UHD
 http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/A242991D-4F59-4672-B511-35DB36738987.jpeg" group-title="肥羊4K频道",Quadro 4K
@@ -62,19 +74,21 @@ http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg" group-title="肥羊4K频道",V Sports UHD
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg" group-title="肥羊4K频道",V Sports UHD备
-http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=HRUNWEM0Q2
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7AC86388-6842-40B1-A22B-E835B4800BC9.jpeg" group-title="肥羊4K频道",Now Sports UHD HK
 http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7AC86388-6842-40B1-A22B-E835B4800BC9.jpeg" group-title="肥羊4K频道",Now Sports UHD HK备
-http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/1F89764F-8057-40CD-8C72-F36F8A337101.png" group-title="肥羊4K频道",SuperSport 4k World CUP
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484694
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7AC86388-6842-40B1-A22B-E835B4800BC9.jpeg" group-title="肥羊4K频道",Now Sports UHD HK-1
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7AC86388-6842-40B1-A22B-E835B4800BC9.jpeg" group-title="肥羊4K频道",Now Sports UHD HK-2
+http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/149529
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png" group-title="肥羊4K频道",BeIN Sports 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/482E2AAC-C5ED-4F1A-A212-D68171CDEE14.jpeg" group-title="肥羊4K频道",Sky Sport UHD
-http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=HRUNWEM0Q2
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/290744.ts
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7B3FC511-989B-40A3-8F05-0AE950AD71DD.png" group-title="肥羊4K频道",TF1 4K
-http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
+http://pro.ipcover.tv:8080/baldefamily33300/baldefamily123497/152182
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7B3FC511-989B-40A3-8F05-0AE950AD71DD.png" group-title="肥羊4K频道",TF1 4K备
+http://cineapp.org:8000/zbigniew/zbigniew/166354
 #EXTINF:-1 tvg-name="CANAL+ UHD" tvg-logo="https://media.info/i/lf/600/1503863982/6844.png" group-title="肥羊4K频道",CANAL+ UHD
 http://cineapp.org:8000/zbigniew/zbigniew/166355
 #EXTINF:-1 tvg-name="CANAL+ LDC UHD" tvg-logo="https://media.info/i/lf/600/1503863982/6844.png" group-title="肥羊4K频道",CANAL+ LDC UHD
@@ -126,25 +140,21 @@ http://tribaliptv.com:8080/Gustavo/123456/5195
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="肥羊4K频道",Eleven Sports 1 4K
 http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="肥羊4K频道",Eleven Sports 1 4K备
-http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=HRUNWEM0Q2
+http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/154014
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EA0DA749-7DA9-420C-A40A-EE49E75B1C37.png" group-title="肥羊4K频道",Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3CE30C63-5731-400F-B187-3B0AE5BD4100.jpeg" group-title="肥羊4K频道",Матч 4k
 http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=HRUNWEM0Q2
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="肥羊4K频道",TRT 4k
 http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="肥羊4K频道",TRT 4k-1
-http://toolsworldiptv.org:8080/live/geriHiOeu4sekxxxxx211/geriHiOeu4/365.ts
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="肥羊4K频道",TRT 4k-2
-http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=HRUNWEM0Q2
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="肥羊4K频道",TRT 4k-3
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484700
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="肥羊4K频道",TRT 4k备
+http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/141812
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/Digi_4K_29.png" group-title="肥羊4K频道",DIGI 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/Digi_4K_29.png" group-title="肥羊4K频道",DIGI 4k备
-http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=HRUNWEM0Q2
+http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/34585
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/56A2DFC4-1E3F-4950-A5B8-A027EFA55A8F.png" group-title="肥羊4K频道",Rai 4k
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484701
+http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/173531
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/56A2DFC4-1E3F-4950-A5B8-A027EFA55A8F.png" group-title="肥羊4K频道",Rai 4k备
 http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=HRUNWEM0Q2
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/F3B43183-0B32-4AD3-8AD6-A5CF7197B78A.png" group-title="肥羊4K频道",C4k360
@@ -189,57 +199,32 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="肥羊4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-name="CCTV-8K-组播AVS3源" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="肥羊8K频道",CCTV-8K-组播AVS3源
-http://182.138.154.241:8000/udp/239.93.42.61:5140
-#EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="肥羊8K频道",江苏8K测试
+#EXTINF:-1 tvg-name="CCTV-8K-组播AVS3源" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="肥羊4K频道",CCTV-8K-测试源
+http://74.119.193.113:8280/live/cctv8k/hls.m3u8
+#EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="肥羊4K频道",江苏8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="4K",BTV纪实科教 8K
-http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
-#EXTINF:-1 group-title="4K",CCTV16 4K 「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 group-title="4K",CCTV16 4K
-http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:-1 group-title="4K",咪咕 4K
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
-#EXTINF:-1 group-title="4K",河南卫视 4K 「IPV6」
-http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 group-title="4K",SiTV欢笑剧场4K 「IPV6」
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="4K",SiTV欢笑剧场4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
-#EXTINF:-1 group-title="4K",爱上4K 「IPV6」
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="4K",爱上4K 「IPV6」
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="4K",爱上4k
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="4K",4K超高清电影
-http://182.150.115.26:8091/custom28.m3u8
-#EXTINF:-1 group-title="4K",纯享4k
-http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K",纯享4k
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K",纯享4k
-http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="4K",影院4k
-http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="4K",斗鱼4k
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="4K",Bloomberg TV+ 4K
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="4K",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K",Love Nrture 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K",MUZZIK ZZ4000 4K
-http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-#EXTINF:-1 group-title="4K",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="IPV6·数字",凤凰中文「IPV6」
+#EXTINF:-1 group-title="肥羊4K频道",YOSSO TV 4K
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",минимакс-flip UHD
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/13057/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",SKY HIGH VHS UHD
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17058/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",SKY HIGH UHD HDR
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17059/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",SKY HIGH DANCE UHD
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14250/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",SKY HIGH DOC UHD
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17053/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",SKY HIGH NATURE 4K HDR
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14248/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",Liberty KINOENG  UHD
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",Liberty MARVEL 4K
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",Liberty Кино Микс 4K
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
+#EXTINF:-1 group-title="肥羊4K频道",Liberty Мульт 4K
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8#EXTINF:-1 group-title="IPV6·数字",凤凰中文「IPV6」
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="IPV6·数字",凤凰资讯「IPV6」
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178

@@ -218,19 +218,25 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
 BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+欢笑剧场4k百视通源,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K-25P-HLG源,http://lu1.cc/itv/php/cctv4k.php
-CCTV16-4K-SDR源,http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K25P-SDR-百事通源,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+CCTV16-4K25P-SDR-百视通源,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV16-4K25P-SDR源,http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
-北京BesTV-4K,http://beifeng.site:4000/udp/239.3.1.249:8001
+北京BesTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 4K影视,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
-芒果娱乐4K,http://74.119.193.113:8280/live/mgyl4k/hls.m3u8
+4K超高清电影,http://159.75.85.63:5681/sxg.php
 咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
 咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K-HLG源-1,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
@@ -238,20 +244,21 @@ CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaib
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 Astro Super Sport 4K-2,http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
-Astro Super Sport 4K-3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484698
+Astro Super Sport 4K-3,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
 BBC UHD,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 Quadro 4K,http://91.207.180.142/Quadro4K/index.m3u8
 Museum 4k,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
 Home 4k,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
 Heritage 4k,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
 V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
-V Sports UHD备,http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=HRUNWEM0Q2
+V Sports UHD备,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
 Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-Now Sports UHD HK备,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
-SuperSport 4k World CUP,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484694
+Now Sports UHD HK-1,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+Now Sports UHD HK-2,http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/149529
 BeIN Sports 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-Sky Sport UHD,http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=HRUNWEM0Q2
-TF1 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
+Sky Sport UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/290744.ts
+TF1 4K,http://pro.ipcover.tv:8080/baldefamily33300/baldefamily123497/152182
+TF1 4K备,http://cineapp.org:8000/zbigniew/zbigniew/166354
 CANAL+ UHD,http://cineapp.org:8000/zbigniew/zbigniew/166355
 CANAL+ LDC UHD,http://cineapp.org:8000/zbigniew/zbigniew/166356
 Evenement UHD,http://cineapp.org:8000/zbigniew/zbigniew/166357
@@ -277,16 +284,14 @@ DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
 MOVISTAR LIGA DE CAMPEONES UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/12401
 ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
 Eleven Sports 1 4K,http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
-Eleven Sports 1 4K备,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=HRUNWEM0Q2
+Eleven Sports 1 4K备,http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/154014
 Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 Матч 4k,http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=HRUNWEM0Q2
 TRT 4k,http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
-TRT 4k-1,http://toolsworldiptv.org:8080/live/geriHiOeu4sekxxxxx211/geriHiOeu4/365.ts
-TRT 4k-2,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=HRUNWEM0Q2
-TRT 4k-3,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484700
+TRT 4k备,http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/141812
 DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
-DIGI 4k备,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=HRUNWEM0Q2
-Rai 4k,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484701
+DIGI 4k备,http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/34585
+Rai 4k,http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/173531
 Rai 4k备,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=HRUNWEM0Q2
 C4k360,http://cdnx1.plusx.tv:8880/C4K360/mono.m3u8?token=cb776083b1e1b6f9bb2222
 TVP 4k,http://barebudget.h1ott.com:80/play/live.php?mac=00:1a:79:27:1f:ef&stream=1057230&extension=ts&play_token=FFHcEjJdsM
@@ -309,8 +314,19 @@ MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
-CCTV-8K-组播AVS3源,http://182.138.154.241:8000/udp/239.93.42.61:5140
+CCTV-8K-测试源,http://74.119.193.113:8280/live/cctv8k/hls.m3u8
 江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+YOSSO TV 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
+минимакс-flip UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/13057/index.m3u8
+SKY HIGH VHS UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17058/index.m3u8
+SKY HIGH UHD HDR,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17059/index.m3u8
+SKY HIGH DANCE UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14250/index.m3u8
+SKY HIGH DOC UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17053/index.m3u8
+SKY HIGH NATURE 4K HDR,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14248/index.m3u8
+Liberty KINOENG  UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8
+Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
+Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
+Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
 斗鱼,#genre# 
 斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
