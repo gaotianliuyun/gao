@@ -1,9 +1,9 @@
 {
 "spider": "./jar/cs.jar;md5;97ee205764c3c737804f48f97b3f7be6",
-"lives":[{"name":"综合一","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"},
-{"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"},
-{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"},
-{"name":"综合四","type":0,"url":"https://xn--m7r412advb92j21st65a.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"}],
+"lives":[{"name":"综合一","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"综合四","type":0,"url":"https://xn--m7r412advb92j21st65a.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper": "https://www.dmoe.cc/random.php",
 "rules":[{"host":"www.6080dy1.com","rule":["m3u8.php",".m3u8"]},
 {"host":"*","rule":["default.365yg.com"]},
