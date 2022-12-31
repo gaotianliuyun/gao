@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;945b391d7430796229f6d5309037abeb",
+  "spider": "./jar/custom_spider.jar;md5;945b391d7430796229f6d5309037abeb",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
