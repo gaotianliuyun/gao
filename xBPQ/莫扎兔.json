@@ -9,6 +9,7 @@
   
   "分类url": "https://www.mozhatu.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html",
   
+  "二次截取": "<div class=\"module-adslist&&<div id=\"page\">",
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "0",

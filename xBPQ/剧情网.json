@@ -1,0 +1,34 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "剧情网",
+  "主页url": "https://www.hzjcqc.com",
+  "倒序": "1",
+  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+  
+  "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi",
+  
+  "分类url": "https://www.hzjcqc.com/{cateId}/index______{catePg}.html",
+  
+  "数组": "<li class=\"col-md-6&&</li>",
+  "副标题":"text-right\">&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "/search/{wd}-1.html",
+  "搜索数组": "<li class=\"col-md-1&&</a>",
+
+  "搜索副标题": "text-right\">&&</span>",
+  
+  "影片年代": "年代：&&</li>",
+  "影片地区": "地区：&&</li>",
+  "影片类型": "类型：&&</li>",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "vod-content\">&&</div>",
+  
+  "线路数组": "<a id=\"#con_playlist_&&/a>",
+  "线路标题": ">&&<[排序:优酷视频>芒果TV>腾讯视频>奇艺视频>土豆视频>乐视视频>华数视频>tkm3u8>bjm3u8>hnm3u8>bdxm3u8>wjm3u8>ukm3u8>sdm3u8]",
+  
+  "播放数组": "<ul class=\"play-list&&</ul>",
+  "播放列表": "<a&&/a>",
+  "播放标题": ">&&<"
+}

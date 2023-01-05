@@ -7,6 +7,7 @@
   
   "分类url": "https://www.jurenm.com/show/{cateId}{area}{by}/page/{catePg}{year}.html",
   
+  "数组": "<li class=\"hl-list-item&&</li>",
   "副标题": "remarks\">&&</span>",
   
   "搜索模式": "1",
