@@ -2,7 +2,7 @@
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./json/chuqiuyu.json"},
-{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
+//{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./json/alist.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
 {"key":"纸条","name":"阿里 | 纸条","type":3,"api":"csp_Paper","ext":"./lib/token.txt"},
