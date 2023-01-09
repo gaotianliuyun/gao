@@ -1,10 +1,6 @@
 {
   "drives": [
     {
-      "name": "歐逼",
-      "server": "https://alistcn.repl.co"
-    },
-    {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
@@ -19,10 +15,6 @@
     {
       "name": "星夢",
       "server": "https://pan.bashroot.top"
-    },
-    {
-      "name": "晴園",
-      "server": "https://alist.52qy.repl.co"
     },
     {
       "name": "梓澪",
@@ -45,10 +37,6 @@
       "server": "https://al.chirmyram.com"
     },
     {
-      "name": "浩瀚吧",
-      "server": "https://8023.haohanba.cn"
-    },
-    {
       "name": "雲播放",
       "server": "https://quanzi.laoxianghuijia.cn"
     },
@@ -63,10 +51,6 @@
     {
       "name": "資源小站",
       "server": "https://960303.xyz"
-    },
-    {
-      "name": "DISK",
-      "server": "http://124.222.140.243:8080"
     }
   ]
 }

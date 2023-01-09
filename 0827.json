@@ -1,18 +1,11 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;279424aa7be0e38dbd884daf8913c1d4",
+  "spider": "./jar/custom_spider.jar;md5;e200bfe02aff07b4b4e789dbdb0d15aa",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "直播",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "測試",
       "type": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "url": "./json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
     }
@@ -123,7 +116,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
       "key": "易搜",
@@ -132,7 +125,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
       "key": "盤搜",
@@ -141,7 +134,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
       "key": "UP雲搜",
@@ -150,7 +143,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
       "key": "找資源",
@@ -159,7 +152,16 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://我不是.肥猫.love:63/token.php"
+    },
+    {
+      "key": "Live",
+      "name": "直播",
+      "type": 3,
+      "api": "csp_Live",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "2000"
     },
     {
       "key": "push_agent",
@@ -168,7 +170,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://我不是.肥猫.love:63/token.php"
     }
   ]
 }

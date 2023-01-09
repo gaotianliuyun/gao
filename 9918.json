@@ -1,5 +1,5 @@
 {
-"spider":"./jar/custom_spider.jar;md5;279424aa7be0e38dbd884daf8913c1d4",
+"spider":"./jar/custom_spider.jar;md5;e200bfe02aff07b4b4e789dbdb0d15aa",
 "lives":[{"name":"节目线路一","type":0,"url":"./listx.txt"},
 {"name":"节目线路二","type":0,"url":"./listx.m3u"}],
 "wallpaper":"https://gao.chuqiuyu.tk",
@@ -100,4 +100,4 @@
 {"key":"caiji.caomeiapi.com","name":"成人63","type":1,"api":"https://caiji.caomeiapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
 {"key":"caiji.naichaapi.com","name":"成人64","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
 {"key":"api.apilyzy.com","name":"成人65","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"}]}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"}]}
