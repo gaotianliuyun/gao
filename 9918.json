@@ -1,5 +1,5 @@
 {
-"spider":"./jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb",
+"spider":"./jar/custom_spider.jar;md5;279424aa7be0e38dbd884daf8913c1d4",
 "lives":[{"name":"节目线路一","type":0,"url":"./listx.txt"},
 {"name":"节目线路二","type":0,"url":"./listx.m3u"}],
 "wallpaper":"https://gao.chuqiuyu.tk",
