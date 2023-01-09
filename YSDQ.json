@@ -1,6 +1,7 @@
 {
 "Alist":{
 "小兵":"https://6vv.app",
+"歐逼":"https://alistcn.repl.co",
 "小雅":"http://alist.xiaoya.pro",
 "杜比":"https://dubi.tk",
 "帥鵬":"https://hi.shuaipeng.wang",
@@ -53,6 +54,12 @@
           "erro":"解析失败"
           }
     ],
+    "YSDQ": {
+        "thlimit": 5, 
+        "speedLimit":"512K",
+        "searchList":"qq,ik,bw,ld,bb,ps,ys,zzy,xzt",
+        "ocrurl": "https://api.nn.ci/ocr/b64/text"
+    },
     "Zhaozy": {
         "username": "Unbaked4136", 
         "password": "4hzxQkB9yxX5EP"
