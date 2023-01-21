@@ -4,7 +4,6 @@
     {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
     {"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
     {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
-    {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
     {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
     {"key":"Smdyy","name":"神马","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"16705ee9f4764be8499806f52d4bf1e7"},
     {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
@@ -55,5 +54,5 @@
 
   "ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "./jar/cs.jar;md5;6a9c7cc928036c39dba1ff98400ffa52"
+  "spider": "./jar/cs.jar;md5;a5e5361e0955fa99715b720aa13a5fce"
 }
