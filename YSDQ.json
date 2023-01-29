@@ -24,25 +24,19 @@
 },
     "QiQi":[ 
         {
-          "jx":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=",
+          "jx":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+          "jxfrom":"other",
+          "gs":"data,url",
+          "erro":""
+          },
+        {
+          "jx":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=",
           "jxfrom":"other",
           "gs":"data,url",
           "erro":""
           },
         {
           "jx":"http://91fanli.top/m3u8/?url=",
-          "jxfrom":"other",
-          "gs":"data,url",
-          "erro":""
-          },
-        {
-          "jx":"https://www.playm3u8.cn/jiexi.php?url=",
-          "jxfrom":"other",
-          "gs":"data,url",
-          "erro":""
-          },
-        {
-          "jx":"https://www.pangujiexi.cc/jiexi.php?url=",
           "jxfrom":"other",
           "gs":"data,url",
           "erro":""
@@ -56,9 +50,20 @@
     ],
     "YSDQ": {
         "thlimit": 5, 
-        "speedLimit":"512K",
         "searchList":"qq,ik,bw,ld,bb,ps,ys,zzy,xzt",
-        "ocrurl": "https://api.nn.ci/ocr/b64/text"
+        "speedLimit":"1K",
+        "disableIPV6":"yes",
+        "ocrurl": "https://api.nn.ci/ocr/b64/text", 
+        "T4api": [
+          {
+            "name":"桉", 
+            "api":"https://t4.secan.icu/vod?sites=all"
+            }, 
+            {
+              "name":"饭太硬", 
+              "api":"https://t4.饭太硬.ml/vod"      
+            }
+        ]
     },
     "Zhaozy": {
         "username": "Unbaked4136", 
