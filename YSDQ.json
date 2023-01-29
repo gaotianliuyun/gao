@@ -56,8 +56,8 @@
         "ocrurl": "https://api.nn.ci/ocr/b64/text", 
         "T4api": [
           {
-            "name":"桉", 
-            "api":"https://t4.secan.icu/vod?sites=all"
+            "name":"tuji-2015", 
+            "api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt"
             }, 
             {
               "name":"饭太硬", 

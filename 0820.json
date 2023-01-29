@@ -58,7 +58,7 @@
 {"key":"csp_Nbys","name":"泥视频┃墙外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"唐人街┃墙外","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"t4public","name":"豆瓣T4","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban","name":"T4聚合","type":4,"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xuexi","name":"学习园地","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","filterable":"1","ext":"./json/bili.json"},
 {"key":"Bili","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/chuqiuyu.json"},
 {"key":"Alist","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
