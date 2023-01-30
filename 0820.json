@@ -1,9 +1,6 @@
 
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/jingzz1/gao/master/jar/xo.jar;md5;7752af3c1172ecb63c2d077fd017d0c3",
-"lives":[ {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"综合四","type":0,"url":"https://xn--m7r412advb92j21st65a.tk/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-  ],
+ "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=suiji",
 "rules":[{"host":"www.6080dy1.com","rule":["m3u8.php",".m3u8"]},
 {"host":"*","rule":["default.365yg.com"]},
