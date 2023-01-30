@@ -2,8 +2,15 @@
 {
 "spider":"./jar/xo.txt;md5;dce4a45660b1e61b6f02113cbab13e16",
 "wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
-
+ "lives": [
+    {
+      "name": "直播",
+      "type": 1,
+      "url": "./json/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
+    }
+  ],
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/json/alist.json"},
