@@ -5,7 +5,7 @@
       "type": 1,
       "url": "./json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
+      "logo": "http://epg.51zmt.top:8000/{logo}" 
     }
   ],
  "wallpaper":"http://api.btstu.cn/sjbz/?lx=suiji",
