@@ -19,10 +19,6 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
    
    （9）xBPQ.json  纯xBPQ源，jar包和配置来源于菜妮丝；
    
-   （10）1.json  测试用的配置，慎用；
-   
-   （11）9918.json  nsfw的源，慎用，jar的来源fongmi的jar包。
-   
    APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ），直播多线路适用于FongMi版。
 2. TVBox各路大佬配置（排名不分先后）：
     
