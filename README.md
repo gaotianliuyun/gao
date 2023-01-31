@@ -1,4 +1,4 @@
-tvbox & diyp & kodi 配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 1. tvbox配置：
    
    （1）0820.json  较全面的源，jar的来源于WEWA（饭太硬）的jar包；
@@ -24,27 +24,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自于各路大神无私分
    （11）9918.json  nsfw的源，慎用，jar的来源fongmi的jar包。
    
    APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ），直播多线路适用于FongMi版。
-2. diyp配置：
-
-   （1）list.txt  线路一；
-   
-   （2）iptv.txt  线路二；
-   
-   （3）live.txt  线路三。
-   
-   以上配置原名称为绿色直播源；****x.txt为nsfw直播源，慎用；****xx.txt为测试用直播源，慎用。
-3. kodi插件及配置：
-
-   （1）plugin.video.ysdq.zip  kodi插件 影视大全by小明；
-   
-   （2）plugin.video.ysdqg.zip  kodi插件 影视大全（改）by霜辉月明;
-
-   （3）YSDQ.json  影视大全（改）的配置文件;
-   
-   （4）list.m3u  PVR IPTV Simple 直播源，绿色源;
-   
-   （5）listx.m3u  PVR IPTV Simple 直播源，nsfw源，慎用。
-4. TVBox各路大佬配置（排名不分先后）：
+2. TVBox各路大佬配置（排名不分先后）：
     
    （1）唐三：https://hutool.ml/tang
    
@@ -95,7 +75,7 @@ tvbox & diyp & kodi 配置文件。所有资源均来自于各路大神无私分
    （24）肥猫：http://我不是.肥猫.love:63
    
    （25）免费解析：https://jx.mfjx.tk/tvbox.json
-5. 随机轮换壁纸：
+3. 随机轮换壁纸：
 
    （1）https://bing.img.run/rand.php
    
