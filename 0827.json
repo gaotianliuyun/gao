@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;d5d77424e72a6ade93621611b1114875",
+  "spider": "./jar/custom_spider.jar;md5;85addabeb829c5815cdf69f9173b6e65",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -165,7 +165,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"
     },
     {
       "key": "Live",
