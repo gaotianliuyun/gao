@@ -45,7 +45,6 @@ XXX ADULT VOD 4K (15),http://1x.avrupatv.xyz:8080/movie/Murat3434/Ilker34/50749.
 森林02-欺骗,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jm/jr/pg/bh/03dd6e239b5c40ceb3b156344a64b372.m3u8?
 森林03-碎裂,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/si/p3/76/69/ff14c7c54f1143ddaacac8810fdb8e90.m3u8?
 森林04-吴可玖瑶(终),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qy/fi/ih/p7/dd522f6b3bd64097ba0e4350b9e65e1c.m3u8?
-蛇喰夢子的隕落,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/qy/yi/94/89/6dc3c8cb9112436682a5af22588f52a0.m3u8?
 HongKong Doll 1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/18/za/32/me/2a7f84f6b6094f73b46d5aac8996adc4.m3u8?
 HongKong Doll 2,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/nv/qc/v3/e1/63956cf8d598483198abca8e23dc9be2.m3u8?
 HongKong Doll 3,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/3y/61/o9/nw/7af144c612634d309ed0ac1ea790ca84.m3u8?
@@ -80,31 +79,6 @@ ASMR姐姐的梦境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/k
 竖屏-写真短片「晨」,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8?
 竖屏-碎花内衣自慰,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/69/jb/bi/fw/20126e7e0a12462b918d967cf87b8bda.m3u8?
 竖屏-公共场合,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8?
-
-AdultIPTV,#genre#
-AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8#2af289e061a8898c902093820245a7457af527a72df8a638283440b23faa6ea5
-AdultIPTV.net Gangbang,http://live.redtraffic.net/gangbang.m3u8#f35ce576bc7a89657a2dd33ec7befb248fbde69dca878adab710ead1bf5be37b
-AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8#52a8871d7c1182aa49c3891a2ef29cbf86ddb5ae17aa9638ea2abc833b693c27
-AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8#9a99613488874be955b63b940089d9245bb2621350e8875a0dc591e0416c64d7
-AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8#94e235d0a02d723e754712572d3a1bf20fc2d965db8701b5e6d14942251976bf
-AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8#38bc9bc22d231a73f7469c9a69675c5cb990e597738eb4fd6d512e762d9b48e7
-Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8#d8fafb7c26653ba6af35fbf7f3805c67441228d269533bd29a4c65b05f092129
-Rouge TV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8#bb71b1dbe2b5f15201aa82a0131172542ceb72f38f48e3eb659084b64c1b4783
-AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8#7eca377df38e9515d3ae196b7db51661b2fb9298d5a63a225bf586c30989c44f
-Miami TV Jenny 2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8#3e5d547499a22d612359bc6dafe1d537e01d4e77ab7ef45e3a4b2a81efde3911
-AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8#0dc2b068052de44a13d921c54a4ee04f3c712c981e4889496d78b21e4c66ad8e
-AdultIPTV.net Threesome,http://live.redtraffic.xyz/threesome.m3u8#b940f898043f5dd1910b72813707ec6e15f2afc5f4475cd49fbc84cbd3348d28
-AdultIPTV.net Big Tits,http://live.redtraffic.xyz/bigtits.m3u8#d530a8ee85516fb4d9b59e229015a9d43a3cdcf70f1dd27699db80318eaa011a
-AdultIPTV.net Hardcore,http://live.redtraffic.xyz/hardcore.m3u8#af3dece40c60d456c87553e823f086d9485cbfc8de92bfa4d6c5674a7ee8985d
-AdultIPTV.net Big Dick,http://live.redtraffic.xyz/bigdick.m3u8#a2f177ba38cafd78d2965bb50f00fbbe74c32fbbfdaf81fd497d2070164b7370
-AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8#380c10bcc4fe5325ff4eb00cb533bf307b3b97111eea02f3a79b3cf2deb64348
-AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8#d123adaca17e07abeee12d736914ec4ab8fd773cd6aaa811a7633c3d6a024c3d
-AdultIPTV.net Lesbian,http://live.redtraffic.xyz/lesbian.m3u8#f1715810cd3a8eabc45d557579f16de2cbbcd8b4f299b9e187857c0ca98c0f86
-AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8#18703e689138bea23ac94157fb81ed44c0a6ed4e2ea09aec47f55846917ba635
-AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8#d02b76c4116af9e41f629d2c9a8ff2213093f24563e326e477a697414b393936
-Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8#eaf540361e5ef4f6a734933ce1514f463e530800a9dd9c7a2fbfdfd3c9cd091b
-FashionTV Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8#1b672a34e458be906611b7c583b55bbd50948e42a73fbca0e8dde44091adc799
-FashionTV Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8#67991c52d2e35da12380bc71b6d861978eb7ce8711ae0e58c85e5bed9ea01df0
 
 日本,#genre#
 ssni-895新名,https://t5s.cdn2020.com/video/m3u8/2020/10/24/47f23b08/index.m3u8
@@ -714,10 +688,6 @@ XMOM-18遥绫音,https://siwazywcdn2.com:5278/zhongwenzimu/U75r8Hdp/index.m3u8
 XVSR-586逢见莉香,https://siwazywcdn2.com:5278/zhongwenzimu/BS2qJGta/index.m3u8
 
 AdultI成人,#genre#
-AdultIPTV.netGangbang,http://live.redtraffic.net/gangbang.m3u8
-RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-MiamiTVJenny2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 A teen with a mature,http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
 Adriana Malao,http://ovhv39.twincdn.com/videos/12/12570/12570_720p.mp4
 ADULTTiny 4K - VOD 05,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
@@ -914,6 +884,29 @@ xxx video 7,http://nvid101.cdnii.com/2021/1/20211313-720p.mp4
 xxx video 8,http://nvid101.cdnii.com/2020/1/20201586-720p.mp4
 
 18直播,#genre#
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8#2af289e061a8898c902093820245a7457af527a72df8a638283440b23faa6ea5
+Gangbang,http://live.redtraffic.net/gangbang.m3u8#f35ce576bc7a89657a2dd33ec7befb248fbde69dca878adab710ead1bf5be37b
+Compilation,http://cdn.adultiptv.net/compilation.m3u8#52a8871d7c1182aa49c3891a2ef29cbf86ddb5ae17aa9638ea2abc833b693c27
+Brunette,http://cdn.adultiptv.net/brunette.m3u8#9a99613488874be955b63b940089d9245bb2621350e8875a0dc591e0416c64d7
+Rough,http://cdn.adultiptv.net/rough.m3u8#94e235d0a02d723e754712572d3a1bf20fc2d965db8701b5e6d14942251976bf
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8#38bc9bc22d231a73f7469c9a69675c5cb990e597738eb4fd6d512e762d9b48e7
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8#d8fafb7c26653ba6af35fbf7f3805c67441228d269533bd29a4c65b05f092129
+Rouge TV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8#bb71b1dbe2b5f15201aa82a0131172542ceb72f38f48e3eb659084b64c1b4783
+Gay,http://cdn.adultiptv.net/gay.m3u8#7eca377df38e9515d3ae196b7db51661b2fb9298d5a63a225bf586c30989c44f
+Miami TV Jenny 2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8#3e5d547499a22d612359bc6dafe1d537e01d4e77ab7ef45e3a4b2a81efde3911
+Teen,http://cdn.adultiptv.net/teen.m3u8#0dc2b068052de44a13d921c54a4ee04f3c712c981e4889496d78b21e4c66ad8e
+Threesome,http://live.redtraffic.xyz/threesome.m3u8#b940f898043f5dd1910b72813707ec6e15f2afc5f4475cd49fbc84cbd3348d28
+Big Tits,http://live.redtraffic.xyz/bigtits.m3u8#d530a8ee85516fb4d9b59e229015a9d43a3cdcf70f1dd27699db80318eaa011a
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8#af3dece40c60d456c87553e823f086d9485cbfc8de92bfa4d6c5674a7ee8985d
+Big Dick,http://live.redtraffic.xyz/bigdick.m3u8#a2f177ba38cafd78d2965bb50f00fbbe74c32fbbfdaf81fd497d2070164b7370
+Big Ass,http://cdn.adultiptv.net/bigass.m3u8#380c10bcc4fe5325ff4eb00cb533bf307b3b97111eea02f3a79b3cf2deb64348
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8#d123adaca17e07abeee12d736914ec4ab8fd773cd6aaa811a7633c3d6a024c3d
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8#f1715810cd3a8eabc45d557579f16de2cbbcd8b4f299b9e187857c0ca98c0f86
+POV,http://cdn.adultiptv.net/pov.m3u8#18703e689138bea23ac94157fb81ed44c0a6ed4e2ea09aec47f55846917ba635
+Fetish,http://cdn.adultiptv.net/fetish.m3u8#d02b76c4116af9e41f629d2c9a8ff2213093f24563e326e477a697414b393936
+Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8#eaf540361e5ef4f6a734933ce1514f463e530800a9dd9c7a2fbfdfd3c9cd091b
+FashionTV Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8#1b672a34e458be906611b7c583b55bbd50948e42a73fbca0e8dde44091adc799
+FashionTV Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8#67991c52d2e35da12380bc71b6d861978eb7ce8711ae0e58c85e5bed9ea01df0
 Anal,http://live.redtraffic.xyz/anal.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
 Asian,http://live.redtraffic.xyz/asian.m3u8
@@ -925,7 +918,7 @@ BigTits,http://live.redtraffic.xyz/bigtits.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 Blonde,http://live.redtraffic.xyz/blonde.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-BLOWJOB,http://live.redtraffic.xyz/blowjob.m3u8
+Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
 BlueHustler,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/1064/index.m3u8
 BrazzerseXXtra,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6181/index.m3u8
 BrazzersHD,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6182/index.m3u8
@@ -940,8 +933,9 @@ DDFNetwork,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6194/index.m3u8
 EROX,http://94.229.250.73:8008/play/a002
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 Fetish,http://cdn.adultiptv.net/fetish.m3u8
-FETISH,http://live.redtraffic.xyz/fetish.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8
 Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
+Gangbang,http://live.redtraffic.net/gangbang.m3u8
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Gay,http://live.redtraffic.xyz/gay.m3u8
 Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
@@ -994,7 +988,7 @@ Russian,http://live.redtraffic.xyz:80/russian.m3u8
 SextoSenso,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/875/index.m3u8
 ShemaleTubeTV2HD,https://www.ast.tv/stream/2/master.m3u8
 Teen,http://cdn.adultiptv.net/teen.m3u8
-TEEN,http://live.redtraffic.xyz/teen.m3u8
+Teen,http://live.redtraffic.xyz/teen.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 НюартTV,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/2057/index.m3u8
 РусскаяНочь,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/147/index.m3u8
@@ -1034,3 +1028,6 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 潘朵拉歐美版,http://live.redtraffic.xyz:80/pornstar.m3u8
 爆乳720,http://cdn.adultiptv.net/bigtits.m3u8
 驚豔台歐美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+RougeTV,http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+MiamiTVJenny2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
