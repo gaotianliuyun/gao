@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;4971e3aee0e802323001771e44bb1a87",
+{"spider": "./jar/custom_spider.jar;md5;e5b681f675bb3bde7f94196f60235829",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
