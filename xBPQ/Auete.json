@@ -2,21 +2,18 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "Auete",
   "主页url": "https://auete.com",
-  "起始页": "2",
   
-  "分类": "电影&电视剧&综艺&动漫&其他",
-  "分类值": "Movie&Tv&Zy&Dm&qita",
+  "分类": "电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita",
   
-  "分类url": "https://auete.com/{cateId}{class}/index{catePg}.html",
+  "分类url": "https://auete.com/{cateId}{class}/index{catePg}.html[https://auete.com/{cateId}/index.html]",
   
   "数组": "<li class=\"trans_3&&/button>",
-
   "副标题": "hdtag\">&&<",
   
   "搜索模式": "1",
-  "搜索url": "/search.php?searchword={wd}",
+  "搜索url": "/aueteso.php?searchword={wd}",
   "搜索数组": "mb-0\">&&</a>",
-  "搜索图片": "https://cainisi.cf/暂无封面.jpg",
+  "搜索图片": "空",
   "搜索标题": "text-danger\">&&<",
   "搜索链接": "data-href=\"&&\"",
   

@@ -3,16 +3,17 @@
   "站名": "APP影院",
   "主页url": "https://www.appmovie.cc",
   
-  "分类": "连续剧&电影&综艺&动漫",
-  "分类值": "2&1&3&4",
+  "分类": "连续剧$2#电影$1#综艺$3#动漫$4",
   
   "分类url": "https://www.appmovie.cc/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   
   "数组": "stui-vodlist__item\">&&</a>",
   "副标题": "text-right\">&&</span>",
   
-  "搜索模式": "0",
-  "搜索后缀": "/index.php/vod/detail/id/",
+  "搜索模式": "1",
+  "搜索url": "/index.php/vod/search/page/1/wd/{wd}.html",
+  "搜索数组": "stui-vodlist__item\">&&</a>",
+  "搜索副标题": "text-right\">&&</span>",
   
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",

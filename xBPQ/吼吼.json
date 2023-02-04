@@ -9,6 +9,7 @@
   "分类url": "https://hoho.tv/vod/show/{cateId}{area}{class}/page/{catePg}{year}.html",
   
   "数组": "module-item\">&&module-item-titlebox\">",
+  "标题": "title=\"&&\"[替换:在线上看>>空]",
   "副标题": "module-item-caption\">&&</div>",
   
   "搜索模式": "1",
