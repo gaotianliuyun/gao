@@ -1,0 +1,55 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "冷曦影视",
+  "主页url": "https://www.lenxitv.cc",
+  
+  "分类": "电影&电视剧&综艺&动漫",
+  "分类值": "movie&tv&zongyi&dongman",
+  
+  "分类url": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html",
+  
+  "数组": "<li class=\"fed-list-item&&</li>",
+  "图片": "data-original=\"&&\"",
+  "标题": "a>&&</a>",
+  "链接": "href=\"&&\"",
+  "副标题": "fed-text-center\">&&</span>",
+  
+  "搜索模式": "0",
+  "搜索后缀": "/v/",
+  
+  "影片年代": "年份：&&</li>",
+  "影片地区": "地区：&&</li>",
+  "影片类型": "分类：&&</li>",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "剧情介绍</a>：&&<a href=\"",
+  
+  "线路二次截取": "播放不了请刷新或在下方切换线路&&</ul>",
+  "线路数组": "fed-col-md2\">&&</li>",
+  "线路标题": "\">&&</a>",
+  
+  "播放数组": "播放集数&&</div>",
+  
+  "筛选":{
+"movie":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"movie"},
+  {"n":"动作片","v":"dongzuopian"},
+  {"n":"喜剧片","v":"xijupian"},
+  {"n":"爱情片","v":"aiqingpian"},
+  {"n":"科幻片","v":"kehuanpian"},
+  {"n":"恐怖片","v":"kongbupian"},
+  {"n":"剧情片","v":"juqingpian"},
+  {"n":"战争片","v":"zhanzhengpian"},
+  {"n":"纪录片","v":"jilupian"},
+  {"n":"微电影","v":"weidianying"}]}],
+  
+"tv":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"tv"},
+  {"n":"国产剧","v":"guochanju"},
+  {"n":"港台剧","v":"gangtaiju"},
+  {"n":"日韩剧","v":"rihanju"},
+  {"n":"欧美剧","v":"oumeiju"},
+  {"n":"泰国剧","v":"taiguoju"}]}]}
+}

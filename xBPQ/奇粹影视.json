@@ -1,0 +1,10 @@
+
+{
+"分类url":"http://www.blssv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+"数组":"class=\"module-item-pic&&</div>",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
+"分类":"电影$20#连续剧$21#动漫$22#海外$23#综艺$24",
+"播放数组":"class=\"scroll-content&&</div>",
+"搜索后缀":"/vod/detail/id/"
+}

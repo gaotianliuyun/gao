@@ -1,7 +1,0 @@
-{
-	"免嗅": "1",
-	"播放标题": "span>&&<",
-	"播放数组": "class=\"module-play-list-content&&</div>",
-	"分类": "电影$1#电视剧$2#综艺$3#动漫$4#少儿$20#纪录片$21",
-	"分类url": "https://guapitv.xyz/list-{cateId}/page/{catePg}---.html"
-}

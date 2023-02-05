@@ -1,21 +1,16 @@
-
-var rule={
+var rule = {
     title:'RP影视',
-    host:'https://mac.rp123.top',
-    url:'/vodshow/fyclass--------fypage---/',
-    searchUrl:'/vodsearch/**----------fypage---/',
-    searchable:2,
-    quickSearch:0,
-    filterable:0,
+    host:'https://mac.rp123.top', 
+    url:'/vodshow/fyclass--hits------fypage---/',
+    searchUrl:'/vodsearch/-------------/?wd=**',
+    searchable:2,//是否启用全局搜索,
+    quickSearch:0,//是否启用快速搜索,
+    filterable:0,//是否启用分类筛选,
     headers:{'User-Agent':'MOBILE_UA',},
     class_name:'电影&电视剧&综艺&动漫&纪录片&4K专区',
     class_url:'1&2&3&4&35&40',
- play_parse:true,
-    lazy:'',
-    limit:6,
-    推荐:'.tab-list.active;a.module-poster-item.module-item;.module-poster-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href',
-    double:true, // 推荐内容是否双层定位
-    一级:'body a.module-poster-item.module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
-    二级:{"title":"h1&&Text;.module-info-tag&&Text","img":".lazyload&&data-original","desc":".module-info-item:eq(1)&&Text;.module-info-item:eq(2)&&Text;.module-info-item:eq(3)&&Text","content":".module-info-introduction&&Text","tabs":".module-tab-item.tab-item","lists":".module-play-list:eq(#id) a"},
-    搜索:'body .module-item;.module-card-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href;.module-info-item-content&&Text',
+    推荐:'.module-poster-item;*;*;*;*',
+    一级:'.module-poster-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+    二级:{"title":"h1&&Text;.module-info-tag-link a&&Text","img":".alignnone&&src","desc":";;;.module-info-items div:eq(4) a&&Text;.module-info-items div:eq(3) a&&Text","content":".show-desc&&Text","tabs":".module-tab-items-box span","lists":".module-play-list:eq(#id) a"},
+    搜索:'.module-card-item-poster;img&&alt;.lazyload&&data-original;.module-item-note&&Text;a&&href',
 }

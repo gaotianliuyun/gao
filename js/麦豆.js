@@ -15,8 +15,8 @@ var rule={
     play_parse:true,
     lazy:'',
     limit:6,
-    推荐:'.myui-panel_bd;&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
-    double:true, // 推荐内容是否双层定位
+    推荐:'.myui-vodlist&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+    // double:true, // 推荐内容是否双层定位
     一级:'.myui-vodlist&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
     二级:{"title":"h1&&Text;.module-info-tag&&Text","img":".lazyload&&data-original","desc":".data:eq(1)&&Text;.data:eq(2)&&Text;.data:eq(3)&&Text;.data:eq(4)&&Text;.data:eq(5)&&Text","content":".sketch&&Text","tabs":".nav&&li","lists":".myui-content__list:eq(#id) li"},
     搜索:'',

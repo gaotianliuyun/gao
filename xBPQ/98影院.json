@@ -1,0 +1,52 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "98影院",
+  "主页url": "http://www.98yyw.com",
+  "起始页": "2",
+  
+  "分类": "电影&电视剧&综艺&动漫",
+  "分类值": "dianyingpian&dianshiju&zongyi&dongman",
+  
+  "分类url": "http://www.98yyw.com/{cateId}/index{catePg}.html",
+  
+  "副标题": "text-right\">&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "/search.php?page=1&searchword={wd}",
+  "搜索二次截取": "stui-pannel_bd\">&&</ul>",
+  "搜索数组": "class=\"thumb\">&&</a>",
+  "搜索副标题": "text-right\">&&</span>",
+  
+  "影片年代": "年份：&&</p>",
+  "影片地区": "地区：&&<span",
+  "影片类型": "类型：&&<span",
+  "导演": "导演：&&</p>",
+  "主演": "主演：&&</p>",
+  "简介": "<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+  
+  "线路数组": "playlist\">&&/h3>",
+  "线路标题": "<img src=*>&&<",
+  
+  "播放数组": "<ul class=\"stui-content&&</ul>",
+  
+  "筛选":{
+"dianyingpian":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"dianyingpian"},
+  {"n":"动作片","v":"dongzuopian"},
+  {"n":"爱情片","v":"aiqingpian"},
+  {"n":"科幻片","v":"kehuanpian"},
+  {"n":"恐怖片","v":"kongbupian"},
+  {"n":"战争片","v":"zhanzhengpian"},
+  {"n":"喜剧片","v":"xijupian"},
+  {"n":"纪录片","v":"jilupian"},
+  {"n":"剧情片","v":"juqingpian"}]}],
+  
+"dianshiju":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"dianshiju"},
+  {"n":"国产剧","v":"guocanju"},
+  {"n":"港台剧","v":"gangtaiju"},
+  {"n":"欧美剧","v":"oumeiju"},
+  {"n":"日韩剧","v":"rihanju"}]}]}
+}
