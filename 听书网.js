@@ -1,0 +1,27 @@
+var rule = {
+    title:'听书网',
+    host:'https://www.tingbook.cc',
+    // url:'/book/fyclass_fypage.html',
+    url:'/book/fyclass-fypage.html',
+    searchUrl:'/search.php?page=fypage&searchword=**&searchtype=-1',
+    searchable:2,
+    quickSearch:0,
+    headers:{
+        'User-Agent':'MOBILE_UA'
+    },
+    timeout:5000,
+    // class_name:'玄幻&武侠&都市&言情&科幻&推理&恐怖&惊悚&历史&军事&网游&官商&评书&相声&文学&儿童&穿越&娱乐&笑话&戏曲&其它&百家讲坛',
+    // class_url:'1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&28&29&30&31&32&33',
+    class_parse:'.nav li;a&&Text;a&&href;/book/(\\d+).html',
+    play_parse:true,
+    lazy:'',
+    limit:6,
+    double:true,
+    // 推荐:'.row2;ul&&li;.f-bold&&Text;.img-box&&img;.f-gray&&Text;a&&href',
+    推荐:'.row2;ul&&li;.f-bold&&Text;.img-box img&&src;.f-gray&&Text;a&&href',
+    // 一级:'.row3&&li;.f-bold&&Text;img-box&&img;.f-gray&&Text;a&&href',
+    一级:'.row3&&li;.f-bold&&Text;.img-box img&&src;.f-gray&&Text;a&&href',
+    // 二级:{title:'h2&&Text',img:'.img-box&&img',desc:'section&&p:eq(1)&&Text',content:'section&&p:eq(2)&&Text',tabs:'#yuedu&&h2',lists:'#yuedu:eq(#id)&&ul&&li'},
+    二级:{title:'h2&&Text',img:'.img-box img&&src',desc:'section&&p:eq(1)&&Text',content:'section&&p:eq(2)&&Text',tabs:'#yuedu&&h2',lists:'#yuedu:eq(#id)&&ul&&li'},
+    搜索:'*',
+}
