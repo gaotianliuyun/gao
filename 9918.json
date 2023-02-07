@@ -1,5 +1,5 @@
 {
-"spider": "./jar/custom_spider.jar;md5;e5b681f675bb3bde7f94196f60235829",
+"spider": "./jar/custom_spider.jar;md5;4f59dbb5aa3eebcfebd3df5d216d83a8",
 "lives":[{"name":"节目线路一","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
 {"name":"节目线路二","type":0,"url":"./listx.txt"},
 {"name":"节目线路三","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"}],
