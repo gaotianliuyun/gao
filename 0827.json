@@ -125,7 +125,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "易搜",
@@ -135,7 +135,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "盤搜",
@@ -145,7 +145,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "UP雲搜",
@@ -155,7 +155,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "找資源",
@@ -165,7 +165,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "Live",
@@ -185,7 +185,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "http://我不是.肥猫.love:63/token.php"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ]
 }
