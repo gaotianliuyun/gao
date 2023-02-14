@@ -1,6 +1,6 @@
 {
 //jar
-"spider":"./jar/XBPQ0111.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5",
+"spider":"./jar/panda230203.jar;md5;ee39d6223759e1b9683efd45d15f9134",
 
 //壁纸
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -56,6 +56,7 @@
 //{"key":"打驴动漫","name":"打驴动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/打驴动漫.json"},
 {"key":"奇优影院","name":"奇优影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/奇优影院.json"},
 //{"key":"98影院","name":"98影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/98影院.json"},
+{"key":"布蕾影视","name":"布蕾影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/布蕾影视.json"},
 
 
 //{"key":"csp_xBPQ_影视工场","name":"影视工场","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/影视工场.json"},
@@ -80,13 +81,15 @@
 //{"key":"csp_xBPQ_巨人影院","name":"巨人影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/巨人影院.json"},
 {"key":"霹雳影视","name":"霹雳影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/霹雳影视.json"},
 {"key":"万博剧院","name":"万博剧院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/万博剧院.json"},
-{"key":"剧情网","name":"剧情网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/剧情网.json"},
+//{"key":"剧情网","name":"剧情网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/剧情网.json"},
 //{"key":"佑尘云影视","name":"佑尘云影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/佑尘云影视.json"},
 {"key":"8K影视","name":"8K影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/8K影视.json"},
+//{"key":"测试","name":"测试","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/测试.json"},
 
 
 {"key":"csp_xBPQ_短视频","name":"短视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/短视频.json"},
 //{"key":"csp_xBPQ_电视直播","name":"电视直播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/电视直播.json"},
+//{"key":"push_agent","name":"▶┃推送┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/toｋen.php"},
 
 {"key":"公告","name":"——————————","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"说明1","name":"菜妮丝","type":3,"api":"","searchable":0,"quickSearch":0,"filterable":0},
@@ -99,15 +102,62 @@
 "parses":
 [
 
+
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"解析聚合","type":3,"url":"Demo"},
 
 //{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"星辰云解析①","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"星辰云解析②","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=76839abbeffa3cf558c1718c67a94d88&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"测试","type":0,"url":"http://1jx.7yys.cn/?url=","header":{"User-Agent":"okhttp/4.9.1"}},
+//{"name":"星辰云解析①","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
+//{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+{
+            "name": "星辰云解析",
+            "type": 1,
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                    
+                ]
+            }
+        },
+        
+
 {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
 
 {
@@ -142,9 +192,56 @@
     
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}],
 
-
+"flags": [
+        "youku",
+        "qq",
+        "QQ",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "PPTV",
+        "mgtv",
+        "ltnb",
+        "rx",
+        "SLYS4k",
+        "BYGA",
+        "luanzi",
+        "dxzy",
+        "QEYSS",
+        "aliyun",
+        "AliS",
+        "122",
+        "chuangying",
+        "CL4K",
+        "xfyun",
+        "wuduzy",
+        "wasu",
+        "bilibili",
+        "renrenmi",
+        "xmm",
+        "xigua",
+        "m1905 ",
+        "funshion ",
+        "优酷",
+        "芒果",
+        "腾讯",
+        "爱奇艺",
+        "奇艺",
+        "哔哩哔哩",
+        "哔哩",
+        "西瓜视频",
+        "腾讯视频",
+        "奇艺视频",
+        "优酷视频",
+        "芒果视频",
+        "乐视视频"
+    ],
+    
 //调用解析的线路名
-"flags":["douyin","cntv","imgo","youku","qq","leshi","qiyi","xigua","iqiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
+"flags":["m1905","douyin","cntv","imgo","youku","qq","leshi","qiyi","xigua","iqiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 
 "ijk":[
 {"group":"软解码","options":[
