@@ -1,8 +1,8 @@
 {
   "drives": [
     {
-      "name": "肥羊",
-      "server": "https://pan.d1.mk"
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
     },
     {
       "name": "觸光",
@@ -27,6 +27,10 @@
     {
       "name": "梓澪",
       "server": "https://zi0.cc"
+    },
+    {
+      "name": "Testing purpose",
+      "server": "https://alist.you-mostmost.repl.co"
     }
   ]
 }
