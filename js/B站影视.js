@@ -1,3 +1,4 @@
+// 搜索验证
 var rule = {
     title:'B站影视',
     host:'https://bzhanys.com',
@@ -17,7 +18,6 @@ var rule = {
         3:{cateId:'3'},
         4:{cateId:'4'}
     },
-    searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     headers:{
@@ -37,5 +37,9 @@ var rule = {
         "tabs":".swiper-wrapper&&a",
         "lists":".play_list_box:eq(#id) li"
     },
-    搜索:'.movie-list-body&&.vod-search-list;*;*;.getop&&Text;*',
+    // searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
+	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	detailUrl:'/index.php/vod/play/id/fyid/sid/1/nid/1.html', //非必填,二级详情拼接链接
+    // 搜索:'.movie-list-body&&.vod-search-list;*;*;.getop&&Text;*',
+	搜索:'json:list;name;pic;;id',
 }

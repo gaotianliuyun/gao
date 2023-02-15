@@ -7,7 +7,8 @@ var rule={
     模板:'首图',
     host:'https://fositv.com',
     // url:'/fyclass-fypage.html',
-    url:'/vod_________________________show/fyfilter.html',
+    // url:'/vod_________________________show/fyfilter.html',
+    url:'/vod______________________________show/fyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}------fypage---{{fl.year}}',
     filter:{
@@ -24,9 +25,15 @@ var rule={
         4:{cateId:'4'},
         5:{cateId:'5'}
     },
-    searchUrl:'/vod_________________________search/**----------fypage---.html',
+    // searchUrl:'/vod_________________________search/**----------fypage---.html',
+    searchUrl:'/vod______________________________search/**----------fypage---.html',
+    headers: {
+        'User-Agent': 'PC_UA',
+    },
     // class_parse:'.myui-header__menu li.hidden-sm:gt(0):lt(6);a&&Text;a&&href;com/(.*?).html',
-    class_parse: '.myui-header__menu li.hidden-sm:gt(0):lt(6);a&&Text;a&&href;/(\\d+).html',
+    class_parse: '.myui-header__menu li.hidden-sm:gt(0):lt(6);a&&Text;a&&href;.*/(.*?).html',
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){let url2='https://play.xmaomi.top/?url='+url+'&tm='+html.tm+'&key='+html.key+'&next='+html.url_next+'&title='+html.vod_data.vod_name;/cache/.test(url)?input={jx:0,url:url2,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}:input=url}else{input}",
+    推荐: 'ul.myui-vodlist.clearfix;li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
+    一级: '.myui-vodlist li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
     搜索:'#searchList li;a&&title;.lazyload&&data-original;.text-right&&Text;a&&href',
 }
