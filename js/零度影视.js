@@ -1,4 +1,5 @@
 // 搜索数字验证
+// 一级页面 数字验证 /index.php/vod/show/
 var rule = {
     title:'零度影视',
     host: 'https://ldtv.top',

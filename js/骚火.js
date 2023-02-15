@@ -1,3 +1,4 @@
+// 搜索验证
 var rule={
 title:'骚火',
 host:'https://shdy3.com',

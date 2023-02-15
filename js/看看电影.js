@@ -1,10 +1,10 @@
 muban.首图.二级.desc = '.data--span:eq(1)&&Text;;;.data--span:eq(2)&&Text;.data--span:eq(3)&&Text';
 muban.首图.二级.content = '.sketch&&Text';
 var rule={
-    title:'看看电影',
-    模板:'首图',
-    host:'https://www.kkdy.live',
-    // url:'/vod-show-id-fyclass-page-fypage.html',
+	title:'看看电影',
+	模板:'首图',
+	host:'https://www.kkdy.live',
+	// url:'/vod-show-id-fyclass-page-fypage.html',
 	url:'/vod-show-id-fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}-page-fypage{{fl.year}}',
@@ -16,6 +16,7 @@ var rule={
 		dongman:{cateId:'dongman',by:'-by-time'},
 		documentary:{cateId:'documentary',by:'-by-time'}
 	},
-    searchUrl:'/vod-search-page-fypage-wd-**.html',
-    class_parse: '.myui-header__menu li.hidden-sm;a&&Text;a&&href;/vod-type-id-(\\w+).html',
+	searchUrl:'/vod-search-page-fypage-wd-**.html',
+	class_parse: '.myui-header__menu li.hidden-sm;a&&Text;a&&href;/vod-type-id-(\\w+).html',
+	lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}input="https://www.kkdy.live/addons/dp/player/index.php?key=0&id="+html.id+"&from="+html.from+"&url="+url',
 }

@@ -21,7 +21,7 @@ var rule = {
     class_parse: '.stui-header__menu li:gt(0):lt(5);a&&Text;a&&href;.*/(.*?).html',
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);log(html);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
     二级: {
-        "title": "h1&&Text;.data--span:eq(0)&&Text",
+        "title": ".v-thumb&&title;.data--span:eq(0)&&Text",
         "img": ".lazyload&&data-original",
         "desc": ".data:eq(3)&&Text;;;.data--span:eq(1)&&Text;.data--span:eq(2)&&Text",
         "content": ".desc&&Text",

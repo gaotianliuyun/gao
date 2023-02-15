@@ -1,3 +1,4 @@
+// 地址发布页 https://www.mozhatu.vip/
 // 搜索数字验证
 muban.mxpro.二级.desc = '.module-info-item-content:eq(4)&&Text;;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
 muban.mxpro.二级.tabs = '#y-playList .module-tab-item';

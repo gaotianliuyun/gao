@@ -16,7 +16,7 @@ var rule={
 	class_name:'全部',
 	class_url:'type3',
 	play_parse: true,
-	lazy:'js:let src=jsp.pd(request(input),"#cms_player&&script&&src");let cms_player=JSON.parse(request(src).match(/cms_player = (.*?);document/)[1]);log(cms_player);cms_player.url.includes("url=")?input=cms_player.url.split("url=")[1]:input=JSON.parse(fetch(cms_player.url+"&time="+cms_player.time+"&auth_key="+cms_player.auth_key,{headers:{"User-Agent":"Mozilla/5.0"},redirect:false,withHeaders:true})).headers.location[0].split("url=")[1]',
+	lazy:'js:let src=jsp.pd(request(input),"#cms_player&&script&&src");let cms_player=JSON.parse(request(src).match(/cms_player = (.*?);document/)[1]);/360lifan/.test(cms_player.name)?input={jx:0,url:cms_player.url+"&time="+cms_player.time+"&auth_key="+cms_player.auth_key,parse:1,header:JSON.stringify({"user-agent":"Mozilla/5.0"})}:/url=/.test(cms_player.url)?input=cms_player.url.split("url=")[1]:input={jx:0,url:cms_player.jiexi+cms_player.url+"&time="+cms_player.time+"&auth_key="+cms_player.auth_key,parse:1,header:JSON.stringify({"user-agent":"Mozilla/5.0"})}',
 	limit:6,
 	推荐:'*',
 	一级:'.list-unstyled li;h2&&Text;img&&data-original;.continu&&Text;a&&href',

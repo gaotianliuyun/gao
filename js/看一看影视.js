@@ -1,3 +1,4 @@
+// 搜索验证
 var rule = {
     title:'看一看影视',
     host:'https://www.kanyk.cc',
