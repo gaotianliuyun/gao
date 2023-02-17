@@ -1,5 +1,5 @@
 {
-"spider": "./jar/cs.jar;md5;ef2d242e59d6b8154c49429817ac2043",
+"spider": "./jar/cs.jar;md5;fbacd3ee3b4e0d823dbc574ef7765471",
 "lives":[{"name":"初秋语","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FongMi","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG Gather","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
