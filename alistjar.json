@@ -1,0 +1,36 @@
+{
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "肥羊",
+      "server": "https://pan.d1.mk"
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "一只魚",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "米奇",
+      "server": "https://anime.mqmmw.ga"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "梓澪",
+      "server": "https://zi0.cc"
+    }
+  ]
+}
