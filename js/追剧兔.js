@@ -21,17 +21,20 @@ var rule={
         'User-Agent':'PC_UA'
     },
     class_parse: '.has-sub:eq(0)&&ul&&li;a&&Text;a&&href;/vodshow-(\\d+)/',
+    play_parse:true,
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
     limit:6,
     推荐:'.zmovo-teams;*;*;*;*;*',
     double:true,//是否双层列表定位,默认false
     一级:'div.item;.zmovo-team-title&&a&&Text;img&&src;h4&&Text;.ttw&&a&&href',
+	// 自定义js重新赋值正确的二级详情页地址
+	二级访问前:'log(MY_URL);let jump=request(MY_URL).match(/href="(.*?)"/)[1];log(jump);MY_URL=urljoin2(MY_URL,jump)',
     二级:{
         "title":"h2&&Text;#catmenu&&li:eq(2)&&Text",
         "img":"",
-        "desc":"#catmenu&&li:eq(1)&&Text;;;#catmenu&&li:eq(4)&&Text;",
+        "desc":"#catmenu&&li:eq(1)&&Text;#catmenu&&li:eq(2)&&Text;#catmenu&&li:eq(3)&&Text;#catmenu&&li:eq(4)&&Text;#catmenu&&li:eq(1)&&Text",
         "content":"#catmenu&&li:eq(5)&&Text",
-        '重定向':'js:let HOST="https://www.sstv.pw";let url = HOST+html.match(/"(.*?)"/)[1];log("重定向到:"+url);html = request(url)',
+        // '重定向':'js:let HOST=getHome(MY_URL);let url = HOST+html.match(/"(.*?)"/)[1];log("重定向到:"+url);html = request(url)',
         "tabs":"ul.nav&&li",
         "lists":".pagination:eq(#id) li"
     },
