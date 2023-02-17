@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;2060883055c8e0ca5e7bb45d824eafa4",
+{"spider": "./jar/custom_spider.jar;md5;029605ba89c58f14982a8aa1665cbeef",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
@@ -23,6 +23,7 @@
 {"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐猪TV.js"},
 {"key":"drpy_js_TV云播","name":"影视 | TV云播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/TV云播.js"},
 {"key":"drpy_js_哔哩兔","name":"影视 | 哔哩兔[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩兔.js"},
+{"key":"drpy_js_追剧兔","name":"影视 | 追剧兔[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧兔.js"},
 {"key":"drpy_js_影渣渣","name":"影视 | 影渣渣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影渣渣.js"},
 {"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
 {"key":"drpy_js_柒之社","name":"影视 | 柒之社[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/柒之社.js"},
@@ -37,6 +38,7 @@
 {"key":"drpy_js_HDmoli","name":"影视 | HDmoli[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HDmoli.js"},
 {"key":"drpy_js_Voflix","name":"影视 | Voflix[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Voflix.js"},
 {"key":"drpy_js_YOKE影视","name":"影视 | YOKE影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/YOKE影视.js"},
+{"key":"drpy_js_无名小站","name":"影视 | 无名小站[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/无名小站.js"},
 {"key":"drpy_js_小狗影院","name":"影视 | 小狗影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小狗影院.js"},
 {"key":"drpy_js_城市影视","name":"影视 | 城市影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市影视.js"},
 {"key":"drpy_js_酷客影院","name":"影视 | 酷客影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
