@@ -4,8 +4,7 @@
   "主页url": "https://www.kanyk.cc",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   
-  "分类": "电影&连续剧&动漫&综艺",
-  "分类值": "1&2&4&3",
+  "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
   
   "分类url": "https://www.kanyk.cc/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-0-letter--area--lang-.html",
   

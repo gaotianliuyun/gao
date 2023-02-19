@@ -1,5 +1,5 @@
 {
-"spider":"./jar/xo.txt;md5;69dd9e68b15e7ebfb70b0f21e732414c",
+"spider":"./jar/xo.jar;md5;f3687d6e511a73caf72f4757a04518b2",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 "sites":[
@@ -13,7 +13,7 @@
 
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🎉一起看┃SP","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+{"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"csp_BuLei","name":"💢布雷┃SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
 {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"csp_Yht","name":"🍀野荷塘┃SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},

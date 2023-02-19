@@ -3,8 +3,7 @@
   "站名": "VOFLIX",
   "主页url": "https://www.voflix.com",
   
-  "分类": "电影&剧集&动漫&综艺&国产剧&日韩剧&欧美剧",
-  "分类值": "1&2&4&3&13&15&16",
+  "分类": "电影$1#剧集$2#动漫$4#综艺$3#国产剧$13#日韩剧$15#欧美剧$16",
   
   "分类url": "https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   

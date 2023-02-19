@@ -28,7 +28,7 @@
   
   "播放数组": "<div class=\"module-play-list\">&&</div>",
   
-  "筛选": {
+  "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},

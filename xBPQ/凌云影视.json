@@ -1,12 +1,11 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "凌云影视",
-  "主页url": "https://www.lingyun.in",
+  "主页url": "https://www.lyys8.com",
   
-  "分类": "电影&剧集&综艺&动漫",
-  "分类值": "movie&tv&variety&cartoon",
+  "分类": "电影$movie#剧集$tv#综艺$variety#动漫$cartoon",
   
-  "分类url": "https://www.lingyun.in/list/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.lyys8.com/list/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "图片": "data-src=\"&&\"",
   "副标题": "icon-play\"></i>&&</span>",
