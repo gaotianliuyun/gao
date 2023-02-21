@@ -1,14 +1,12 @@
 {"spider":"./jar/xo.txt;md5;f3687d6e511a73caf72f4757a04518b2",
-"lives":[{"name":"初秋语","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"FongMi","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YanG Gather","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YanG 斗鱼","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"},
-{"name":"YanG 虎牙","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"},
-{"name":"肥猫","type":0,"url":"http://我不是.肥猫.love:63/TV/zb.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"YouTube 墙外","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"},
-{"name":"虎牙 自用","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/youshandefeiyang/main/main/huya.m3u"},
-{"name":"斗鱼 自用","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/youshandefeiyang/main/main/douyu.m3u"},
-{"name":"哔哩 自用","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/youshandefeiyang/main/main/bilibili.m3u"}
+"lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"FongMi•综合","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥猫•综合","type":0,"url":"http://我不是.肥猫.love:63/TV/zb.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YanG•斗鱼","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"},
+{"name":"YanG•虎牙","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"},
+{"name":"初秋语•哔哩","type":0,"url":"./bili.m3u"},
+{"name":"YuanHsing•油管","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
 ],
 "wallpaper":"https://tian.chuqiuyu.tk",
 "sites":[
