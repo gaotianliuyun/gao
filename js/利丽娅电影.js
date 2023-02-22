@@ -5,9 +5,7 @@ var rule = {
     title:'利丽娅电影',
     模板:'mxpro',
     host:'https://www.llyady.cc',
-    url:'/index.php/vod/type/id/fyclass.html',
-    // url:'/vodshow/fyclass--------fypage---.html',
-    // url:'/vodshow/fyfilter.html',
+    url:'/vodtype/fyclass.html',
     // filterable:1,//是否启用分类筛选,
     // filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     // filter:{
@@ -22,7 +20,7 @@ var rule = {
     //     3:{cateId:'3',by:'time'},
     //     4:{cateId:'4',by:'time'}
     // },
-    searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
+    searchUrl: '/search/**----------fypage---.html',
     class_parse: '.navbar-items li:gt(1):lt(7);a&&title;a&&href;.*/(.*?).html',
     //控制不同分类栏目下的总页面,不填就是默认999.哔哩影视大部分分类无法翻页，都需要指定页数为 1
     pagecount:{"1":1,"2":1,"3":1,"4":1,"25":1},
