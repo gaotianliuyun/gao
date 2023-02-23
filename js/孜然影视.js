@@ -24,7 +24,10 @@ var rule={
         42:{cateId:'42',by:'/by/time'}
     },
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
+    headers:{
+        'User-Agent':'PC_UA',
+    },
     class_parse: '.navbar-items li:gt(1);a&&title;a&&href;.*/(\\d+).html',
-    cate_exclude:'福利片',
+    cate_exclude:'福利',
     lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}',
 }
