@@ -485,10 +485,10 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 肥羊4K,#genre# 
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+BTV纪实科教-8KSDR源,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
@@ -498,11 +498,13 @@ CCTV16-4K-25PHLG源,https://live.v1.mk/aishang/cctv164k
 CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-BesTV-4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
 4K影视,http://159.75.85.63:5828/4kys.php
-河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
 4K超高清电影,http://159.75.85.63:5681/sxg.php
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
+虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
+虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
+虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
+斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
+斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K-HLG源-1,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K-HLG源-2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
@@ -557,6 +559,11 @@ Liberty KINOENG  UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index
 Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
 Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
+江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 肥羊爱尚,#genre# 
 欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
