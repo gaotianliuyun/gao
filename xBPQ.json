@@ -1,7 +1,7 @@
 {
 //jar
-"spider":"./jar/panda230216.jar;md5;5761f54ccfe6157e49f2f980f51d26fd",
-
+"spider":"./jar/panda230222.jar;md5;6fdffe9b74ae6fa85d5858a2bd9fb6b9",
+"warningText": "接口完全免费，切勿付费购买。",
 //壁纸
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -154,10 +154,10 @@
             }
         },
         
-{
-            "name": "喵喵喵？",
+        {
+            "name": "刚刚走过",
             "type": 1,
-            "url": "https://jx.ccabc.cc/byg/?url=",
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -198,7 +198,7 @@
                 ]
             }
         },
-{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
+
 
 {
       "name": "parwix稳定",
@@ -248,6 +248,7 @@
         "rx",
         "SLYS4k",
         "BYGA",
+        "BYGB",
         "luanzi",
         "dxzy",
         "QEYSS",
