@@ -201,9 +201,9 @@
 
 
 {
-      "name": "parwix稳定",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "name": "左岸急速",
+      "type": 1,
+      "url": "http://59.110.212.57:9931/zuoan/?url=",
       "ext": {
         "flag": [
           "qq",
