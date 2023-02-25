@@ -3,10 +3,18 @@
 http://epg.112114.xyz/bili/22
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/df9bb92bae388740db3869a4e2c76448c01e1d0c.jpg" group-title="游戏赛事", 哔哩哔哩王者荣耀赛事
 http://epg.112114.xyz/bili/21144080
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/04765d076a85e15b341a72d369ebd716bd66da76.jpg" group-title="影音馆", 曹可可0-0
+http://epg.112114.xyz/bili/94730
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/f5ba13bfb98387a01e2056361ed11ee127fdfb10.jpg" group-title="手工绘画", 画画的春哥
+http://epg.112114.xyz/bili/4464457
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/40b3ff39bd5771b6b96f901f1bf6bb03a16098b6.jpg" group-title="唱见电台", 桃几OvO
+http://epg.112114.xyz/bili/22642754
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/31706c82949b3ba4756a411825c3f16aeb14ad44.jpg" group-title="崩坏：星穹铁道", 黑桐谷歌
 http://epg.112114.xyz/bili/1029
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="游戏赛事", 哔哩哔哩英雄联盟赛事
 http://epg.112114.xyz/bili/7734200
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/d4424f0789c70975ef3d45c9ca22a0e741318549.jpg" group-title="生活分享", 小熊雨声深度助眠2号
+http://epg.112114.xyz/bili/26501289
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/4d58b08f51706f2a6e61e160c0a40fd3a6dce9a7.jpg" group-title="崩坏：星穹铁道", 棉花大哥哥
 http://epg.112114.xyz/bili/34348
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2a752af02fa89ca9e296cc270e5c3e55b7dbf2e7.jpg" group-title="崩坏：星穹铁道", 大祥哥来了
@@ -97,8 +105,6 @@ http://epg.112114.xyz/bili/22567498
 http://epg.112114.xyz/bili/3415150
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/4b6fc3b8426eb2d074683113949e6b56f8c7d609.jpg" group-title="王者荣耀", 解说英凯
 http://epg.112114.xyz/bili/3492233
-#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/04765d076a85e15b341a72d369ebd716bd66da76.jpg" group-title="影音馆", 曹可可0-0
-http://epg.112114.xyz/bili/94730
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/02210cdcf1d7dbab513dcef23186772bbe471a31.jpg" group-title="主机游戏", 老实憨厚的子衿
 http://epg.112114.xyz/bili/23718393
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/9b9521ffa4c2f2282d16f62e0f1f2db8c9e314e4.jpg" group-title="视频聊天", 爱迟到的张锦锦
@@ -111,8 +117,6 @@ http://epg.112114.xyz/bili/22284670
 http://epg.112114.xyz/bili/1944820
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/35a19fb1355676650dacdb739884870e7671b9b9.jpg" group-title="原神", 奇奇怪怪的BDD
 http://epg.112114.xyz/bili/22902770
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/40b3ff39bd5771b6b96f901f1bf6bb03a16098b6.jpg" group-title="唱见电台", 桃几OvO
-http://epg.112114.xyz/bili/22642754
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/f711f77c5b143bfc95d50b85e829e7400281c1e0.jpg" group-title="王者荣耀", 是鹿Lu吖
 http://epg.112114.xyz/bili/25632549
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/4045bf8a0b2b9a5fcf144d654cd169666b8d68bc.jpg" group-title="虚拟Singer", 鲸落落raku
@@ -731,8 +735,6 @@ http://epg.112114.xyz/bili/23563625
 http://epg.112114.xyz/bili/800001
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/87eaff3ec63d945f1a1c5203f234e398e18ea3b0.jpg" group-title="虚拟日常", 罗塞索拉-ROSE_SUORA
 http://epg.112114.xyz/bili/26551882
-#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/a41e365ff4828a2f54b2154f3d9b7b2acce0fca1.jpg" group-title="科学科普", 小鱼DIY电脑装机
-http://epg.112114.xyz/bili/22943590
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8a58bfd420d328dfc862e240729dc55e2bde9b6b.jpg" group-title="CS:GO", 六崽崽呀
 http://epg.112114.xyz/bili/21722523
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/7742e3b9241b9c651bd663af0c02875219961b3b.jpg" group-title="阴阳师", 效率手动直播
@@ -7051,8 +7053,6 @@ http://epg.112114.xyz/bili/22434927
 http://epg.112114.xyz/bili/27058236
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/19e1a3a13ca61e5a46c4ba041d9b822381a05c8d.jpg" group-title="艾尔登法环", 绒绒dwb
 http://epg.112114.xyz/bili/4994891
-#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/d4424f0789c70975ef3d45c9ca22a0e741318549.jpg" group-title="生活分享", 小熊雨声深度助眠2号
-http://epg.112114.xyz/bili/26501289
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/5945513e02e568ff7d99d098f8f526f39a2f3c91.jpg" group-title="聊天电台", 八分饱啊啊啊啊
 http://epg.112114.xyz/bili/27087002
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/25f7a29d02786a95b8fba19f6ced93619b68a49f.jpg" group-title="其他单机", 多莉Official
@@ -7481,8 +7481,6 @@ http://epg.112114.xyz/bili/1571576
 http://epg.112114.xyz/bili/26570268
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/cc2db0ff139976ae681b7f1f8c1e665dbafb63b9.jpg" group-title="搞笑", 93-幕空空
 http://epg.112114.xyz/bili/26066593
-#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/f5ba13bfb98387a01e2056361ed11ee127fdfb10.jpg" group-title="手工绘画", 画画的春哥
-http://epg.112114.xyz/bili/4464457
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/03c8663fda92eeb598b1f3975e6dc7a23107eb51.jpg" group-title="生活分享", StudyRN
 http://epg.112114.xyz/bili/4701078
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8b0721a087fb8ac495351e9ca4828ac28c5d1e82.jpg" group-title="怀旧网游", 热血江湖oline
@@ -7533,6 +7531,8 @@ http://epg.112114.xyz/bili/3054971
 http://epg.112114.xyz/bili/22310452
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/b46021812c49c8a754f5511167e712317e8b3d54.jpg" group-title="APEX英雄", 狸狸子_QwQ
 http://epg.112114.xyz/bili/2161507
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/a41e365ff4828a2f54b2154f3d9b7b2acce0fca1.jpg" group-title="科学科普", 小鱼DIY电脑装机
+http://epg.112114.xyz/bili/22943590
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/4d1fcc84d2a923208599b1b814e0c5ea3df3135c.jpg" group-title="弹幕互动玩法", 炫彩庭生小杰666
 http://epg.112114.xyz/bili/13750400
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/e513db8d4b729d9d1e5e737233b7f3fc364a9588.jpg" group-title="崩坏3", 临江仙忆
