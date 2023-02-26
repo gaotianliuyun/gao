@@ -70,6 +70,7 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 （25）免费解析：https://jx.mfjx.tk/tvbox.json
 
 3. 随机轮换壁纸：
+
 （1）https://tian.chuqiuyu.tk  自制横屏精美壁纸1
 
 （2）https://yun.chuqiuyu.tk  自制横屏精美壁纸2
