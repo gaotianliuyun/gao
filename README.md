@@ -69,28 +69,35 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （25）免费解析：https://jx.mfjx.tk/tvbox.json
 3. 随机轮换壁纸：
+（1）https://tian.chuqiuyu.tk  自制横屏精美壁纸1
 
-（1）https://bing.img.run/rand.php
+（2）https://yun.chuqiuyu.tk  自制横屏精美壁纸2
 
-（2）http://www.kf666888.cn/api/tvbox/img
+（3）https://shuping.chuqiuyu.tk  自制竖屏精美壁纸
 
-（3）https://picsum.photos/1280/720/?blur=10
+（4）https://jianbian.chuqiuyu.tk  自制渐变简约壁纸
 
-（4）http://刚刚.live/图 
+（5）https://bing.img.run/rand.php
 
-（5）http://饭太硬.ga/深色壁纸/api.php
+（6）http://www.kf666888.cn/api/tvbox/img
 
-（6）https://www.dmoe.cc/random.php
+（7）https://picsum.photos/1280/720/?blur=10
 
-（7）https://api.btstu.cn/sjbz/zsy.php
+（8）http://刚刚.live/图 
 
-（8）https://api.btstu.cn/sjbz/?lx=dongman
+（9）http://饭太硬.ga/深色壁纸/api.php
 
-（9）http://api.btstu.cn/sjbz/?lx=meizi
+（10）https://www.dmoe.cc/random.php
 
-（10）http://api.btstu.cn/sjbz/?lx=suiji
+（11）https://api.btstu.cn/sjbz/zsy.php
 
-（11）https://pictures.catvod.eu.org/
+（12）https://api.btstu.cn/sjbz/?lx=dongman
+
+（13）http://api.btstu.cn/sjbz/?lx=meizi
+
+（14）http://api.btstu.cn/sjbz/?lx=suiji
+
+（15）https://pictures.catvod.eu.org/
 
 如果喜欢，请复刻自用，切勿传播。谢谢！
 
