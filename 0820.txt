@@ -71,7 +71,7 @@
 {"key":"csp_xpath_独播库","name":"独播库(XPMF)","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/duboku.json"},
 {"key":"csp_biubiu_tvb云播","name":"tvb云播（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/tvb云播.json"},
 {"key":"csp_biubiu_voflix","name":"voflix（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
-{"key":"cc","name":"配置接口完全免费","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"cc","name":"配置接口完全免费","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 "parses":[
