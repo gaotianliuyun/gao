@@ -127,7 +127,6 @@
 {"key":"csp_xBPQ_TVB云播","name":"TVB云播〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/TVB云播.json"},
 {"key":"csp_xBPQ_无名小站","name":"无名小站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/无名小站.json"},
 {"key":"csp_xBPQ_素白白影视","name":"素白白影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/素白白影视.json"},
-{"key":"csp_xBPQ_喵喵电影","name":"喵喵电影〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/喵喵电影.json"},
 {"key":"csp_xBPQ_真不卡影院","name":"真不卡影院〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/真不卡影院.json"},
 {"key":"csp_xBPQ_耐看点播","name":"耐看点播〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/耐看点播.json"},
 {"key":"csp_xBPQ_莫扎兔","name":"莫扎兔〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/莫扎兔.json"},
