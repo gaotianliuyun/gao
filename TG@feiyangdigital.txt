@@ -5082,7 +5082,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 回复VIP,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 
 获取密码,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-💞GA测试1_5566,#genre#
+💞GA测试1,#genre#
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
 HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
 HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
@@ -5404,7 +5404,7 @@ GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 凤凰香港,http://120.84.96.78:808/hls/81/index.m3u8 
 凤凰香港,http://120.84.96.69:808/hls/81/index.m3u8
 凤凰香港,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
-💞GA测试2_5566,#genre#
+💞GA测试2,#genre#
 MEDIACORP U,http://line.premiumpowers.net:80/Manuel/1234567/941617
 衛視電影,http://line.premiumpowers.net:80/Manuel/1234567/941625
 ROCK ENTERTAINMENT,http://line.premiumpowers.net:80/Manuel/1234567/941643
@@ -5628,7 +5628,7 @@ HBO強檔,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC666393296663
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 美亞電影 HD,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-🎞️电影电视_5566,#genre#
+🎞️电影电视,#genre#
 影迷纪实台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
@@ -5719,7 +5719,7 @@ HBO强档,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56
 高清电影台,https://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 龙祥电影台,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
 天映电影台,https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
-💞TW测试_5566,#genre#
+💞TW测试,#genre#
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 台湾戏剧,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
@@ -5875,7 +5875,7 @@ TVBS新聞,https://lss.line-scdn.net/cc_tw/p/live/hUkPJ5N5FC0U9XhVVBUsWclZjVXJAA
 民視新聞,https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8
 台灣生活新聞台,https://lss.line-scdn.net/cc_tw/p/live/htuvxWuk-KlsZbDRLI3k3bDpIazpmOWRfJzBjaTsJIG9iNGhcJDVgPGgId2w0M2RcIGdsb2oHJWJkN2pJd2Y2b2hWIWh4MW0TdGVmI2gHamxkOmwNdm5l/abr.m3u8
 
-🔞頻道_5566,#genre#
+🔞頻道,#genre#
 彩虹e台,mitv://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
 彩虹電影台,mitv://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
 LOOK TV,mitv://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
@@ -5962,7 +5962,7 @@ mkmp-011桜井友田彩也香,https://t10.cdn2020.com:12335/video/m3u8/2021/08/2
 mkmp-433乱不,https://t16.cdn2020.com:12340/video/m3u8/2022/02/18/3ff1dede/index.m3u8
 mkon-014渚,https://t13.cdn2020.com:12338/video/m3u8/2021/12/08/5d2c3c38/index.m3u8
 
-👠｜VIP麻豆资源_5566,#genre#
+👠｜VIP麻豆资源,#genre#
 MLT-002/连续被上的OL,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/da/bj/1c/et/399a1a6f21a74a6b9a391b1903ce2f3c.m3u8?
 MSD-001/乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
 MSD-002/维修工的心跳艳遇(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8?
@@ -6050,7 +6050,7 @@ MSD-112/惹火上门按摩,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9m/
 MSD-113/爽操少妇喷白浆,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9o/w7/qp/4a/4ec0964678e645ce89eef69903c719e1.m3u8?
 MSD-114/口爆童颜巨乳嫩妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yb/9e/kr/j1/28c0d9c657a74a5c8be6a799eac8b201.m3u8?
 
-👠｜VIP直播资源_5566,#genre#
+👠｜VIP直播资源,#genre#
 mide-821小野六花,https://t4s.cdn2020.com/video/m3u8/2020/09/25/31eaeb70/index.m3u8
 mide-784小野六花,https://t6s.cdn2020.com/video/m3u8/2021/02/05/ddf896d6/index.m3u8
 mide-797小野六花,https://t4s.cdn2020.com/video/m3u8/2020/07/27/89cfae5b/index.m3u8
@@ -6208,7 +6208,7 @@ abw-178結城,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/ae7feac3/index
 ipx-527岬,https://t4s.cdn2020.com/video/m3u8/2020/08/17/e1844eba/index.m3u8
 ipx-711岬,https://t10.cdn2020.com:12335/video/m3u8/2021/08/15/30400709/index.m3u8
 ipx-539岬,https://t4s.cdn2020.com/video/m3u8/2020/09/19/772e1a46/index.m3u8
-👠玩偶姐姐_5566,#genre#
+👠玩偶姐姐,#genre#
 一日女友的漂亮姐姐 上 她是谁,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/70/fm/e0/kc/f7beb303cedd40b2a3f0255889aa6360.m3u8?
 一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/75/da/ic/nq/654561e53a8f44d4b452ee45db1d5aaa.m3u8?
 一日女友的漂亮姐姐 下 ,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
@@ -6366,7 +6366,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 凱爾西·夢露（KelsiMonroe）獲得了本月的屁股！（ap12080）,http://218158.vod.redtraffic.xyz/ph5914a82e707aa/play.m3u8
 切諾基唯一的DatAzz拍手,http://12204.vod.adultiptv.net/ph5a5cb7a12e61e/play.m3u8
 假出租車中出彙編＃1 HD,http://218158.vod.adultiptv.net/ph5a0bfc0cbc2ed/play.m3u8
-👠VIP高清秒播11_5566,#genre#
+👠VIP高清秒播11,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
@@ -6434,7 +6434,7 @@ pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
 pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
-👠VIP高清秒播6_5566,#genre#
+👠VIP高清秒播6,#genre#
 AARM-046,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/fa9172db/index.m3u8
 AARM-066,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
 ABP-287,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/19d5be2b/index.m3u8
@@ -6754,7 +6754,7 @@ GVH-089,https://t4s.cdn2020.com/video/m3u8/2020/07/31/1164edab/index.m3u8
 GVH-103,https://t5s.cdn2020.com/video/m3u8/2020/10/31/24b330ac/index.m3u8
 GVH-239,https://t10.cdn2020.com:12335/video/m3u8/2021/08/08/71279403/index.m3u8
 
-👠VIP高清秒播3_5566,#genre#
+👠VIP高清秒播3,#genre#
 老公懷疑我出軌[1920*1080],https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
 合租之偷窺-季曉彤[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6197fbbdf1d93a199d1cf17b/playlist.m3u8
 爆多！精液射滿ㄧ直滴到床上[1920*1080],https://v10.ripic.xyz/61466eee6bb8f7e6d5951975/video.m3u8
@@ -6783,7 +6783,7 @@ AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60b
 憧憬的女OL天使萌社員研修旅行[1280*720],https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
 公公的特別照顧-陳若瑤[1280720][1280*720]],https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
-👠｜VIP 直播资源3_5566,#genre#
+👠｜VIP 直播资源3,#genre#
 午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
 午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
 午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
@@ -6843,7 +6843,7 @@ MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
-👠｜VIP欧美1_5566,#genre#
+👠｜VIP欧美1,#genre#
 Playboy,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/527/index.m3u8
 Bazzers TV Europe,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/910/index.m3u8
 Blue Hustler,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/1064/index.m3u8
@@ -6884,7 +6884,7 @@ Blonde Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6179/index.m3u8
 Blowjob Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6180/index.m3u8
 Brazzers eXXtra,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6181/index.m3u8
 Brazzers HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6182/index.m3u8
-👠｜VIP欧美2_5566,#genre#
+👠｜VIP欧美2,#genre#
 Brunette Adult TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6183/index.m3u8
 cento x cento,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6184/index.m3u8
 Cherry Pimps,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6185/index.m3u8
@@ -6925,7 +6925,7 @@ Hardcore Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6219/index.m3u8
 Hitzefrei HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6220/index.m3u8
 Holed,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6221/index.m3u8
 Hot and Mean,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6222/index.m3u8
-👠｜VIP欧美3_5566,#genre#
+👠｜VIP欧美3,#genre#
 Hot Guys Fuck,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6223/index.m3u8
 Interracial Red TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6224/index.m3u8
 Japan HDV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6225/index.m3u8
@@ -6966,7 +6966,7 @@ Trans Angels,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6259/index.m3u8
 True Amateurs,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6260/index.m3u8
 Tushy HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6261/index.m3u8
 TushyRAW,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6262/index.m3u8
-👠｜VIP欧美4_5566,#genre#
+👠｜VIP欧美4,#genre#
 Visit-X TV,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6263/index.m3u8
 Vivid TV Europe,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6264/index.m3u8
 Vixen HD,http://hxj6k3eb.akciatv.ru/iptv/UGUX8XMBZTS6CU/6265/index.m3u8
