@@ -3,6 +3,8 @@ muban.首图2.二级.desc = '.data:eq(1)&&Text;;;.data:eq(6)&&Text;.data:eq(5)&&
 muban.首图2.二级.tabs = '.nav-tabs.dpplay&&li';
 var rule = {
     title:'007影视',
+    搜索编码:'utf-8',
+    // 搜索编码:'gbk',
     模板:'首图2',
     ali_token:'{{ali_token}}',
     bili_cookie:'{{bili_cookie}}',
