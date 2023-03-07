@@ -2,7 +2,8 @@ muban.mxone5.二级.desc = '.video-info-items:eq(2)&&Text;;;.video-info-actor:eq
 var rule={
     title:'咕噜咕噜',
     模板:'mxone5',
-    host:'https://freedream.one',
+    // host:'https://freedream.one',
+    host:'https://w.996w.top',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,

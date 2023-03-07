@@ -3,7 +3,8 @@ muban.首图2.二级.tabs = '.nav-tabs li';
 var rule={
     title:'六度TV',
     模板:'首图2',
-    host:'http://6d.zzdacou.cn',
+    // host:'http://6d.zzdacou.cn',
+    host:'https://6d.zzdacou.com',
     // url:'/whole/fyclass_______0_id_fypage.html',
     url:'/whole/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
