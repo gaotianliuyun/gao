@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
+{"spider":"./jar/custom_spider.jar;md5;3ee59ed8249427d5c0e6c114f566f9a9",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
@@ -118,6 +118,7 @@
 {"key":"drpy_js_1080P","name":"影视 | 1080P[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1080P.js"},
 {"key":"drpy_js_2099电影","name":"影视 | 2099电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/2099电影.js"},
 {"key":"drpy_js_333影视","name":"影视 | 333影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/333影视.js"},
+{"key":"drpy_js_555影视[V2]","name":"影视 | 555影视[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[V2].js"},
 {"key":"drpy_js_69美剧","name":"影视 | 69美剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧.js"},
 {"key":"drpy_js_8号影院","name":"影视 | 8号影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/8号影院.js"},
 {"key":"drpy_js_99影院","name":"影视 | 99影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/99影院.js"},
@@ -166,6 +167,7 @@
 {"key":"drpy_js_麦豆网","name":"影视 | 麦豆网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/麦豆.js"},
 {"key":"drpy_js_麦豆com","name":"影视 | 麦豆com[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/麦豆com.js"},
 {"key":"drpy_js_美视网","name":"影视 | 美视网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/美视网.js"},
+{"key":"drpy_js_萌蛋蛋[V2]","name":"影视 | 萌蛋蛋[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌蛋蛋[V2].js"},
 {"key":"drpy_js_米宝影院","name":"影视 | 米宝影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/米宝影院.js"},
 {"key":"drpy_js_喵喵影院","name":"影视 | 喵喵影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/喵喵.js"},
 {"key":"drpy_js_莫扎兔儿","name":"影视 | 莫扎兔儿[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/莫扎兔.js"},
