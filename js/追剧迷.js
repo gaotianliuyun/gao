@@ -2,7 +2,8 @@ var rule = {
     title:'追剧迷',
     模板:'vfed',
     host:'https://www.zhuijumi.cc',
-    url:'/videotype/fyclass-fypage.html',
+    // url:'/videotype/fyclass-fypage.html',
+    url:'/mp4type/fyclass-fypage.html',
     searchUrl:'/vodsearch/**-fypage.html',
     class_parse: '.fed-part-tips li;a&&Text;a&&href;.*/(.*?).html',
     cate_exclude:'更多|申请',
@@ -16,5 +17,4 @@ var rule = {
         "lists": ".fed-tabs-btm:eq(#id) li"
     },
     搜索: '.fed-list-deta;h1&&Text;.fed-lazy&&data-original;.fed-list-remarks&&Text;a&&href;.fed-col-xs12.fed-part-eone:eq(2)&&Text',
-
 }
