@@ -21,7 +21,8 @@ var rule = {
     play_parse:true,
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
     limit:6,
-    推荐:'.sliderlist.vod_hl&&.vod_hl_list;.list-body&&Text;.thumb&&style;.list-footer&&div--time&&Text;*',
+    // 推荐:'.sliderlist.vod_hl&&.vod_hl_list;.list-body&&Text;.thumb&&style;.list-footer&&div--time&&Text;*',
+    推荐:'.row.wall&&.post;*;.scrollLoading&&data-url;*;*',
     一级:'#content article ;.entry-title&&a--span&&Text;img&&src;.entry-meta--time&&Text;a&&href',
     二级:{
         "title":"h1&&Text;.data--span:eq(0)&&Text",
