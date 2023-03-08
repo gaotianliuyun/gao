@@ -1,5 +1,5 @@
 {
-"spider": "./jar/custom_spider.jar;md5;3c9e8cf9e895fe9daa6cab7978552ef9",
+"spider": "./jar/custom_spider.jar;md5;100b8d081bfead06388e6a65d12fa554",
 "lives":[{"name":"FongMi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
 {"name":"初秋语","type":0,"url":"./listx.txt"},
 {"name":"YanG","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"}],
