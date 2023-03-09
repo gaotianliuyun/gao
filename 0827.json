@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5",
+  "spider": "./jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Json",
       "type": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "url": "./json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
     }
@@ -26,7 +26,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "./json/alist.json"
     },
     {
       "key": "哔哩",
@@ -36,7 +36,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "ext": "./json/bili.json"
     },
     {
       "key": "泥巴",
@@ -55,7 +55,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+      "ext": "./json/duboku.json"
     },
     {
       "key": "快播",
