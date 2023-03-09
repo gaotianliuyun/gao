@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;df10e61cf95ea6a8507162d0c9e9063f",
+{"spider": "./jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
@@ -50,6 +50,7 @@
 {"key":"drpy_js_YOKE影视","name":"影视 | YOKE影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/YOKE影视.js"},
 {"key":"drpy_js_HG影院[V2]","name":"影视 | HG影院[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HG影院[V2].js"},
 {"key":"drpy_js_飞飞影视","name":"影视 | 飞飞影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/飞飞影视.js"},
+{"key":"drpy_js_开眼视频","name":"影视 | 开眼视频[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/开眼视频.js"},
 {"key":"drpy_js_秋霞影视","name":"影视 | 秋霞影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞影视.js"},
 {"key":"drpy_js_无名小站","name":"影视 | 无名小站[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/无名小站.js"},
 {"key":"drpy_js_小狗影院","name":"影视 | 小狗影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小狗影院.js"},
@@ -92,6 +93,7 @@
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷6网.js"},
 {"key":"drpy_js_网易公版影像","name":"聚合 | 网易公版影像[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网易公版影像.js"},
 {"key":"drpy_js_A8音乐","name":"MV | A8音乐[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/A8音乐.js"},
+{"key":"drpy_js_MV263","name":"MV | 263[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/MV263.js"},
 {"key":"drpy_js_酷狗MV","name":"MV | 酷狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷狗MV.js"},
 {"key":"drpy_js_酷奇MV","name":"MV | 酷奇[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷奇MV.js"},
 {"key":"drpy_js_爱车MV","name":"MV | 爱车[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱车MV.js"},
