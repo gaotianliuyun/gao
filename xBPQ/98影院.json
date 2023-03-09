@@ -1,13 +1,11 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "98影院",
-  "主页url": "http://www.98yyw.com",
-  "起始页": "2",
+  "主页url": "http://www.98ju.com",
   
-  "分类": "电影&电视剧&综艺&动漫",
-  "分类值": "dianyingpian&dianshiju&zongyi&dongman",
+  "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
   
-  "分类url": "http://www.98yyw.com/{cateId}/index{catePg}.html",
+  "分类url": "http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]",
   
   "副标题": "text-right\">&&</span>",
   
@@ -45,7 +43,7 @@
 "dianshiju":[
   {"key":"cateId","name":"类型","value":[
   {"n":"全部","v":"dianshiju"},
-  {"n":"国产剧","v":"guocanju"},
+  {"n":"国产剧","v":"guochanju"},
   {"n":"港台剧","v":"gangtaiju"},
   {"n":"欧美剧","v":"oumeiju"},
   {"n":"日韩剧","v":"rihanju"}]}]}

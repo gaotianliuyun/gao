@@ -1,14 +1,14 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "神马影院",
-  "主页url": "https://www.smdyy.cc",
+  "主页url": "http://www.smdyy.fun",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   
-  "分类": "电影&电视剧&动漫&日韩剧&欧美剧",
-  "分类值": "1&2&4&15&16",
+  "分类": "电影$1#电视剧$2#动漫$4#日韩剧$15#欧美剧$16",
   
-  "分类url": "https://www.smdyy.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "http://www.smdyy.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
+  "数组": "stui-vodlist__box\">&&</a>",
   "副标题": "text-right\">&&</span>",
   
   "搜索模式": "0",

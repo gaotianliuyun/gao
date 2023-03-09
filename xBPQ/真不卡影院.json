@@ -3,8 +3,7 @@
   "站名": "真不卡影院",
   "主页url": "https://www.zbkk.net",
   
-  "分类": "电影&连续剧&综艺&动漫",
-  "分类值": "1&2&3&4",
+  "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
   
   "分类url": "https://www.zbkk.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
