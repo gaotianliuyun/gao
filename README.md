@@ -49,7 +49,7 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （15）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
-（16）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
+（16）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
 （17）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
