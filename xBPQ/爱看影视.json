@@ -1,29 +1,25 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "爱看影视",
-  "主页url": "https://ikan6.vip",
+  "主页url": "https://ikanys.tv",
   
-  "分类": "电影&连续剧&综艺&动漫&日韩剧&美剧",
-  "分类值": "1&2&3&4&15&16",
+  "分类": "电影$1#连续剧$2#综艺$3#动漫$4#日韩剧$15#美剧$16",
   
-  "分类url": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+  "分类url": "https://ikanys.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   
   "副标题": "text-right\">&&</span>",
   
   "搜索模式": "0",
   "搜索后缀": "/voddetail/",
   
-  "影片年代": "年份：&&</p>",
-  "影片地区": "地区：&&<span",
-  "影片类型": "分类：&&<span",
-  "导演": "导演：&&</p>",
-  "主演": "主演：&&</p>",
-  "简介": "display: none;\">&&</span>",
+  "导演": "导演：&&</div>",
+  "主演": "主演：&&</div>",
+  "简介": "<p>&&</p>",
   
-  "线路数组": "<a href=\"#playlist&&</li>",
-  "线路标题": ">&&</a>",
+  "线路数组": "data-dropdown-value=&&</div>",
+  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
-  "播放数组": "<div id=\"playlist&&</ul>",
+  "播放数组": "module-play-list\">&&</div>",
   
   "筛选":{
 "1":[
