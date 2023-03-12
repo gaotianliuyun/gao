@@ -10,7 +10,6 @@
 {"name":"初秋语•哔哩","type":0,"url":"./bili.m3u"},
 {"name":"YuanHsing•油管","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
 ],
-"warningText":"祝尹艺霏同学身体健康，学习进步！",
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
