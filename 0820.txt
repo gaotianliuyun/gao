@@ -1,5 +1,5 @@
 {
-"spider": "./jar/cs.jar;md5;28ed333efe635e98ddd64ab99e38c7e8"
+"spider": "./jar/cs.jar;md5;28ed333efe635e98ddd64ab99e38c7e8",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"宝盒•综合","type":0,"url":"http://telegram-feiyangdigital.v1.mk","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FongMi•综合","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
