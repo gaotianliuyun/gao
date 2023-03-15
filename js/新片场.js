@@ -39,7 +39,8 @@ var rule = {
     limit:6,
     double: true, // 推荐内容是否双层定位
     推荐: '*',
-    一级: 'body&&.YcskN;img&&alt;img&&src;.list-remarks&&Text;a&&href',
+    // 一级: 'body&&.YcskN;img&&alt;img&&src;.list-remarks&&Text;a&&href',
+    一级: 'body&&.ikELow;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
     二级: '*',
     搜索: 'body&&.w-full.h-auto;*;*;.text-white&&Text&&Text;*',
 }
