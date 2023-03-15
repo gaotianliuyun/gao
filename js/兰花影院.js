@@ -16,14 +16,15 @@ var rule = {
         "213":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":"213"},{"n":"NBA","v":"215"},{"n":"足球","v":"216"},{"n":"斯诺克","v":"217"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"}]},{"key":"letter","name":"字母","value":[{"n":"全部","v":""},{"n":"A","v":"A"},{"n":"B","v":"B"},{"n":"C","v":"C"},{"n":"D","v":"D"},{"n":"E","v":"E"},{"n":"F","v":"F"},{"n":"G","v":"G"},{"n":"H","v":"H"},{"n":"I","v":"I"},{"n":"J","v":"J"},{"n":"K","v":"K"},{"n":"L","v":"L"},{"n":"M","v":"M"},{"n":"N","v":"N"},{"n":"O","v":"O"},{"n":"P","v":"P"},{"n":"Q","v":"Q"},{"n":"R","v":"R"},{"n":"S","v":"S"},{"n":"T","v":"T"},{"n":"U","v":"U"},{"n":"V","v":"V"},{"n":"W","v":"W"},{"n":"X","v":"X"},{"n":"Y","v":"Y"},{"n":"Z","v":"Z"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
     },
     filter_def:{
-        1:{cateId:'1'},
-        2:{cateId:'2'},
-        3:{cateId:'3'},
-        4:{cateId:'4'},
-        213:{cateId:'213'}
+    1:{cateId:'1'},
+    2:{cateId:'2'},
+    3:{cateId:'3'},
+    4:{cateId:'4'},
+    213:{cateId:'213'}
     },
     headers: {
         'User-Agent': 'PC_UA',
     },
     class_parse: '.navbar-items&&li:gt(1):lt(7);a&&title;a&&href;/(\\d+).html',
+    lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
 }
