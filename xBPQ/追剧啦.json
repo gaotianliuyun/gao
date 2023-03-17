@@ -22,7 +22,7 @@
   "主演": "主演：</span>&&</div>",
   "简介": "剧情：</span>&&</span>",
   
-  "线路数组": "data-dropdown-value=&&</div>",
+  "线路数组": "data-dropdown-value=&&</div>[不包含:海外]",
   "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
   "播放数组": "<div class=\"sort-item&&</div>",
