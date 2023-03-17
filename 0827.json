@@ -1,22 +1,6 @@
 {
   "spider": "./jar/custom_spider.jar;md5;ac115573e4f120c68c0702f89150dbf3",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "lives": [
-    {
-      "name": "TXT",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "Json",
-      "type": 1,
-      "url": "./json/live.json",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
-    }
-  ],
   "sites": [
     {
       "key": "AList",
@@ -56,56 +40,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json"
-    },
-    {
-      "key": "快播",
-      "name": "快播",
-      "type": 1,
-      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "动漫",
-        "国产剧",
-        "日韩剧",
-        "港台剧",
-        "欧美剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "综艺"
-      ]
-    },
-    {
-      "key": "百度",
-      "name": "百度",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "大陆剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
     },
     {
       "key": "櫻花",
@@ -183,16 +117,6 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
-    },
-    {
-      "key": "Live",
-      "name": "直播",
-      "type": 3,
-      "api": "csp_Live",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "2000"
     },
     {
       "key": "push_agent",

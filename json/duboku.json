@@ -58,7 +58,7 @@
   "playUrl": "https://my.duboku.vip/vodplay/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
   "playReferer": "https://www.duboku.tv/",
-  "searchUrl": "https://my.duboku.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.duboku.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
