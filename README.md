@@ -31,43 +31,29 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （6）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-（7）小雅dr：http://drpy.site/js1
+（7）菜妮丝：https://tvbox.cainisi.cf
 
-（8）菜妮丝：https://tvbox.cainisi.cf
+（8）神器：https://神器每日推送.tk/pz.json
 
-（9）神器：https://神器每日推送.tk/pz.json
+（9）巧技：http://pandown.pro/tvbox/tvbox.json
 
-（10）巧技：http://pandown.pro/tvbox/tvbox.json
+（10）吾爱有三：http://52bsj.vip:98/0805
 
-（11）刚刚：http://刚刚.live/猫
+（11）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（12）吾爱有三：http://52bsj.vip:98/0805
+（12）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
-（13）潇洒：https://download.kstore.space/download/2863/01.txt
+（13）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
-（14）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（14）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
-（15）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+（15）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（16）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
+（16）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
-（17）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（17）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
 
-（18）BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-
-（19）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
-
-（20）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
-
-（21）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt  
-
-（22）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
-
-（23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
-
-（24）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-
-（25）免费解析：https://jx.mfjx.tk/tvbox.json
+（18）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
 
 3. 随机轮换壁纸：
 
