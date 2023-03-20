@@ -21,11 +21,11 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （1）唐三：https://hutool.ml/tang
 
-（2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+（2）Fongmi：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
 
 （3）俊于：http://home.jundie.top:81/top98.json
 
-（4）饭太硬：http://饭太硬.ga/x/o.json
+（4）饭太硬：http://饭太硬.ga/tv
 
 （5）肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
 
@@ -61,7 +61,7 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （21）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt  
 
-（22）Ray：https://dxawi.github.io/0/0.json
+（22）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
 （23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
 
