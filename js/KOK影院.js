@@ -19,25 +19,18 @@ var rule = {
         kokdm:{by:'/by/time'},
         kokjl:{by:'/by/time'}
     },
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+    searchable:2,
+    quickSearch:0,
     headers:{
         'User-Agent':'MOBILE_UA'
     },
-    class_parse: '.home-nav&&.nav;a&&Text;a&&href;.*/(.*?).html',
+    class_name:'电影&电视剧&综艺&动漫&记录',
+    class_url:'kokdy&kokds&kokzy&kokdm&kokjl',
     play_parse:true,
     limit:6,
     推荐:'*',
-    一级:'.movie-list-body&&.movie-list-item;.movie-title&&Text;.movie-post-lazyload&&data-original;.movie-rating&&Text;a&&href',
-    二级:{
-        "title":"h1&&Text;.scroll-content&&Text",
-        "img":".poster&&img&&src",
-        "desc":".cr3:eq(0)&&Text;;;.cr3.starLink&&Text;",
-        "content":".detailsTxt&&Text",
-        "tabs":".swiper-wrapper&&a",
-        "lists":".content_playlist:eq(#id)&&li"
-    },
-    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
-    detailUrl:'/kokd/fyid.html', //非必填,二级详情拼接链接
-    搜索:'json:list;name;pic;;id',
+    一级:'js:var d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input,{withHeaders:true});let json=JSON.parse(html);let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");let cookie=setCk?json[setCk].split(";")[0]:"";fetch_params.headers.Cookie=cookie;html=JSON.parse(html).body;if(/检测中/.test(html)){html=request(input+"?btwaf"+html.match(/btwaf(.*?)\"/)[1],fetch_params)}let list=pdfa(html,".movie-list-body&&.movie-list-item");list.forEach(it=>{d.push({title:pdfh(it,".movie-title&&Text"),desc:pdfh(it,".movie-rating&&Text"),pic_url:pd(it,".movie-post-lazyload&&data-original"),url:pd(it,"a&&href")})});setResult(d)',
+    二级:'js:pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;VOD={};var html=request(input,{withHeaders:true});let json=JSON.parse(html);let setCk=Object.keys(json).find((it)=>it.toLowerCase()==="set-cookie");let cookie=setCk?json[setCk].split(";")[0]:"";fetch_params.headers.Cookie=cookie;html=JSON.parse(html).body;if(/检测中/.test(html)){html=request(input+"?btwaf"+html.match(/btwaf(.*?)\"/)[1],fetch_params)}VOD.vod_name=pdfh(html,"h1&&Text");VOD.type_name=pdfh(html,".scroll-content&&a:eq(1)&&Text");VOD.vod_pic=pd(html,".poster&&img&&src");VOD.vod_remarks=pdfh(html,".cr3:eq(0)&&Text");VOD.vod_year=pdfh(html,".scroll-content&&a:eq(2)&&Text");VOD.vod_area=pdfh(html,".scroll-content&&a:eq(0)&&Text");VOD.vod_actor=pdfh(html,".cr3.starLink&&Text").replace("演员：","");VOD.vod_director=pdfh(html,".play-select:eq(2)&&p:eq(4)&&Text").replace("导演:","");VOD.vod_content=pdfh(html,".detailsTxt&&Text");let playFrom=[];let vod_tab_list=[];let tabs=pdfa(html,"body .swiper-wrapper&&a");tabs.forEach((it)=>{playFrom.push(pdfh(it,"a&&Text"))});for(let i=0;i<playFrom.length;i++){let p1=".content_playlist:eq(#id)&&li".replaceAll("#id",i);let new_vod_list=[];let vodList=[];try{vodList=pdfa(html,p1)}catch(e){}for(let i=0;i<vodList.length;i++){let it=vodList[i];new_vod_list.push(pdfh(it,"body&&Text").trim()+"$"+pd(it,"a&&href"))}let vlist=new_vod_list.join("#");vod_tab_list.push(vlist)}VOD.vod_play_from=playFrom.join("$$$");VOD.vod_play_url=vod_tab_list.join("$$$");',
+    searchUrl:'/kokso/page/fypage/wd/**.html',
+    搜索:'js:var d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input,{withHeaders:true});let json=JSON.parse(html);let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");let cookie=setCk?json[setCk].split(";")[0]:"";fetch_params.headers.Cookie=cookie;html=JSON.parse(html).body;if(/检测中/.test(html)){html=request(input+"?btwaf"+html.match(/btwaf(.*?)\"/)[1],fetch_params)}let list=pdfa(html,".movie-list-body.flex&&.vod-search-list");list.forEach(it=>{d.push({title:pdfh(it,".movie-title&&title"),desc:pdfh(it,".meta:eq(0)&&Text"),pic_url:pd(it,".movie-post-lazyload&&data-original"),url:pd(it,"a&&href")})});setResult(d)',
 }
