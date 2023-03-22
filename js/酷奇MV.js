@@ -6,7 +6,8 @@ var rule = {
     searchUrl:'/search.php?key=**',
     searchable:2,
     quickSearch:0,
-    class_parse:'.m_bor li;a&&Text;a&&href;/play/(\\d+)_1.html',
+    // class_parse:'.m_bor li;a&&Text;a&&href;/play/(\\d+)_1.html',
+    class_parse:'.main:eq(1)&&li;a&&Text;a&&href;/play/(\\d+)_1.html',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
@@ -16,7 +17,10 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    一级:'.mv_list li;.name&&Text;.pic img&&src;.singer&&Text;a&&href',
+    // 一级:'.mv_list li;.name&&Text;.pic img&&src;.singer&&Text;a&&href',
+    // 一级:'js:var d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);let list=pdfa(html,".video_list&&li");list.forEach((it)=>{let urll=pd(it,"a&&href");let pic_urll=pd(request(urll),".pic:eq(0)&&img&&src");d.push({title:pdfh(it,".name&&Text"),desc:"🎤"+pdfh(it,".singer&&Text"),pic_url:pic_urll,url:urll})});setResult(d);',
+    一级:'js:var d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);let list=pdfa(html,".video_list&&li");list.forEach((it)=>{d.push({title:pdfh(it,".name&&Text"),desc:"🎤"+pdfh(it,".singer&&Text"),pic_url:"https://www.kuqimv.com/user/static/images/cover/malbum.jpg",url:pd(it,"a&&href")})});setResult(d);',
     二级:'*',
-    搜索:'.play_xg li;*;*;*;*',
+    // 搜索:'.play_xg li;*;*;*;*',
+    搜索:'*',
 }
