@@ -15,8 +15,8 @@ var rule={
         "21":[{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"台湾","v":"/area/台湾"},{"n":"香港","v":"/area/香港"},{"n":"美国","v":"/area/美国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2015","v":"/year/2015"},{"n":"2014","v":"/year/2014"},{"n":"2013","v":"/year/2013"},{"n":"2012","v":"/year/2012"},{"n":"2011","v":"/year/2011"},{"n":"2010","v":"/year/2010"},{"n":"2009","v":"/year/2009"},{"n":"2008","v":"/year/2008"},{"n":"2007","v":"/year/2007"},{"n":"2006","v":"/year/2006"},{"n":"2005","v":"/year/2005"},{"n":"2004","v":"/year/2004"},{"n":"2003","v":"/year/2003"},{"n":"2002","v":"/year/2002"},{"n":"2001","v":"/year/2001"},{"n":"2000","v":"/year/2000"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}]
     },
     searchUrl:'/so/page/fypage/wd/**/?wd=**',
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+    searchable:0,
+    quickSearch:0,
     headers:{
         'User-Agent':'PC_UA'
     },
@@ -24,19 +24,9 @@ var rule={
     play_parse:true,
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
     limit:6,
-    推荐:'.zmovo-teams;*;*;*;*;*',
-    double:true,//是否双层列表定位,默认false
-    一级:'div.item;.zmovo-team-title&&a&&Text;img&&src;h4&&Text;.ttw&&a&&href',
-	// 自定义js重新赋值正确的二级详情页地址
+    推荐:'*',
+    一级:'div.item:has(h4);.zmovo-team-title&&a&&Text;img&&src;h4&&Text;.ttw&&a&&href',
 	二级访问前:'log(MY_URL);let jump=request(MY_URL).match(/href="(.*?)"/)[1];log(jump);MY_URL=urljoin2(MY_URL,jump)',
-    二级:{
-        "title":"h2&&Text;#catmenu&&li:eq(2)&&Text",
-        "img":"",
-        "desc":"#catmenu&&li:eq(1)&&Text;#catmenu&&li:eq(2)&&Text;#catmenu&&li:eq(3)&&Text;#catmenu&&li:eq(4)&&Text;#catmenu&&li:eq(1)&&Text",
-        "content":"#catmenu&&li:eq(5)&&Text",
-        // '重定向':'js:let HOST=getHome(MY_URL);let url = HOST+html.match(/"(.*?)"/)[1];log("重定向到:"+url);html = request(url)',
-        "tabs":"ul.nav&&li",
-        "lists":".pagination:eq(#id) li"
-    },
+    二级:'js:pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;VOD={};var html=request(input);VOD.vod_name=pdfh(html,"h2&&Text");VOD.type_name=pdfh(html,".has-sub:eq(2)&&li:eq(1)&&Text").replace("备注：","");VOD.vod_remarks=pdfh(html,".has-sub:eq(2)&&li:eq(1)&&Text");VOD.vod_year=pdfh(html,".has-sub:eq(2)&&li:eq(2)&&Text").replace("年份：","");VOD.vod_area=pdfh(html,".has-sub:eq(2)&&li:eq(3)&&Text").replace("地区：","");VOD.vod_actor=pdfh(html,".has-sub:eq(2)&&li:eq(4)&&Text").replace("演员：","");VOD.vod_content=pdfh(html,".has-sub:eq(2)&&li:eq(5)&&Text");let playFrom=[];let vod_tab_list=[];let tabs=pdfa(html,".product-filter-list&&li");tabs.forEach((it)=>{playFrom.push(pdfh(it,"a&&Text"))});for(let i=0;i<playFrom.length;i++){let new_vod_list=[];let vodList=[];let turl=input;if(i>0){turl=pd(tabs[i],"a&&href")}try{vodList=pdfa(request(turl),".pagination&&li")}catch(e){}for(let j=0;j<vodList.length;j++){let url=turl;if(j>0){url=pd(vodList[j],"a&&href")}new_vod_list.push(pdfh(vodList[j],"body&&Text").trim()+"$"+url)}let vlist=new_vod_list.join("#");vod_tab_list.push(vlist)}VOD.vod_play_from=playFrom.join("$$$");VOD.vod_play_url=vod_tab_list.join("$$$");',
     搜索: '*',
 }
