@@ -91,7 +91,7 @@
 {"key":"csp_BBB","name":"哔哩┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩哔哩合集.json"},
 {"key":"csp_戏曲","name":"哔哩┃戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩哔哩戏曲.json"},
 {"key":"演唱会","name":"哔哩┃音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩哔哩音乐.json"},
-{"key":"兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"./json/兔小贝.js","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"./js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"儿童","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩哔哩少儿.json"},
 {"key":"小学","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩哔哩小学.json"},
 {"key":"初中","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩哔哩初中.json"},
