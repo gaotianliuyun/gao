@@ -3,11 +3,10 @@ var rule = {
     host:'https://www.ichemv.com',
     homeUrl:'/mv/',
     url:'/mv/fyclass_fypage.html',
-    searchUrl:'/search.php?key=**',
+    searchUrl:'/search.php?key=**&pages=fypage',
     searchable:2,
     quickSearch:0,
-    // class_parse:'.m_bor li;a&&Text;a&&href;/mv/(\\d+)_1.html',
-    class_parse:'.lei_fl li;a&&Text;a&&href;/mv/(\\d+)_1.html',
+    class_parse:'.lei_fl&&li;a&&Text;a&&href;.*/(\\d+)_1.html',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
@@ -17,10 +16,7 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
-    // 一级:'.mv_list li;.mv_name&&Text;.pic img&&src;.mv_p a:eq(0)&&Text;a&&href',
-    // 一级:'js:var d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);let list=pdfa(html,".sp_list&&li");list.forEach((it)=>{let urll=pd(it,"a&&href");let pic_urll=pd(request(urll),".pic:eq(0)&&img&&src");d.push({title:pdfh(it,".name&&Text"),desc:"🎤"+pdfh(it,".mv_p&&a&&Text"),pic_url:pic_urll,url:urll})});setResult(d);',
-    一级:'js:var d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);let list=pdfa(html,".sp_list&&li");list.forEach((it)=>{d.push({title:pdfh(it,".name&&Text"),desc:"🎤"+pdfh(it,".mv_p&&a&&Text"),pic_url:"https://www.ichemv.com/user/static/images/cover/singer.jpg",url:pd(it,"a&&href")})});setResult(d);',
+    一级: '.mv_list&&li;a&&title;img&&data-src;;a&&href',
     二级:'*',
-    // 搜索:'.play_xg li;.name&&Text;*;*;*',
-    搜索:'*',
+    搜索:'.sp_list&&li;a&&title;img&&data-src;.singer&&Text;a&&href;.hits&&Text',
 }
