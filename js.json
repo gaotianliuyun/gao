@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;ac115573e4f120c68c0702f89150dbf3",
+{"spider": "./jar/custom_spider.jar;md5;255c5dca97c64efb39b5fbe7d748cc0b",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
@@ -107,6 +107,7 @@
 {"key":"drpy_js_海盗听书","name":"听书 | 海盗听书[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海盗听书.js","playerType":"2"},
 {"key":"drpy_js_听书网","name":"听书 | 听书网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/听书网.js","playerType":"2"},
 {"key":"drpy_js_有声小说","name":"听书 | 有声小说[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/有声小说吧.js","playerType":"2"},
+{"key":"drpy_js_有声听书网","name":"听书 | 有声听书网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/有声听书网.js","playerType":"2"},
 {"key":"drpy_js_幻听网听书","name":"听书 | 幻听网听书[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/幻听网听书.js","playerType":"2"},
 {"key":"drpy_js_短视频","name":"聚合 | 短视频[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/短视频.js"},
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷6网.js"},
@@ -145,6 +146,7 @@
 {"key":"drpy_js_139影视","name":"影视 | 139影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/139影视.js"},
 {"key":"drpy_js_2099电影","name":"影视 | 2099电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/2099电影.js"},
 {"key":"drpy_js_333影视","name":"影视 | 333影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/333影视.js"},
+{"key":"drpy_js_345看片","name":"影视 | 345看片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/345看片.js"},
 {"key":"drpy_js_555影视[V2]","name":"影视 | 555影视[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[V2].js"},
 {"key":"drpy_js_69美剧","name":"影视 | 69美剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧.js"},
 {"key":"drpy_js_8号影院","name":"影视 | 8号影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/8号影院.js"},
