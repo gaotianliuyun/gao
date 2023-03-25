@@ -11,7 +11,7 @@
   "副标题": "icon-play\"></i>&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "/search.html?wd={wd}",
+  "搜索url": "/s.html?wd={wd}",
   "搜索数组": "<dl>&&</dl>",
   "搜索图片": "data-src=\"&&\"",
   "搜索标题": "alt=\"&&\"",

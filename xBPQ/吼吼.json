@@ -13,7 +13,7 @@
   "副标题": "module-item-caption\">&&</div>",
   
   "搜索模式": "1",
-  "搜索url": "/vod/search.html?wd={wd}",
+  "搜索url": "/vod/search/wd/{wd}.html",
   "搜索数组": "<img class=\"lazy&&/a>",
   "搜索图片": "data-src=\"&&\"",
   "搜索标题": "title=\"&&\"",
@@ -24,7 +24,7 @@
   "主演": "主演：&&</div>",
   "简介": "vod_content\">&&</a>",
   
-  "线路数组": "data-dropdown-value=&&</div>",
+  "线路数组": "data-dropdown-value=&&</div>[不包含:海外]",
   "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
   "播放数组": "<div class=\"scroll-content&&</div>",
