@@ -4,7 +4,8 @@ muban.mxone5.二级.content = '.sqjj_a&&Text'
 var rule = {
 	title:'飞飞影视',
 	模板:'mxone5',
-	host:'https://feifeiys.top',
+	// host:'https://feifeiys.top',
+	host:'https://feifeiys1.top',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
