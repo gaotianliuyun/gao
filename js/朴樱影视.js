@@ -1,8 +1,10 @@
+
 muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule = {
 	title:'朴樱影视',
 	模板:'mxone5',
-	host:'https://www.b09.net',
+	// host:'https://www.b09.net',
+	host:'https://www.pyys.art',
 	// url:'/index.php/vod/show/id/fyclass/page/fypage.html',
 	url:'/index.php/vod/show/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
