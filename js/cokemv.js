@@ -27,7 +27,9 @@ var rule = {
 	// class_parse:'.navbar-items li:gt(1):lt(7);a&&Text;a&&href;/(\\d+).html',
 	class_parse:'.navbar-items li:gt(1):lt(8);a&&Text;a&&href;/(\\d+).html',
 
-	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
 	detailUrl:'/voddetail/fyid.html', //非必填,二级详情拼接链接
-	搜索:'json:list;name;pic;;id',
+	// searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	// 搜索:'json:list;name;pic;;id',
+	searchUrl:'/vodsearch/**-------------.html',
+	搜索:'a.module-card-item-poster;img&&alt;*;*;*',
 }
