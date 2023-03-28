@@ -1,9 +1,9 @@
 {
-"spider":"./jar/fan.txt;md5;61bca6e5fd49bef5a2834109f23303a9",
+"spider":"./jar/fan.txt;md5;2427acdd749c3d413e3c9d16d4bebce3",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 
 "sites":[
-{"key":"js豆瓣","name":"🅱豆豆┃推荐","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🅱豆豆┃推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 //{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
 {"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://饭太硬.ga/x/json/bilibili.json"},
@@ -88,13 +88,13 @@
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
 {"name":"全部","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
-{"name": "来","type": 1,"url": "https://json.xn--9kq078cdn3a.cc/api/?key=9ksb8DzGi6xUtNf1Cm&url="},
+{"name": "来","type": 1,"url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="},
 {"name":"自","type":1,"url":"https://jx.ccabc.cc/byg/?url="},
 {"name":"网络","type":1,"url":"https://b.umkan.cc/API.php?url="},
 {"name":"大家","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 {"name":"随便","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"弄","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
-{"name":"不要","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
+{"name":"不要","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
 {"name":"客气","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"坏了","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name":"我再","type":1,"url":"https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url="},
