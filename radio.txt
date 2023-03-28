@@ -1,4 +1,4 @@
-中央广播电台,#genre#
+央广,#genre#
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
@@ -37,7 +37,7 @@ MY FM 南京 FM103.5,http://ls.qingting.fm/live/2769.m3u8
 MY FM 西安 FM105.5,http://live.xmcdn.com/live/870/64.m3u8
 MY FM 西安 FM105.5,http://ls.qingting.fm/live/4885.m3u8
 清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
-国际华人电台,#genre#
+国际,#genre#
 FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
 香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
 香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
@@ -52,7 +52,7 @@ FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
 Mandarin Radio,http://streaming.radionomy.com/JamendoLounge
 CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
 纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
-音乐广播,#genre#
+音乐,#genre#
 北京好音乐广播,https://lhttp.qingting.fm/live/5021381/64k.mp3
 上海东广新闻台,http://lhttp.qingting.fm/live/275/64k.mp3
 上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
@@ -72,6 +72,8 @@ CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.
 河南古典音乐天籁广播,http://stream.hndt.com/live/gudian/chunklist_w1085892077.m3u8
 河南戏曲娱乐广播,http://stream.hndt.com/live/yule/playlist.m3u8
 河南戏曲娱乐广播,http://stream.hndt.com/live/yule/chunklist_w1631891218.m3u8
+武汉音乐广播,https://lhttp.qingting.fm/live/1297/64k.mp3
+广西音乐广播 FM95.0,http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 广东音乐之声,http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 深圳音乐广播飞扬971,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 海南音乐广播,http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
@@ -181,7 +183,7 @@ BBC Radio 5,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonu
 BBC Radio 6,http://stream.live.vc.bbcmedia.co.uk/bbc_6music
 News Radio UK,http://playoutonestreaming.com:8008/stream
 MSNBC Radio,http://peridot.streamguys.com:7850/live
-地方电台(A-C),#genre#
+地方(A-C),#genre#
 安阳交通广播 FM89,http://ls.qingting.fm/live/2138.m3u8
 安阳汽车音乐台 FM100.8,http://ls.qingting.fm/live/2123.m3u8
 安阳新闻综合广播 FM94.2,http://ls.qingting.fm/live/4689560.m3u8
@@ -236,7 +238,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 重庆新闻广播 FM96.8,http://ls.qingting.fm/live/1498.m3u8
 重庆音乐广播 FM88.1,http://live.xmcdn.com/live/131/64.m3u8
 重庆音乐广播 FM88.1,http://ls.qingting.fm/live/647.m3u8
-地方电台(D-G),#genre#
+地方(D-G),#genre#
 第一财经 FM97.7,http://live.xmcdn.com/live/56/64.m3u8
 第一财经 FM97.7,http://ls.qingting.fm/live/276.m3u8
 东港新闻综合广播 FM93.3,http://live.xmcdn.com/live/1324/64.m3u8
@@ -301,7 +303,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 贵州电台旅游广播 FM97.2,http://ls.qingting.fm/live/23929.m3u8
 贵州电台音乐广播 FM91.6,http://ls.qingting.fm/live/23937.m3u8
 贵州新闻综合广播 FM94.6,http://ls.qingting.fm/live/23933.m3u8
-地方电台(H),#genre#
+地方(H),#genre#
 海口新闻综合广播,http://ls.qingting.fm/live/2938451.m3u8
 海口音乐广播,http://ls.qingting.fm/live/23859.m3u8
 海南国际旅游之声 FM103.8,http://ls.qingting.fm/live/1862.m3u8
@@ -338,6 +340,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 河南娱乐广播 FM97.6,http://ls.qingting.fm/live/1719795.m3u8
 鹤壁交通音乐广播 FM93.5,http://ls.qingting.fm/live/3032681.m3u8
 鹤山电台104.7,http://ls.qingting.fm/live/1286.m3u8
+黑龙江都市女性广播,http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
 衡阳好朋友 FM105.4,http://ls.qingting.fm/live/1319363.m3u8
 衡阳交通广播 FM101.8,http://live.xmcdn.com/live/1181/64.m3u8
 衡阳交通广播 FM101.8,http://ls.qingting.fm/live/5079921.m3u8
@@ -360,7 +363,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 惠州环保交通广播 FM98.8,http://ls.qingting.fm/live/5017.m3u8
 惠州新闻综合广播 FM100,http://ls.qingting.fm/live/5016.m3u8
 惠州音乐广播 FM90.7,http://ls.qingting.fm/live/2212959.m3u8
-地方电台(J),#genre#
+地方(J),#genre#
 吉林交通广播 FM103.8,http://live.xmcdn.com/live/431/64.m3u8
 吉林交通广播 FM103.8,http://ls.qingting.fm/live/4945.m3u8
 吉林经济广播 FM95.3,http://live.xmcdn.com/live/433/64.m3u8
@@ -406,7 +409,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 荆门交通音乐频率 FM99.3,http://ls.qingting.fm/live/60808.m3u8
 荆门之声频率 FM89.7,http://live.jmtv.com.cn/xwzhpl/sd/live.m3u8
 九江新闻综合广播 FM91.6,http://ls.qingting.fm/live/4474799.m3u8
-地方电台(K-Q),#genre#
+地方(K-Q),#genre#
 开封旅游广播,http://ls.qingting.fm/live/4569.m3u8
 开州之声 FM89.0,http://183.64.174.171:10124/tlgb.m3u8
 昆明都市调频 FM102.8,http://live.xmcdn.com/live/907/64.m3u8
@@ -431,6 +434,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 龙广爱家频道 FM97,http://ls.qingting.fm/live/4972.m3u8
 龙广朝鲜语广播 AM873,http://stream3.hljtv.com/hljrdcy/sd/live.m3u8
 龙广都市女性台 FM102.1,http://ls.qingting.fm/live/4968.m3u8
+龙广都市女性台 FM102.1,http://live.xmcdn.com/live/378/64.m3u8
 龙广交通广播 FM99.8,http://ls.qingting.fm/live/4973.m3u8
 龙广青苹果之声 FM104.6,http://ls.qingting.fm/live/4976.m3u8
 龙广私家车广播 FM104.5,http://stream3.hljtv.com/hljrdsh/sd/live.m3u8
@@ -489,7 +493,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 青岛西海岸交通广播 FM92.6,http://ls.qingting.fm/live/3748882.m3u8
 青岛新闻广播 FM107.6,http://ls.qingting.fm/live/1673.m3u8
 青海生活广播 花儿调频 FM90.3,http://ls.qingting.fm/live/2163891.m3u8
-地方电台(S),#genre#
+地方(S),#genre#
 三明新闻综合广播,http://ls.qingting.fm/live/3128814.m3u8
 三亚天涯之声 FM104.6,http://ls.qingting.fm/live/68236.m3u8
 厦门广播闽南之声,http://ls.qingting.fm/live/1740.m3u8
@@ -580,7 +584,7 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 苏州戏曲广播 AM846,http://live.xmcdn.com/live/576/64.m3u8
 苏州新闻广播 FM91.1,http://live.xmcdn.com/live/63/64.m3u8
 苏州音乐广播 动听948 FM94.8,http://live.xmcdn.com/live/65/64.m3u8
-地方电台(T-X),#genre#
+地方(T-X),#genre#
 太原交通广播 FM107,http://live.xmcdn.com/live/883/64.m3u8
 太原交通广播 FM107,http://ls.qingting.fm/live/4900.m3u8
 太原私家车Radio FM104.4,http://ls.qingting.fm/live/4018.m3u8
@@ -652,10 +656,11 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 新乡交通广播 FM99.1,http://ls.qingting.fm/live/1229.m3u8
 许昌交通广播 FM92.6,http://ls.qingting.fm/live/3126629.m3u8
 许昌新闻广播 FM102,http://ls.qingting.fm/live/3125648.m3u8
-地方电台(Y-Z),#genre#
+地方(Y-Z),#genre#
 烟台交通广播 FM103,http://ls.qingting.fm/live/1684.m3u8
 烟台经济广播 FM105.9,http://ls.qingting.fm/live/1683.m3u8
 烟台新闻广播 FM101,http://ls.qingting.fm/live/1682.m3u8
+扬州江都广播,http://ls.qingting.fm/live/4312411.m3u8
 扬州交通广播,http://ls.qingting.fm/live/2804.m3u8
 扬州流行音乐广播,http://ls.qingting.fm/live/2805.m3u8
 扬州新闻广播,http://ls.qingting.fm/live/5000.m3u8?aac
