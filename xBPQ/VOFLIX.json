@@ -1,22 +1,22 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "VOFLIX",
-  "主页url": "https://www.voflix.com",
+  "主页url": "https://www.voflix.me",
   
   "分类": "电影$1#剧集$2#动漫$4#综艺$3#国产剧$13#日韩剧$15#欧美剧$16",
   
-  "分类url": "https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
-  "搜索模式": "0",
-  "搜索后缀": "/detail/",
-  /*"搜索url": "/search/-------------.html?wd={wd}",
+  "搜索模式": "1",
+  //"搜索后缀": "/detail/",
+  "搜索url": "/search/-------------.html?wd={wd}",
   "搜索数组": "module-item\">&&</a>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
   "搜索链接": "href=\"&&\"",
-  "搜索副标题": "module-item-note\">&&</div>",*/
+  "搜索副标题": "module-item-note\">&&</div>",
   
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",

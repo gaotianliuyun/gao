@@ -3,8 +3,7 @@
   "站名": "热播库",
   "主页url": "https://www.reboku.cc",
   
-  "分类": "电影&剧集&动漫",
-  "分类值": "dy&tv&dm",
+  "分类": "电影$dy#剧集$tv#动漫$dm",
   
   "分类url": "https://www.reboku.cc/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   

@@ -11,7 +11,7 @@
   "副标题": "<span>&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "/index.php?m=vod-search&wd={wd}",
+  "搜索url": "/index.php?m=vod-search;post;wd={wd}",
   "搜索数组": "<li class=\"vbox&&</a>",
   "搜索副标题": "<span>&&</span>",
   

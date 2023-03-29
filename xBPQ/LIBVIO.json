@@ -5,16 +5,13 @@
   
   "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
   
-  "分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://tv.libvio.cc/show_{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "text-right\">&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "/search/-------------.html?wd={wd}",
+  "搜索url": "/search_-------------.html?wd={wd}",
   "搜索数组": "stui-vodlist__box\">&&</a>",
-  "搜索图片": "data-original=\"&&\"",
-  "搜索标题": "title=\"&&\"",
-  "搜索链接": "href=\"&&\"",
   "搜索副标题": "text-right\">&&</span>",
   
   "影片地区": "地区：&&/",
