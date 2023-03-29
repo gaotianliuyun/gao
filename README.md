@@ -13,7 +13,9 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （7）js.json  资源来源于猫爪收集整理的道长drpy(js)资源；
 
-（8）xBPQ.json  纯xBPQ源，jar包和配置来源于菜妮丝。
+（8）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
+
+（9）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
 APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ），FongMi版支持直播多线路，q215613905版支持直播回放。
 
@@ -33,27 +35,29 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （7）菜妮丝：https://tvbox.cainisi.cf
 
-（8）神器：https://神器每日推送.tk/pz.json
+（8）香雅情：https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json
 
-（9）巧技：http://pandown.pro/tvbox/tvbox.json
+（9）神器：https://神器每日推送.tk/pz.json
 
-（10）吾爱有三：http://52bsj.vip:98/0805
+（10）巧技：http://pandown.pro/tvbox/tvbox.json
 
-（11）潇洒：https://download.kstore.space/download/2863/01.txt
+（11）吾爱有三：http://52bsj.vip:98/0805
 
-（12）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（12）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（13）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+（13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
-（14）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
+（14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
-（15）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（15）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
-（16）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
+（16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（17）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+（17）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
-（18）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
+（18）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+
+（19）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
 
 3. 随机轮换壁纸：
 
