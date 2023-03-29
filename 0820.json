@@ -45,7 +45,7 @@
 {"key":"csp_panghu","name":"胖虎┃直连","type":3,"api":"csp_Panghu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"555┃直连","type":3,"api":"csp_Ys555","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"csp_Nkdy","name":"耐看┃直连","type":3,"api":"csp_Nkdy","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Hlsp","name":"黑料┃直连","type":3,"api":"csp_Hlsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/黑料.json"},
+{"key":"csp_Hlsp","name":"黑料┃直连","type":3,"api":"csp_Hlsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑料.json"},
 {"key":"csp_SP33","name":"三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Qtv","name":"腾腾┃解析","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Itv","name":"爱爱┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
