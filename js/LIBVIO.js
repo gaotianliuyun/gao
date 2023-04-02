@@ -8,8 +8,8 @@ var rule = {
 	host:'https://tv.libvio.cc',
 	// host:'https://libvio.me',
 	// url:'/type/fyclass-fypage.html',
-	// url:'/show/fyclassfyfilter.html',
-	url:'/show_fyclassfyfilter.html',
+	url:'/show/fyclassfyfilter.html',
+	// url:'/show_fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}--{{fl.lang}}----fypage---{{fl.year}}',
 	filter: {
@@ -24,13 +24,13 @@ var rule = {
 		'User-Agent':'MOBILE_UA',
 		'Referer':'https://tv.libvio.cc/'
 	},
-	// class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
-	class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
-	tab_exclude:'夸克网盘',
+	class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
+	// class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
+	tab_exclude:'夸克网盘|百度云盘',
 	pagecount:{"27":1},
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
-	// detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
-	detailUrl:'/detail_fyid.html', //非必填,二级详情拼接链接
+	detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
+	// detailUrl:'/detail_fyid.html', //非必填,二级详情拼接链接
 	// searchUrl:'/search/**----------fypage---.html',
 	搜索:'json:list;name;pic;;id',
 }
