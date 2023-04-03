@@ -1,13 +1,13 @@
 {
-"菜妮丝https://cainisi.cf":"您的IP地址：13.214.197.237",
+"菜妮丝https://cainisi.cf":"您的IP地址：122.96.31.129",
 "友情提醒": "本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除",
 
 "sites":[
 //{"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"https://tvbox.cainisi.cf/json/js/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"360影视","name":"360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/360影视.json"},
 //{"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"布蕾影视","name":"布蕾影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/布蕾影视.json"},
-{"key":"布蕾影视","name":"布蕾┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.bulei.cc"},
+{"key":"布蕾影城","name":"布蕾┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/布蕾影视.json"},
+//{"key":"布蕾影视","name":"布蕾┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc/"},
 {"key":"YQK_spider","name":"一起看┃影视","api":"csp_YQKAPP","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"key":"csp_AppMr","name":"明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"低端影视","name":"低端影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"click":"ddys.tv;.vjs-big-play-button","ext":"./xBPQ/低端影视.json"},
