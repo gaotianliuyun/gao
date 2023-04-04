@@ -5,16 +5,18 @@
   
   "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
   
-  "分类url": "https://www.fantuantva.com/s/{cateId}{area}{by}/page/{catePg}{year}.html",
+  "分类url": "https://www.fantuantva.com/t/{cateId}.html",
   
   "副标题": "class=\"tc_wz\">&&</p>",
   
-  "搜索模式": "1",
-  "搜索url": "/vodsearch/-------------.html?wd={wd}",
+  "搜索模式": "0",
+  "搜索后缀": "/v/",
+  
+  /*"搜索url": "/vodsearch/-------------.html?wd={wd}",
   "搜索数组": "<div class=\"reusltbox\">&&</ul>",
   "搜索图片": "src=\"&&\"",
   "搜索标题": "<a href=*>&&</a>",
-  "搜索副标题": "状态：<span>&&</span>",
+  "搜索副标题": "状态：<span>&&</span>",*/
   
   "影片年代": "年份：&&</i>",
   "影片地区": "地区：&&</i>",
