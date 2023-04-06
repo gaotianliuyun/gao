@@ -115,7 +115,8 @@ FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
 纽西兰华人之声FM104.2音乐台,http://radio.936.nz:8000/fm994
 Mandarin Radio,http://streaming.radionomy.com/JamendoLounge
 CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
-纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH音乐,#genre#
+纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
+音乐,#genre#
 北京好音乐广播,https://lhttp.qingting.fm/live/5021381/64k.mp3
 上海东广新闻台,http://lhttp.qingting.fm/live/275/64k.mp3
 上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3

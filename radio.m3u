@@ -234,7 +234,9 @@ http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-1 ,CCN赛普勒斯中文电台
 https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
 #EXTINF:-1 ,纽约WABH-AM 1380(Country)
-https://ice24.securenetsystems.net/WABH音乐,#genre#
+https://ice24.securenetsystems.net/WABH
+#EXTINF:-1 ,====== 音乐,#genre# ======
+http://2/2.m3u8
 #EXTINF:-1 ,北京好音乐广播
 https://lhttp.qingting.fm/live/5021381/64k.mp3
 #EXTINF:-1 ,上海东广新闻台
@@ -334,7 +336,7 @@ http://ls.qingting.fm/live/1222.m3u8
 #EXTINF:-1 ,台湾古典音乐台Classical FM 97.7
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 ,====== YueChan,#genre# ======
-http://2/2.m3u8
+http://3/3.m3u8
 #EXTINF:-1 ,北京经典调频
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 ,北京文艺广播
@@ -454,7 +456,7 @@ http://playoutonestreaming.com:8008/stream
 #EXTINF:-1 ,MSNBC Radio
 http://peridot.streamguys.com:7850/live
 #EXTINF:-1 ,====== 地方(A-C),#genre# ======
-http://3/3.m3u8
+http://4/4.m3u8
 #EXTINF:-1 ,安阳交通广播 FM89
 http://ls.qingting.fm/live/2138.m3u8
 #EXTINF:-1 ,安阳汽车音乐台 FM100.8
@@ -554,7 +556,7 @@ http://live.xmcdn.com/live/131/64.m3u8
 #EXTINF:-1 ,重庆音乐广播 FM88.1
 http://ls.qingting.fm/live/647.m3u8
 #EXTINF:-1 ,====== 地方(D-G),#genre# ======
-http://4/4.m3u8
+http://5/5.m3u8
 #EXTINF:-1 ,第一财经 FM97.7
 http://live.xmcdn.com/live/56/64.m3u8
 #EXTINF:-1 ,第一财经 FM97.7
@@ -684,7 +686,7 @@ http://ls.qingting.fm/live/23937.m3u8
 #EXTINF:-1 ,贵州新闻综合广播 FM94.6
 http://ls.qingting.fm/live/23933.m3u8
 #EXTINF:-1 ,====== 地方(H),#genre# ======
-http://5/5.m3u8
+http://6/6.m3u8
 #EXTINF:-1 ,海口新闻综合广播
 http://ls.qingting.fm/live/2938451.m3u8
 #EXTINF:-1 ,海口音乐广播
@@ -804,7 +806,7 @@ http://ls.qingting.fm/live/5016.m3u8
 #EXTINF:-1 ,惠州音乐广播 FM90.7
 http://ls.qingting.fm/live/2212959.m3u8
 #EXTINF:-1 ,====== 地方(J),#genre# ======
-http://6/6.m3u8
+http://7/7.m3u8
 #EXTINF:-1 ,吉林交通广播 FM103.8
 http://live.xmcdn.com/live/431/64.m3u8
 #EXTINF:-1 ,吉林交通广播 FM103.8
@@ -896,7 +898,7 @@ http://live.jmtv.com.cn/xwzhpl/sd/live.m3u8
 #EXTINF:-1 ,九江新闻综合广播 FM91.6
 http://ls.qingting.fm/live/4474799.m3u8
 #EXTINF:-1 ,====== 地方(K-Q),#genre# ======
-http://7/7.m3u8
+http://8/8.m3u8
 #EXTINF:-1 ,开封旅游广播
 http://ls.qingting.fm/live/4569.m3u8
 #EXTINF:-1 ,开州之声 FM89.0
@@ -1064,7 +1066,7 @@ http://ls.qingting.fm/live/1673.m3u8
 #EXTINF:-1 ,青海生活广播 花儿调频 FM90.3
 http://ls.qingting.fm/live/2163891.m3u8
 #EXTINF:-1 ,====== 地方(S),#genre# ======
-http://8/8.m3u8
+http://9/9.m3u8
 #EXTINF:-1 ,三明新闻综合广播
 http://ls.qingting.fm/live/3128814.m3u8
 #EXTINF:-1 ,三亚天涯之声 FM104.6
@@ -1246,7 +1248,7 @@ http://live.xmcdn.com/live/63/64.m3u8
 #EXTINF:-1 ,苏州音乐广播 动听948 FM94.8
 http://live.xmcdn.com/live/65/64.m3u8
 #EXTINF:-1 ,====== 地方(T-X),#genre# ======
-http://9/9.m3u8
+http://10/10.m3u8
 #EXTINF:-1 ,太原交通广播 FM107
 http://live.xmcdn.com/live/883/64.m3u8
 #EXTINF:-1 ,太原交通广播 FM107
@@ -1390,7 +1392,7 @@ http://ls.qingting.fm/live/3126629.m3u8
 #EXTINF:-1 ,许昌新闻广播 FM102
 http://ls.qingting.fm/live/3125648.m3u8
 #EXTINF:-1 ,====== 地方(Y-Z),#genre# ======
-http://10/10.m3u8
+http://11/11.m3u8
 #EXTINF:-1 ,烟台交通广播 FM103
 http://ls.qingting.fm/live/1684.m3u8
 #EXTINF:-1 ,烟台经济广播 FM105.9
@@ -1502,7 +1504,7 @@ http://ls.qingting.fm/live/1275.m3u8
 #EXTINF:-1 ,珠海电台先锋951
 http://ls.qingting.fm/live/1274.m3u8
 #EXTINF:-1 ,====== 🇨🇳中国广播,#genre# ======
-http://11/11.m3u8
+http://12/12.m3u8
 #EXTINF:-1 ,CN-民歌悠扬
 https://lhttp.qingting.fm/live/15318585/64k.mp3
 #EXTINF:-1 ,CN-上海新闻广播
