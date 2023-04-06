@@ -62,7 +62,6 @@ AXR Singapore,http://singaporestream.axr.online
 Thitsarparami Dhamma Society,https://edge.mixlr.com/channel/nmtev
 Symphony 924 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac
 Jazz Lounge,http://eu8.fastcast4u.com:5068/;
-MyFM,http://astro1.rastream.com/myfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amyfm&playerid=MY%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTA2ODc4OTM5MzIsImV4cCI6MTQ5MDc3NDI5MzkzMn0.WOCZn2kJuoHhhdoq7wyFgn-dJC2teH3_RPxZuSwjCVk&lan=%5B%22zh%22%5D&setLanguage=true
 Sinar FM,http://astro2.rastream.com/sinar
 Era FM,http://astro2.rastream.com/era
 MELODY,http://astro3.rastream.com/melody?awparams=companionads:true;tags:radioactive;stationid:amp-melody&playerid=MELODY_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTU1NjAsImV4cCI6MTUzNzgwMTk2MH0.Y5rRnKwPpBiaFL--nplqrezUmaHLJoHDZnJsG99o10o
@@ -94,7 +93,6 @@ Hitsujikai Radio,http://streaming.radio.co/se4a8e6a93/listen
 ICRT,http://live.leanstream.co/ICRTFM-MP3
 1766線上電臺-店頭音樂,http://livestream.1766.today:1781/live2.mp3
 城市廣播網?台南知音,http://fm971.cityfm.tw:8080/971.mp3
-CNR-5 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 1766線上電臺-私房音樂,http://livestream.1766.today:1769/live1.mp3
 ICRT,http://live.leanstream.co/ICRTFM?args=tunein_aac
 幸福廣播電台 TR radio (102.5 MHz FM 台北市 臺北市) Transformation Radio Taipei,https://live.tr-radio.com/live/live/playlist.m3u8
@@ -102,10 +100,22 @@ Taiwan Good TV Truth,http://live.streamingfast.net/hls-live/goodtv/_definst_/liv
 Phate,http://phate.io/listen
 1766線上電臺-百家知識,http://livestream.1766.today:1768/live1.mp3
 DaAi Radio,http://38.96.148.28:8156/stream
-CNR-6 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 城市廣播網?大苗栗廣播,http://fm983.cityfm.tw:8080/983.mp3
 羅東廣播電台-宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
-音乐,#genre#
+FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
+香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+香港电台第二台,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+香港电台第三台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+香港电台第五台,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+西澳华语广播电台,http://streamer5.rightclickitservices.com:7200/stream
+马来西亚MY FM音乐台,http://astro1.rastream.com/myfm
+马来西亚Melody音乐台,https://astro3.rastream.com/melody
+纽西兰华人之声AM936新超凡,http://radio.936.nz:8000/am936
+纽西兰华人之声FM104.2音乐台,http://radio.936.nz:8000/fm994
+Mandarin Radio,http://streaming.radionomy.com/JamendoLounge
+CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH音乐,#genre#
 北京好音乐广播,https://lhttp.qingting.fm/live/5021381/64k.mp3
 上海东广新闻台,http://lhttp.qingting.fm/live/275/64k.mp3
 上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
@@ -1627,7 +1637,5 @@ Xuzhou,http://lhttp.qingting.fm/live/4923/64k.mp3
 希望-辛集人民广播电台,http://lhttp.qingting.fm/live/5021959/64k.mp3
 浙江-台州交通广播,https://lhttp.qingting.fm/live/1146/64k.mp3
 中国-shirley&spinoza,http://s2.radio.co/sec5fa6199/listen.m3u
-FunkyCornerRadio(China),https://ais-sa2.cdnstream1.com/2447_96.aac
-FunkyCornerRadio(China),https://ais-sa2.cdnstream1.com/2447_192.mp3
 徐州交通广播,https://lhttp.qingting.fm/live/4924/64k.mp3
 徐州新闻综合广播,https://lhttp.qingting.fm/live/4922/64k.mp3
