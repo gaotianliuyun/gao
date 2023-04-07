@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "./jar/XYQ.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf",
+    "spider": "./jar/XYQ.jar;md5;abeabd69d84f0c887e7d045fb7cf4ecf",
     "lives": [
         {
           "name": "直播",
@@ -29,12 +29,12 @@
     "sites": [
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         {"key":"csp_Alist","name":"💾Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Alist.json"},
-        {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
-        {"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
-        {"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
-        {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
-        {"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
-        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+        {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+        {"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+        {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+        {"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
         {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
         {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
