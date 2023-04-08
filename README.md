@@ -91,7 +91,7 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （15）https://pictures.catvod.eu.org/
 
-如果喜欢，请复刻自用，切勿传播。谢谢！
+如果喜欢，请点亮右上角小星星，谢谢！
 
 尽自己所能更新，不保证配置的有效性和时效性。
 
