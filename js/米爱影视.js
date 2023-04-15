@@ -3,7 +3,8 @@ muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq
 var rule = {
 	title: '米爱影视',
 	模板:'mxone5',
-	host: 'https://www.miai.cc',
+	// host: 'https://www.miai.cc',
+	host: 'https://www.miai9.cc',
 	// url: '/vodshow/fyclass--------fypage---.html',
 	url: '/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,

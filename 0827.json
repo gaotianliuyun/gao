@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a",
+  "spider": "./jar/custom_spider.jar;md5;fec1811bad085e87682f64be8bc9885a",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -79,6 +79,16 @@
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://ali.饭太硬.ml/alitoken"
+    },
+    {
       "key": "易搜",
       "name": "易搜",
       "type": 3,
@@ -107,6 +117,16 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken"
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
