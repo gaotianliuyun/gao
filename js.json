@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;fec1811bad085e87682f64be8bc9885a",
+{"spider": "./jar/custom_spider.jar;md5;962a1af0469ede7b575046c69c1f52d3",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
@@ -47,7 +47,6 @@
 {"key":"drpy_js_去看吧","name":"影视 | 去看吧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/去看吧.js"},
 {"key":"drpy_js_粤爱看","name":"影视 | 粤爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/粤爱看.js"},
 {"key":"drpy_js_追剧迷","name":"影视 | 追剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧迷.js"},
-{"key":"drpy_js_豆芽影院","name":"影视 | 豆芽影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆芽影院.js"},
 {"key":"drpy_js_NFM影视","name":"影视 | NFM影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NFM影视.js"},
 {"key":"drpy_js_91free","name":"影视 | 91free[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/91free.js"},
 {"key":"drpy_js_fositv","name":"影视 | fositv[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/fositv.js"},

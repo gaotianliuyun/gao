@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;fec1811bad085e87682f64be8bc9885a",
+  "spider": "./jar/custom_spider.jar;md5;962a1af0469ede7b575046c69c1f52d3",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -11,6 +11,16 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "./json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./json/webdav.json"
     },
     {
       "key": "哔哩",
