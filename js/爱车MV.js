@@ -15,6 +15,7 @@ var rule = {
     lazy:'',
     limit:6,
     double:false,
+    图片来源:'@Referer=https://www.ichemv.com/',
     推荐:'*',
     一级: '.mv_list&&li;a&&title;img&&data-src;;a&&href',
     二级:'*',

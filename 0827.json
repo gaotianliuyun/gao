@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989",
+  "spider": "./jar/custom_spider.jar;md5;0bc15f10795f089154b14a04db37b9f4",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -85,8 +85,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "changeable": 0
     },
     {
       "key": "七夜",
@@ -95,8 +94,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "changeable": 0
     },
     {
       "key": "易搜",
@@ -105,8 +103,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "changeable": 0
     },
     {
       "key": "盤搜",
@@ -115,8 +112,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "changeable": 0
     },
     {
       "key": "UP雲搜",
@@ -125,8 +121,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "changeable": 0
     },
     {
       "key": "找資源",
@@ -136,7 +131,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
+      "ext": "影視天下第一$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
@@ -145,8 +140,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "http://ali.饭太硬.ml/alitoken"
+      "changeable": 0
     }
   ]
 }
