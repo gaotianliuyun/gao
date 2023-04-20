@@ -1,6 +1,6 @@
 var rule = {
     title:'学生球赛录像',
-    编码:'gbk',
+    编码:'gb18030',
     host:'http://www.xsm2b.com',
     url:'/fyclass/fypage.html',
     searchUrl:'',

@@ -1,5 +1,5 @@
 // 道长 drpy仓库 https://gitcode.net/qq_32394351/dr_py
-// drpy安卓本地搭建说明 https://gitcode.net/qq_32394351/dr_py/-/blob/master/%E5%AE%89%E5%8D%93%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.md
+// drpy安卓本地搭建说明 https://code.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/blob/master/%E5%AE%89%E5%8D%93%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.md
 // Pluto Player官方TG https://t.me/PlutoPlayer
 // Pluto Player官方TG https://t.me/PlutoPlayerChannel
 
