@@ -8,8 +8,7 @@ var rule = {
     class_name:'全部',
     class_url:'/',
     headers:{
-        'User-Agent':'MOBILE_UA',
-        "Cookie": "searchneed=ok"
+        'User-Agent':'PC_UA'
     },
     timeout:5000,
     play_parse:true,

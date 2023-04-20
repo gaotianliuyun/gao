@@ -6,11 +6,11 @@
 		"key":"dr_HG影院[V2]",
 		"name":"HG影院[V2](drpy)",
 		"type":3,
-		"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+		"api":"https://code.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/libs/drpy2.min.js",
 		"searchable":2,
 		"quickSearch":0,
 		"filterable":1,
-		"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HG影院[V2].js",
+		"ext":"https://code.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/HG影院[V2].js",
 		"playerType":2
 	},
 */
