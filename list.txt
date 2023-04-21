@@ -953,6 +953,8 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 肥羊GHYX,#genre# 
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+CCTV16-4K,https://live.v1.mk/api/ghyx.php?id=CCTV16UHD_25000
+CCTV-4K,https://live.v1.mk/api/ghyx.php?id=CCTV4K_25000
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
 CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
