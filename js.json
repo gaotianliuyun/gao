@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;39bab949d9f60a43f46bc63b6bdcbeba",
+{"spider": "./jar/custom_spider.jar;md5;c08916c262b65e7a7caff865d900f3b7",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_jsd_豆瓣","name":"搜索 | 豆瓣[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.jsd"},
@@ -223,11 +223,7 @@
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
 {"key":"drpy_jsd_饭团电影","name":"影视 | 饭团电影[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团.jsd"},
 {"key":"drpy_jsd_大猪蹄子","name":"影视 | 大猪蹄子[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大猪蹄子.jsd"},
-{"key":"drpy_jsd_爱酷影视","name":"影视 | 爱酷影视[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱酷影视.jsd"},
 {"key":"drpy_jsd_在线189","name":"影视 | 在线189[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/在线189.jsd"},
-{"key":"drpy_jsd_海盗听书","name":"听书 | 海盗听书[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海盗听书.jsd"},
-{"key":"drpy_jsd_萌番","name":"动漫 | 萌番[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌番.jsd"},
-{"key":"drpy_old_夜空","name":"影视 | 夜空[old]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/夜空.js.old"},
 {"key":"drpy_js_AB影院[飞]","name":"起飞 | AB影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AB影院[飞].js"},
 {"key":"drpy_js_555影视[飞]","name":"起飞 | 555影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[飞].js"},
 {"key":"drpy_js_独播库[飞]","name":"起飞 | 独播库[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播库[飞].js"},
