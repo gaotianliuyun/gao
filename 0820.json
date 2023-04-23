@@ -100,6 +100,7 @@
 {"key":"drpy_js_追剧迷","name":"影视|追剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧迷.js"},
 {"key":"drpy_js_秋霞影院","name":"影视|秋霞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞.js"},
 {"key":"drpy_js_凌云影视","name":"影视|凌云影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/凌云影视.js"},
+{"key":"drpy_js_饭团电影","name":"影视|饭团电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团.jsd"},
 {"key":"drpy_js_B站影视","name":"影视|B站影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/B站影视.js"},
 {"key":"drpy_js_哔哩影视","name":"影视|哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
 
@@ -124,7 +125,6 @@
 {"key":"csp_xBPQ_乐猪TV","name":"乐猪[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/乐猪TV.json"},
 {"key":"csp_xBPQ_秋霞影视","name":"秋霞[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/秋霞影视.json"},
 {"key":"csp_xBPQ_神马影院","name":"神马[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/神马影院.json"},
-{"key":"csp_xBPQ_饭团影视","name":"饭团影视[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/饭团影视.json"},
 {"key":"csp_xBPQ_零零七影视","name":"零零七[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/零零七影视.json"},
 {"key":"csp_xBPQ_映迷","name":"映迷[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/映迷.json"},
 {"key":"csp_xBPQ_555电影","name":"555[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555电影.json"},
