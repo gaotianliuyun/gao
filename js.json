@@ -1,7 +1,6 @@
 {"spider": "./jar/custom_spider.jar;md5;06c33541084d5842fdbf6e67ce4258ed",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"drpy_jsd_豆瓣","name":"搜索 | 豆瓣[jsd]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.jsd"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","changeable":0,"ext":"./js/音乐演唱.json"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","changeable":0,"ext":"./js/alistjar.json"},
@@ -213,7 +212,7 @@
 {"key":"drpy_js_真不卡儿","name":"影视 | 真不卡儿[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/真不卡.js"},
 {"key":"drpy_js_追剧达人","name":"影视 | 追剧达人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧达人.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
-{"key":"drpy_js_饭团电影","name":"影视 | 饭团电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团.jsd"},
+{"key":"drpy_js_饭团影视","name":"影视 | 饭团影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 {"key":"drpy_js_在线189","name":"影视 | 在线189[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/在线189.jsd"},
 {"key":"drpy_js_AB影院[飞]","name":"起飞 | AB影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AB影院[飞].js"},
 {"key":"drpy_js_555影视[飞]","name":"起飞 | 555影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[飞].js"},
