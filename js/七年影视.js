@@ -1,7 +1,8 @@
 var rule = {
     title:'七年影视',
     模板:'首图2',
-    host:'https://www.vtuapp.com',
+    // host:'https://www.vtuapp.com',
+    host:'https://www.qinian.fun',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
