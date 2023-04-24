@@ -7,7 +7,7 @@ var rule = {
     quickSearch:1,
     filterable:1,
     // 分类链接fypage参数支持1个()表达式
-    url:'/?pg=fypage&class=fyclass&douban=',
+    url:'/?pg=fypage&class=fyclass&douban=19200301',
     filter_url:'fl={{fl}}',
     headers:{
             "Host": "frodo.douban.com",
