@@ -1,7 +1,7 @@
 /*
 播放器要改为EXO --> "playerType":2
 可参考底下配置:
-{"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](drpy)","type":3,"api":"https://code.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://code.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/欧乐影院[飞].js","playerType":2},
+{"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](drpy)","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/欧乐影院[飞].js","playerType":2},
 */
 
 var rule = {
