@@ -12,8 +12,6 @@ var rule = {
     limit:5,
     play_parse:true,
     lazy:'',
-    一级:'.posts div;.meta&&Text;img&&src;.top&&Text;a&&href',
+    一级:'.posts&&.video_9s;h3&&Text;img&&src;.meta&&Text;a&&href',
     二级:'*',
-	
 }
-
