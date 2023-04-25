@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;3fb7a166650cde24e9bf51bc5c76e73c",
+"spider":"./jar/fan.txt;md5;5f336f6de028983fef9f3c8ea638dfb0",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"whpsky•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -22,7 +22,7 @@
 {"key":"csp_YQKAPP","name":"一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_kuaikan","name":"快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"图图┃App","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-{"key":"csp_BuLei","name":"布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$login$$$sdlw1111$$$qqaa1122"},
+{"key":"csp_BuLei","name":"布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_Xinsj","name":"新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_Paper","name":"纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_WoGG","name":"玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
