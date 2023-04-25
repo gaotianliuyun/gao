@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;06c33541084d5842fdbf6e67ce4258ed",
+{"spider": "./jar/custom_spider.jar;md5;1da9b9d6b4241ada175c741d4b4b9cf9",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","changeable":0,"ext":"./js/音乐演唱.json"},
@@ -9,7 +9,7 @@
 {"key":"易搜","name":"阿里 | 易搜","type":3,"api":"csp_YiSo","changeable":0,"ext":"./lib/token.txt"},
 {"key":"盘搜","name":"阿里 | 盘搜","type":3,"api":"csp_PanSou","changeable":0,"ext":"./lib/token.txt"},
 {"key":"UP云搜","name":"阿里 | UP云搜","type":3,"api":"csp_UpYun","changeable":0,"ext":"./lib/token.txt"},
-{"key":"找資源","name":"阿里 | 找資源","type":3,"api":"csp_Zhaozy","changeable":0,"ext":"./lib/token.txt$$$yingshi$$$abcd1234"},
+{"key":"找資源","name":"阿里 | 找資源","type":3,"api":"csp_Zhaozy","changeable":0,"ext":"./lib/token.txt$$$test2$$$test2"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},

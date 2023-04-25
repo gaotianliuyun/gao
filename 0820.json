@@ -64,7 +64,7 @@
 {"key":"csp_Bili","name":"哔哔合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/chuqiuyu.json"},
 {"key":"csp_Alist","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/alist.json"},
 {"key":"csp_Dovx","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"},
+{"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$test2$$$test2"},
 {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_PanSou","name":"盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_UpYun","name":"Up搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},

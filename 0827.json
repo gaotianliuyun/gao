@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;06c33541084d5842fdbf6e67ce4258ed",
+  "spider": "./jar/custom_spider.jar;md5;1da9b9d6b4241ada175c741d4b4b9cf9",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -131,7 +131,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "影視天下第一$$$yingshi$$$abcd1234"
+      "ext": "影視天下第一$$$test2$$$test2"
     },
     {
       "key": "push_agent",
