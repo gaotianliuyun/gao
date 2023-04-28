@@ -2,7 +2,6 @@
 "spider": "./jar/custom_spider.jar;md5;1da9b9d6b4241ada175c741d4b4b9cf9",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"ext":"./js/drpy.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"drpy_js_007影视","name":"007影视","type":3,"ext":"./js/007影视.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_7喜影院","name":"7喜影院","type":3,"ext":"./js/7喜影院.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_8号影院","name":"8号影院","type":3,"ext":"./js/8号影院.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_9U电影","name":"9U电影","type":3,"ext":"./js/9U电影.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -222,7 +221,7 @@
 {"key":"drpy_js_蜥蜴影视","name":"蜥蜴影视","type":3,"ext":"./js/蜥蜴影视.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_喜马拉雅","name":"喜马拉雅","type":3,"ext":"./js/喜马拉雅.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_相声随身听","name":"相声随身听","type":3,"ext":"./js/相声随身听.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"drpy_js_小白菜电影",name":"小白菜电影","type":3,"ext":"./js/小白菜电影.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"drpy_js_小白菜电影","name":"小白菜电影","type":3,"ext":"./js/小白菜电影.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_小宝影院[飞]","name":"小宝影院[飞]","type":3,"ext":"./js/小宝影院[飞].js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_小狗影院","name":"小狗影院","type":3,"ext":"./js/小狗影院.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_小猫咪","name":"小猫咪","type":3,"ext":"./js/小猫咪.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -263,7 +262,7 @@
 {"key":"drpy_js_追剧兔","name":"追剧兔","type":3,"ext":"./js/追剧兔.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_孜然影视","name":"孜然影视","type":3,"ext":"./js/孜然影视.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_子子影视","name":"子子影视","type":3,"ext":"./js/子子影视.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "./lib/token.txt"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","ext":"./lib/token.txt"}
 ],
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
