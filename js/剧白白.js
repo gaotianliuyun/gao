@@ -2,7 +2,7 @@
 var rule = {
 	title:'剧白白',
 	模板:'首图2',
-	host:'https://jubaibai.cc',
+	host:'https://www.jubaibaib.com',
 	// url:'/vodshow/id/fyclass/page/fypage.html',
 	url:'/s/fyfilter.html',
     filterable:1,//是否启用分类筛选,

@@ -1,5 +1,5 @@
 {
-"spider": "./jar/custom_spider.jar;md5;1da9b9d6b4241ada175c741d4b4b9cf9",
+"spider": "./jar/custom_spider.jar;md5;dadcea0e365a64c6cd3c48b7dd948772",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","changeable":0,"ext":"./js/音乐演唱.json"},
@@ -17,6 +17,11 @@
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
+{"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/骚火电影.js"},
+{"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/TVB云播.js"},
+{"key":"drpy_js_剧白白","name":"影视 | 剧白白[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/剧白白.js"},
+{"key":"drpy_js_8K影视","name":"影视 | 8K影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/8K影视.js"},
+{"key":"drpy_js_豆巴影视","name":"影视 | 豆巴影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆巴影视.js"},
 {"key":"drpy_js_人人","name":"影视 | 人人[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/人人.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 {"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},

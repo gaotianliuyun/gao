@@ -1,7 +1,13 @@
 {
-"spider": "./jar/custom_spider.jar;md5;1da9b9d6b4241ada175c741d4b4b9cf9",
+"spider": "./jar/custom_spider.jar;md5;dadcea0e365a64c6cd3c48b7dd948772",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"ext":"./js/drpy.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/骚火电影.js"},
+{"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/TVB云播.js"},
+{"key":"drpy_js_剧白白","name":"影视 | 剧白白[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/剧白白.js"},
+{"key":"drpy_js_8K影视","name":"影视 | 8K影视[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/8K影视.js"},
+{"key":"drpy_js_豆巴影视","name":"影视 | 豆巴影视[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/豆巴影视.js"},
+{"key":"drpy_js_007影视","name":"007影视","type":3,"ext":"./js/007影视.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_7喜影院","name":"7喜影院","type":3,"ext":"./js/7喜影院.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_8号影院","name":"8号影院","type":3,"ext":"./js/8号影院.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_9U电影","name":"9U电影","type":3,"ext":"./js/9U电影.js","api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},

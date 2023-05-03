@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;1da9b9d6b4241ada175c741d4b4b9cf9",
+  "spider": "./jar/custom_spider.jar;md5;dadcea0e365a64c6cd3c48b7dd948772",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -79,15 +79,6 @@
       "changeable": 1
     },
     {
-      "key": "紙條",
-      "name": "紙條",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
@@ -110,6 +101,15 @@
       "name": "盤搜",
       "type": 3,
       "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
