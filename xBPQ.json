@@ -1,10 +1,10 @@
 {
-"菜妮丝https://cainisi.cf":" ",
+"菜妮丝":"https://cainisi.cf",
 "友情提醒": "本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除",
 
 "sites":[
 {"key":"360影视","name":"360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/360影视.json"},
-{"key":"布蕾影城","name":"布蕾┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://movie.bulei.cc$$$login$$$sdlw1111$$$qqaa1122"},
+{"key":"布蕾影城","name":"布蕾┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://v.ilime.cc$$$login$$$sdlw1111$$$qqaa1122"},
 {"key":"YQK_spider","name":"一起看┃影视","api":"csp_YQKAPP","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"低端影视","name":"低端┃影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"两个BT","name":"两个BT┃影视","api":"csp_Bttwoo","type":3,"searchable":1,"quickSearch":1,"filterable":1},
@@ -419,3 +419,12 @@
       "playerType": 1
     }]
 }
+
+
+
+
+
+
+
+
+
