@@ -3,19 +3,15 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （1）0820.json  较全面的源，jar的来源于WEWA（饭太硬）的jar包；
 
-（2）0820.txt  精简的源，jar的来源唐三的jar包（由于唐三跑路，暂停更新）；
+（2）0826.json  完全来源于WEWA（饭太硬）的jar包和配置；
 
-（3）0826.json  完全来源于WEWA（饭太硬）的jar包和配置；
+（3）0827.json  jar包和配置来源于fongmi；
 
-（4）0827.json  jar包和配置来源于fongmi；
+（4）js.json  资源来源于watson（猫爪）道长drpy(js)资源；
 
-（5）0828.json  完全来源于唐三的jar包和配置；
+（5）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
 
-（7）js.json  资源来源于道长drpy(js)资源；
-
-（8）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
-
-（9）XYQ.json  XYQ源，jar包和配置来源于香雅情。
+（6）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
 APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ），FongMi版支持直播多线路，q215613905版支持直播回放。
 
@@ -37,27 +33,33 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （8）香雅情：https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json
 
-（9）神器：https://神器每日推送.tk/pz.json
+（9）运输车：https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
-（10）巧技：http://pandown.pro/tvbox/tvbox.json
+（10）多多：https://yydsys.top/duo
 
-（11）吾爱有三：http://52bsj.vip:98/0805
+（11）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（12）潇洒：https://download.kstore.space/download/2863/01.txt
+（12）神器：https://神器每日推送.tk/pz.json
 
-（13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（13）巧技：http://pandown.pro/tvbox/tvbox.json
 
-（14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+（14）吾爱有三：http://52bsj.vip:98/0805
 
-（15）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
+（15）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（16）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
-（17）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
+（17）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
-（18）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+（18）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
 
-（19）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
+（19）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+（20）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
+
+（21）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+
+（22）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
 
 3. 随机轮换壁纸：
 
