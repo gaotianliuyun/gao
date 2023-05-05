@@ -1,7 +1,16 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;dadcea0e365a64c6cd3c48b7dd948772",
+  "spider": "./jar/custom_spider.jar;md5;e276d142b10b9f2c2971664d0b9dc9a3",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
     {
       "key": "AList",
       "name": "AList",
@@ -88,10 +97,10 @@
       "changeable": 0
     },
     {
-      "key": "易搜",
-      "name": "易搜",
+      "key": "雲搜",
+      "name": "雲搜",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
@@ -110,15 +119,6 @@
       "name": "盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "UP雲搜",
-      "name": "UP雲搜",
-      "type": 3,
-      "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
