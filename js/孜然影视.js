@@ -2,8 +2,7 @@ muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq
 var rule={
     title:'孜然影视',
     模板:'mxone5',
-    // host:'https://www.zrys.cc',
-    host:'https://kan3456.cc',
+    host:'https://www.zrys.cc',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/index.php/vod/show/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
