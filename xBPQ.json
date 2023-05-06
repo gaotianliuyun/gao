@@ -209,6 +209,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"爱酷解析","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 {"name":"星辰云解析","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"喵喵喵","type":1,"url":"https://vip.blbo.cc:2222/api/?key=948d83dd606496051c016302259e5519&url="},
@@ -403,7 +404,7 @@
     ],
 
 //JAR
-"spider":"./jar/fan.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+"spider":"./jar/fan.txt;md5;528559dc26fc8138875e8bf32f670cac",
 
 //壁纸
 "wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php",
@@ -419,12 +420,3 @@
       "playerType": 1
     }]
 }
-
-
-
-
-
-
-
-
-
