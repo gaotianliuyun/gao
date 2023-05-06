@@ -7,7 +7,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （3）0827.json  jar包和配置来源于fongmi；
 
-（4）js.json  资源来源于watson（猫爪）道长drpy(js)资源；
+（4）js.json  资源来源于watson（猫爪）收集整理的道长drpy(js)资源；
 
 （5）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
 
