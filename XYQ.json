@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "./jar/XYQ.jar;md5;281a875d78abb81eb9716951fd20e530",
+    "spider": "./jar/XYQ.jar;md5;44f94d38951161c9cc99695d2bb49b57",
     "lives": [
         {
           "name": "直播",
@@ -152,7 +152,7 @@
         {"key":"天猫","name":"天猫(切片)","type":0,"api":"https://www.tianmaozy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
         {"key":"Ikun资源","name":"Ikun资源(切片)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
         
-        {"key":"push_agent","name":"📽推送(海阔)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}
+        {"key":"push_agent","name":"📽推送(海阔)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}
         
         
         
