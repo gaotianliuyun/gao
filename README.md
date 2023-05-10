@@ -31,7 +31,7 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （7）菜妮丝：https://tvbox.cainisi.cf
 
-（8）香雅情：https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json
+（8）香雅情：https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json
 
 （9）运输车：https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
