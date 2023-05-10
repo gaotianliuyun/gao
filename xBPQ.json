@@ -215,7 +215,7 @@
 {"name":"爱酷解析","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 {"name":"星辰云解析","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"喵喵喵","type":1,"url":"https://vip.blbo.cc:2222/api/?key=948d83dd606496051c016302259e5519&url="},
+{"name":"喵喵喵","type":1,"url":"https://json.ccabc.cc/xc/?url="},
 {"name":"255","type":1,"url":"http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url="},
 {"name":"肥猫官解","type":1,"url":"https://b.umkan.cc/API.php?url="},
 {"name":"瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
@@ -422,4 +422,4 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
       "playerType": 1
     }]
-}       
+}
