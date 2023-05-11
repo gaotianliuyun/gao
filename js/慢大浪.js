@@ -1,7 +1,9 @@
+muban.短视2.二级.img = '.detail-pic&&img&&data-original';
 var rule = {
     title:'慢大浪',
     模板:'短视2',
     host:'https://www.mdlys.vip',
+    homeUrl:'/index.php/label/rb.html',
 	// url: '/index.php/vod/show/id/fyclass/page/fypage.html',
 	url: '/index.php/vod/show/id/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
@@ -17,5 +19,7 @@ var rule = {
 	class_name:'',
 	class_url:'',
 	lazy:"",
-	一级:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+    推荐:'.list-vod .public-list-box;*;*;*;*',
+    double: false, // 推荐内容是否双层定位
+	一级:'.border-box .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
 }
