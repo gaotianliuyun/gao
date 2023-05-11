@@ -7,11 +7,13 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （3）0827.json  jar包和配置来源于fongmi；
 
-（4）js.json  资源来源于watson（猫爪）收集整理的道长drpy(js)资源；
+（4）0828.json  jar包和配置来源于唐三；
 
-（5）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
+（5）js.json  资源来源于watson（猫爪）收集整理的道长drpy(js)资源；
 
-（6）XYQ.json  XYQ源，jar包和配置来源于香雅情。
+（6）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
+
+（7）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
 APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ），FongMi版支持直播多线路，q215613905版支持直播回放。
 
