@@ -1,9 +1,11 @@
 muban.短视2.二级.title = '.slide-info-title&&Text;.hl-ma0&&Text';
+muban.短视2.二级.img = '.detail-pic&&img&&data-original';
 muban.短视2.二级.desc = '.fraction&&Text;;;.slide-info:eq(3)--strong&&Text;.slide-info:eq(2)--strong&&Text';
 var rule={
     title:'NY影院',
     模板:'短视2',
     host:'https://www.nycvod.com',
+    homeUrl:'/index.php/label/rb.html',
     url: '/index.php/api/vod#type=fyfilter&page=fypage',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}',
@@ -23,4 +25,6 @@ var rule={
     class_name:'电影&电视剧&综艺&动漫&竞技体育',
     class_url:'1&2&3&4&5',
     detailUrl:'/voddetail/fyid.html',
+    推荐:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+    double: false, // 推荐内容是否双层定位
 }

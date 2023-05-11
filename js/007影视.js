@@ -27,7 +27,7 @@ var rule = {
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);log(html);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else if(/qq|iqiyi/.test(url)){input={jx:0,url:'https://jx.m3u8.tv/jiexi/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}}else{input}",
 
     // searchUrl:'/search/**----------fypage---.html',
-    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&pg=fypage',
     detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
     搜索:'json:list;name;pic;;id',
 }

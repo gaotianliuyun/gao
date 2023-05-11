@@ -1,7 +1,7 @@
-muban.短视2.二级.title = 'h2&&Text;.hl-ma0&&Text';
-muban.短视2.二级.img = '.lazy:eq(0)&&data-original';
-muban.短视2.二级.desc = 'p:eq(1)&&Text;;;p:eq(2)&&Text;p:eq(1)&&Text';
-muban.短视2.二级.content = '.card-text&&Text';
+// muban.短视2.二级.title = 'h2&&Text;.hl-ma0&&Text';
+muban.短视2.二级.img = '.detail-pic&&img&&data-original';
+// muban.短视2.二级.desc = 'p:eq(1)&&Text;;;p:eq(2)&&Text;p:eq(1)&&Text';
+// muban.短视2.二级.content = '.card-text&&Text';
 var rule = {
     title: '爱弹幕',
     模板:'短视2',
@@ -19,11 +19,14 @@ var rule = {
         "24":[{"key":"by","name":"排序","value":[{"n":"最新","v":"time"},{"n":"最热","v":"hits"},{"n":"评分","v":"score"}]}],
         "26":[{"key":"by","name":"排序","value":[{"n":"最新","v":"time"},{"n":"最热","v":"hits"},{"n":"评分","v":"score"}]}]
     },
-    detailUrl:'/vodplay/fyid-1-1/',
+    // detailUrl:'/vodplay/fyid-1-1/',
+    detailUrl:'/voddetail/fyid/',
     class_name:'',
     class_url:'',
     class_parse:'.swiper-wrapper:eq(2) li;a&&Text;a&&href;.*/(\\d+)',
     图片来源:'@Referer=https://anime.girigirilove.com/',
     lazy:"",
-    一级:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+    推荐: '*',
+    // 一级:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+    一级:'.border-box .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
 }
