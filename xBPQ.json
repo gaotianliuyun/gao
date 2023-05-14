@@ -3,6 +3,7 @@
 "友情提醒": "本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除",
 
 "sites":[
+//{"key":"360影视","name":"360┃官源","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/360影视.js"},
 {"key":"360影视","name":"360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/360影视.json"},
 {"key":"豆瓣推荐","name":"豆瓣┃推荐","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/js/豆瓣.js"},
 {"key":"布蕾影城","name":"布蕾┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"},
@@ -212,8 +213,8 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"爱酷解析","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 {"name":"星辰云解析","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
+{"name":"爱酷解析","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"喵喵喵","type":1,"url":"https://json.ccabc.cc/xc/?url="},
 {"name":"255","type":1,"url":"http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url="},
@@ -407,10 +408,10 @@
     ],
 
 //JAR
-"spider":"./jar/fan.txt;md5;8ab1e35a1845822bbeec2a7e647f809f",
+"spider":"./jar/fan.jar;md5;65cfb7372116b05de2fa2041aeb16252",
 
 //壁纸
-"wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php",
+"wallpaper":"https://cainisi.cf/壁纸",
 
 //直播同步肥猫的
 "lives":[{
@@ -422,4 +423,4 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
       "playerType": 1
     }]
-}
+}									
