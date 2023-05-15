@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;65cfb7372116b05de2fa2041aeb16252",
+"spider":"./jar/fan.txt;md5;f8f76c056bd4f099a4b545173b16ac2e",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"whpsky•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
