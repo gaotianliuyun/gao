@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;ecddb20dad437ff099b1e777bc5545ab",
+  "spider": "./jar/custom_spider.jar;md5;630997f2d36dde4644f99300f559ff68",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -8,7 +8,6 @@
       "type": 3,
       "api": "csp_Local",
       "searchable": 0,
-      "filterable": 0,
       "changeable": 0
     },
     {
@@ -17,7 +16,6 @@
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 0,
       "ext": "./json/alist.json"
     },
@@ -27,7 +25,6 @@
       "type": 3,
       "api": "csp_WebDAV",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 0,
       "ext": "./json/webdav.json"
     },
@@ -37,7 +34,6 @@
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 0,
       "ext": "./json/bili.json"
     },
@@ -47,7 +43,6 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -56,7 +51,6 @@
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json"
     },
@@ -66,7 +60,6 @@
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -75,7 +68,6 @@
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -84,8 +76,15 @@
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
+    },
+    {
+      "key": "土狗",
+      "name": "土狗",
+      "type": 3,
+      "api": "csp_TuGou",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "七夜",
@@ -93,7 +92,6 @@
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
@@ -102,7 +100,6 @@
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
@@ -111,7 +108,6 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
@@ -120,7 +116,6 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
@@ -129,7 +124,6 @@
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
     },
@@ -139,7 +133,6 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     }
   ]
