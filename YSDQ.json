@@ -1,40 +1,16 @@
 {
 "Alist":{
-"小兵":"https://6vv.app",
-"歐逼":"https://alistcn.repl.co",
 "小雅":"http://alist.xiaoya.pro",
-"杜比":"https://dubi.tk",
-"帥鵬":"https://hi.shuaipeng.wang",
-"星夢":"https://pan.bashroot.top",
-"晴園":"https://alist.52qy.repl.co",
-"梓澪":"https://zi0.cc",
-"秋雨":"https://share.laowang.me",
-"米奇":"https://anime.mqmmw.ga",
 "觸光":"https://pan.ichuguang.com",
-"一只魚":"https://alist.youte.ml",
+"一只魚":"https://vtok.pp.ua/",
 "七米藍":"https://al.chirmyram.com",
-"浩瀚吧":"https://8023.haohanba.cn",
-"雲播放":"https://quanzi.laoxianghuijia.cn",
-"姬路白雪":"https://pan.jlbx.xyz",
 "神族九帝":"https://alist.shenzjd.com",
-"資源小站":"https://960303.xyz",
-"Disk":"http://124.222.140.243:8080",
+"梓澪":"https://zi0.cc",
+"AV":"https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co",
 "9T":"https://drive.9t.ee",
 "木偶":"https://www.kugutsu.ml"
 },
     "QiQi":[ 
-        {
-          "jx":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
-          "jxfrom":"other",
-          "gs":"data,url",
-          "erro":""
-          },
-        {
-          "jx":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=",
-          "jxfrom":"other",
-          "gs":"data,url",
-          "erro":""
-          },
         {
           "jx":"http://91fanli.top/m3u8/?url=",
           "jxfrom":"other",
@@ -42,10 +18,10 @@
           "erro":""
           },
         {
-          "jx":"http://lanlan.ckflv.cn/?url=",
-          "gs":"data,url",
+          "jx":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=",
+          "gs":"url",
           "jxfrom":"QiQi",
-          "erro":"解析失败"
+          "erro":"500"
           }
     ],
     "YSDQ": {
@@ -57,7 +33,7 @@
         "T4api": [
           {
             "name":"tuji-2015", 
-            "api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt"
+            "api":"http://42.192.248.11:8080/vod?sites=all"
             }, 
             {
               "name":"饭太硬", 
@@ -73,9 +49,6 @@
         "cookie": "https://raw.iqiq.io/FongMi/CatVodSpider/main/txt/cookie.txt", 
         "category": "纪录片,纪录片超清|健身,健身超清|舞蹈,舞蹈超清|音乐,音乐超清|MV,MV4K|演唱会,演唱会4K|白噪音,白噪音4K|风景,风景4K|美食,美食超清|动物世界,动物世界超清|戏曲,戏曲超清|小姐姐,小姐姐4K|相声,相声小品超清"
     },
-"Ali":{
-"token":"http://ali.饭太硬.ml/tok"
-},
 "Zhibo":[
 {"pf":"douyu","id":"183","name":"斗鱼-原创IP"},
 {"pf":"douyu","id":"208","name":"斗鱼-一起看"},
