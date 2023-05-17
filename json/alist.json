@@ -24,6 +24,17 @@
     {
       "name": "梓澪",
       "server": "https://zi0.cc"
+    },
+    {
+      "name": "範本",
+      "server": "https://one.fongmi.com",
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": {
+        "/18/安齋拉拉": "1234"
+      }
     }
   ]
 }
