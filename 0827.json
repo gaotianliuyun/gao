@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;d81491287f85debfc69e10a2ec775b4d",
+  "spider": "./jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -53,6 +53,82 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json"
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "ads": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ],
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰国剧",
+        "海外剧",
+        "国内综艺",
+        "海外综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "动画片",
+        "冒险片",
+        "武侠片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "灾难片",
+        "悬疑片",
+        "纪录片",
+        "惊悚片",
+        "奇幻片",
+        "剧情片"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "ads": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ],
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰国剧",
+        "海外剧",
+        "国内综艺",
+        "海外综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "动画片",
+        "冒险片",
+        "武侠片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "灾难片",
+        "悬疑片",
+        "纪录片",
+        "惊悚片",
+        "奇幻片",
+        "剧情片"
+      ]
     },
     {
       "key": "櫻花",

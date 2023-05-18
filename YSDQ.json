@@ -6,9 +6,7 @@
 "七米藍":"https://al.chirmyram.com",
 "神族九帝":"https://alist.shenzjd.com",
 "梓澪":"https://zi0.cc",
-"AV":"https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co",
-"9T":"https://drive.9t.ee",
-"木偶":"https://www.kugutsu.ml"
+"AV":"https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
 },
     "QiQi":[ 
         {
@@ -30,23 +28,82 @@
         "speedLimit":"1K",
         "disableIPV6":"yes",
         "ocrurl": "https://api.nn.ci/ocr/b64/text", 
-        "T4api": [
-          {
-            "name":"tuji-2015", 
-            "api":"http://42.192.248.11:8080/vod?sites=all"
-            }, 
-            {
-              "name":"饭太硬", 
-              "api":"https://t4.饭太硬.ml/vod"      
-            }
-        ]
+    "ads": [
+      "mimg.0c1q0l.cn",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "mc.usihnbcq.cn",
+      "mg.g1mm3d.cn",
+      "mscs.svaeuzh.cn",
+      "cnzz.hhttm.top",
+      "tp.vinuxhome.com",
+      "cnzz.mmstat.com",
+      "www.baihuillq.com",
+      "s23.cnzz.com",
+      "z3.cnzz.com",
+      "c.cnzz.com",
+      "stj.v1vo.top",
+      "z12.cnzz.com",
+      "img.mosflower.cn",
+      "tips.gamevvip.com",
+      "ehwe.yhdtns.com",
+      "xdn.cqqc3.com",
+      "www.jixunkyy.cn",
+      "sp.chemacid.cn",
+      "hm.baidu.com",
+      "s9.cnzz.com",
+      "z6.cnzz.com",
+      "um.cavuc.com",
+      "mav.mavuz.com",
+      "wofwk.aoidf3.com",
+      "z5.cnzz.com",
+      "xc.hubeijieshikj.cn",
+      "tj.tianwenhu.com",
+      "xg.gars57.cn",
+      "k.jinxiuzhilv.com",
+      "cdn.bootcss.com",
+      "ppl.xunzhuo123.com",
+      "xomk.jiangjunmh.top",
+      "img.xunzhuo123.com",
+      "z1.cnzz.com",
+      "s13.cnzz.com",
+      "xg.huataisangao.cn",
+      "z7.cnzz.com",
+      "xg.huataisangao.cn",
+      "z2.cnzz.com",
+      "s96.cnzz.com",
+      "q11.cnzz.com",
+      "thy.dacedsfa.cn",
+      "xg.whsbpw.cn",
+      "s19.cnzz.com",
+      "z8.cnzz.com",
+      "s4.cnzz.com",
+      "f5w.as12df.top",
+      "ae01.alicdn.com",
+      "www.92424.cn",
+      "k.wudejia.com",
+      "vivovip.mmszxc.top",
+      "qiu.xixiqiu.com",
+      "cdnjs.hnfenxun.com",
+      "cms.qdwght.com",
+      "iqiyi.hbuioo.com"
+    ],
+    "CJapi": [
+      {
+        "name": "量子",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+      },
+      {
+        "name": "酷点",
+        "api": "https://kudian10.com/api.php/provide/vod/from/kdm3u8/"
+      }
+    ]
     },
     "Zhaozy": {
-        "username": "Unbaked4136", 
-        "password": "4hzxQkB9yxX5EP"
+        "username": "test2", 
+        "password": "test2"
     },
     "Bili": {
-        "cookie": "https://raw.iqiq.io/FongMi/CatVodSpider/main/txt/cookie.txt", 
         "category": "纪录片,纪录片超清|健身,健身超清|舞蹈,舞蹈超清|音乐,音乐超清|MV,MV4K|演唱会,演唱会4K|白噪音,白噪音4K|风景,风景4K|美食,美食超清|动物世界,动物世界超清|戏曲,戏曲超清|小姐姐,小姐姐4K|相声,相声小品超清"
     },
 "Zhibo":[
