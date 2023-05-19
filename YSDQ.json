@@ -22,11 +22,14 @@
           "erro":"500"
           }
     ],
+  "Ali": {
+    "token": "https://cjk.lm317379829.repl.co/CJK/token.txt"
+  },
     "YSDQ": {
         "thlimit": 5, 
-        "searchList":"qq,ik,bw,ld,bb,ps,ys,zzy,xzt",
+        "searchList":"qq,ik,bb,ps,ys,zzy",
         "speedLimit":"1K",
-        "disableIPV6":"yes",
+        "disableIPV6":"no",
         "ocrurl": "https://api.nn.ci/ocr/b64/text", 
     "ads": [
       "mimg.0c1q0l.cn",
@@ -94,8 +97,8 @@
         "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
       },
       {
-        "name": "酷点",
-        "api": "https://kudian10.com/api.php/provide/vod/from/kdm3u8/"
+        "name": "非凡",
+        "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
       }
     ]
     },
