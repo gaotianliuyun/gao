@@ -22,9 +22,6 @@
           "erro":"500"
           }
     ],
-  "Ali": {
-    "token": "https://cjk.lm317379829.repl.co/CJK/token.txt"
-  },
     "YSDQ": {
         "thlimit": 5, 
         "searchList":"qq,ik,bb,ps,ys,zzy",
