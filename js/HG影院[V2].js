@@ -1,19 +1,3 @@
-/*
-* 播放器要改成 EXO 或 配置添加 "playerType":2
-* [影视TV]不用改,预设播放器就是EXO
-* 配置:
-	{
-		"key":"dr_HG影院[V2]",
-		"name":"HG影院[V2](drpy)",
-		"type":3,
-		"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-		"searchable":2,
-		"quickSearch":0,
-		"filterable":1,
-		"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HG影院[V2].js",
-		"playerType":2
-	},
-*/
 var rule = {
 	title: 'HG影院[V2]', // csp_AppYsV2
 	host: 'http://bbq.1006.tk',
@@ -38,7 +22,7 @@ var rule = {
 	class_name:'4k影视剧&4k影视片&综艺&4k动漫', // 分类筛选 /api.php/v1.vod/types
 	class_url:'2&1&3&4',
 	play_parse:true,
-	lazy:'js:input = /mp4/.test(input)?{jx:0,url:input,parse:0}:input',
+	// lazy:'js:input = /mp4/.test(input)?{jx:0,url:input,parse:0}:input',
 	limit:6,
 	// 推荐:'json:data.zhui.vod_list;*;*;*;*',
 	推荐:'*',

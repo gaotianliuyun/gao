@@ -1,7 +1,8 @@
 // 搜索验证
 var rule = {
     title:'看一看影视',
-    host:'https://www.kanyk.cc',
+    // host:'https://www.kanyk.cc',
+    host:'https://www.kyikan.co',
     // homeUrl:'/',
     // url:'/index.php?m=vod-list-id-fyclass-pg-fypage-order--by--class--year--letter--area--lang-.html',
     url:'/index.php?m=vod-list-id-fyfilter-pg-fypage-order--by--class--year--letter--area--lang-.html',
