@@ -32,9 +32,12 @@
         "username": "fongmi",
         "password": "fongmi"
       },
-      "params": {
-        "/18/安齋拉拉": "1234"
-      }
+      "params": [
+        {
+          "path": "/安齋拉拉",
+          "pass": "18181818"
+        }
+      ]
     }
   ]
 }

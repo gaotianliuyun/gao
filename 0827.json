@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7",
+  "spider": "./jar/custom_spider.jar;md5;4556ab64060bfdf40d0e6dcc0145862e",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -221,18 +221,6 @@
   ],
   "doh": [
     {
-      "name": "騰訊",
-      "url": "https://doh.pub/dns-query"
-    },
-    {
-      "name": "阿里",
-      "url": "https://dns.alidns.com/dns-query"
-    },
-    {
-      "name": "360",
-      "url": "https://doh.360.cn/dns-query"
-    },
-    {
       "name": "Google",
       "url": "https://dns.google/dns-query",
       "ips": [
@@ -289,7 +277,8 @@
     {
       "name": "非凡廣告",
       "hosts": [
-        "vip.ffzy"
+        "vip.ffzy",
+        "hd.ffzy"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
@@ -297,7 +286,7 @@
     },
     {
       "name": "火山嗅探",
-      "host": [
+      "hosts": [
         "huoshan.com"
       ],
       "regex": [
@@ -306,7 +295,7 @@
     },
     {
       "name": "抖音嗅探",
-      "host": [
+      "hosts": [
         "douyin.com"
       ],
       "regex": [
