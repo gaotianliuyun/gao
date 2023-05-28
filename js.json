@@ -210,6 +210,7 @@
     {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
     {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
     {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
+    {"key":"找資源","name":"找資源","type":"3","api":"csp_Zhaozy","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1", "ext": "影視天下第一$$$test2$$$test2"},
     {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
     {"key":"盤搜索","name":"盤搜索","type":"3","api":"csp_PanSearch","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
     {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_Push","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
