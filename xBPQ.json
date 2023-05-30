@@ -2,7 +2,7 @@
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
     
-    "spider": "./jar/fan.jar;md5;89fe4a02b78c136f02442851d659f1c0",
+    "spider":"./jar/fan.txt;md5;10eb32e7f059984cba18ee3a8b764470",
     "wallpaper": "https://cainisi.cf/壁纸",
     
     "sites": [
@@ -64,7 +64,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://dy.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext": "https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "图图┃影视",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key": "YQK_spider",
@@ -111,7 +121,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
             "key": "VOFLIX",
@@ -239,6 +249,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Lgyy",
+            "name": "蓝光┃影视",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.lgyy.vip"
+        },
+        {
             "key": "饭团影院",
             "name": "饭团┃影视",
             "type": 3,
@@ -336,6 +356,33 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tvbox.cainisi.cf/json/js/美剧网.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "爱奇艺┃官源",
+            "type": 3,
+            "api": "csp_Itv",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "腾讯",
+            "name": "腾讯┃官源",
+            "type": 3,
+            "api": "csp_Qtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "芒果",
+            "name": "芒果┃官源",
+            "type": 3,
+            "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Dm84",
@@ -881,7 +928,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
             "key": "PanSearch",
@@ -891,7 +938,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
             "key": "csp_search_Yisou",
@@ -901,7 +948,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
             "key": "csp_search_Zhaozy",
@@ -911,7 +958,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken$$$yingshi$$$abcd1234"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt$$$yingshi$$$abcd1234"
         },
         {
             "key": "csp_search_Upyunso",
@@ -921,7 +968,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
             "key": "csp_search_Alips",
@@ -931,7 +978,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
             "key": "TuGou",
@@ -941,7 +988,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
             "key": "push_agent",
@@ -951,7 +998,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://cainisi.cf/alitoken"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         
         
@@ -1070,6 +1117,21 @@
             "name": "喵",
             "type": 0,
             "url": "http://www.miaoys.cc/vip/?url="
+        },
+        {
+            "name": "365",
+            "type": 0,
+            "url": "https://chaxun.truechat365.com/?url="
+        },
+        {
+            "name": "夜幕",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="
+        },
+        {
+            "name": "OK",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
         }
     ],
     
@@ -1155,7 +1217,46 @@
         "cms.qdwght.com"
     ],
     
-    "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
+    "rules": [
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        }
+    ],
     
     "doh": [
         {
