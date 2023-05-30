@@ -9,7 +9,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （4）0828.json  jar包和配置来源于唐三；
 
-（5）js.json  资源来源于watson（猫爪）收集整理的道长drpy(js)资源；
+（5）js.json  资源参考于watson（猫爪）收集整理的道长drpy(js)资源；
 
 （6）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
 
@@ -19,7 +19,7 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 2. TVBox各路大佬配置（排名不分先后）：
 
-（1）唐三：https://hutool.ml/tang
+（1）唐三：https://t4.t48.repl.co/newtang.bmp
 
 （2）Fongmi：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
 
