@@ -17,14 +17,14 @@ var rule={
         "dyjs":[{"key":"letter","name":"字母","value":[{"n":"全部","v":""},{"n":"A","v":"/letter/A"},{"n":"B","v":"/letter/B"},{"n":"C","v":"/letter/C"},{"n":"D","v":"/letter/D"},{"n":"E","v":"/letter/E"},{"n":"F","v":"/letter/F"},{"n":"G","v":"/letter/G"},{"n":"H","v":"/letter/H"},{"n":"I","v":"/letter/I"},{"n":"J","v":"/letter/J"},{"n":"K","v":"/letter/K"},{"n":"L","v":"/letter/L"},{"n":"M","v":"/letter/M"},{"n":"N","v":"/letter/N"},{"n":"O","v":"/letter/O"},{"n":"P","v":"/letter/P"},{"n":"Q","v":"/letter/Q"},{"n":"R","v":"/letter/R"},{"n":"S","v":"/letter/S"},{"n":"T","v":"/letter/T"},{"n":"U","v":"/letter/U"},{"n":"V","v":"/letter/V"},{"n":"W","v":"/letter/W"},{"n":"X","v":"/letter/X"},{"n":"Y","v":"/letter/Y"},{"n":"Z","v":"/letter/Z"},{"n":"0-9","v":"/letter/0-9"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}]
     },
     filter_def:{
-        dianying:{by:'/by/time'},
-        oumeiju:{by:'/by/time'},
-        dianshiju:{by:'/by/time'},
-        dongman:{by:'/by/time'},
-        zongyi:{by:'/by/time'},
-        jilupian:{by:'/by/time'}
+        dy:{cateId:'dy',by:'/by/time'},
+        juji:{cateId:'juji',by:'/by/time'},
+        zongyi:{cateId:'zongyi',by:'/by/time'},
+        dongman:{cateId:'dongman',by:'/by/time'},
+        jilupian:{cateId:'jilupian',by:'/by/time'},
+        dyjs:{cateId:'dyjs',by:'/by/time'}
     },
     searchUrl: '/vodsearch/page/fypage/wd/**.html',
     class_parse: '.navbar-items li:gt(1):lt(8);a&&title;a&&href;.*/(.*?).html',
-    lazy:'',
+	lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
 }
