@@ -1,4 +1,4 @@
-{"spider": "./jar/cs.jar;md5;7cb9c6f54061ff078b852944947900ec"
+{"spider": "./jar/cs.jar;md5;7cb9c6f54061ff078b852944947900ec",
  "sites":[
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
