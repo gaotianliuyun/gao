@@ -1119,6 +1119,7 @@
 },
 {"key":"tid","name":"分类","value":[
 {"n":"全部","v":"平面设计教学"},
+{"n":"AI绘画","v":"AI绘画"},
 {"n":"AdobePhotoshop","v":"AdobePhotoshop教程"},
 {"n":"AdobeIllustrator","v":"AdobeIllustrator教程"},
 {"n":"CorelDRAW","v":"CorelDRAW教程"},
@@ -1130,7 +1131,6 @@
 {"n":"3DStudioMax","v":"3DStudioMax教程"},
 {"n":"PR","v":"PR教程"},
 {"n":"AE","v":"AE教程"},
-{"n":"AI绘画","v":"AI绘画"},
 {"n":"CINEMA4D","v":"CINEMA4D教程"}
 ]
 },
@@ -1154,6 +1154,7 @@
 },
 {"key":"tid","name":"分类","value":[
 {"n":"全部","v":"软件教程"},
+{"n":"Windows","v":"Windows"},
 {"n":"MT管理器","v":"MT管理器"},
 {"n":"NP管理器","v":"NP管理器"},
 {"n":"mixplorer","v":"mixplorer"},
@@ -1346,7 +1347,6 @@
 {"n":"军体拳第二套","v":"军体拳第二套"},
 {"n":"军体拳第三套","v":"军体拳第三套"},
 {"n":"帕梅拉","v":"帕梅拉"},
-{"n":"刘畊宏","v":"刘畊宏"},
 {"n":"广场舞","v":"广场舞"},
 {"n":"瑜伽","v":"瑜伽"},
 {"n":"冥想","v":"冥想"}
