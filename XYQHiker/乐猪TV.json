@@ -25,7 +25,7 @@
     "分类片单副标题": "span&&Text",
     "分类片单链接加前缀": "http://www.lezhutv.com",
     "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$手机",
+    "搜索请求头参数": "User-Agent$手机#Referer$http://www.lezhutv.com/",
     "搜索链接": "http://www.lezhutv.com/index.php?m=vod-search;post",
     "POST请求数据": "wd={wd}&search=",
     "搜索截取模式": "1",
