@@ -91,7 +91,6 @@
 {"key":"drpy_js_创艺影视","name":"影视 | 创艺影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视.js"},
 {"key":"drpy_js_创艺影视[V2]","name":"影视 | 创艺影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/达达龟.js"},
-{"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 {"key":"drpy_js_大师兄影视","name":"影视 | 大师兄影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大师兄影视.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
