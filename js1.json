@@ -105,7 +105,7 @@
 {"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影先生.js"},
 {"key":"drpy_js_豆巴影视","name":"影视 | 豆巴影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆巴影视.js"},
 {"key":"drpy_js_多米[V2]","name":"影视 | 多米[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米[V2].js"},
-{"key":"drpy_js_多瑙影视","name":"影视 | 多瑙影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多瑙影视.js",
+{"key":"drpy_js_多瑙影视","name":"影视 | 多瑙影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多瑙影视.js"},
 {"key":"drpy_js_番茄影视","name":"影视 | 番茄影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/番茄影视.js"},
 {"key":"drpy_js_饭团电影","name":"影视 | 饭团电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 {"key":"drpy_js_飞兔影视","name":"影视 | 飞兔影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/飞兔影视.js"},
