@@ -82,7 +82,6 @@
 {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/虎牙直播.js"},
-{"key":"drpy_js_JRKAN直播","name":"体育|JRKAN直播[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/310直播.js"},
 {"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"./lib/drpy.min.js","changeable":0,"ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/童趣.js"},
