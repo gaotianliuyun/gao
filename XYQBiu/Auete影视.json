@@ -47,10 +47,10 @@
     "cat_prefix": "https://auete.com",
     //分类片单链接补后缀
     "cat_suffix": "",
-    "SUserAgent":"User-Agent$MOBILE_UA",
+    "SUserAgent":"User-Agent$MOBILE_UA#referer$https://auete.org/",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "https://auete.com/search.php?searchword={wd}",
+    "search_url": "https://auete.org/aueteso.php?searchword={wd}",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
     "sea_PtBody":"",
     //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
