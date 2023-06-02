@@ -11,13 +11,11 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （5）0828.json  jar包和配置来源于唐三；
 
-（6）js.json  参考于猫爪的思路，进一步收集整理的道长drpy(js)资源，已添加过滤广告，仅适配影视app影视仓宝盒；
+（6）js.json  资源来源于道长drpy(js)仓库；
 
-（7）js0.json  参考于猫爪的思路，进一步收集整理的道长drpy(js)资源，适配包括影视在内的所有TVBox版本，在皮皮虾TVBox版本中，我的哔哩可展现弹幕；
+（7）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
 
-（8）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
-
-（9）XYQ.json  XYQ源，jar包和配置来源于香雅情。
+（8）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
 2. APP推荐:
 
