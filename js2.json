@@ -174,7 +174,7 @@
 {"key":"drpy_js_种子音乐","name":"音频 | 种子音乐[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/种子音乐.js"},
 {"key":"drpy_js_追剧迷","name":"影视 | 追剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧迷.js"},
 {"key":"drpy_js_追剧兔","name":"影视 | 追剧兔[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧兔.js"},
-{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
+{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"}],
 "parses":[
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
