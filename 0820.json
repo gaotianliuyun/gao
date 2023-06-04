@@ -80,6 +80,7 @@
 {"key":"直播转点播","name":"电视直播","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
 
 {"key":"drpy_js_好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/好趣网.js"},
+{"key":"drpy_js_我的哔哩","name":"弹幕 | 哔哩[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"drpy_js_JustLive","name":"直播 | JustLive[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/JustLive.js"},
 {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/斗鱼直播.js"},
