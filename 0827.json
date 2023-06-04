@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;1e23f38ff329bcc8c9bdb0f39378d9ac",
+  "spider": "./jar/custom_spider.jar;md5;83302c0b9c22927f527219dc290dc6ad",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -226,6 +226,15 @@
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "公告",
+      "name": "公告",
+      "type": 3,
+      "api": "csp_Notice",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/notice.json"
     }
   ],
   "doh": [
