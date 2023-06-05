@@ -33,7 +33,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （3）俊于：http://home.jundie.top:81/top98.json
 
-（4）饭太硬：http://饭太硬.ga/tv
+（4）饭太硬：http://饭太硬.ml/tv
 
 （5）肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
 
