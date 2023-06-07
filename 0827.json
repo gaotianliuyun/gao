@@ -1,6 +1,6 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;8ec09a67799714aff2e28dccca59ccfa",
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "spider": "./jar/custom_spider.jar;md5;a954689c65dff0bf8728a895798bb68a",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "本地",
@@ -42,6 +42,14 @@
       "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
       "searchable": 1,
       "changeable": 1
     },

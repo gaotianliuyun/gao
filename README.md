@@ -89,7 +89,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （8）http://刚刚.live/图 
 
-（9）http://饭太硬.ga/深色壁纸/api.php
+（9）http://饭太硬.top/深色壁纸/api.php
 
 （10）https://www.dmoe.cc/random.php
 
