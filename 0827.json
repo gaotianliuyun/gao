@@ -242,7 +242,7 @@
       "api": "csp_Notice",
       "searchable": 0,
       "changeable": 0,
-      "ext": "ewogICJtc2ciOiAi6ICB5amGfue1kOWpmuS4gOmAseW5tOW/q+aogiIsCiAgImRhdGUiOiAiMjAyMzA2MDcyMDAwMDAiLAogICJkdXJhdGlvbiI6IDMwCn0="
+      "ext": "./json/notice.json"
     }
   ],
   "doh": [
