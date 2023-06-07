@@ -21,7 +21,7 @@ var rule={
     // host:'https://v.bulei.cc',
     // host:'http://v.ilime.cc',
     // host:'https://kan.bulei.cc/',
-    host:'http://dy01.bulei.cc',
+    host:'http://dy04.bulei.cc',
     // host:'http://dy02.bulei.cc',
     // url:'/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
     url:'/index.php/vod/type/id/fyclass.html',

@@ -4,7 +4,8 @@ muban.mxpro.二级.tabs = '#y-playList .tab-item';
 var rule = {
     title:'利丽娅电影',
     模板:'mxpro',
-    host:'https://www.llyady.cc',
+    // host:'https://www.llyady.cc',
+    host:'https://www.llyady.com',
     url:'/vodtype/fyclass.html',
     // filterable:1,//是否启用分类筛选,
     // filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
