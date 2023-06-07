@@ -1,0 +1,42 @@
+{
+"spider": "./jar/fty.jar;md5;10eb32e7f059984cba18ee3a8b764470",
+"sites":[
+{"key":"drpy_js_豆瓣","name":"皮皮虾DMBox支持弹幕,体验更佳","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+
+{"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
+{"key":"drpy_js_gaze","name":"影视 | gaze[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/gaze.js"},
+{"key":"drpy_js_JRS看球网","name":"影视 | JRS看球网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JRS看球网.js"},
+{"key":"drpy_js_JRS看直播","name":"影视 | JRS看直播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JRS看直播.js"},
+{"key":"drpy_js_JRS录像","name":"影视 | JRS录像[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/JRS录像.js"},
+{"key":"drpy_js_RP影视","name":"影视 | RP影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/RP影视.js"},
+{"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
+{"key":"drpy_js_模板","name":"影视 | 模板[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/模板.js"},
+{"key":"drpy_js_评书随身听","name":"影视 | 评书随身听[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/评书随身听.js"},
+{"key":"drpy_js_苹果DJ","name":"影视 | 苹果DJ[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/苹果DJ.js"},
+{"key":"drpy_js_苹果爱微","name":"影视 | 苹果爱微[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/苹果爱微.js"},
+{"key":"drpy_js_朴樱影视","name":"影视 | 朴樱影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朴樱影视.js"},
+{"key":"drpy_js_学生球赛录像[js1]","name":"影视 | 学生球赛录像[js1][js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/学生球赛录像[js1].js"},
+{"key":"drpy_js_学生球赛录像[js2]","name":"影视 | 学生球赛录像[js2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/学生球赛录像[js1].js"},
+{"key":"drpy_js_夜空","name":"影视 | 夜空[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/夜空.js"},
+
+{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
+],
+"parses":[
+{"name":"聚合1","type":3,"url":"Demo"},
+{"name":"聚合0","type":3,"url":"Web"},
+{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
+{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"左岸","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="}
+],
+"rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
+"lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
+"ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
+"wallpaper":"https://jianbian.chuqiuyu.tk"
+}
