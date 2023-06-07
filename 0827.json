@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;a954689c65dff0bf8728a895798bb68a",
+  "spider": "./jar/custom_spider.jar;md5;7871d4d3a51b5b0aa46b079b8104c2be",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -242,7 +242,7 @@
       "api": "csp_Notice",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./json/notice.json"
+      "ext": "ewogICJtc2ciOiAi6ICB5amGfue1kOWpmuS4gOmAseW5tOW/q+aogiIsCiAgImRhdGUiOiAiMjAyMzA2MDcyMDAwMDAiLAogICJkdXJhdGlvbiI6IDMwCn0="
     }
   ],
   "doh": [
