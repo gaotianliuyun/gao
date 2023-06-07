@@ -1,3 +1,4 @@
+// 北川影视唯一发布页 www.bcyingshi.ink
 muban.mxpro.二级.desc = '.module-info-item:eq(3)&&Text;;;.module-info-item--span:eq(2)&&Text;.module-info-item--span:eq(1)&&Text';
 muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
 var rule = {
