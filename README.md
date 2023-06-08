@@ -17,13 +17,13 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 2. APP推荐:
 
-（1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路；
+（1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、支持自动换源、支持直播倍速，手机版支持投屏；
 
 （2）q215613905版本  项目地址：https://github.com/q215613905/TVBoxOS 支持直播回放；
 
-（3）takagen99版本  项目地址：https://github.com/takagen99/Box 界面美观；
+（3）takagen99版本  项目地址：https://github.com/takagen99/Box 支持直播回放，界面美观；
 
-（4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持弹幕。
+（4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持直播回放，支持弹幕。
 
 3. TVBox各路大佬配置（排名不分先后）：
 
