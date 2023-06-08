@@ -1387,7 +1387,7 @@ http://lhttp.qingting.fm/live/268/64k.mp3
 http://livear.cgtn.com/200a/prog_index.m3u8
 #EXTINF:-1 group-title="中国广播", radio="true",CGTNEnglish
 http://live.cgtn.com/200/prog_index.m3u8
-#EXTINF:-1 group-title="中国广播", radio="true",MYFM全国音乐频道——FM106.3长春少儿与老年生活广播
+#EXTINF:-1 group-title="中国广播", radio="true",长春少儿与老年生活广播
 http://lhttp.qingting.fm/live/4984/64k.mp3
 #EXTINF:-1 group-title="中国广播", radio="true",苏州儿童广播
 http://lhttp.qingting.fm/live/2807/64k.mp3

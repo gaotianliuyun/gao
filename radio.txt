@@ -697,7 +697,7 @@ BBC Radio 6,http://stream.live.vc.bbcmedia.co.uk/bbc_6music
 上海故事广播,http://lhttp.qingting.fm/live/268/64k.mp3
 CGTNArabic,http://livear.cgtn.com/200a/prog_index.m3u8
 CGTNEnglish,http://live.cgtn.com/200/prog_index.m3u8
-MYFM全国音乐频道——FM106.3长春少儿与老年生活广播,http://lhttp.qingting.fm/live/4984/64k.mp3
+长春少儿与老年生活广播,http://lhttp.qingting.fm/live/4984/64k.mp3
 苏州儿童广播,http://lhttp.qingting.fm/live/2807/64k.mp3
 巴音郭楞交通文艺广播,http://live.xmcdn.com/live/1600/64.m3u8
 陕西经典音乐广播·年代878,http://lhttp.qingting.fm/live/1608/64k.mp3
