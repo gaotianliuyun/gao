@@ -54,7 +54,7 @@
     "线路列表数组规则": "body&&.fed-tabs-info:has(.stui-content__playlist)",
     "线路标题": ".fed-tabs-btns&&Text",
     "播放列表数组规则": "body&&.stui-content__playlist",
-    "选集列表数组规则": "li",
+    "选集列表数组规则": "a[title]",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "a&&Text",
     "选集链接": "a&&href",
