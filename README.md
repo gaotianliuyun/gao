@@ -43,7 +43,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （8）菜妮丝：https://tvbox.cainisi.cf
 
-（9）香雅情：https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json
+（9）香雅情：https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json
 
 （10）运输车：https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
