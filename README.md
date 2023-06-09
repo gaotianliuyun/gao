@@ -39,6 +39,8 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （6）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
+（6）小雅：http://drpy.site/js1
+
 （7）菜妮丝：https://tvbox.cainisi.cf
 
 （8）香雅情：https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json
@@ -53,6 +55,8 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （13）巧技：http://pandown.pro/tvbox/tvbox.json
 
+（13）那里花开：http://hz752.love:63/tk.json
+
 （14）吾爱有三：http://52bsj.vip:98/0805
 
 （15）潇洒：https://download.kstore.space/download/2863/01.txt
@@ -61,7 +65,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （17）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
-（18）云星日记：https://maoyingshi.cc/tvbox/云星日记/1.m3u8
+（18）云星日记：http://itvbox.cc/tvbox/云星日记/1.m3u8
 
 （19）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
