@@ -39,41 +39,43 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （6）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-（7）小雅：http://drpy.site/js1
+（7）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
 
-（8）菜妮丝：https://tvbox.cainisi.cf
+（8）小雅：http://drpy.site/js1
 
-（9）香雅情：https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json
+（9）菜妮丝：https://tvbox.cainisi.cf
 
-（10）运输车：https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+（10）香雅情：https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json
 
-（11）多多：https://yydsys.top/duo
+（11）运输车：https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
-（12）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（12）多多：https://yydsys.top/duo
 
-（13）神器：https://神器每日推送.tk/pz.json
+（13）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（14）巧技：http://pandown.pro/tvbox/tvbox.json
+（14）神器：https://神器每日推送.tk/pz.json
 
-（15）那里花开：http://hz752.love:63/tk.json
+（15）巧技：http://pandown.pro/tvbox/tvbox.json
 
-（16）吾爱有三：http://52bsj.vip:98/0805
+（16）那里花开：http://hz752.love:63/tk.json
 
-（17）潇洒：https://download.kstore.space/download/2863/01.txt
+（17）吾爱有三：http://52bsj.vip:98/0805
 
-（18）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（18）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（19）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+（19）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
-（20）云星日记：http://itvbox.cc/tvbox/云星日记/1.m3u8
+（20）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
-（21）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（21）云星日记：http://itvbox.cc/tvbox/云星日记/1.m3u8
 
-（22）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
+（22）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+（23）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
-（24）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
+（24）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+
+（25）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
 
 4. 随机轮换壁纸：
 
