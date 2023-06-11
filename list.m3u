@@ -941,40 +941,6 @@ http://epg.112114.xyz/douyu/9172774
 http://epg.112114.xyz/douyu/4834417
 #EXTINF:-1 group-title="斗鱼",斗鱼旅行18
 http://epg.112114.xyz/douyu/2240445
-#EXTINF:-1 group-title="4K",4K60PSDR-H264-AAC测试
-http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-#EXTINF:-1 group-title="4K",4K60PHLG-HEVC-EAC3测试
-http://159.75.85.63:5680/d/ad/playad.m3u8
-#EXTINF:-1 group-title="4K",BTV纪实科教-8KSDR源
-http://159.75.85.63:6798
-#EXTINF:-1 group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="4K",欢笑剧场4KHLG小果源
-http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 group-title="4K",欢笑剧场4K
-http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="4K",纯享4K
-http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K",CCTV4K-25P-HLG源
-http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 group-title="4K",CCTV4K-25P-SDR源
-http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="4K",CCTV16-4K25P-SDR源
-http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="4K",CCTV16-4K-25PHLG源
-http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-#EXTINF:-1 group-title="4K",爱上4K
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="4K",虎牙4K王者荣耀
-http://159.75.85.63:35455/huya/wzgxs1
-#EXTINF:-1 group-title="4K",虎牙魔兽世界4K
-http://159.75.85.63:35455/huya/shangdi
-#EXTINF:-1 group-title="4K",虎牙战地五4K
-http://159.75.85.63:35455/huya/28260962
-#EXTINF:-1 group-title="4K",斗鱼4K激战2
-http://159.75.85.63:35455/douyu/3916618
-#EXTINF:-1 group-title="4K",斗鱼4K电影
-http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1 group-title="精品",北京冬奥
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 #EXTINF:-1 group-title="精品",纪实人文
