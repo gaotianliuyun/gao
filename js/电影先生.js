@@ -9,7 +9,8 @@ muban.mxone5.二级.content = '.video-info-content&&Text';
 var rule = {
     title:'电影先生',
     模板:'mxone5',
-    host:'http://dyxs29.com',
+    host:'http://dyxs.vip',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(5)&&a&&href");print(src);HOST=src',
     // url:'/pianku-fyclass--------fypage---/',
     url:'/pianku-fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,

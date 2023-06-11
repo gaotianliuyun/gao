@@ -33,12 +33,10 @@ Asia FM亚洲经典台,https://lhttp.qingting.fm/live/5021912/64k.mp3
 CRI 海峡飞虹,http://sk.cri.cn/hxfh.m3u8
 Love Radio FM103.7,http://live.xmcdn.com/live/55/64.m3u8
 Love Radio FM103.7,http://ls.qingting.fm/live/273.m3u8
-MY FM 南京 FM103.5,http://ls.qingting.fm/live/2769.m3u8
 MY FM 西安 FM105.5,http://live.xmcdn.com/live/870/64.m3u8
 MY FM 西安 FM105.5,http://ls.qingting.fm/live/4885.m3u8
 清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
 世界,#genre#
-UFM 100.3 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
 YES 933 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
 Gold 905 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
 Class 95 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
@@ -54,14 +52,9 @@ Channel News Asia TV,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48e
 Jia 883 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 Money 893 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
 Ria 897 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
-Radio Melody with Brother Bjorn,http://ssl.geckohost.nz:9191/autodj
 CNA938,http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8
 938 Now Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
-XRadio,http://xradio.zone:9420/stream
-AXR Singapore,http://singaporestream.axr.online
-Thitsarparami Dhamma Society,https://edge.mixlr.com/channel/nmtev
 Symphony 924 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac
-Jazz Lounge,http://eu8.fastcast4u.com:5068/;
 Sinar FM,http://astro2.rastream.com/sinar
 Era FM,http://astro2.rastream.com/era
 MELODY,http://astro3.rastream.com/melody?awparams=companionads:true;tags:radioactive;stationid:amp-melody&playerid=MELODY_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTU1NjAsImV4cCI6MTUzNzgwMTk2MH0.Y5rRnKwPpBiaFL--nplqrezUmaHLJoHDZnJsG99o10o
@@ -70,37 +63,22 @@ Hot FM,http://mediaprima.rastream.com/mediaprima-hotfm
 One FM,http://mediaprima.rastream.com/mediaprima-onefm
 Lite,http://astro1.rastream.com/lite?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Alite&playerid=Lite_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTY0NzEsImV4cCI6MTUzNzgwMjg3MX0.pSjOU07bdGLYSH3JlfgMBR7qdU7QcAlsTPPwQB3_c3s
 Hits FM Sarawak,http://astro1.rastream.com/hitz
-Jazz Sakura (asia dream radio),http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
 Listen.Moe JPop Vorbis,https://listen.moe/stream
-Wave Anime Radio,http://s04.radio-tochka.com:5470/mount
 NHK WORLD RADIO JAPAN,http://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263949/live_s.m3u8
-J-Pop Sakura 懐かしい (Asia DREAM Radio),http://igor.torontocast.com:1710/;
-Funky Corner Radio (Japan),https://ais-sa2.cdnstream1.com/2447_96.aac
 NHK World TV,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_2M.m3u8
 Nightwave Plaza OPUS 96,http://radio.plaza.one/opus
-_Funky Corner Radio (Japan),https://ais-sa2.cdnstream1.com/2447_192.mp3
-Shonan Beach FM 78.9,http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-Retro PC GAME MUSIC Streaming Radio,http://gyusyabu.ddo.jp:8000/listen.pls
 R/a/dio,https://relay0.r-a-d.io/main.mp3
-NHK华语·韩语广播,https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263945/live_s.m3u8
-J-Pop All (Asia DREAM Radio),http://igor.torontocast.com:1025/;
 Radio Hayama,http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.195.194.140:8073/listen.pls?sid=1&t=.m3u
-Kishiwada Radio,http://61.89.201.27:8000/radikishi.mp3
-Ishikawa)",http://radio.kahoku.net:8000/;
 Moon Mission Recordings,http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&t=.m3u
 Friendship Radio,http://us1new.listen2myradio.com:2199/tunein/tkuubxrv.pls
 Hitsujikai Radio,http://streaming.radio.co/se4a8e6a93/listen
 ICRT,http://live.leanstream.co/ICRTFM-MP3
-1766線上電臺-店頭音樂,http://livestream.1766.today:1781/live2.mp3
-城市廣播網?台南知音,http://fm971.cityfm.tw:8080/971.mp3
 1766線上電臺-私房音樂,http://livestream.1766.today:1769/live1.mp3
 ICRT,http://live.leanstream.co/ICRTFM?args=tunein_aac
 幸福廣播電台 TR radio (102.5 MHz FM 台北市 臺北市) Transformation Radio Taipei,https://live.tr-radio.com/live/live/playlist.m3u8
 Taiwan Good TV Truth,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
 Phate,http://phate.io/listen
 1766線上電臺-百家知識,http://livestream.1766.today:1768/live1.mp3
-DaAi Radio,http://38.96.148.28:8156/stream
-城市廣播網?大苗栗廣播,http://fm983.cityfm.tw:8080/983.mp3
 羅東廣播電台-宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
 FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
 香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
@@ -108,14 +86,12 @@ FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
 香港电台第二台,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
 香港电台第三台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
 香港电台第五台,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-西澳华语广播电台,http://streamer5.rightclickitservices.com:7200/stream
 马来西亚MY FM音乐台,http://astro1.rastream.com/myfm
 马来西亚Melody音乐台,https://astro3.rastream.com/melody
-纽西兰华人之声AM936新超凡,http://radio.936.nz:8000/am936
-纽西兰华人之声FM104.2音乐台,http://radio.936.nz:8000/fm994
 Mandarin Radio,http://streaming.radionomy.com/JamendoLounge
 CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
 纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
+UFM 100.3 Radio,http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
 音乐,#genre#
 北京好音乐广播,https://lhttp.qingting.fm/live/5021381/64k.mp3
 上海东广新闻台,http://lhttp.qingting.fm/live/275/64k.mp3
@@ -142,7 +118,6 @@ CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.
 深圳音乐广播飞扬971,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 海南音乐广播,http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
 重庆文艺广播,http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
-重庆音乐广播,http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
 四川文艺广播,http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
 四川岷江音乐频率,http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 成都休闲文化广播,http://livecdn.pull.cdbs.com.cn/live/fm946.flv
@@ -150,8 +125,8 @@ CCN赛普勒斯中文电台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.
 贵州故事广播,http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
 贵州旅游广播,http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
 甘肃黄河之声,http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-新疆音乐广播MYFM103.9,https://lhttp.qingting.fm/live/4029/64k.mp3
 新疆故事广播,https://lhttp.qingting.fm/live/1911/64k.mp3
+新疆音乐广播MYFM103.9,https://lhttp.qingting.fm/live/4029/64k.mp3
 AsiaFM亚洲音乐台,https://lhttp.qingting.fm/live/4581/64k.mp3
 赤峯汉语综合广播 FM96,http://live.xmcdn.com/live/1085/64.m3u8
 九江交通广播 FM88.4 FM88.9,http://ls.qingting.fm/live/2785094.m3u8
@@ -165,8 +140,6 @@ AsiaFM亚洲音乐台,https://lhttp.qingting.fm/live/4581/64k.mp3
 新疆音乐广播 MyFM FM103.9,http://ls.qingting.fm/live/4029.m3u8
 长沙新闻广播 FM105.0,http://ls.qingting.fm/live/4877.m3u8
 郑州私家车 FM91.8,http://ls.qingting.fm/live/1222.m3u8
-台湾古典音乐台Classical FM 97.7,http://59.120.88.155:8000/live.mp3
-YueChan,#genre#
 北京经典调频,http://live.funhillrm.com/4/sd/live.m3u8
 北京文艺广播,http://ls.qingting.fm/live/333.m3u8
 北京交通广播,http://ls.qingting.fm/live/336.m3u8
@@ -197,24 +170,14 @@ Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
 The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
 Dance One,http://rfcmedia.streamguys1.com/srdanceone.mp3
 Disco Beats,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-Today's Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+Today\\\'s Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
 Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
-DRHK,http://ice.digitalradiohk.net:8000/drhk
-One FM,http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
-Gold FM,http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
 Hao FM,http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
-Kiss FM,http://22253.live.streamtheworld.com:3690/KISS_92.mp3
 Class FM,http://22393.live.streamtheworld.com/CLASS95.mp3
-Money FM,http://22253.live.streamtheworld.com/MONEY_893.mp3
-Power FM,https://crystalout.surfernetwork.com:8001/KVSP_MP3
-Capital FM,http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
 CNA938,http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
 NPR News,http://npr-ice.streamguys1.com/live.mp3
 Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
 BBC News,https://utulsa.streamguys1.com/KWGSHD3-MP3
-CNBC Radio,https://tunein.streamguys1.com/cnbc
-LBC News,https://icecast.thisisdax.com/LBCNewsUKMP3
-LBC UK,https://ice-sov.musicradio.com/LBCUKMP3
 Times Radio,http://timesradio.wireless.radio/stream
 BBC Radio 1,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 BBC 1 Xtra,http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
@@ -224,9 +187,7 @@ BBC Radio 4,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
 BBC 4 Xtra,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 BBC Radio 5,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
 BBC Radio 6,http://stream.live.vc.bbcmedia.co.uk/bbc_6music
-News Radio UK,http://playoutonestreaming.com:8008/stream
-MSNBC Radio,http://peridot.streamguys.com:7850/live
-地方(A-C),#genre#
+地方,#genre#
 安阳交通广播 FM89,http://ls.qingting.fm/live/2138.m3u8
 安阳汽车音乐台 FM100.8,http://ls.qingting.fm/live/2123.m3u8
 安阳新闻综合广播 FM94.2,http://ls.qingting.fm/live/4689560.m3u8
@@ -276,7 +237,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 重庆新闻广播 FM96.8,http://ls.qingting.fm/live/1498.m3u8
 重庆音乐广播 FM88.1,http://live.xmcdn.com/live/131/64.m3u8
 重庆音乐广播 FM88.1,http://ls.qingting.fm/live/647.m3u8
-地方(D-G),#genre#
 第一财经 FM97.7,http://live.xmcdn.com/live/56/64.m3u8
 第一财经 FM97.7,http://ls.qingting.fm/live/276.m3u8
 东港新闻综合广播 FM93.3,http://live.xmcdn.com/live/1324/64.m3u8
@@ -292,7 +252,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 甘肃都市调频 FM106.6,http://live.xmcdn.com/live/288/64.m3u8
 甘肃交通广播 FM93.4(2),http://live.xmcdn.com/live/289/64.m3u8
 甘肃经济广播 FM93.4(2),http://live.xmcdn.com/live/292/64.m3u8
-甘肃农村广播 FM92.2,http://live.xmcdn.com/live/291/64.m3u8
 甘肃青春调频 FM104.8,http://live.xmcdn.com/live/290/64.m3u8
 甘肃新闻综合广播 FM96.1,http://live.xmcdn.com/live/287/64.m3u8
 赣江之声 FM92.3,http://ls.qingting.fm/live/23889.m3u8
@@ -325,7 +284,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 广西音乐台 FM95.0,http://ls.qingting.fm/live/4875.m3u8
 广州 MYFM 88.0 (都市生活),http://live.xmcdn.com/live/259/64.m3u8
 广州 MYFM 88.0 (都市生活),http://ls.qingting.fm/live/52712.m3u8
-广州交通电台 FM106.1,http://live.xmcdn.com/live/258/64.m3u8
 广州交通电台 FM106.1,http://ls.qingting.fm/live/4955.m3u8
 广州汽车音乐电台 FM102.7,http://live.xmcdn.com/live/257/64.m3u8
 广州汽车音乐电台 FM102.7,http://ls.qingting.fm/live/52710.m3u8
@@ -341,7 +299,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 贵州电台旅游广播 FM97.2,http://ls.qingting.fm/live/23929.m3u8
 贵州电台音乐广播 FM91.6,http://ls.qingting.fm/live/23937.m3u8
 贵州新闻综合广播 FM94.6,http://ls.qingting.fm/live/23933.m3u8
-地方(H),#genre#
 海口新闻综合广播,http://ls.qingting.fm/live/2938451.m3u8
 海口音乐广播,http://ls.qingting.fm/live/23859.m3u8
 海南国际旅游之声 FM103.8,http://ls.qingting.fm/live/1862.m3u8
@@ -385,7 +342,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 衡阳新闻广播 FM98.9,http://live.xmcdn.com/live/1185/64.m3u8
 衡阳新闻广播 FM98.9,http://ls.qingting.fm/live/5079970.m3u8
 呼和浩特城市生活广播 FM90.1,http://ls.qingting.fm/live/2218717.m3u8
-呼和浩特交通广播 FM107.4,http://ls.qingting.fm/live/2218715.m3u8
 呼和浩特文艺广播 FM99.8,http://ls.qingting.fm/live/3099076.m3u8
 呼和浩特新闻综合广播 FM92.9,http://ls.qingting.fm/live/2218711.m3u8
 湖州交通文艺广播 FM103.5,http://live.xmcdn.com/live/656/64.m3u8
@@ -401,7 +357,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 惠州环保交通广播 FM98.8,http://ls.qingting.fm/live/5017.m3u8
 惠州新闻综合广播 FM100,http://ls.qingting.fm/live/5016.m3u8
 惠州音乐广播 FM90.7,http://ls.qingting.fm/live/2212959.m3u8
-地方(J),#genre#
 吉林交通广播 FM103.8,http://live.xmcdn.com/live/431/64.m3u8
 吉林交通广播 FM103.8,http://ls.qingting.fm/live/4945.m3u8
 吉林经济广播 FM95.3,http://live.xmcdn.com/live/433/64.m3u8
@@ -447,15 +402,11 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 荆门交通音乐频率 FM99.3,http://ls.qingting.fm/live/60808.m3u8
 荆门之声频率 FM89.7,http://live.jmtv.com.cn/xwzhpl/sd/live.m3u8
 九江新闻综合广播 FM91.6,http://ls.qingting.fm/live/4474799.m3u8
-地方(K-Q),#genre#
 开封旅游广播,http://ls.qingting.fm/live/4569.m3u8
 开州之声 FM89.0,http://183.64.174.171:10124/tlgb.m3u8
-昆明都市调频 FM102.8,http://live.xmcdn.com/live/907/64.m3u8
 昆明都市调频 FM102.8,http://ls.qingting.fm/live/1935.m3u8
-昆明汽车广播 FM95.4,http://live.xmcdn.com/live/906/64.m3u8
 昆明汽车广播 FM95.4,http://ls.qingting.fm/live/1936.m3u8
 昆明阳光广播,http://ls.qingting.fm/live/1934.m3u8
-昆明资讯频率,http://live.xmcdn.com/live/908/64.m3u8
 昆明资讯频率,http://ls.qingting.fm/live/1937.m3u8
 拉萨人民广播电台 FM91.4,http://ls.qingting.fm/live/3244137.m3u8
 兰州交通音乐广播 FM99.5,http://ls.qingting.fm/live/1711.m3u8
@@ -484,7 +435,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 明星FM,http://ls.qingting.fm/live/91019.m3u8
 牡丹江交通广播,http://live.xmcdn.com/live/1559/64.m3u8
 牡丹江新闻广播,http://live.xmcdn.com/live/1558/64.m3u8
-南川人民广播电台 FM107.0,http://ls.qingting.fm/live/5116983.m3u8
 南宁成功895 FM89.5,http://live.xmcdn.com/live/1321/64.m3u8?aac
 南宁成功895 FM89.5,http://ls.qingting.fm/live/80797.m3u8?aac
 南宁交通音乐广播 FM107.4,http://live.xmcdn.com/live/306/64.m3u8?aac
@@ -502,10 +452,8 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 宁波动感105 FM105.2,http://ls.qingting.fm/live/3047946.m3u8
 宁波交通广播 FM93.9,http://ls.qingting.fm/live/1140.m3u8
 宁波经济广播 FM102.9,http://ls.qingting.fm/live/1152.m3u8
-宁波老少广播 FM90.4,http://live.xmcdn.com/live/665/64.m3u8
 宁波老少广播 FM90.4,http://ls.qingting.fm/live/1141.m3u8
 宁波私家车音乐台 FM104.7,http://ls.qingting.fm/live/1142.m3u8
-宁波新闻广播 FM92.0,http://live.xmcdn.com/live/653/64.m3u8
 宁波新闻广播 FM92.0,http://ls.qingting.fm/live/1138.m3u8
 宁波甬江之声 FM100.1,http://live.xmcdn.com/live/658/64.m3u8
 宁波甬江之声 FM100.1,http://ls.qingting.fm/live/23909.m3u8
@@ -513,8 +461,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 宁夏都市广播 FM103.7,http://ls.qingting.fm/live/1842.m3u8
 宁夏交通广播 FM98.4,http://ls.qingting.fm/live/1840.m3u8
 宁夏音乐广播 FM104.7,http://live.xmcdn.com/live/1878/64.m3u8
-黔西南交通旅游广播 FM88.3,http://ls.qingting.fm/live/5046.m3u8
-黔西南金州之声 FM107.9,http://ls.qingting.fm/live/5045.m3u8
 秦皇岛924欢乐调频 FM92.4,http://live.xmcdn.com/live/1129/64.m3u8
 秦皇岛交通广播 FM100.4,http://live.xmcdn.com/live/523/64.m3u8
 秦皇岛私家车广播 FM103.8,http://live.xmcdn.com/live/1122/64.m3u8
@@ -531,7 +477,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 青岛西海岸交通广播 FM92.6,http://ls.qingting.fm/live/3748882.m3u8
 青岛新闻广播 FM107.6,http://ls.qingting.fm/live/1673.m3u8
 青海生活广播 花儿调频 FM90.3,http://ls.qingting.fm/live/2163891.m3u8
-地方(S),#genre#
 三明新闻综合广播,http://ls.qingting.fm/live/3128814.m3u8
 三亚天涯之声 FM104.6,http://ls.qingting.fm/live/68236.m3u8
 厦门广播闽南之声,http://ls.qingting.fm/live/1740.m3u8
@@ -622,7 +567,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 苏州戏曲广播 AM846,http://live.xmcdn.com/live/576/64.m3u8
 苏州新闻广播 FM91.1,http://live.xmcdn.com/live/63/64.m3u8
 苏州音乐广播 动听948 FM94.8,http://live.xmcdn.com/live/65/64.m3u8
-地方(T-X),#genre#
 太原交通广播 FM107,http://live.xmcdn.com/live/883/64.m3u8
 太原交通广播 FM107,http://ls.qingting.fm/live/4900.m3u8
 太原私家车Radio FM104.4,http://ls.qingting.fm/live/4018.m3u8
@@ -639,7 +583,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 潍坊私家车广播 FM93.3,http://ls.qingting.fm/live/84511.m3u8
 潍坊新闻广播 FM100.2,http://live.xmcdn.com/live/849/64.m3u8
 潍坊新闻广播 FM100.2,http://ls.qingting.fm/live/60358.m3u8
-潍坊音乐广播 FM88.7,http://ls.qingting.fm/live/4015.m3u8
 温州交通广播 FM103.9,http://live.xmcdn.com/live/641/64.m3u8
 温州交通广播 FM103.9,http://ls.qingting.fm/live/23863.m3u8
 温州经济生活广播 FM88.8,http://live.xmcdn.com/live/659/64.m3u8
@@ -694,7 +637,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 新乡交通广播 FM99.1,http://ls.qingting.fm/live/1229.m3u8
 许昌交通广播 FM92.6,http://ls.qingting.fm/live/3126629.m3u8
 许昌新闻广播 FM102,http://ls.qingting.fm/live/3125648.m3u8
-地方(Y-Z),#genre#
 烟台交通广播 FM103,http://ls.qingting.fm/live/1684.m3u8
 烟台经济广播 FM105.9,http://ls.qingting.fm/live/1683.m3u8
 烟台新闻广播 FM101,http://ls.qingting.fm/live/1682.m3u8
@@ -705,7 +647,6 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 阳泉交通广播,http://ls.qingting.fm/live/4592896.m3u8?aac
 阳泉新闻综合广播,http://ls.qingting.fm/live/5876899.m3u8?aac
 玉溪新闻广播,http://ls.qingting.fm/live/2978811.m3u8
-郁南网络电台,http://ls.qingting.fm/live/23893.m3u8
 岳阳交通广播 FM106.1,http://ls.qingting.fm/live/88931.m3u8
 岳阳新闻综合广播,http://ls.qingting.fm/live/88933.m3u8
 岳阳音乐广播,http://ls.qingting.fm/live/3555897.m3u8
@@ -750,149 +691,136 @@ MSNBC Radio,http://peridot.streamguys.com:7850/live
 珠海电台活力915,http://ls.qingting.fm/live/2473319.m3u8
 珠海电台交通音乐875,http://ls.qingting.fm/live/1275.m3u8
 珠海电台先锋951,http://ls.qingting.fm/live/1274.m3u8
-🇨🇳中国广播,#genre#
-CN-民歌悠扬,https://lhttp.qingting.fm/live/15318585/64k.mp3
-CN-上海新闻广播,http://lhttp.qingting.fm/live/270/64k.mp3
-CN-上海故事广播,http://lhttp.qingting.fm/live/268/64k.mp3
-CN-CGTNArabic,http://livear.cgtn.com/200a/prog_index.m3u8
-CN-CGTNEnglish,http://live.cgtn.com/200/prog_index.m3u8
-CN-MYFM全国音乐频道——FM106.3长春少儿与老年生活广播,http://lhttp.qingting.fm/live/4984/64k.mp3
-CN-苏州儿童广播,http://lhttp.qingting.fm/live/2807/64k.mp3
-CN-巴音郭楞交通文艺广播,http://live.xmcdn.com/live/1600/64.m3u8
-CN-陕西经典音乐广播·年代878,http://lhttp.qingting.fm/live/1608/64k.mp3
-CN-云州人民广播电台,https://lhttp.qingting.fm/live/20210885/64k.mp3
-CN-CGTNSpanish,http://livees.cgtn.com/200e/prog_index.m3u8
-CN-西藏对外交通广播,http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
-CN-大兴区人民广播电台,http://lhttp.qingting.fm/live/5021739/64k.mp3
-CN-玉环人民广播电台,http://live.xmcdn.com/live/700/64.m3u8
-CN-河南卷卷猫电台,http://lhttp.qingting.fm/live/20500038/64k.mp3
-CN-江苏财经广播,http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
-CN-辽宁经典流行音乐广播,http://lhttp.qingting.fm/live/20021/64k.mp3
-CN-鄂尔多斯曲艺评书广播,http://lhttp.qingting.fm/live/20212402/64k.mp3
-CN-内蒙古评书曲艺广播,http://ls.qingting.fm/live/1887.m3u8
-CN-郾城人民广播电台,http://lhttp.qingting.fm/live/15318300/64k.mp3
-CN-河南经济广播,http://lhttp.qingting.fm/live/1216/64k.mp3
-CN-河南交通广播,http://lhttp.qingting.fm/live/1209/64k.mp3
-CN-故城人民广播电台,http://lhttp.qingting.fm/live/20212269/64k.mp3
-CN-CGTNEnglish,http://live.cgtn.com/1000/prog_index.m3u8
-CN-第一财经,http://lhttp.qingting.fm/live/276/64k.mp3
-CN-西宁旅游广播,http://lhttp.qingting.fm/live/5022284/64k.mp3
-CN-湘潭交通广播,http://live.hnxttv.com:9601/live/radiojt/100K/tzwj_video.m3u8
-CN-CGTNDocumentary,http://livedoc.cgtn.com/200d/prog_index.m3u8
-CN-靖江人民广播电台,http://visit.jjbctv.com:1935/live/_definst_/gbpdpc/playlist.m3u8
-CN-张掖新闻综合广播,http://lhttp.qingting.fm/live/5022096/64k.mp3
-CN-湖南经典音乐广播（卫星）,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-CN-花都人民广播电台,https://lhttp.qingting.fm/live/1263/64k.mp3
-CN-延安综合广播,http://live.xmcdn.com/live/2699/64.m3u8
-CN-南充综合广播,http://live.xmcdn.com/live/1242/64.m3u8
-CN-玉林综合广播,https://lhttp.qingting.fm/live/1762/64k.mp3
-CN-横县人民广播电台,http://lhttp.qingting.fm/live/20500008/64k.mp3
-CN-LamRim,http://199.180.72.2:9097/lamrim
-CN-石狮人民广播电台,http://live.xmcdn.com/live/2730/64.m3u8
-CN-沧州长书文艺广播,https://lhttp.qingting.fm/live/5021902/64k.mp3
-CN-金鹰955·湖南金鹰之声,http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
-CN-库尔勒人民广播电台,http://live.xmcdn.com/live/2671/64.m3u8
-CN-CNR-15中国交通广播（上海版）,http://cnlive.cnr.cn/hls/zgjtgbsh.m3u8
-CN-温州之声,http://lhttp.qingting.fm/live/1155/64k.mp3
-CN-新昌人民广播电台·天姥之声,https://lhttp.qingting.fm/live/20212423/64k.mp3
-CN-恩平人民广播电台,https://lhttp.qingting.fm/live/20701/64k.mp3
-CN-佛冈人民广播电台,https://lhttp.qingting.fm/live/15318379/64k.mp3
-CN-青岛经济广播,http://lhttp.qingting.fm/live/1674/64k.mp3
-CN-牟平人民广播电台,http://lhttp.qingting.fm/live/5022382/64k.mp3
-CN-长岛人民广播电台,http://lhttp.qingting.fm/live/21217/64k.mp3
-CN-攀枝花对农广播,http://live.xmcdn.com/live/770/64.m3u8
-CN-文山交通广播,http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8
-CN-扬州江都广播,http://live.xmcdn.com/live/2540/64.m3u8
-CN-长春都市音乐广播FM99.6,http://lhttp.qingting.fm/live/5015/64k.mp3
-CN-澄海人民广播电台,http://lhttp.qingting.fm/live/5022439/64k.mp3
-CN-珠海活力915·音乐调频,http://lhttp.qingting.fm/live/5021725/64k.mp3
-CN-永嘉人民广播电台,https://lhttp.qingting.fm/live/15318231/64k.mp3
-CN-盐城农村广播,https://lhttp.qingting.fm/live/20332/64k.mp3
-CN-斗门人民广播电台,http://lhttp.qingting.fm/live/15318432/64k.mp3
-CN-江苏文艺广播,http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-CN-鼎城人民广播电台,https://lhttp.qingting.fm/live/5021860/64k.mp3
-CN-宁乡人民广播电台,http://live.xmcdn.com/live/2676/64.m3u8
-CN-界首人民广播电台,https://lhttp.qingting.fm/live/20207785/64k.mp3
-CN-呼和浩特文艺广播,https://lhttp.qingting.fm/live/5021437/64k.mp3
-CN-化州人民广播电台,http://lhttp.qingting.fm/live/15318689/64k.mp3
-CN-贵港综合广播,https://lhttp.qingting.fm/live/20697/64k.mp3
-CN-昆明老年广播,http://cnlive.cnr.cn/hls/cszx.m3u8
-CN-云南经济广播,http://live.xmcdn.com/live/909/64.m3u8
-CN-庄河人民广播电台,http://lhttp.qingting.fm/live/5022473/64k.mp3
-CN-大连少儿广播,http://lhttp.qingting.fm/live/1084/64k.mp3
-CN-岳阳时尚广播EASYFM,http://lhttp.qingting.fm/live/5022391/64k.mp3
-CN-玉溪交通旅游广播,http://lhttp.qingting.fm/live/20211563/64k.mp3
-CN-青岛音乐•体育广播,http://lhttp.qingting.fm/live/1677/64k.mp3
-CN-邵阳经济广播,http://lhttp.qingting.fm/live/20500058/64k.mp3
-CN-山东综合广播,http://audiolive302.iqilu.com/sdradioXinwen/sdradio01/playlist.m3u8
-CN-山东交通广播,http://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
-CN-红调频·九江综合广播,https://lhttp.qingting.fm/live/5022729/64k.mp3
-CN-MYFM全国音乐频道·广州,http://lhttp.qingting.fm/live/20194/64k.mp3
-CN-湘乡人民广播电台,http://live.xmcdn.com/live/2241/64.m3u8
-CN-汽车音乐1029·河北经典音乐广播,http://lhttp.qingting.fm/live/5021743/64k.mp3
-CN-巧家人民广播电台,http://lhttp.qingting.fm/live/20211704/64k.mp3
-CN-邢台交通•音乐广播,http://lhttp.qingting.fm/live/15318481/64k.mp3
-CN-CGTNFrench,http://livefr.cgtn.com/200f/prog_index.m3u8
-CN-天长人民广播电台,https://lhttp.qingting.fm/live/4854/64k.mp3
-CN-鲅鱼圈新闻综合广播,http://live.xmcdn.com/live/2733/64.m3u8
-CN-成都文化休闲广播,http://livecdn.pull.cdbs.com.cn/live/fm946/playlist.m3u8
-CN-赤峰农村牧区广播,http://lhttp.qingting.fm/live/1898/64k.mp3
-CN-献县人民广播电台,http://lhttp.qingting.fm/live/5022603/64k.mp3
-CN-广宁人民广播电台,http://live.xmcdn.com/live/2603/64.m3u8
-CN-东海人民广播电台,http://live.xmcdn.com/live/2638/64.m3u8
-CN-扬中人民广播电台,http://live.xmcdn.com/live/2645/64.m3u8
-CN-从化人民广播电台,http://lhttp.qingting.fm/live/15318698/64k.mp3
-CN-商丘交通广播,http://live.xmcdn.com/live/1261/64.m3u8
-CN-双流人民广播电台,https://lhttp.qingting.fm/live/20211587/64k.mp3
-CN-崂山921听见好时光,http://lhttp.qingting.fm/live/20212426/64k.mp3
-CN-聊城经济广播,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel6/playlist.m3u8
-CN-延边汉语文艺广播,http://lhttp.qingting.fm/live/4889/64k.mp3
-CN-台州音乐广播,https://lhttp.qingting.fm/live/1144/64k.mp3
-CN-安顺综合广播,http://lhttp.qingting.fm/live/5022203/64k.mp3
-CN-安顺交通旅游广播,http://lhttp.qingting.fm/live/5022202/64k.mp3
-CN-太原老年之声,http://lhttp.qingting.fm/live/20211701/64k.mp3
-CN-阳泉交通广播,http://lhttp.qingting.fm/live/15318165/64k.mp3
-CN-泸州对农经济生活广播,http://lhttp.qingting.fm/live/5021565/64k.mp3
-CN-海南民生广播,http://lhttp.qingting.fm/live/21243/64k.mp3
-CN-经典994·樟树人民广播电台,http://lhttp.qingting.fm/live/15318282/64k.mp3
-CN-东营生活广播,http://lhttp.qingting.fm/live/20211580/64k.mp3
-CN-河南网络广播·经典FM,http://lhttp.qingting.fm/live/20207762/64k.mp3
-CN-大理州旅游文化广播,http://lhttp.qingting.fm/live/20207748/64k.mp3
-CN-德州文艺广播,http://live.xmcdn.com/live/2555/64.m3u8
-CN-浙江女主播电台,http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
-CN-德州综合广播,http://video.dztv.tv:1935/live/dzxwzh/playlist.m3u8
-CN-重庆经济广播,http://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8
-CN-德州文艺广播（2）,http://video.dztv.tv:1935/live/dzdsgb/playlist.m3u8
-CN-静海人民广播电台,http://lhttp.qingting.fm/live/20212227/64k.mp3
-CN-上海交通广播,http://lhttp.qingting.fm/live/266/64k.mp3
-CN-西华人民广播电台,https://lhttp.qingting.fm/live/20211629/64k.mp3
-CN-平舆人民广播电台,https://lhttp.qingting.fm/live/20209342/64k.mp3
-CN-苏州生活广播,http://lhttp.qingting.fm/live/2801/64k.mp3
-CN-奉节人民广播电台,http://125.82.171.154:8040/ch0.m3u8
-CN-邹城人民广播电台,http://lhttp.qingting.fm/live/20207732/64k.mp3
-CN-苏州交通经济广播,http://lhttp.qingting.fm/live/2806/64k.mp3
-CN-CGTNRussian,http://liveru.cgtn.com/200r/prog_index.m3u8
-CN-天台人民广播电台,https://lhttp.qingting.fm/live/5022200/64k.mp3
-CN-金山人民广播电台,https://lhttp.qingting.fm/live/4022/64k.mp3
-CN-苏家屯人民广播电台,http://lhttp.qingting.fm/live/5022520/64k.mp3
-CN-贺州综合广播,https://lhttp.qingting.fm/live/5043/64k.mp3
-CN-威海交通广播,http://lhttp.qingting.fm/live/20671/64k.mp3
-CN-临汾交通文艺广播,http://live.xmcdn.com/live/2515/64.m3u8
-CN-沙县人民广播电台,http://lhttp.qingting.fm/live/5021998/64k.mp3
-CN-临汾音乐广播,http://live.xmcdn.com/live/2516/64.m3u8
-CN-慈溪人民广播电台,https://lhttp.qingting.fm/live/5021401/64k.mp3
-CN-河南广播电视台-MyRadio,http://lhttp.qingting.fm/live/1206/64k.mp3
-CN-呼伦贝尔蒙语广播,http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
-CN-河南网络广播·民谣音乐台,http://lhttp.qingting.fm/live/20207763/64k.mp3
-CN-正定人民广播电台,http://lhttp.qingting.fm/live/20211627/64k.mp3
-CN-河南新闻广播,http://lhttp.qingting.fm/live/1215/64k.mp3
-CN-福州新闻广播,http://lhttp.qingting.fm/live/5025/64k.mp3
-CN-惠州经济环保广播,https://lhttp.qingting.fm/live/5017/64k.mp3
-CN-伊犁音乐广播,http://lhttp.qingting.fm/live/5022691/64k.mp3
-CN-河南网络广播·天籁古典,http://lhttp.qingting.fm/live/20210756/64k.mp3
-CN-北仑人民广播电台,http://lhttp.qingting.fm/live/1153/64k.mp3
-CN-安庆农村广播,https://lhttp.qingting.fm/live/1966/64k.mp3
-CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
+中国广播,#genre#
+民歌悠扬,https://lhttp.qingting.fm/live/15318585/64k.mp3
+上海新闻广播,http://lhttp.qingting.fm/live/270/64k.mp3
+上海故事广播,http://lhttp.qingting.fm/live/268/64k.mp3
+CGTNArabic,http://livear.cgtn.com/200a/prog_index.m3u8
+CGTNEnglish,http://live.cgtn.com/200/prog_index.m3u8
+长春少儿与老年生活广播,http://lhttp.qingting.fm/live/4984/64k.mp3
+苏州儿童广播,http://lhttp.qingting.fm/live/2807/64k.mp3
+巴音郭楞交通文艺广播,http://live.xmcdn.com/live/1600/64.m3u8
+陕西经典音乐广播·年代878,http://lhttp.qingting.fm/live/1608/64k.mp3
+云州人民广播电台,https://lhttp.qingting.fm/live/20210885/64k.mp3
+CGTNSpanish,http://livees.cgtn.com/200e/prog_index.m3u8
+西藏对外交通广播,http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
+大兴区人民广播电台,http://lhttp.qingting.fm/live/5021739/64k.mp3
+玉环人民广播电台,http://live.xmcdn.com/live/700/64.m3u8
+河南卷卷猫电台,http://lhttp.qingting.fm/live/20500038/64k.mp3
+江苏财经广播,http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
+辽宁经典流行音乐广播,http://lhttp.qingting.fm/live/20021/64k.mp3
+鄂尔多斯曲艺评书广播,http://lhttp.qingting.fm/live/20212402/64k.mp3
+内蒙古评书曲艺广播,http://ls.qingting.fm/live/1887.m3u8
+河南经济广播,http://lhttp.qingting.fm/live/1216/64k.mp3
+河南交通广播,http://lhttp.qingting.fm/live/1209/64k.mp3
+故城人民广播电台,http://lhttp.qingting.fm/live/20212269/64k.mp3
+CGTNEnglish,http://live.cgtn.com/1000/prog_index.m3u8
+第一财经,http://lhttp.qingting.fm/live/276/64k.mp3
+西宁旅游广播,http://lhttp.qingting.fm/live/5022284/64k.mp3
+湘潭交通广播,http://live.hnxttv.com:9601/live/radiojt/100K/tzwj_video.m3u8
+CGTNDocumentary,http://livedoc.cgtn.com/200d/prog_index.m3u8
+靖江人民广播电台,http://visit.jjbctv.com:1935/live/_definst_/gbpdpc/playlist.m3u8
+张掖新闻综合广播,http://lhttp.qingting.fm/live/5022096/64k.mp3
+湖南经典音乐广播（卫星）,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+花都人民广播电台,https://lhttp.qingting.fm/live/1263/64k.mp3
+延安综合广播,http://live.xmcdn.com/live/2699/64.m3u8
+南充综合广播,http://live.xmcdn.com/live/1242/64.m3u8
+玉林综合广播,https://lhttp.qingting.fm/live/1762/64k.mp3
+横县人民广播电台,http://lhttp.qingting.fm/live/20500008/64k.mp3
+石狮人民广播电台,http://live.xmcdn.com/live/2730/64.m3u8
+沧州长书文艺广播,https://lhttp.qingting.fm/live/5021902/64k.mp3
+金鹰955·湖南金鹰之声,http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+库尔勒人民广播电台,http://live.xmcdn.com/live/2671/64.m3u8
+CNR-15中国交通广播（上海版）,http://cnlive.cnr.cn/hls/zgjtgbsh.m3u8
+温州之声,http://lhttp.qingting.fm/live/1155/64k.mp3
+新昌人民广播电台·天姥之声,https://lhttp.qingting.fm/live/20212423/64k.mp3
+恩平人民广播电台,https://lhttp.qingting.fm/live/20701/64k.mp3
+佛冈人民广播电台,https://lhttp.qingting.fm/live/15318379/64k.mp3
+青岛经济广播,http://lhttp.qingting.fm/live/1674/64k.mp3
+牟平人民广播电台,http://lhttp.qingting.fm/live/5022382/64k.mp3
+长岛人民广播电台,http://lhttp.qingting.fm/live/21217/64k.mp3
+攀枝花对农广播,http://live.xmcdn.com/live/770/64.m3u8
+文山交通广播,http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8
+扬州江都广播,http://live.xmcdn.com/live/2540/64.m3u8
+长春都市音乐广播FM99.6,http://lhttp.qingting.fm/live/5015/64k.mp3
+澄海人民广播电台,http://lhttp.qingting.fm/live/5022439/64k.mp3
+珠海活力915·音乐调频,http://lhttp.qingting.fm/live/5021725/64k.mp3
+永嘉人民广播电台,https://lhttp.qingting.fm/live/15318231/64k.mp3
+盐城农村广播,https://lhttp.qingting.fm/live/20332/64k.mp3
+斗门人民广播电台,http://lhttp.qingting.fm/live/15318432/64k.mp3
+江苏文艺广播,http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+鼎城人民广播电台,https://lhttp.qingting.fm/live/5021860/64k.mp3
+界首人民广播电台,https://lhttp.qingting.fm/live/20207785/64k.mp3
+呼和浩特文艺广播,https://lhttp.qingting.fm/live/5021437/64k.mp3
+化州人民广播电台,http://lhttp.qingting.fm/live/15318689/64k.mp3
+云南经济广播,http://live.xmcdn.com/live/909/64.m3u8
+庄河人民广播电台,http://lhttp.qingting.fm/live/5022473/64k.mp3
+大连少儿广播,http://lhttp.qingting.fm/live/1084/64k.mp3
+岳阳时尚广播EASYFM,http://lhttp.qingting.fm/live/5022391/64k.mp3
+玉溪交通旅游广播,http://lhttp.qingting.fm/live/20211563/64k.mp3
+青岛音乐•体育广播,http://lhttp.qingting.fm/live/1677/64k.mp3
+邵阳经济广播,http://lhttp.qingting.fm/live/20500058/64k.mp3
+山东综合广播,http://audiolive302.iqilu.com/sdradioXinwen/sdradio01/playlist.m3u8
+山东交通广播,http://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
+红调频·九江综合广播,https://lhttp.qingting.fm/live/5022729/64k.mp3
+MYFM全国音乐频道·广州,http://lhttp.qingting.fm/live/20194/64k.mp3
+巧家人民广播电台,http://lhttp.qingting.fm/live/20211704/64k.mp3
+邢台交通•音乐广播,http://lhttp.qingting.fm/live/15318481/64k.mp3
+CGTNFrench,http://livefr.cgtn.com/200f/prog_index.m3u8
+天长人民广播电台,https://lhttp.qingting.fm/live/4854/64k.mp3
+成都文化休闲广播,http://livecdn.pull.cdbs.com.cn/live/fm946/playlist.m3u8
+赤峰农村牧区广播,http://lhttp.qingting.fm/live/1898/64k.mp3
+献县人民广播电台,http://lhttp.qingting.fm/live/5022603/64k.mp3
+广宁人民广播电台,http://live.xmcdn.com/live/2603/64.m3u8
+东海人民广播电台,http://live.xmcdn.com/live/2638/64.m3u8
+扬中人民广播电台,http://live.xmcdn.com/live/2645/64.m3u8
+从化人民广播电台,http://lhttp.qingting.fm/live/15318698/64k.mp3
+商丘交通广播,http://live.xmcdn.com/live/1261/64.m3u8
+双流人民广播电台,https://lhttp.qingting.fm/live/20211587/64k.mp3
+崂山921听见好时光,http://lhttp.qingting.fm/live/20212426/64k.mp3
+聊城经济广播,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel6/playlist.m3u8
+延边汉语文艺广播,http://lhttp.qingting.fm/live/4889/64k.mp3
+台州音乐广播,https://lhttp.qingting.fm/live/1144/64k.mp3
+安顺综合广播,http://lhttp.qingting.fm/live/5022203/64k.mp3
+安顺交通旅游广播,http://lhttp.qingting.fm/live/5022202/64k.mp3
+太原老年之声,http://lhttp.qingting.fm/live/20211701/64k.mp3
+阳泉交通广播,http://lhttp.qingting.fm/live/15318165/64k.mp3
+海南民生广播,http://lhttp.qingting.fm/live/21243/64k.mp3
+经典994·樟树人民广播电台,http://lhttp.qingting.fm/live/15318282/64k.mp3
+东营生活广播,http://lhttp.qingting.fm/live/20211580/64k.mp3
+河南网络广播·经典FM,http://lhttp.qingting.fm/live/20207762/64k.mp3
+大理州旅游文化广播,http://lhttp.qingting.fm/live/20207748/64k.mp3
+德州文艺广播,http://live.xmcdn.com/live/2555/64.m3u8
+浙江女主播电台,http://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+静海人民广播电台,http://lhttp.qingting.fm/live/20212227/64k.mp3
+上海交通广播,http://lhttp.qingting.fm/live/266/64k.mp3
+西华人民广播电台,https://lhttp.qingting.fm/live/20211629/64k.mp3
+平舆人民广播电台,https://lhttp.qingting.fm/live/20209342/64k.mp3
+苏州生活广播,http://lhttp.qingting.fm/live/2801/64k.mp3
+奉节人民广播电台,http://125.82.171.154:8040/ch0.m3u8
+邹城人民广播电台,http://lhttp.qingting.fm/live/20207732/64k.mp3
+苏州交通经济广播,http://lhttp.qingting.fm/live/2806/64k.mp3
+CGTNRussian,http://liveru.cgtn.com/200r/prog_index.m3u8
+天台人民广播电台,https://lhttp.qingting.fm/live/5022200/64k.mp3
+金山人民广播电台,https://lhttp.qingting.fm/live/4022/64k.mp3
+苏家屯人民广播电台,http://lhttp.qingting.fm/live/5022520/64k.mp3
+贺州综合广播,https://lhttp.qingting.fm/live/5043/64k.mp3
+威海交通广播,http://lhttp.qingting.fm/live/20671/64k.mp3
+临汾交通文艺广播,http://live.xmcdn.com/live/2515/64.m3u8
+沙县人民广播电台,http://lhttp.qingting.fm/live/5021998/64k.mp3
+临汾音乐广播,http://live.xmcdn.com/live/2516/64.m3u8
+慈溪人民广播电台,https://lhttp.qingting.fm/live/5021401/64k.mp3
+河南广播电视台-MyRadio,http://lhttp.qingting.fm/live/1206/64k.mp3
+呼伦贝尔蒙语广播,http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+河南网络广播·民谣音乐台,http://lhttp.qingting.fm/live/20207763/64k.mp3
+正定人民广播电台,http://lhttp.qingting.fm/live/20211627/64k.mp3
+河南新闻广播,http://lhttp.qingting.fm/live/1215/64k.mp3
+惠州经济环保广播,https://lhttp.qingting.fm/live/5017/64k.mp3
+伊犁音乐广播,http://lhttp.qingting.fm/live/5022691/64k.mp3
+河南网络广播·天籁古典,http://lhttp.qingting.fm/live/20210756/64k.mp3
+北仑人民广播电台,http://lhttp.qingting.fm/live/1153/64k.mp3
+安庆农村广播,https://lhttp.qingting.fm/live/1966/64k.mp3
+石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 阿姆威-安徽交通广播,http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 阿穆尔河-黑龙江交通广播,http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
 阿穆尔河-HarbinClassicalMusicRadio,http://lhttp.qingting.fm/live/5022338/64k.mp3
@@ -901,7 +829,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 阿穆尔河-PeonyRiverTrafficRadio,http://lhttp.qingting.fm/live/5022354/64k.mp3
 阿穆尔河-AmurRiverMusicRadio,http://ls.qingting.fm/live/4969.m3u8
 阿穆尔河-大庆综合广播,http://lhttp.qingting.fm/live/20500060/64k.mp3
-阿穆尔河-鸡西交通广播,http://live.xmcdn.com/live/2735/64.m3u8
 阿穆尔河-鸡西综合广播,http://live.xmcdn.com/live/2734/64.m3u8
 阿穆尔河-HarbinMusicRadio,http://ls.qingting.fm/live/839.m3u8
 阿穆尔河-PeonyRiverNewsRadio,http://lhttp.qingting.fm/live/5022434/64k.mp3
@@ -917,19 +844,16 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 安徽-安徽旅游广播,http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
 安徽-安徽生活广播,http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
 安徽-安徽综合广播,http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
-安徽-蚌埠综合广播,http://lhttp.qingting.fm/live/20154/64k.mp3
 安徽-安庆综合广播,https://lhttp.qingting.fm/live/1965/64k.mp3
 安徽-黄山交通旅游广播,http://ls.qingting.fm/live/1969.m3u8
 安徽-黄山综合广播,http://ls.qingting.fm/live/1968.m3u8
 安徽-颍上人民广播电台,http://lhttp.qingting.fm/live/20500039/64k.mp3
 安徽-合肥交通广播,http://lhttp.qingting.fm/live/1960/64k.mp3
-安徽-MYFM全国音乐频道·安徽,http://lhttp.qingting.fm/live/20211718/64k.mp3
 安徽-宿州交通广播,http://live.ahsz.tv/audio/s10001-jtgb/index.m3u8
 安徽-宿州综合广播,http://live.ahsz.tv/audio/s10001-xwgb/index.m3u8
 安徽-宿州文艺广播,http://live.ahsz.tv/audio/s10001-wygb/index.m3u8
 安徽-合肥汽车音乐,http://lhttp.qingting.fm/live/1975/64k.mp3
 安徽-芜湖综合广播,http://live1.wuhubtv.com/channel5/sd/live.m3u8
-安熙-蚌埠交通文艺广播,http://lhttp.qingting.fm/live/4577/64k.mp3
 澳门-RádioMacau,http://live4.tdm.com.mo/live/_definst_/rch1.live/playlist.m3u8
 北京-CGTNArabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 北京-CRIHitFM,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
@@ -954,7 +878,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 福建-龙岩旅游之声,http://lhttp.qingting.fm/live/20711/64k.mp3
 福建-龙岩新闻综合广播,http://lhttp.qingting.fm/live/20709/64k.mp3
 福建-福州交通之声,http://lhttp.qingting.fm/live/5026/64k.mp3
-福建-南安人民广播电台,https://lhttp.qingting.fm/live/5021731/64k.mp3
 福建-福建汽车娱乐广播,http://lhttp.qingting.fm/live/20211656/64k.mp3
 福建-漳州综合广播,http://lhttp.qingting.fm/live/1742/64k.mp3
 福建-漳州交通广播,http://lhttp.qingting.fm/live/1743/64k.mp3
@@ -981,8 +904,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 广通-深圳新闻广播,http://lhttp.qingting.fm/live/1270/64k.mp3
 广通-江门电台旅游之声,http://lhttp.qingting.fm/live/1283/64k.mp3
 广通-梅州电台新闻广播,http://lhttp.qingting.fm/live/1257/64k.mp3
-广通-郁南音乐台·郁南人民广播电台,http://lhttp.qingting.fm/live/20026/64k.mp3
-广通-深圳综艺广播,http://lhttp.qingting.fm/live/1271/64k.mp3
 广通-深圳生活广播,http://lhttp.qingting.fm/live/1273/64k.mp3
 广通-惠州音乐广播,https://lhttp.qingting.fm/live/5021523/64k.mp3
 广通-深圳交通广播,http://lhttp.qingting.fm/live/1272/64k.mp3
@@ -993,13 +914,11 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 广通-云浮综合广播,http://lhttp.qingting.fm/live/5022442/64k.mp3
 广通-云浮交通音乐广播,http://lhttp.qingting.fm/live/5022441/64k.mp3
 广通-湛江交通音乐广播,http://lhttp.qingting.fm/live/20472/64k.mp3
-广通-湛江综合广播,http://lhttp.qingting.fm/live/20617/64k.mp3
 广通-湛江经济广播,http://lhttp.qingting.fm/live/5069/64k.mp3
 广通-梅县人民广播电台,http://lhttp.qingting.fm/live/5021942/64k.mp3
 广通-普宁人民广播电台,http://lhttp.qingting.fm/live/5022527/64k.mp3
 广通-梅州电台交通广播,http://lhttp.qingting.fm/live/1258/64k.mp3
 广通-廉江广播,http://lhttp.qingting.fm/live/20211578/64k.mp3
-广通-中国校园之声,http://lhttp.qingting.fm/live/20091/64k.mp3
 广西-广西私家车调频FM93.0,http://live.xmcdn.com/live/302/64.m3u8
 广西-桂林飞扬频率,http://lhttp.qingting.fm/live/1760/64k.mp3
 广西-桂林城市之声,http://lhttp.qingting.fm/live/1759/64k.mp3
@@ -1029,8 +948,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 海南-海南音乐广播,http://lhttp.qingting.fm/live/4878/64k.mp3
 海南-HaikowMusicRadio,http://lhttp.qingting.fm/live/20010/64k.mp3
 湖北-荆州汽车广播（原荆州交通音乐广播）,https://lhttp.qingting.fm/live/1312/64k.mp3
-湖北-信阳综合广播,https://lhttp.qingting.fm/live/5021977/64k.mp3
-湖北-孝感交通音乐广播,https://live.xmcdn.com/live/2094/64.m3u8
 湖北-江夏人民广播电台,https://live.xmcdn.com/live/1580/64.m3u8
 湖北-恩施综合广播,https://live.xmcdn.com/live/1435/64.m3u8
 湖北-恩施交通音乐广播,https://live.xmcdn.com/live/1434/64.m3u8
@@ -1044,19 +961,15 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 湖北-十堰交通音乐广播,http://lhttp.qingting.fm/live/20342/64k.mp3
 湖北-长江水上信息安全台,http://ls.qingting.fm/live/2694923.m3u8
 湖北-宜昌都市生活广播,https://lhttp.qingting.fm/live/20567/64k.mp3
-湖北-宜昌交通广播,https://lhttp.qingting.fm/live/20563/64k.mp3
 湖北-宜昌新闻综合广播,https://lhttp.qingting.fm/live/20565/64k.mp3
 湖北-十堰综合广播,http://lhttp.qingting.fm/live/20338/64k.mp3
 湖北-十堰旅游生活广播,http://live.xmcdn.com/live/2682/64.m3u8
 湖北-武汉经典音乐广播·岁月悠长，听见好时光,http://ls.qingting.fm/live/1297.m3u8
 湖南-80后音悦台,http://lhttp.qingting.fm/live/20207761/64k.mp3
-湖南-河南农村广播,http://lhttp.qingting.fm/live/1218/64k.mp3
 湖南-湖南乡村之声,http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
 湖南-孟津人民广播电台,http://lhttp.qingting.fm/live/20211699/64k.mp3
 湖南-林州人民广播电台,http://lhttp.qingting.fm/live/20211604/64k.mp3
 湖南-开封音乐广播,http://lhttp.qingting.fm/live/4569/64k.mp3
-湖南-郑州人民广播电台新闻广播,http://lhttp.qingting.fm/live/1220/64k.mp3
-湖南-项城人民广播电台,http://lhttp.qingting.fm/live/15318335/64k.mp3
 湖南-河南网络戏曲广播,http://lhttp.qingting.fm/live/15318393/64k.mp3
 湖南-洛阳综合广播,http://live.xmcdn.com/live/491/64.m3u8
 湖南-洛阳交通广播,http://live.xmcdn.com/live/492/64.m3u8
@@ -1066,7 +979,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 湖南-信阳平桥广播,https://lhttp.qingting.fm/live/15318156/64k.mp3
 湖南-HunanNewsRadio,http://ls.qingting.fm/live/4978.m3u8
 湖南-湖南文艺广播（卫星）,http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-湖南-长沙品味音乐广播,http://lhttp.qingting.fm/live/4930/64k.mp3
 湖南-郑州人民广播电台文化娱乐广播,http://lhttp.qingting.fm/live/1222/64k.mp3
 湖南-长沙BIGRADIO流行音乐广播,http://lhttp.qingting.fm/live/20847/64k.mp3
 湖南-湖南交通广播,http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
@@ -1074,7 +986,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 湖南-湖南音乐之声,https://lhttp.qingting.fm/live/4979/64k.mp3
 湖南-HunanTrafficRadio,http://ls.qingting.fm/live/4879.m3u8
 湖南-河南星河音乐广播,http://lhttp.qingting.fm/live/20210755/64k.mp3
-湖南-常德综合广播,https://lhttp.qingting.fm/live/15318208/64k.mp3
 湖南-郑州人民广播电台交通广播,http://lhttp.qingting.fm/live/1211/64k.mp3
 湖南-常德交通广播,https://lhttp.qingting.fm/live/15318209/64k.mp3
 湖南-株洲综合广播,https://lhttp.qingting.fm/live/3970/64k.mp3
@@ -1102,7 +1013,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 湖南-商丘综合广播,http://live.xmcdn.com/live/1271/64.m3u8
 湖南-HunanCarMusicRadio,http://ls.qingting.fm/live/4979.m3u8
 湖南-长垣人民广播电台,https://lhttp.qingting.fm/live/15318663/64k.mp3
-湖南-CNR-15中国交通广播（河南版）,http://cnlive.cnr.cn/hls/zgjtgbhn.m3u8
 湖南-HunanGoldenOldieRadio,http://ls.qingting.fm/live/4981.m3u8
 湖南-河南信息广播,http://lhttp.qingting.fm/live/20208/64k.mp3
 湖南-安阳新闻综合广播,https://lhttp.qingting.fm/live/15318224/64k.mp3
@@ -1126,18 +1036,12 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 吉林-白山交通广播,https://lhttp.qingting.fm/live/5083/64k.mp3
 吉林-吉林市广播电视台经济广播,http://lhttp.qingting.fm/live/1823/64k.mp3
 吉林-长春新闻综合广播,http://lhttp.qingting.fm/live/5013/64k.mp3
-吉林-长春交通之声,http://lhttp.qingting.fm/live/4967/64k.mp3
-吉林-松原综合广播,http://lhttp.qingting.fm/live/5079/64k.mp3
 吉林-松原大众生活广播,http://lhttp.qingting.fm/live/5082/64k.mp3
 吉林-松原交通文艺广播,http://lhttp.qingting.fm/live/20212256/64k.mp3
 吉林-长春乡村戏曲广播,http://lhttp.qingting.fm/live/5014/64k.mp3
-吉林-梨树北方交通广播,http://live.xmcdn.com/live/2106/64.m3u8
-江苏-MYFM全国音乐频道·南京,http://lhttp.qingting.fm/live/20207738/64k.mp3
 江苏-江苏金陵之声,http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
 江苏-苏州都市音乐广播,http://lhttp.qingting.fm/live/2803/64k.mp3
 江苏-无锡都市生活广播,http://lhttp.qingting.fm/live/2783/64k.mp3
-江苏-WukinMetroRadio,http://live.wjyanghu.com/live/CH6.m3u8
-江苏-南京音乐广播,http://lhttp.qingting.fm/live/4963/64k.mp3
 江苏-灌南人民广播电台,http://live.xmcdn.com/live/2722/64.m3u8
 江苏-无锡经济广播,http://lhttp.qingting.fm/live/2778/64k.mp3
 江苏-盐城新闻广播,https://lhttp.qingting.fm/live/20330/64k.mp3
@@ -1150,7 +1054,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 江苏-江苏综合广播,http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
 江苏-江苏新闻广播,http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
 江苏-铜山县人民广播电台FM94.2,http://lhttp.qingting.fm/live/15318160/64k.mp3
-江苏-南京FM96.6UPRadio,http://lhttp.qingting.fm/live/4961/64k.mp3
 江苏-宝应人民广播电台,http://lhttp.qingting.fm/live/5022457/64k.mp3
 江苏-金湖人民广播电台,http://lhttp.qingting.fm/live/15318464/64k.mp3
 江苏-扬州新闻广播,https://lhttp.qingting.fm/live/5000/64k.mp3
@@ -1175,7 +1078,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 江西-江西广播电视台新闻广播,http://lhttp.qingting.fm/live/1809/64k.mp3
 江西-九江交通广播,https://lhttp.qingting.fm/live/5021918/64k.mp3
 江西-江西广播电视台科教农村广播,http://lhttp.qingting.fm/live/4606/64k.mp3
-江西-江西广播电视台民生广播,http://lhttp.qingting.fm/live/1813/64k.mp3
 江西-景德镇交通音乐广播,https://lhttp.qingting.fm/live/5021829/64k.mp3
 江西-高安人民广播电台,https://lhttp.qingting.fm/live/20500014/64k.mp3
 江西-赣州综合广播（2）,https://lhttp.qingting.fm/live/20266/64k.mp3
@@ -1191,26 +1093,21 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 辽宁-新民人民广播电台,http://live.xmcdn.com/live/2064/64.m3u8
 辽宁-盘锦交通文艺广播,http://live.xmcdn.com/live/350/64.m3u8
 辽宁-盘锦综合广播,http://live.xmcdn.com/live/348/64.m3u8
-辽宁-凤城综合广播,http://live.xmcdn.com/live/1084/64.m3u8
 辽宁-盘锦经济生活广播,http://live.xmcdn.com/live/2696/64.m3u8
 辽宁-朝阳县人民广播电台,http://lhttp.qingting.fm/live/20212211/64k.mp3
 辽宁-辽宁广播电视台音乐广播,http://lhttp.qingting.fm/live/1101/64k.mp3
 辽宁-TantungTrafficRadio,http://ls.qingting.fm/live/1091.m3u8
 辽宁-绥中综合广播,http://lhttp.qingting.fm/live/20211705/64k.mp3
 辽宁-海城新闻综合广播,http://lhttp.qingting.fm/live/15318107/64k.mp3
-辽宁-桓仁人民广播电台,http://lhttp.qingting.fm/live/5022699/64k.mp3
 辽宁-TantungNewsRadio,http://ls.qingting.fm/live/1090.m3u8
 辽宁-沈阳新民广播FM103.9,http://lhttp.qingting.fm/live/5022535/64k.mp3
 辽宁-丹东交通广播,http://live.xmcdn.com/live/343/64.m3u8
 流行音乐-湖北楚天音乐广播,http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
 内蒙古-内蒙古绿野之声,http://ls.qingting.fm/live/1888.m3u8
-内蒙古-AlxaMongolianRadio,http://lhttp.qingting.fm/live/5022555/64k.mp3
 内蒙古-内蒙古综合广播,http://lhttp.qingting.fm/live/1883/64k.mp3
 内蒙古-AlxaChineseRadio,http://lhttp.qingting.fm/live/5022521/64k.mp3
-内蒙古-清水河人民广播电台,http://lhttp.qingting.fm/live/20211564/64k.mp3
 内蒙古-内蒙古交通之声,http://lhttp.qingting.fm/live/1884/64k.mp3
 内蒙古-呼和浩特城市生活广播,https://lhttp.qingting.fm/live/5021547/64k.mp3
-内蒙古-呼和浩特交通广播,https://lhttp.qingting.fm/live/5021545/64k.mp3
 内蒙古-内蒙古蒙语广播,http://lhttp.qingting.fm/live/1882/64k.mp3
 内蒙古-鄂尔多斯蒙语综合广播,http://lhttp.qingting.fm/live/20348/64k.mp3
 内蒙古-鄂尔多斯汉语综合广播,http://lhttp.qingting.fm/live/20350/64k.mp3
@@ -1219,7 +1116,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 内蒙古-内蒙古草原之声,http://lhttp.qingting.fm/live/20973/64k.mp3
 内蒙古-内蒙古新闻广播,http://lhttp.qingting.fm/live/1881/64k.mp3
 内蒙古-内蒙古音乐之声,http://lhttp.qingting.fm/live/1886/64k.mp3
-内蒙古-托克托人民广播电台,http://lhttp.qingting.fm/live/20207775/64k.mp3
 内蒙古-内蒙古经济生活广播,http://lhttp.qingting.fm/live/1885/64k.mp3
 内蒙古-呼伦贝尔综合广播,http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
 内蒙古-固阳人民广播电台,https://lhttp.qingting.fm/live/5021581/64k.mp3
@@ -1230,7 +1126,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 青海-西宁交通文艺广播,http://lhttp.qingting.fm/live/5022283/64k.mp3
 青海-西宁都市生活广播,http://lhttp.qingting.fm/live/5022268/64k.mp3
 青海-TsinghaiTrafficRadio,http://live.xmcdn.com/live/1825/64.m3u8
-青海-HaisiNewsRadio,http://stream.haixitv.cn/2/sd/live.m3u8
 青海-青海经济广播,http://stream2.qhbtv.com/jjgb/sd/live.m3u8
 青海-青海藏语广播,http://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
 青海-青海交通音乐广播,http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
@@ -1247,7 +1142,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 山东-济南生活广播,http://cnlive.cnr.cn/hls/jnshgb.m3u8
 山东-济南都市广播,http://cnlive.cnr.cn/hls/jndsgb.m3u8
 山东-济南文艺广播,http://lhttp.qingting.fm/live/1670/64k.mp3
-山东-蒙阴人民广播电台,http://lhttp.qingting.fm/live/15318571/64k.mp3
 山东-定陶人民广播电台,http://lhttp.qingting.fm/live/20211680/64k.mp3
 山东-ShantungNewsRadio,http://lhttp.qingting.fm/live/20234/64k.mp3
 山东-成武人民广播电台,https://lhttp.qingting.fm/live/20211637/64k.mp3
@@ -1270,7 +1164,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 山东-ShantungSportsRadio,http://lhttp.qingting.fm/live/20246/64k.mp3
 山东-高密人民广播电台,https://lhttp.qingting.fm/live/20212417/64k.mp3
 山东-东营综合广播,http://lhttp.qingting.fm/live/20144/64k.mp3
-山东-德州交通音乐广播,http://video.dztv.tv:1935/live/dzjtyy/playlist.m3u8
 山东-青岛文艺广播,http://lhttp.qingting.fm/live/1675/64k.mp3
 山东-TsingchowNewsRadio,http://sdqz.chinashadt.com:2036/live/4.stream/playlist.m3u8
 山东-临淄人民广播电台,https://lhttp.qingting.fm/live/20212204/64k.mp3
@@ -1286,7 +1179,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 山西-ShansiEconomicsRadio,http://lhttp.qingting.fm/live/20501/64k.mp3
 山西-ShansiNewsRadio,http://lhttp.qingting.fm/live/20491/64k.mp3
 山西-ShansiMusicRadio,http://ls.qingting.fm/live/4932.m3u8
-山西-泽州人民广播电台,http://lhttp.qingting.fm/live/5021761/64k.mp3
 山西-ChangchiNewsRadio,http://lhttp.qingting.fm/live/5021874/64k.mp3
 山西-夏县人民广播电台,http://lhttp.qingting.fm/live/15318194/64k.mp3
 山西-ShansiAgricultureRadio,http://lhttp.qingting.fm/live/1186/64k.mp3
@@ -1297,7 +1189,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 山西-山西广播电视台故事广播,http://lhttp.qingting.fm/live/5022511/64k.mp3
 上海-上海音乐广播,http://lhttp.qingting.fm/live/273/64k.mp3
 上海-上海爱乐数字音乐广播KFM98.1,http://lhttp.qingting.fm/live/5022023/64k.mp3
-上海-ShanghaiFM101上海动感101,https://lhttp.qingting.fm/live/274/64k.mp3
 上海-上海经典音乐广播,http://l3.smgtech.net/AppName/1197.m3u8
 上海-上海浦东FM106.5东上海之声,http://lhttp.qingting.fm/live/21355/64k.mp3
 上海-上海浦东FM100.1新娱乐广播,http://lhttp.qingting.fm/live/5022341/64k.mp3
@@ -1318,7 +1209,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 四川-MianyangTrafficRadio,http://ls.qingting.fm/live/4026.m3u8
 四川-乐山综合广播,http://live.xmcdn.com/live/2702/64.m3u8
 四川-乐山音乐交通广播,http://live.xmcdn.com/live/2703/64.m3u8
-四川-旌阳人民广播电台,http://live.xmcdn.com/live/2604/64.m3u8
 四川-眉山交通音乐广播,http://live.xmcdn.com/live/2358/64.m3u8
 四川-攀枝花综合广播,http://live.xmcdn.com/live/1064/64.m3u8
 四川-西昌人民广播电台,http://lhttp.qingting.fm/live/20211706/64k.mp3
@@ -1334,12 +1224,9 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 四川-ChengtuNewsRadio,http://ls.qingting.fm/live/4897.m3u8
 四川-MianyangMusicRadio,http://ls.qingting.fm/live/4025.m3u8
 四川-金堂人民广播电台,http://lhttp.qingting.fm/live/20211686/64k.mp3
-四川-泸州综合广播,http://lhttp.qingting.fm/live/5021557/64k.mp3
-四川-泸州交通音乐广播,http://lhttp.qingting.fm/live/5021559/64k.mp3
 四川-ChengtuStoryRadio,http://lhttp.qingting.fm/live/5022004/64k.mp3
 四川-广汉人民广播电台,https://lhttp.qingting.fm/live/20212405/64k.mp3
 四川-绵竹人民广播电台,http://live.xmcdn.com/live/2128/64.m3u8
-四川-金堂人民广播电台-2,http://live.xmcdn.com/live/763/64.m3u8
 四川-ChengtuEconomicsRadio,http://ls.qingting.fm/live/1121.m3u8
 四川-MianyangNewsRadio,http://ls.qingting.fm/live/4024.m3u8
 他贝-邯郸1003大眼睛广播,https://lhttp.qingting.fm/live/3951/64k.mp3
@@ -1350,7 +1237,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 西藏-西藏汉语广播,http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
 西藏-西藏康巴话广播,http://satellitepull.cnr.cn/live/wxxzzykbfy/playlist.m3u8
 西藏-西藏藏语广播,http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
-希望-定州人民广播电台,http://lhttp.qingting.fm/live/20211638/64k.mp3
 希望-廊坊戏曲广播·飞扬105,http://lhttp.qingting.fm/live/20211678/64k.mp3
 希望-廊坊交通长书广播,http://lhttp.qingting.fm/live/3948/64k.mp3
 希望-孟村回族自治县人民广播电台,http://lhttp.qingting.fm/live/5021914/64k.mp3
@@ -1361,7 +1247,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 希望-邯郸经济文艺广播,https://lhttp.qingting.fm/live/4601/64k.mp3
 希望-沧州综合广播,https://lhttp.qingting.fm/live/5021901/64k.mp3
 希望-邯郸交通音乐广播,https://lhttp.qingting.fm/live/3950/64k.mp3
-希望-邢台生活广播,http://lhttp.qingting.fm/live/15318265/64k.mp3
 希望-ShikiachwangMusicRadio,http://ls.qingting.fm/live/1654.m3u8
 希望-ShikiachwangNewsRadio,http://ls.qingting.fm/live/1652.m3u8
 希望-永年人民广播电台,http://lhttp.qingting.fm/live/20212203/64k.mp3
@@ -1375,15 +1260,12 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 希望-鹿泉人民广播电台,http://lhttp.qingting.fm/live/20211668/64k.mp3
 希望-廊坊综合广播,https://lhttp.qingting.fm/live/3948/64k.mp3
 希望-ShikiachwangTrafficRadio,http://ls.qingting.fm/live/1655.m3u8
-香港-講台talkonly,http://103.11.102.62:8000/talkonly.mp3
 香港-RTHKRadio-1,http://stm.rthk.hk/radio1
-香港-D100Radio,http://59.152.232.108:8000/Channel1-64MP3
 香港-RTHKRadio-2,http://stm.rthk.hk/radio2
 香港-AsiaFM亚洲天空台,https://lhttp.qingting.fm/live/20071/64k.mp3
 香港-TalkonlyLive,http://www.talkonly.net/local_live.pls
 香港-RTHKRadio-3,http://stm.rthk.hk/radio3
 香港-RTHKRadio-4,http://stm.rthk.hk/radio4
-香港-RTHKRadio-5,http://stm1.rthk.hk/radio5
 香港-RTHKPutonghuaChannel,http://stm.rthk.hk/radiopth
 消息-邳州人民广播电台,http://lhttp.qingting.fm/live/2809/64k.mp3
 消息-邢台新闻广播,http://lhttp.qingting.fm/live/20211628/64k.mp3
@@ -1396,7 +1278,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 新疆-UrumtsiTrafficRadio,http://ls.qingting.fm/live/1919.m3u8
 新疆-UrumtsiNewsRadio,http://ls.qingting.fm/live/1918.m3u8
 新疆-阿克苏汉语广播,http://live.xmcdn.com/live/2681/64.m3u8
-新疆-库车人民广播电台,http://live.xmcdn.com/live/2659/64.m3u8
 新疆-十三师人民广播电台,https://lhttp.qingting.fm/live/5022506/64k.mp3
 新疆-察布查尔人民广播电台,https://lhttp.qingting.fm/live/5022610/64k.mp3
 新疆-新疆维语综合广播,http://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8
@@ -1407,12 +1288,10 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 新疆-UrumtsiTourist&MusicRadio,http://ls.qingting.fm/live/1920.m3u8
 新疆-乌鲁木齐市米东区人民广播电台,http://lhttp.qingting.fm/live/21001/64k.mp3
 新疆-巴音郭楞交通广播,https://lhttp.qingting.fm/live/5022104/64k.mp3
-新闻-莱西人民广播电台,http://live.xmcdn.com/live/2705/64.m3u8
 新闻-湖北之声（中波卖药版）,http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
 新闻-湖北经济资讯广播FM99.8,http://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
 新闻-湖北经济资讯广播AM1179,http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
 音乐-北京音乐广播,http://cnlive.cnr.cn/hls/bjyygb.m3u8
-音乐-巴彦淖尔交通广播,http://live.xmcdn.com/live/1096/64.m3u8
 音乐-宣化人民广播电台,http://lhttp.qingting.fm/live/15318538/64k.mp3
 音乐-黄冈交通音乐广播,https://lhttp.qingting.fm/live/20207776/64k.mp3
 音乐-安康交通广播,http://lhttp.qingting.fm/live/5021862/64k.mp3
@@ -1423,9 +1302,7 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 云南-西双版纳汉语综合广播,http://file.xsbnrtv.cn/vms/audios/nmip-media/audiolive/audio2/playlist.m3u8
 云南-云南旅游广播（2）,http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
 云南-文山综合广播,http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio9/playlist.m3u8
-云南-昆明文艺旅游广播,http://cnlive.cnr.cn/hls/dstp.m3u8
 云南-开远人民广播电台,https://lhttp.qingting.fm/live/5022383/64k.mp3
-云南-昆明城市管理广播,https://live.xmcdn.com/live/906/64.m3u8
 云南-西双版纳傣语·哈尼语综合广播,http://file.xsbnrtv.cn/vms/audios/nmip-media/audiolive/audio4/playlist.m3u8
 云南-云南民族广播,http://live.xmcdn.com/live/911/64.m3u8
 云南-蒙自人民广播电台,https://lhttp.qingting.fm/live/5021599/64k.mp3
@@ -1436,7 +1313,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 云南-态度电台,http://lhttp.qingting.fm/live/4917/64k.mp3
 云南-大理州新闻综合广播,http://lhttp.qingting.fm/live/20207747/64k.mp3
 云南-保山综合广播,https://lhttp.qingting.fm/live/5022446/64k.mp3
-浙江-杭州音乐时尚广播,http://lhttp.qingting.fm/live/15318146/64k.mp3
 浙江-桐乡人民广播电台,http://lhttp.qingting.fm/live/5021791/64k.mp3
 浙江-浙江之声（调频版）,https://lhttp.qingting.fm/live/4518/64k.mp3
 浙江-SinchangVoiceofTienmu,http://l.cztvcloud.com/channels/lantian/SXxinchangaud/128k.m3u8
@@ -1447,11 +1323,9 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 浙江-临海人民广播电台,http://lhttp.qingting.fm/live/5022437/64k.mp3
 浙江-SiaoshanFMRadio,http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8
 浙江-嘉兴新闻广播,http://lhttp.qingting.fm/live/1154/64k.mp3
-浙江-嘉兴交通广播,http://lhttp.qingting.fm/live/1135/64k.mp3
 浙江-嘉兴音乐广播,http://lhttp.qingting.fm/live/1136/64k.mp3
 浙江-湖州综合广播,https://lhttp.qingting.fm/live/2810/64k.mp3
 浙江-温州对农广播,http://lhttp.qingting.fm/live/1158/64k.mp3
-浙江-三门人民广播电台,http://lhttp.qingting.fm/live/15318638/64k.mp3
 浙江-绍兴综合广播,http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
 浙江-绍兴交通广播,http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
 浙江-绍兴戏曲广播,http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
@@ -1466,7 +1340,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 浙江-浙江民生资讯广播,http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
 浙江-浙江音乐广播,http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
 浙江-温州私家车音乐广播,http://lhttp.qingting.fm/live/1149/64k.mp3
-浙江-衢州龙游广播,http://lhttp.qingting.fm/live/15318359/64k.mp3
 浙江-温州经济生活广播,http://lhttp.qingting.fm/live/1157/64k.mp3
 浙江-宁海人民广播电台,https://lhttp.qingting.fm/live/5022406/64k.mp3
 浙江-龙泉人民广播电台,https://lhttp.qingting.fm/live/20207769/64k.mp3
@@ -1476,7 +1349,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 浙江-诸暨人民广播电台,http://lhttp.qingting.fm/live/5022482/64k.mp3
 浙江-SiaoshanCableRadio,http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8
 浙江-杭州临安广播,http://lhttp.qingting.fm/live/20005/64k.mp3
-浙江-兴仁人民广播电台,http://lhttp.qingting.fm/live/20500077/64k.mp3
 中国-北京体育广播,http://cnlive.cnr.cn/hls/bjtygb.m3u8
 中国-甘肃农村广播,http://lhttp.qingting.fm/live/3941/64k.mp3
 中国-ChineseMusicWorld,https://radio.chinesemusicworld.com/chinesemusic.ogg
@@ -1489,13 +1361,11 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 中国-福建经济广播,http://live.xmcdn.com/live/789/64.m3u8
 中国-烈山人民广播电台,https://lhttp.qingting.fm/live/15318117/64k.mp3
 中国-巴彦淖尔文艺生活广播,http://live.xmcdn.com/live/2599/64.m3u8
-中国-南京新闻广播,http://lhttp.qingting.fm/live/4960/64k.mp3
 中国-宁波镇海广播100.1PLAYFM,http://lhttp.qingting.fm/live/20035/64k.mp3
 中国-遵义旅游生活广播,https://lhttp.qingting.fm/live/5022083/64k.mp3
 中国-呼和浩特蒙语广播,https://lhttp.qingting.fm/live/20500043/64k.mp3
 中国-河南警广之声,http://stream3.hndt.com/now/prIgXGFo/playlist.m3u8
 中国-溧水人民广播电台,http://live.xmcdn.com/live/2670/64.m3u8
-中国-余杭丽人广播,https://lhttp.qingting.fm/live/1131/64k.mp3
 中国-苏州戏曲广播,http://lhttp.qingting.fm/live/20211622/64k.mp3
 中国-魏县人民广播电台,http://lhttp.qingting.fm/live/20212412/64k.mp3
 中国-成安人民广播电台,http://lhttp.qingting.fm/live/20211694/64k.mp3
@@ -1504,8 +1374,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 中国-安康综合广播,http://lhttp.qingting.fm/live/5021861/64k.mp3
 中国-北碚人民广播电台,http://lhttp.qingting.fm/live/20211692/64k.mp3
 中国-沈阳新闻广播,http://lhttp.qingting.fm/live/20024/64k.mp3
-中国-杭州老朋友广播,http://cnlive.cnr.cn/hls/hzlpygb.m3u8
-中国-北京故事广播,http://cnlive.cnr.cn/hls/bjgsgb.m3u8
 中国-北京交通广播,http://cnlive.cnr.cn/hls/bjjtgb.m3u8
 中国-北京城市广播,http://cnlive.cnr.cn/hls/bjcsgb.m3u8
 中国-北京新闻广播,http://cnlive.cnr.cn/hls/bjxwgb.m3u8
@@ -1514,19 +1382,15 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 中国-清苑人民广播电台,http://lhttp.qingting.fm/live/5021803/64k.mp3
 中国-柴桑人民广播电台,http://live.xmcdn.com/live/630/64.m3u8
 重庆-重庆都市广播,http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
-重庆-重庆综合广播,http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 重庆-合川人民广播电台,http://125.62.24.73:8030/ch0.m3u8
 四平交通文艺广播,http://lhttp.qingting.fm/live/5022465/64k.mp3
 靖远新闻综合广播,http://live.xmcdn.com/live/2646/64.m3u8
-盐山人民广播电台,https://lhttp.qingting.fm/live/5022536/64k.mp3
-巴彦淖尔综合广播,http://live.xmcdn.com/live/2598/64.m3u8
 黄梅人民广播电台,http://live.xmcdn.com/live/2098/64.m3u8
 曹县人民广播电台,http://lhttp.qingting.fm/live/5022340/64k.mp3
 包头蒙语广播,https://lhttp.qingting.fm/live/1891/64k.mp3
 阿克苏市人民广播电台,https://lhttp.qingting.fm/live/20500041/64k.mp3
 邵阳综合广播,http://lhttp.qingting.fm/live/20148/64k.mp3
 宁波音乐广播,http://live.xmcdn.com/live/660/64.m3u8
-淄博综合广播,http://live.xmcdn.com/live/828/64.m3u8
 大足人民广播电台—大足之声,http://lhttp.qingting.fm/live/20211676/64k.mp3
 黑河综合广播,http://live.xmcdn.com/live/2139/64.m3u8
 中山环保旅游之声·快乐888,https://lhttp.qingting.fm/live/1278/64k.mp3
@@ -1537,18 +1401,14 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 通化综合广播,http://stream4.jlntv.cn/aac_thxw/playlist.m3u8
 通化交通文艺广播,http://stream4.jlntv.cn/aac_thsh/playlist.m3u8
 通化大众生活广播,http://stream4.jlntv.cn/aac_thjt/playlist.m3u8
-伊犁综合广播,http://lhttp.qingting.fm/live/20211711/64k.mp3
 江津人民广播电台,http://live.xmcdn.com/live/2519/64.m3u8
 伊犁哈语广播,https://lhttp.qingting.fm/live/5022692/64k.mp3
 伊犁维语广播,http://lhttp.qingting.fm/live/5022688/64k.mp3
-太和人民广播电台,http://lhttp.qingting.fm/live/15318579/64k.mp3
 江油人民广播电台,http://live.xmcdn.com/live/767/64.m3u8
 中卫综合广播,http://live.xmcdn.com/live/2400/64.m3u8
-呼和浩特综合广播,https://lhttp.qingting.fm/live/5021543/64k.mp3
 安徽农村广播,http://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8
 富顺人民广播电台,http://live.xmcdn.com/live/2723/64.m3u8
 安徽经济广播,http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
-南谯人民广播电台,http://lhttp.qingting.fm/live/20211575/64k.mp3
 鄂州综合广播,https://lhttp.qingting.fm/live/21025/64k.mp3
 定西交通广播,http://lhttp.qingting.fm/live/20212230/64k.mp3
 江宁人民广播电台,http://lhttp.qingting.fm/live/20500075/64k.mp3
@@ -1573,7 +1433,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 宁夏旅游广播,http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
 章丘人民广播电台,https://lhttp.qingting.fm/live/20212207/64k.mp3
 兴宁人民广播电台,http://p2.weizan.cn/1033266991/403883356943529854/live.m3u8
-淄博交通文艺广播,http://live.xmcdn.com/live/817/64.m3u8
 弥勒人民广播电台,https://lhttp.qingting.fm/live/5022531/64k.mp3
 山西健康之声,http://live.xmcdn.com/live/2736/64.m3u8
 锡林郭勒综合广播,http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
@@ -1581,16 +1440,13 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 贵州家有购物广播,http://39.134.65.162/PLTV/88888888/224/3221225554/index.m3u8
 湖南快乐购广播,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226353/1.m3u8
 三亚天涯之声,http://lhttp.qingting.fm/live/20450/64k.mp3
-乐购购物,http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 三亚旅游之声103.8,http://lhttp.qingting.fm/live/15318203/64k.mp3
 浙江经济广播,http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
 都江堰人民广播电台,http://live.xmcdn.com/live/2360/64.m3u8
-新乡县人民广播电台,http://lhttp.qingting.fm/live/5022029/64k.mp3
 淮阴人民广播电台,https://lhttp.qingting.fm/live/5021970/64k.mp3
 清丰人民广播电台,https://lhttp.qingting.fm/live/5021461/64k.mp3
 温岭1036·温岭人民广播电台,http://lhttp.qingting.fm/live/4567/64k.mp3
 鄞州人民广播电台,http://lhttp.qingting.fm/live/5022061/64k.mp3
-即墨人民广播电台,https://lhttp.qingting.fm/live/20807/64k.mp3
 淮安农村广播,https://lhttp.qingting.fm/live/4588/64k.mp3
 安溪人民广播电台,http://lhttp.qingting.fm/live/5022135/64k.mp3
 宿迁交通广播,https://lhttp.qingting.fm/live/5004/64k.mp3
@@ -1613,7 +1469,6 @@ CN-石家庄经济广播,http://lhttp.qingting.fm/live/1653/64k.mp3
 东方卫视伴音,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 90.7mixfm,https://lhttp.qingting.fm/live/15318146/64k.mp3
 中国交通广播,http://live02.rfi.fr/rfienchinois-64.mp3
-打击乐,http://satellitepull.cnr.cn/live/wxdjy/playlist.m3u8
 CRI劲曲调频HITFM（成都）,http://lhttp.qingting.fm/live/15318703/64k.mp3
 Xuzhou,http://lhttp.qingting.fm/live/4923/64k.mp3
 阿穆尔河-HarbinLiterature&ArtRadio,http://lhttp.qingting.fm/live/20083/64k.mp3
@@ -1636,7 +1491,38 @@ Xuzhou,http://lhttp.qingting.fm/live/4923/64k.mp3
 神思-咸阳综合广播,https://lhttp.qingting.fm/live/5022397/64k.mp3
 神思-宝鸡经济广播,https://lhttp.qingting.fm/live/15318126/64k.mp3
 希望-辛集人民广播电台,http://lhttp.qingting.fm/live/5021959/64k.mp3
-浙江-台州交通广播,https://lhttp.qingting.fm/live/1146/64k.mp3
 中国-shirley&spinoza,http://s2.radio.co/sec5fa6199/listen.m3u
 徐州交通广播,https://lhttp.qingting.fm/live/4924/64k.mp3
 徐州新闻综合广播,https://lhttp.qingting.fm/live/4922/64k.mp3
+郾城人民广播电台,http://lhttp.qingting.fm/live/15318300/64k.mp3
+汽车音乐1029·河北经典音乐广播,http://lhttp.qingting.fm/live/5021743/64k.mp3
+福州新闻广播,http://lhttp.qingting.fm/live/5025/64k.mp3
+福建-南安人民广播电台,https://lhttp.qingting.fm/live/5021731/64k.mp3
+广通-深圳综艺广播,http://lhttp.qingting.fm/live/1271/64k.mp3
+广通-湛江综合广播,http://lhttp.qingting.fm/live/20617/64k.mp3
+湖北-宜昌交通广播,https://lhttp.qingting.fm/live/20563/64k.mp3
+湖南-河南农村广播,http://lhttp.qingting.fm/live/1218/64k.mp3
+湖南-郑州人民广播电台新闻广播,http://lhttp.qingting.fm/live/1220/64k.mp3
+湖南-长沙品味音乐广播,http://lhttp.qingting.fm/live/4930/64k.mp3
+湖南-常德综合广播,https://lhttp.qingting.fm/live/15318208/64k.mp3
+吉林-长春交通之声,http://lhttp.qingting.fm/live/4967/64k.mp3
+吉林-松原综合广播,http://lhttp.qingting.fm/live/5079/64k.mp3
+江西-江西广播电视台民生广播,http://lhttp.qingting.fm/live/1813/64k.mp3
+内蒙古-AlxaMongolianRadio,http://lhttp.qingting.fm/live/5022555/64k.mp3
+内蒙古-托克托人民广播电台,http://lhttp.qingting.fm/live/20207775/64k.mp3
+山东-蒙阴人民广播电台,http://lhttp.qingting.fm/live/15318571/64k.mp3
+山西-泽州人民广播电台,http://lhttp.qingting.fm/live/5021761/64k.mp3
+上海-ShanghaiFM101上海动感101,https://lhttp.qingting.fm/live/274/64k.mp3
+希望-定州人民广播电台,http://lhttp.qingting.fm/live/20211638/64k.mp3
+希望-邢台生活广播,http://lhttp.qingting.fm/live/15318265/64k.mp3
+香港-RTHKRadio-5,http://stm1.rthk.hk/radio5
+浙江-杭州音乐时尚广播,http://lhttp.qingting.fm/live/15318146/64k.mp3
+浙江-嘉兴交通广播,http://lhttp.qingting.fm/live/1135/64k.mp3
+浙江-三门人民广播电台,http://lhttp.qingting.fm/live/15318638/64k.mp3
+浙江-衢州龙游广播,http://lhttp.qingting.fm/live/15318359/64k.mp3
+浙江-兴仁人民广播电台,http://lhttp.qingting.fm/live/20500077/64k.mp3
+盐山人民广播电台,https://lhttp.qingting.fm/live/5022536/64k.mp3
+伊犁综合广播,http://lhttp.qingting.fm/live/20211711/64k.mp3
+太和人民广播电台,http://lhttp.qingting.fm/live/15318579/64k.mp3
+呼和浩特综合广播,https://lhttp.qingting.fm/live/5021543/64k.mp3
+即墨人民广播电台,https://lhttp.qingting.fm/live/20807/64k.mp3

@@ -2,7 +2,7 @@
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
     
-    "spider":"./jar/fan.txt;md5;10eb32e7f059984cba18ee3a8b764470",
+    "spider": "./jar/fty.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
     "wallpaper": "https://cainisi.cf/壁纸",
     
     "sites": [
@@ -27,34 +27,43 @@
             "ext": "https://tvbox.cainisi.cf/json/js/豆瓣.js"
         },
         {
-            "key": "酷影",
-            "name": "酷影┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/"
-        },
-        {
-            "key": "多米",
+            "key": "多米蓝光",
             "name": "多米┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://vod.dmdh.top:5680//api.php/app/"
+            "ext":"http://v.dmdh.top/api.php/app/"
         },
         {
             "key": "csp_apple",
             "name": "小苹果┃影视",
             "type": 3,
             "api": "csp_LiteApple",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "热播之家",
+            "name": "热播┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./xBPQ/热播之家.json"
+        },
+        {
+            "key": "磁力熊",
+            "name": "磁力熊┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./xBPQ/磁力熊.json"
         },
         {
             "key": "布蕾影城",
@@ -64,7 +73,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_AppTT",
@@ -74,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+            "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key": "YQK_spider",
@@ -124,6 +133,16 @@
             "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
+            "key": "csp_appys_xc",
+            "name": "小城┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"
+        },
+        {
             "key": "VOFLIX",
             "name": "VOFLIX┃影视",
             "type": 3,
@@ -133,8 +152,8 @@
             "filterable": 1
         },
         {
-            "key": "69美剧",
-            "name": "69美剧┃影视",
+            "key": "csp_MeiJu69",
+            "name": "六九┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -182,7 +201,7 @@
             "ext": "https://tvbox.cainisi.cf/json/js/鸭奈飞.js"
         },
         {
-            "key": "csp_77",
+            "key": "csp_Kunyu77",
             "name": "七七┃影视",
             "type": 3,
             "api": "csp_Kunyu77",
@@ -230,43 +249,14 @@
             "ext": "./xBPQ/乐猪TV.json"
         },
         {
-            "key": "秋霞影视",
-            "name": "秋霞┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/秋霞影视.json"
-        },
-        {
-            "key": "神马影院",
-            "name": "神马┃影视",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "蓝光┃影视",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lgyy.vip"
-        },
-        {
-            "key": "饭团影院",
+            "key": "饭团影视",
             "name": "饭团┃影视",
             "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
+            "api": "csp_Fantuan",
             "filterable": 1,
-            "ext": "./xBPQ/饭团影院.json"
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://www.fantuanhd.com"
         },
         {
             "key": "零零七影视",
@@ -282,21 +272,10 @@
             "key": "双十电影",
             "name": "双十┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "csp_Dy1010",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/双十电影.js"
-        },
-        {
-            "key": "胖虎影视",
-            "name": "胖虎┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/胖虎影视.js"
+            "filterable": 1
         },
         {
             "key": "TVB云播",
@@ -312,11 +291,11 @@
             "key": "555电影",
             "name": "555┃影视",
             "type": 3,
-            "api": "csp_Ys555",
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.555dyy1.com"
+            "ext": "https://tvbox.cainisi.cf/json/js/555电影.js"
         },
         {
             "key": "csp_appys_如意4K",
@@ -327,35 +306,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
-        },
-        {
-            "key": "大米星球",
-            "name": "大米┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/大米星球.js"
-        },
-        {
-            "key": "Auete",
-            "name": "Auete┃影视",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "美剧网",
-            "name": "美剧┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/美剧网.js"
         },
         {
             "key": "爱奇艺",
@@ -383,6 +333,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Ysgc",
+            "name": "工场┃影视",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.ysgc.vip"
         },
         {
             "key": "Dm84",
@@ -421,19 +381,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_Cokemv",
+            "key": "COKEMV",
             "name": "COKEMV┃影视",
             "type": 3,
             "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bd",
-            "name": "哔滴┃影视",
-            "type": 3,
-            "api": "csp_Bdys01",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -449,14 +400,13 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
-            "key": "红红",
-            "name": "红红┃影视",
+            "key": "csp_Miaobo",
+            "name": "秒播┃影视",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Miaobo",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://bbq.1006.tk/icciu_api.php/v1.vod"
+            "filterable": 1
         },
         {
             "key": "黄黄",
@@ -503,16 +453,6 @@
             "filterable": 1,
             "ext": "https://tvbox.cainisi.cf/json/js/城市电影.js"
         },
-        {
-            "key": "兰花影院",
-            "name": "兰花┃影视",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/兰花影院.js"
-        },
         
         
         
@@ -539,26 +479,6 @@
             "ext": "./xBPQ/素白白影视.json"
         },
         {
-            "key": "FreeOK",
-            "name": "FreeOK┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/FreeOK.json"
-        },
-        {
-            "key": "热播库",
-            "name": "热播库┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/热播库.json"
-        },
-        {
             "key": "莫扎兔",
             "name": "莫扎兔┃影视",
             "type": 3,
@@ -577,36 +497,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./xBPQ/干饭影视.json"
-        },
-        {
-            "key": "爱看影视",
-            "name": "爱看┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/爱看影视.json"
-        },
-        {
-            "key": "188影视",
-            "name": "188┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/188影视.json"
-        },
-        {
-            "key": "真不卡影院",
-            "name": "真不卡┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/真不卡影院.json"
         },
         {
             "key": "凌云影视",
@@ -687,16 +577,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./xBPQ/剧白白.json"
-        },
-        {
-            "key": "霹雳影视",
-            "name": "霹雳┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/霹雳影视.json"
         },
         {
             "key": "万博剧院",
@@ -931,6 +811,16 @@
             "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
         },
         {
+            "key": "TuGou",
+            "name": "土狗┃云盘",
+            "type": 3,
+            "api": "csp_TuGou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+        },
+        {
             "key": "PanSearch",
             "name": "Search┃云盘",
             "type": 3,
@@ -975,16 +865,6 @@
             "name": "盘搜┃云盘",
             "type": 3,
             "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
-        },
-        {
-            "key": "TuGou",
-            "name": "土狗┃云盘",
-            "type": 3,
-            "api": "csp_TuGou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1069,9 +949,9 @@
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "云",
+            "name": "咸鱼",
             "type": 0,
-            "url": "https://jx.aidouer.net/?url="
+            "url": "https://jx.xyflv.com/?url="
         },
         {
             "name": "盘古",
@@ -1114,11 +994,6 @@
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "喵",
-            "type": 0,
-            "url": "http://www.miaoys.cc/vip/?url="
-        },
-        {
             "name": "365",
             "type": 0,
             "url": "https://chaxun.truechat365.com/?url="
@@ -1127,11 +1002,6 @@
             "name": "夜幕",
             "type": 0,
             "url": "https://www.yemu.xyz/?url="
-        },
-        {
-            "name": "OK",
-            "type": 0,
-            "url": "https://okjx.cc/?url="
         }
     ],
     
@@ -1139,19 +1009,39 @@
         "m1905",
         "douyin",
         "cntv",
-        "imgo",
-        "youku",
-        "qq",
-        "leshi",
-        "qiyi",
         "xigua",
-        "iqiyi",
-        "letv",
-        "sohu",
-        "tudou",
         "pptv",
+        "wasu",
+        "youku",
+        "tudou",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "qiyi",
+        "iqiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "leshi",
+        "letv",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "imgo",
         "mgtv",
-        "wasu"
+        "芒果",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"
     ],
     
     "ads": [
@@ -1236,6 +1126,15 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "m3u.haiwaikan.com"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*(.*)[\\s\\S]*?#EXT-X-DISCONTINUITY(\\n|\\r\\n)"
             ]
         },
         {

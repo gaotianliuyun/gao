@@ -4,7 +4,8 @@ muban.首图2.二级.tabs = '.nav.nav-tabs&&li';
 var rule = {
     title:'影视之家',
     模板:'首图2',
-    host:'https://www.cmqxysg.com',
+    // host:'https://www.cmqxysg.com',
+    host:'https://www.yszj.tv',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,

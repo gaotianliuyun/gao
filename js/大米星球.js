@@ -1,11 +1,11 @@
-// 地址发布页 https://dmdyy.cc/
+// 地址发布页 https://www.dmxq.vip
 muban.mxpro.二级.desc = '.module-info-item:(3)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text';
 muban.mxpro.二级.img = '.lazyload&&src';
 var rule = {
 	title:'大米星球',
 	模板:'mxpro',
-	// host:'https://www.dmxq.fun',
-	host:'https://www.dmdy17.cc',
+	host:'https://www.dmxq.vip',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"ul&&li:eq(1)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---/pjax/YES.html',
 	url:'/vodshow/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,

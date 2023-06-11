@@ -4,7 +4,8 @@ muban.首图.二级.tabs = '.myui-panel__head.bottom-line h3';
 var rule = {
 	title:'剧迷',
 	模板:'首图',
-	host:'https://gmtv1.xyz',
+	// host:'https://gmtv1.xyz',
+	host:'https://gimys.tv',
 	// url:'/genre/fyclass---fypage.html',
 	url:'/genre/fyfilter.html',
 	filterable:1,//是否启用分类筛选,

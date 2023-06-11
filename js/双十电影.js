@@ -1,3 +1,4 @@
+// 新发布页 https://www.fabu1010.com
 muban.首图2.推荐 = 'ul.stui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href'; 
 muban.首图2.二级.content = '.stui-pannel_bd p:eq(0)&&Text';
 muban.首图2.二级.desc = ';;.stui-content__detail p:eq(0)&&Text;.stui-content__detail p:eq(1)&&Text;.stui-content__detail p:eq(2)&&Text'
@@ -5,7 +6,8 @@ muban.首图2.二级.tabs = '.stui-pannel__head.bottom-line.active.clearfix h3';
 var rule = {
 	title:'双十电影',
 	模板:'首图2',
-	host:'https://www.1010dy3.com',
+	host:'https://www.fabu1010.com',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"ul&&li&&a&&href");print(src);HOST=src',
 	// url:'/show/fyclass{{fl.area}}{{fl.by}}{{fl.class}}{{fl.year}}/page/fypage/',
     url:'/show/fyclassfyfilter/page/fypage/',
     filterable:1,//是否启用分类筛选,

@@ -17,12 +17,8 @@ muban.mxpro.二级.desc = '.module-info-item-content:eq(3)&&Text;;;.module-info-
 var rule={     
     title:'布雷蓝光',
     模板:'mxpro',
-    // host:'https://www.bulei.cc',
-    // host:'https://v.bulei.cc',
-    // host:'http://v.ilime.cc',
-    // host:'https://kan.bulei.cc/',
-    host:'http://dy01.bulei.cc',
-    // host:'http://dy02.bulei.cc',
+    host:'https://fabu.bulei.cc',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a&&href");print(src);HOST=src',
     // url:'/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
     url:'/index.php/vod/type/id/fyclass.html',
     // url:'/index.php/vod/show/id/fyclassfyfilter.html',
@@ -41,6 +37,5 @@ var rule={
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
     class_parse: '.navbar-items li:gt(1):lt(10);a&&Text;a&&href;/(\\d+).html',
     pagecount:{"1":1,"2":1,"3":1,"4":1,"5":1,"20":1,"21":1,"22":1},
-	lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
-
+    lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
 }

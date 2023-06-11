@@ -1,0 +1,29 @@
+{
+    "作者": "菜妮丝https://cainisi.cf",
+    "站名": "热播之家",
+    "主页url": "https://rebozj.pro",
+    
+    "分类": "电影$1#电视剧$2#综艺$5#动漫$4#纪录片$3",
+    
+    "分类url": "https://rebozj.pro/type/{cateId}-{catePg}.html",
+    
+    "数组": "<div class=\"stui-vodlist__box&&</a>",
+    "副标题": "pic-text text-right\"><b>&&</b>",
+    
+    "搜索模式": "1",
+    "搜索url": "/search/-------------.html?wd={wd}&submit=",
+    "搜索副标题": "pic-text text-right\"><b>&&</b>",
+    
+    "影片类型": "类型：&&/",
+    "影片年代": "年份：&&</p>",
+    "影片地区": "地区：&&</p>",
+    "影片状态": "#FB5312;\">&&</span>",
+    "导演": "导演：&&</p>",
+    "主演": "主演：&&</p>",
+    "简介": "display: none;\">&&</span>",
+    
+    "线路数组": "style=\"color:#E3AC10&&/h4>",
+    "线路标题": ">&&<",
+    
+    "播放数组": "<ul class=\"stui-content&&</ul>"
+}
