@@ -3,7 +3,6 @@
 "sites":[
 {"key":"drpy_js_豆瓣","name":"皮皮虾DMBox支持弹幕,体验更佳","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"csp_WoGG","name":"玩偶哥哥┃4K[jar]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},
-{"key":"csp_Miaobo","name":"秒播┃2K[jar]","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_布雷蓝光","name":"影视 | 布雷蓝光[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/布雷蓝光.js"},
@@ -26,13 +25,16 @@
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/达达龟.js"},
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 {"key":"drpy_js_秋霞影视","name":"影视 | 秋霞影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞影视.js"},
-{"key":"drpy_js_咕噜","name":"影视 | 咕噜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜.js"},
+{"key":"drpy_js_剧白白","name":"影视 | 剧白白[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/剧白白.js"},
+{"key":"drpy_js_扛把子影院","name":"影视 | 扛把子影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/扛把子影院.js"},
 
 {"key":"drpy_js_555影视[V2]","name":"影视 | 555影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
+{"key":"drpy_js_啊班[V2]","name":"影视 | 啊班[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/啊班[V2].js"},
 {"key":"drpy_js_爱迪[V2]","name":"影视 | 爱迪[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪[V2].js"},
 {"key":"drpy_js_创艺影视[V2]","name":"影视 | 创艺影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
 {"key":"drpy_js_多米[V2]","name":"影视 | 多米[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米[V2].js"},
+{"key":"drpy_js_咕噜[V2]","name":"影视 | 咕噜[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
 {"key":"drpy_js_萌蛋蛋[V2]","name":"影视 | 萌蛋蛋[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌蛋蛋[V2].js"},
 {"key":"drpy_js_迷你库[V2]","name":"影视 | 迷你库[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/迷你库[V2].js"},
 {"key":"drpy_js_如意[V2]","name":"影视 | 如意[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/如意[V2].js"},
@@ -75,7 +77,6 @@
 {"key":"drpy_js_omofun动漫","name":"动漫 | omofun动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/omofun动漫.js"},
 {"key":"drpy_js_爱弹幕","name":"动漫 | 爱弹幕[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱弹幕.js"},
 {"key":"drpy_js_动漫岛","name":"动漫 | 动漫岛[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/动漫岛.js"},
-{"key":"drpy_js_咕噜咕噜","name":"动漫 | 咕噜咕噜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜咕噜.js"},
 {"key":"drpy_js_路漫漫","name":"动漫 | 路漫漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/路漫漫.js"},
 {"key":"drpy_js_奇米动漫","name":"动漫 | 奇米动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇米动漫.js"},
 {"key":"drpy_js_去看吧","name":"动漫 | 去看吧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/去看吧.js"},

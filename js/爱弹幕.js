@@ -1,5 +1,5 @@
 // muban.短视2.二级.title = 'h2&&Text;.hl-ma0&&Text';
-muban.短视2.二级.img = '.detail-pic&&img&&data-original';
+muban.短视2.二级.img = '.detail-pic&&img&&data-src';
 // muban.短视2.二级.desc = 'p:eq(1)&&Text;;;p:eq(2)&&Text;p:eq(1)&&Text';
 // muban.短视2.二级.content = '.card-text&&Text';
 var rule = {
@@ -24,9 +24,9 @@ var rule = {
     class_name:'',
     class_url:'',
     class_parse:'.swiper-wrapper:eq(2) li;a&&Text;a&&href;.*/(\\d+)',
-    图片来源:'@Referer=https://anime.girigirilove.com/',
+    // 图片来源:'@Referer=https://anime.girigirilove.com/',
     lazy:"",
     推荐: '*',
     // 一级:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
-    一级:'.border-box .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+    一级:'.border-box .public-list-box;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
 }

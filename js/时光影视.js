@@ -2,30 +2,34 @@
 var rule={
     title:'时光影视',
     host:'https://www.shigys.com',
-    url:'/index.php/vod/type/id/fyclass/page/fypage.html',
+    homeUrl:'/index.php/label/hot.html',
+    url:'/index.php/vod/type/id/fyclass.html',
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
     searchable:2,
     quickSearch:0,
     filterable:0,
     headers:{
-        'User-Agent':'MOBILE_UA',
+        'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
     class_name:'动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&国产剧&港台剧&日韩剧&欧美剧&综艺&动漫',
     class_url:'6&7&8&9&10&11&12&13&14&15&16&3&4',
     play_parse:true,
+    pagecount:{"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"3":1,"4":1},
     lazy:'',
     limit:6,
-    推荐:'.mo-cols-lays;ul.mo-cols-rows&&li;*;*;*;*',
-    double:true,
-    一级:'.mo-cols-lays:eq(1)&&ul.mo-cols-rows&&li;.mo-situ-name&&Text;a&&data-original;.mo-situ-rema&&Text;a&&href',
-    二级:{
-        "title":"h1&&Text;.mo-cols-md3--span:eq(0)&&Text",
-        "img":".mo-part-full&&src",
-        "desc":".mo-situ-rema:eq(0)&&Text;;;.mo-cols-md6--span:eq(1)&&Text;.mo-cols-md6--span:eq(2)&&Text",
-        "content":".mo-word-info&&Text",
-        "tabs":"h2.mo-fsxs-14px&&.mo-movs-btns",
-        "lists":"ul.mo-movs-item:eq(#id)&&li"
+    推荐: '.module-items&&.module-item;.lazyload&&alt;*;*;*',
+    一级: 'a.module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+    二级: {
+        "title": "h1&&Text;.module-info-tag&&Text",
+        "img": ".ls-is-cached&&data-original",
+        "desc": ".module-info-item-content:eq(3)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text",
+        "content": ".module-info-introduction-content&&Text",
+        "tabs": "#y-playList&&.module-tab-item",
+        "lists": ".module-play-list-content:eq(#id)&&a"
     },
-    搜索:'.mo-deta-info.mo-cols-rows;h1&&Text;*;*;*',
+
+    searchUrl:'/index.php/ajax/suggest?mid=fypage&wd=**',
+    detailUrl:'/index.php/vod/detail/id/fyid.html', //非必填,二级详情拼接链接
+    搜索:'json:list;name;pic;;id',
 }
