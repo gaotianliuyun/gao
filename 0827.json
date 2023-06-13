@@ -46,14 +46,6 @@
       "changeable": 1
     },
     {
-      "key": "Youtube",
-      "name": "Youtube",
-      "type": 3,
-      "api": "csp_Youtube",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "星星",
       "name": "星星",
       "type": 3,
