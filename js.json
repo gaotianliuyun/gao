@@ -1,8 +1,9 @@
 {
-"spider": "./jar/fty.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
+"spider": "./jar/fanty.jar;md5;410df6c3274dab8d5bdfb44d04c40882",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"皮皮虾DMBox支持弹幕,体验更佳","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"csp_WoGG","name":"玩偶哥哥┃4K[jar]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name":"玩偶哥哥[jar]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_DuoX","name":"多线[jar]","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_布雷蓝光","name":"影视 | 布雷蓝光[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/布雷蓝光.js"},
@@ -20,7 +21,6 @@
 {"key":"drpy_js_FreeOK","name":"影视 | FreeOK[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/FreeOK.js"},
 {"key":"drpy_js_Fun4K","name":"影视 | Fun4K[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Fun4K.js"},
 {"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/TVB云播.js"},
-{"key":"drpy_js_UM电影","name":"影视 | UM电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 {"key":"drpy_js_城市电影","name":"影视 | 城市电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市电影.js"},
 {"key":"drpy_js_达达龟","name":"影视 | 达达龟[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/达达龟.js"},
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
@@ -48,12 +48,12 @@
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
-{"key":"csp_YiSo","name":"易搜[jar]","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-{"key":"csp_Zhaozy","name":"找资源[jar]","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$fanfan$$$qqq111"},
-{"key":"csp_PanSou","name":"盘搜[jar]","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-{"key":"csp_UpYun","name":"Up搜[jar]","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-{"key":"csp_PanSearch","name":"盘Se[jar]","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-{"key":"csp_七夜","name":"七夜[jar]","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"csp_YiSo","name":"易搜[jar]","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
+{"key":"csp_Zhaozy","name":"找资源[jar]","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
+{"key":"csp_PanSou","name":"盘搜[jar]","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
+{"key":"csp_UpYun","name":"Up搜[jar]","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
+{"key":"csp_PanSearch","name":"盘Se[jar]","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
+{"key":"csp_七夜","name":"七夜[jar]","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
 
 {"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/童趣.js"},
 {"key":"drpy_js_兔小贝","name":"少儿 | 兔小贝[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/兔小贝.js"},
@@ -119,6 +119,7 @@
 {"key":"drpy_js_l0l","name":"影视 | l0l[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/l0l.js"},
 {"key":"drpy_js_Nike影视","name":"影视 | Nike影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Nike影视.js"},
 {"key":"drpy_js_NY影院","name":"影视 | NY影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NY影院.js"},
+{"key":"drpy_js_UM电影","name":"影视 | UM电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 {"key":"drpy_js_爱迪影视","name":"影视 | 爱迪影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪影视.js"},
 {"key":"drpy_js_爱看电影","name":"影视 | 爱看电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看电影.js"},
 {"key":"drpy_js_爱看影院","name":"影视 | 爱看影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看影院.js"},

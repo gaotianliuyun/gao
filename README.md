@@ -11,9 +11,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （5）js.json  资源来源于道长drpy(js)仓库；
 
-（6）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
-
-（7）XYQ.json  XYQ源，jar包和配置来源于香雅情。
+（6）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
 2. APP推荐:
 
