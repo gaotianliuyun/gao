@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;d02ea3eb2cda4c0a98f3758125eb667e",
+  "spider": "./jar/custom_spider.jar;md5;a6934bc36ece4231bc9d2748f96ceaf9",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -144,15 +144,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key": "熊熊",
-      "name": "熊熊",
-      "type": 1,
-      "api": "https://v.3412.net.cn/macapi.php/provide/vod",
-      "playUrl": "https://player.i597.cc/?url=",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "櫻花",
