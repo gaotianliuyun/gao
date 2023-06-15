@@ -1,7 +1,7 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
 
-    "spider":"./XYQ.jar;md5;9f7e10364a4d9ffbbdfef19f5c378848",
+    "spider":"./jar/XYQ.jar;md5;9f7e10364a4d9ffbbdfef19f5c378848",
 
     //"spider":"./custom_spider转码在前0613.jar;md5;8ac18bef4fd5237e22de6d139fab6fa4",
     
