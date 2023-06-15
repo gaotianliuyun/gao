@@ -1,4 +1,4 @@
-muban.短视2.二级.img = '.detail-pic&&img&&data-original';
+muban.短视2.二级.img = '.detail-pic&&img&&data-src';
 var rule = {
     title:'慢大浪',
     模板:'短视2',
@@ -21,5 +21,5 @@ var rule = {
 	lazy:"",
     推荐:'.list-vod .public-list-box;*;*;*;*',
     double: false, // 推荐内容是否双层定位
-	一级:'.border-box .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+	一级:'.border-box .public-list-box;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
 }

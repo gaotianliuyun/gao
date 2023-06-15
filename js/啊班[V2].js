@@ -1,6 +1,6 @@
 var rule = {
 	title: '啊班[V2]', // csp_AppYsV2
-	host: 'http://a.banwl.com',
+	host: 'http://app.banwl.com',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
