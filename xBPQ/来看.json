@@ -1,0 +1,24 @@
+{
+"影片类型": "<div class=\"module-blocklist\">&&</div>",
+"导演":"导演：&&</div>",
+"主演":"主演：&&</div>",
+"简介":"video-info-item video-info-content vod_content\">&&</span>",
+"数组":"class=\"module-item-pic&&class=\"video-class",
+"图片":"data-src=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"<span>&&</span>",
+
+"搜索图片":"http://w.g9.pub:66/f/6Z3iy/4.jpg",
+"线路数组":"module-tab-item tab-item&&</div>",
+"线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+
+"播放数组":"class=\"module-blocklist\">&& </div>",
+"播放列表": "<a&&</a>",
+"播放标题": "<span>&&</span>",
+"播放链接": "href=\"&&\"",
+"免嗅":"1",
+"分类":"动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
+"分类url":"https://www.lkvod.cc/show/{cateId}-{ares}-{by}-{class}-{lang}----{catePg}---{year}.html;;m"
+  
+}

@@ -1,0 +1,17 @@
+{
+				"图片": "data-original=\"&&\"",
+				"链接": "href=\"&&\"",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"简介": "剧情：&&</div>",
+				"嗅探词":"m3u8#.m3u8#.mp4#mp4",
+				"线路数组":"<div class=\"module-tab-item tab-item&&</div[不包含:海外专线]",
+				"线路标题":"<span>&&</span",
+				"搜索url": "https://wzyshi.com/index.php/vodsearch/-------------.html?wd={wd}",
+				"分类url": "https://wzyshi.com/vodshow/{cateId}--{by}------{catePg}---{year}.html;;m",
+				 //"跳转播放链接":"解析+Base64(vod_class*url\":\"&&\")",
+				 //"跳转解析":"默认$https://wzyshi.com/pay/?url=#蓝光-BD$https://wzyshi.com/pay/api1.php?url=#蓝光-HD$https://wzyshi.com/pay/api1.php?url=",
+                //"二次跳转播放链接": "https://wzyshi.com/pay/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"", 
+                //"三次跳转播放链接": "\"url\"*\"&&\"",
+				"分类":"电影$1#电视剧$2#综艺$4#国产剧$13#动漫$3#欧美剧$14"
+}

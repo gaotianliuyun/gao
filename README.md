@@ -13,6 +13,8 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （6）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
+（7）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气。
+
 2. APP推荐:
 
 （1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、支持自动换源、支持直播倍速，手机版支持投屏；

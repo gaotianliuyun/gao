@@ -1,0 +1,28 @@
+{
+				"主页url": "https://xy1080.cc/index.php/ajax/data?mid=1&tid=1&page=1&limit=20",
+				"请求头": "电脑#Referer$https://xy1080.cc/",
+				"免嗅": "1",
+				"嗅探词":"mp4#m3u8#tos-cn#tos",
+				"二次截取": "\"list\"*[&&]",
+				"数组": "{&&\"vod_content\"",
+				"图片": "vod_pic\":\"&&\"",
+				"标题": "vod_name\":\"&&\"",
+				"副标题": "vod_version\":\"&&\"+vod_remarks\":\"&&\"",
+				"链接": "https://xy1080.cc/voddetail/+vod_id\":&&,+/",
+				"分类url": "https://xy1080.cc/vodshow/{cateId}-----------/",
+				"分类": "搜索看$1",
+				"搜索模式": "1",
+				"搜索url": "https://xy1080.cc/vodsearch/{wd}-------------/",
+				"搜索数组": "public-list-exp\"&&thumb-else cor5 hide\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索链接前缀": "https://xy1080.cc",
+				"搜索标题": "thumb-txt cor4 hide\">&&</div",
+				"搜索图片": "data-original=\"&&\"",
+				"播放数组": "anthology-list-play size&&</ul>",
+				"搜索副标题": "class=\"public-list-prb hide ft2\">&&</span",
+				"播放链接前缀": "https://xy1080.cc",
+				"简介": "简介</a>&&<div class=\"text-open",
+				"线路数组": "class=\"swiper-slide&&/a>",
+				"线路标题": "</i>&&<"
+
+			}

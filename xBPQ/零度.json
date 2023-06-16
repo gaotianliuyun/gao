@@ -1,0 +1,22 @@
+{
+    "分类url": "https://ldtv.top/vodtype/{cateId}.html", 
+    "分类": "电影&剧集&动漫&综艺&记录片", 
+    "分类值": "dianying&lianxuju&dongman&zongyi&jilupian", 
+    "嗅探词":"m3u8#.m3u8#.mp4#mp4",
+    "二次截取": "1&&-1+module-item-cover",
+	"数组": "module-item-pic&&module-item-cover",
+	"图片": "data-original=\"&&\"",
+	"副标题": "class=\"module-item-note\">&&</div>",
+	"链接": "href=\"&&\"",
+	"导演": "导演：&&</div>",
+	"主演": "主演：&&</div>",
+	"简介": "剧情：&&</div>",
+	"线路数组":"<div class=\"module-tab-item tab-item&&</div",
+	"线路标题":"<span>&&</span",
+    "搜索副标题": "module-item-note\">&&</div>",
+    "跳转解析":"默认$空#奇艺视频$https://www.kankanju.cc/f/jxplayer.php?v=#腾讯视频$https://www.kankanju.cc/f/jxplayer.php?v=#芒果视频$https://www.kankanju.cc/f/jxplayer.php?v=#优酷视频$https://www.kankanju.cc/f/jxplayer.php?v=#稳定蓝光$https://bfq.ldtv.top/?url=",
+    "跳转post":"默认$空#稳定蓝光$https://bfq.ldtv.top/api_config.php",
+    "跳转播放链接": "解析+Base64(vod_class*url\":\"&&\")", 
+    "二次跳转播放链接": "跳转post+;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"+&title=+\"title\"*\"&&\"", 
+    "三次跳转播放链接": "\"url\"*\"&&\""
+}

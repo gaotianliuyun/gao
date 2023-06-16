@@ -1,0 +1,20 @@
+{
+  "分类url": "https://mayitube.com/c/{cateId}?country={area}&page={catePg}&year={year};;k",
+  "分类": "电影$movie#电视剧$tvseries#综艺$tvshow#动漫$anime",
+  "数组": "<div class=\"vodcard\">&&</div>",
+  "图片":"style=\"background-image: url*;&&.jpg+.jpg",
+  "标题": "<div class=\"col text-overflow\">&&</span>",
+  "影片类型": "分类: </span&&</p",
+  "导演": "导演: </span&&</p",
+  "主演": "主演: </span&&</p",
+  "简介": "简介: </span&&</p>",
+  "搜索url": "https://mayitube.com/search?q={wd}",
+  "搜索二次截取": "<div class=\"mb-4 col-12 col-sm-12 col-md-6 col-lg-6\">&&<p class=\"mb-2 \">",
+  "搜索数组": "a&&/h1>",
+  "搜索图片": "style=\"background-image: url*;&&.jpg+.jpg",
+  "搜索标题": "<h1 class=\"mb-3\" style=\"font-size: 24px; font-weight: 400;\"><span style=\"color: red;\">&&</span",
+  "搜索副标题": "vodthumb-bottom-content\">&&</span",
+  "搜索链接": "href=\"&&\"",
+  "播放数组": "<div class=\"d-flex row justify-content-space-between gy-3\">&&class=\"row",
+  "跳转播放链接": "https://mayitube.com+Base64(var video = {};*('&&')"
+}
