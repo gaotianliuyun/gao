@@ -1,7 +1,7 @@
 tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 1. tvbox配置：
 
-（1）0820.json  在饭太硬配置的基础添加了若干优质点播源、直播线路和解析，适配影视、q版等绝大部分版本；
+（1）0820.json  在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
 
 （2）0826.json  完全来源于饭太硬的jar包和配置；
 
@@ -27,7 +27,7 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 3. TVBox各路大佬配置（排名不分先后）：
 
-（1）唐三：https://t4.t48.repl.co/newtang.bmp
+（1）唐三：https://gh.t4tv.hz.cz/newtang.bmp
 
 （2）Fongmi：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
 
@@ -76,6 +76,8 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 （24）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
 
 （25）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
+
+（26）好人：https://xhdwc.tk/0
 
 4. 随机轮换壁纸：
 
