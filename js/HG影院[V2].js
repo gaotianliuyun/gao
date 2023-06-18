@@ -1,6 +1,7 @@
 var rule = {
 	title: 'HG影院[V2]', // csp_AppYsV2
-	host: 'http://bbq.1006.tk',
+	host: 'https://www.hgyx.vip',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
 	// homeUrl:'/api.php/v1.vod/vodPhbAll',
 	homeUrl:'/api.php/v1.vod?limit=12&page=1',
 	// url: '/api.php/v1.vod?type=fyclass&limit=20&page=fypage',
@@ -22,11 +23,10 @@ var rule = {
 	class_name:'4k影视剧&4k影视片&综艺&4k动漫', // 分类筛选 /api.php/v1.vod/types
 	class_url:'2&1&3&4',
 	play_parse:true,
-	// lazy:'js:input = /mp4/.test(input)?{jx:0,url:input,parse:0}:input',
+	lazy:'js:input = /m3u8|mp4/.test(input)?input:"https://jx.hgyx.vip/?url="+input',
 	limit:6,
-	// 推荐:'json:data.zhui.vod_list;*;*;*;*',
 	推荐:'*',
 	一级:'json:data.list;vod_name;vod_pic;vod_remarks;vod_id',
-	二级:'js:try{let html=request(input);print(html);html=JSON.parse(html);let node=html.data;VOD={vod_id:node["vod_id"],vod_name:node["vod_name"],vod_pic:node["vod_pic"],type_name:node["vod_class"],vod_year:node["vod_year"],vod_area:node["vod_area"],vod_remarks:node["vod_remarks"],vod_actor:node["vod_actor"],vod_director:node["vod_director"],vod_content:node["vod_content"].strip()};let episodes=node.vod_play_list;let playMap={};if(typeof play_url==="undefined"){var play_url=""}episodes.forEach(function(ep){let source=ep["from"];if(!playMap.hasOwnProperty(source)){playMap[source]=[]}playMap[source].append(ep["url"])});let playFrom=[];let playList=[];Object.keys(playMap).forEach(function(key){playFrom.append(key);playList.append(playMap[key])});let vod_play_from=playFrom.join("$$$");let vod_play_url=playList.join("$$$");VOD["vod_play_from"]=vod_play_from;VOD["vod_play_url"]=vod_play_url}catch(e){log("获取二级详情页发生错误:"+e.message)}',
+	二级:'js:try{let html=request(input);print(html);html=JSON.parse(html);let node=html.data;VOD={vod_id:node["vod_id"],vod_name:node["vod_name"],vod_pic:node["vod_pic"],type_name:node["vod_class"],vod_year:node["vod_year"],vod_area:node["vod_area"],vod_remarks:node["vod_remarks"],vod_actor:node["vod_actor"],vod_director:node["vod_director"],vod_content:node["vod_content"].strip()};let episodes=node.vod_play_list;let playMap={};if(typeof play_url==="undefined"){var play_url=""}episodes.forEach(function(ep){let source=ep["player_info"]["show"];if(!playMap.hasOwnProperty(source)){playMap[source]=[]}playMap[source].append(ep["url"])});let playFrom=[];let playList=[];Object.keys(playMap).forEach(function(key){playFrom.append(key);playList.append(playMap[key])});let vod_play_from=playFrom.join("$$$");let vod_play_url=playList.join("$$$");VOD["vod_play_from"]=vod_play_from;VOD["vod_play_url"]=vod_play_url}catch(e){log("获取二级详情页发生错误:"+e.message)}',
 	搜索:'*',
 }

@@ -1,7 +1,8 @@
 // 搜索验证
 var rule = {
     title:'B站影视',
-    host:'https://bzhanys.com',
+    // host:'https://bzhanys.com',
+    host:'https://bzhanyy.com',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/index.php/vod/show/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
@@ -25,7 +26,7 @@ var rule = {
     },
     class_parse: '.fixed-nav&&.flex:lt(4);li&&Text;li&&data-id',
     play_parse:true,
-    lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input={jx:0,url:'https://ml0513.com/player/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}}",
+    lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;var from=html.from;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else if(/VIP/.test(from)){input="https://siguyy.cc/player/?url="+url}else if(/JHA/.test(from)){input="https://www.dmmoyu.com/player/?url="+url}else{input={jx:0,url:"https://jx.jsonplayer.com/player/?url="+url,parse:1,}}',
     limit:6,
     推荐:'*',
     一级:'.movie-list-body&&.movie-list-item;.movie-title&&Text;.Lazy&&data-original;.movie-rating&&Text;a&&href',
