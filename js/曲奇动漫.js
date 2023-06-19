@@ -1,6 +1,7 @@
 var rule={
     title:'曲奇动漫',
-    host:'https://www.quqidm.net',
+    // host:'https://www.quqidm.net',
+    host:'https://www.quqim.net',
     // url:'/list/?genre=fyclass&pagesize=24&pageindex=fypage',
     url:'/list/?genre=fyclassfyfilter',
     filterable:1,//是否启用分类筛选,

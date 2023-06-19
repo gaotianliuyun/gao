@@ -30,10 +30,15 @@
 {"key":"drpy_js_扛把子影院","name":"影视 | 扛把子影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/扛把子影院.js"},
 {"key":"drpy_js_美视网","name":"影视 | 美视网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/美视网.js"},
 {"key":"drpy_js_思古影视","name":"影视 | 思古影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/思古影视.js"},
+{"key":"drpy_js_UM电影","name":"影视 | UM电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
+{"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
+{"key":"drpy_js_UM电影","name":"影视 | UM电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
+{"key":"drpy_js_UM电影","name":"影视 | UM电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影.js"},
 
 {"key":"drpy_js_555影视[V2]","name":"影视 | 555影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
 {"key":"drpy_js_HG影院[V2]","name":"影视 | HG影院[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HG影院[V2].js"},
+{"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影[V2].js"},
 {"key":"drpy_js_爱迪[V2]","name":"影视 | 爱迪[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪[V2].js"},
 {"key":"drpy_js_布雷蓝光[V2]","name":"影视 | 布雷蓝光[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/布雷蓝光[V2].js"},
 {"key":"drpy_js_创艺影视[V2]","name":"影视 | 创艺影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
@@ -89,6 +94,7 @@
 {"key":"drpy_js_路漫漫","name":"动漫 | 路漫漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/路漫漫.js"},
 {"key":"drpy_js_奇米动漫","name":"动漫 | 奇米动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇米动漫.js"},
 {"key":"drpy_js_去看吧","name":"动漫 | 去看吧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/去看吧.js"},
+{"key":"drpy_js_曲奇动漫","name":"动漫 | 曲奇动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/曲奇动漫.js"},
 {"key":"drpy_js_怡萱动漫","name":"动漫 | 怡萱动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱动漫.js"},
 
 {"key":"drpy_js_7喜影院","name":"影视 | 7喜影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/7喜影院.js"},

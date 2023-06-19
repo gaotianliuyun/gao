@@ -1,6 +1,7 @@
 var rule = {
     title:'乐鱼影视',
-    host:'https://www.leyupro.com',
+    // host:'https://www.leyupro.com',
+    host:'https://www.yu992.com',
     // url:'/lys/fyclass/page/fypage.html',
     url: '/lys/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
