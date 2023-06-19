@@ -1,0 +1,21 @@
+{
+"站名":"饭团影视HD",
+"请求头":"Cookie$PHPSESSID=oa18972o947a5f2cuuhni0tc07; Hm_lvt_a4d1dc00e59cb76eda39cd5a5402f863=1686998487; Hm_lpvt_a4d1dc00e59cb76eda39cd5a5402f863=1686998537",
+"主页url":"https://www.fantuanhd.com/",
+"数组": "class=\"stui-vodlist__box&&</li>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"<span class=\"pic-text text-right\">&&</span>",
+"状态":"地区：&&</p>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</p>",
+"搜索模式":"1",
+"搜索url":"https://www.fantuanhd.com/type/id-.html?wd={wd}",
+"免嗅":"0",
+"嗅探词":".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"分类url":"https://www.fantuanhd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+}
+
