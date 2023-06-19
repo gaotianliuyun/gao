@@ -73,7 +73,7 @@
 {"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"./lib/drpy.min.js","changeable":0,"ext":"./js/JRKAN直播.js"},
 {"key":"drpy_js_好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/好趣网.js"},
 {"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","type":3,"api":"./lib/live2cms.js","changeable":0,"ext":"./js/live2mv_data.json"},
-{"key":"MV_vod","name":"电视┃VOD","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
+{"key":"MV_vod","name":"卡拉OK┃切换音轨去除原声","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0},
 {"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/相声随身听.js"},
 {"key":"drpy_js_评书随身听","name":"评书 | 评书随身听[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/评书随身听.js"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/alist.json"},
