@@ -91,35 +91,29 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 4. 随机轮换壁纸：
 
-（1）https://tian.chuqiuyu.tk  自制横屏精美壁纸1
+（1）https://jianbian.chuqiuyu.tk  自制渐变简约壁纸
 
-（2）https://yun.chuqiuyu.tk  自制横屏精美壁纸2
+（2）https://bing.img.run/rand.php
 
-（3）https://shuping.chuqiuyu.tk  自制竖屏精美壁纸
+（3）http://www.kf666888.cn/api/tvbox/img
 
-（4）https://jianbian.chuqiuyu.tk  自制渐变简约壁纸
+（4）https://picsum.photos/1280/720/?blur=10
 
-（5）https://bing.img.run/rand.php
+（5）http://刚刚.live/图 
 
-（6）http://www.kf666888.cn/api/tvbox/img
+（6）http://饭太硬.top/深色壁纸/api.php
 
-（7）https://picsum.photos/1280/720/?blur=10
+（7）https://www.dmoe.cc/random.php
 
-（8）http://刚刚.live/图 
+（8）https://api.btstu.cn/sjbz/zsy.php
 
-（9）http://饭太硬.top/深色壁纸/api.php
+（9）https://api.btstu.cn/sjbz/?lx=dongman
 
-（10）https://www.dmoe.cc/random.php
+（10）http://api.btstu.cn/sjbz/?lx=meizi
 
-（11）https://api.btstu.cn/sjbz/zsy.php
+（11）http://api.btstu.cn/sjbz/?lx=suiji
 
-（12）https://api.btstu.cn/sjbz/?lx=dongman
-
-（13）http://api.btstu.cn/sjbz/?lx=meizi
-
-（14）http://api.btstu.cn/sjbz/?lx=suiji
-
-（15）https://pictures.catvod.eu.org/
+（12）https://pictures.catvod.eu.org/
 
 如果喜欢，请点亮右上角小星星，谢谢！
 
