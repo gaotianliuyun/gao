@@ -105,7 +105,7 @@
 				"主页url": "https://kankanju.cc",
 				"请求头": "Cookie$filter_robot_dd=301",
 				"副标题": "pic-text text-right\">&&</b>",
-				"嗅探词": ".m3u8#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
+				"嗅探词": ".m3u8#.mp4#tos#video_mp4",
 				"搜索模式": "1",
 				"搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=",
 				//"搜索图片": "http://xhww.fun:63/小米/4.jpeg",
@@ -174,6 +174,7 @@
 			"name": "热播┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
+			"playerType": "1",
 			"ext": "./xBPQ/热播.json"
 		},
 		{
@@ -196,6 +197,13 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "./xBPQ/利播.json"
+		},
+		{
+			"key": "落叶",
+			"name": "落叶┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./xBPQ/落叶.json"
 		},
 		{
 			"key": "星星",
@@ -279,6 +287,13 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "./xBPQ/蛋蛋.json"
+		},
+		{
+			"key": "渐渐",
+			"name": "渐渐┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./xBPQ/渐渐.json"
 		},
 		{
 			"key": "csp_XBPQ_JOJO",
@@ -388,16 +403,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "落叶",
-			"name": "落叶┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://xn--yeta099v.online:66/api.php/app/"
-		},
-		{
 			"key": "dr_88看球",
 			"name": "球赛┃体育",
 			"type": 3,
@@ -426,6 +431,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://www.tvkuys.xyz/api.php/app/"
+		},
+		{
+			"key": "简简",
+			"name": "简简┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://1.ahailove.cn:23450/api.php/app/"
 		},
 		{
 			"key": "瑞丰",
