@@ -111,7 +111,6 @@
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
 {"key":"csp_xBPQ_饭团","name":"饭团[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./xBPQ/饭团.json"},
-{"key":"csp_xBPQ_看看","name":"看看[XBPQ]","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://kankanju.cc","请求头":"Cookie$filter_robot_dd=301","副标题":"pic-texttext-right\">&&</b>","嗅探词": ".m3u8#.mp4#tos#video_mp4","搜索模式":"1","搜索url":"https://kankanju.cc/vodsearch.html?wd={wd}&submit=","影片类型":"<divclass=\"module-info-tag\">&&立即播放","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","跳转播放链接":"https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#]","分类":"电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian","分类url":"https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},
 {"key":"csp_xBPQ_王子","name":"王子[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/王子.json"},
 {"key":"csp_xBPQ_速搜","name":"速搜[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./xBPQ/速搜.json"},
 {"key":"csp_xBPQ_热播","name":"热播[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./xBPQ/热播.json"},
