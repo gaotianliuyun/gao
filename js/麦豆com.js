@@ -1,6 +1,6 @@
 var rule = {
     title:'麦豆com',
-    host:'https://www.mdoutv.com',
+    host:'https://www.mdoutv.net',
     url:'/movie_bt_series/fyclass/page/fypage',
     searchUrl:'/search/**/page/fypage',
     searchable:2,

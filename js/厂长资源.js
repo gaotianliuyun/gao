@@ -1,7 +1,7 @@
 var rule={
     title:'厂长资源',
     // host:'https://czspp.com',
-    host:'http://czzy03.com',
+    host:'https://czzy.fun',
     url:'/fyclassfyfilter',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}{{fl.class}}{{fl.area}}/page/fypage',
