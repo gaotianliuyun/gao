@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;12256c49c78305f2bedfd09b5d786620",
+  "spider": "./jar/custom_spider.jar;md5;16f80f13f3bd4b6fedfb3af5f5b3d3d0",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -170,10 +170,10 @@
       "changeable": 1
     },
     {
-      "key": "土狗",
-      "name": "土狗",
+      "key": "玩偶",
+      "name": "玩偶",
       "type": 3,
-      "api": "csp_TuGou",
+      "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0
     },
