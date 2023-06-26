@@ -1,0 +1,15 @@
+{
+			    "二次截取": "1&&-1+module-item-cover",
+				"数组": "module-item-pic&&module-item-cover",
+				"副标题": "module-item-text*>&&</div",
+				"链接": "href=\"&&\"",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"简介": "剧情：&&</div>",
+			    "线路数组":"<div class=\"module-tab-item tab-item&&</div",
+			    "线路标题":"data-dropdown-value=\"&&\"",
+			    
+				"搜索url": "https://hiob.cn/index.php/vod/search.html?wd={wd}",
+				"分类url": "https://hiob.cn/index.php/vod/show/area/{area}/id/13/year/{year}/page/{catePg}.html;;m",
+				"分类":"电影$1#剧集$2#动漫$3#综艺剧$4"
+}

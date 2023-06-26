@@ -22,8 +22,8 @@
 	"主演": "主演：&&</p>",
 	"简介": "display: none;\">&&</span>",
 	"分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-	"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;m"
-	//"跳转播放链接": "https://rebozj.pro/m3u8/?url=+vod_class*url\":\"&&\"",
+	"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html",
+	"跳转播放链接": "https://rebozj.pro/m3u8/?url=+vod_class*url\":\"&&\"",
 	//"二次跳转播放链接": "https://rebozj.pro/m3u8/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
-	//"二次跳转播放链接":"\"url\"*\"&&\""
+	"二次跳转播放链接":"\"url\"*\"&&\""
 }

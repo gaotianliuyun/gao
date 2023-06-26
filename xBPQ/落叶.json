@@ -1,6 +1,6 @@
 {
 				"站名": "落叶",
-				"主页url": "http://154.7.177.104/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=2023&type_id=2&area=&order=time&type_name=&page=1&pageSize=21",
+				"主页url": "http://154.7.177.104/addons/apptov4/app.php/v1/home/cateData?id=5",
 				"请求头": "User-Agent$Dart/2.19 (dart:io)#token$eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBcHBUbyIsImlhdCI6MTY4NzIyODc5MywiZXhwIjoxNjg3ODMzNTkzLCJuYmYiOjE2ODcyMjg3OTMsInN1YiI6IkFwcFRvIiwianRpIjoiNzYxNzY1YTE3Y2FjMjkzYmRlNDI5ZmEzMTM5NGJjMDIiLCJkYXRhIjp7InVzZXJfaWQiOjg1LCJ1c2VyX2NoZWNrIjoiZjhiNWRlN2E1NGNhYjQzYjcxMjk1M2RhY2UyNTJjZGQiLCJ1c2VyX25hbWUiOiJ4aWFvbWkifX0.DvOsIYqVBufpWDTb1JW2rxhDCeNeRQEnKOOXm4N7F7c",
 				"二次截取": "\"data\"*[&&]",
 				"数组": "{&&}",
@@ -28,6 +28,6 @@
 				"搜索副标题": "\"vod_remarks\"*\"&&\"",
 				"搜索链接": "http://154.7.177.104/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,",
 				"分类url": "http://154.7.177.104/addons/apptov4/app.php/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+				"分类": "电影$28#电视剧$27#综艺$30#动漫$29"
 
 			}
