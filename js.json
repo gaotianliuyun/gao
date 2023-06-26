@@ -1,5 +1,5 @@
 {
-"spider": "./jar/fanty.jar;md5;aa78ba556383bd1adbad7745478ea5aa",
+"spider": "./jar/fanty.jar;md5;aa645ef076aff7c6b3b3239ee85a87c1",
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
@@ -15,7 +15,7 @@
 {"key":"drpy_js_胖虎","name":"影视 | 胖虎[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎.js"},
 {"key":"drpy_js_cokemv","name":"影视 | cokemv[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
-{"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
+{"key":"drpy_js_农民","name":"影视 | 农民影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"drpy_js_555电影","name":"影视 | 555电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影.js"},
 {"key":"drpy_js_饭团影视","name":"影视 | 饭团影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 {"key":"drpy_js_双十电影","name":"影视 | 双十电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/双十电影.js"},
@@ -46,7 +46,9 @@
 {"key":"drpy_js_布雷蓝光[V2]","name":"影视 | 布雷蓝光[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/布雷蓝光[V2].js"},
 {"key":"drpy_js_创艺影视[V2]","name":"影视 | 创艺影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
 {"key":"drpy_js_多米[V2]","name":"影视 | 多米[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米[V2].js"},
+{"key":"drpy_js_飞云[V2]","name":"影视 | 飞云[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/飞云[V2].js"},
 {"key":"drpy_js_咕噜[V2]","name":"影视 | 咕噜[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
+{"key":"drpy_js_花猪影视[V2]","name":"影视 | 花猪影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猪影视[V2].js"},
 {"key":"drpy_js_酷影[V2]","name":"影视 | 酷影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷影[V2].js"},
 {"key":"drpy_js_萌蛋蛋[V2]","name":"影视 | 萌蛋蛋[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌蛋蛋[V2].js"},
 {"key":"drpy_js_迷你库[V2]","name":"影视 | 迷你库[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/迷你库[V2].js"},

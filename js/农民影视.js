@@ -1,8 +1,12 @@
 // 发布页 https://www.nmdvd.com/
 var rule={
 	title:'农民影视',
-	// host:'https://v.xiangdao.me',
-	host:'https://www.nmddd.com',
+	修源:'into',
+	//host:'https://www.nmddd.com',
+	//host:'https://v.xiangdao.me',
+	// host:'https://v.emsdn.cn',
+	host:'https://www.nmdvd.com/',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});let src = jsp.pdfh(html,"body&&a:eq(1)&&href");print(src);HOST=src',
 	url:'/vod-list-id-fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-pg-fypage-order--by-{{fl.by}}-class-0-year-{{fl.year}}-letter--area-{{fl.area}}-lang-',
@@ -18,7 +22,7 @@ var rule={
 	headers:{//网站的请求头,完整支持所有的,常带ua和cookies
 		'User-Agent': 'MOBILE_UA',
 	},
-	class_parse: '#topnav li:lt(4);a&&Text;a&&href;/.*-(\\d+)-.*.html',
+	class_parse: '#topnav li:lt(4);a&&Text;a&&href;/.*(\\d+).*.html',
 	play_parse: true,
 	lazy:'',
 	limit:6,
@@ -27,7 +31,7 @@ var rule={
 	二级:{
 		"title":".title&&Text;.type-title&&Text",
 		"img":".page-hd&&img&&src",
-		"desc":".desc_item:eq(3)&&Text;.desc_item:eq(4)--span&&Text;;.desc_item:eq(1)--span&&Text;.desc_item:eq(2)--span&&Text",
+		"desc":".desc_item:eq(0) font&&Text;.desc_item:eq(4)--span&&Text;;.desc_item:eq(1)--span&&Text;.desc_item:eq(2)--span&&Text",
 		"content":".detail-con p&&Text",
 		"tabs":".hd li",
 		"lists":".numList:eq(#id) li"
