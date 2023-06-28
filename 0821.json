@@ -119,11 +119,8 @@
 {"key":"csp_xBPQ_滋滋","name":"滋滋[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./xBPQ/子子.json"},
 {"key":"csp_xBPQ_兔兔","name":"兔兔[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/兔兔.json"},
 {"key":"csp_xBPQ_臭蛋","name":"臭蛋[XBPQ]","type":3,"api":"csp_XBPQ","ext":"./xBPQ/蛋蛋.json"},
-{"key":"csp_xBPQ_落叶","name":"落叶[XBPQ]","type":3,"api":"csp_XBPQ","ext":"./xBPQ/落叶.json"},
-{"key":"csp_xBPQ_L看","name":"L看[XBPQ]","type":3,"api":"csp_XBPQ","ext":"./xBPQ/L看.json"},
+{"key":"csp_xBPQ_一龙","name":"一龙[XBPQ]","type":3,"api":"csp_XBPQ","playerType": "1","ext":"./xBPQ/L看.json"},
 {"key":"csp_xBPQ_奇优","name":"奇优[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./xBPQ/奇优.json"},
-{"key":"csp_xBPQ_暴风","name":"暴风[XBPQ]","type":3,"api":"csp_XBPQ","ext":"./xBPQ/暴风.json"},
-{"key":"csp_xBPQ_芸芸","name":"芸芸[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/爱肥猫.json"},
 {"key":"csp_xBPQ_Free","name":"Free[XBPQ]","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./xBPQ/free.json"},
 {"key":"csp_xBPQ_JOJO","name":"JOJO[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"二次截取":"class=\"content-body\"&&class=\"content-lift\"","数组":"<a&&</a>","图片":"src=\"&&\"","标题":"class=\"card-title\">&&</p>","副标题":"class=\"item-speed\">&&</p>","链接":"href=\"&&\"","播放数组":"class=\"plyr-sidebar-list&&</div>","嗅探词":"aliyundrive.net#cn-beijing-data","搜索url":"https://app.syrme.top/video/search?q={wd}","分类":"电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录","分类url":"https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"}},
 
