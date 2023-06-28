@@ -22,7 +22,7 @@ var rule={
 	headers:{//网站的请求头,完整支持所有的,常带ua和cookies
 		'User-Agent': 'MOBILE_UA',
 	},
-	class_parse: '#topnav li:lt(4);a&&Text;a&&href;/.*(\\d+).*.html',
+	class_parse: '#topnav li:lt(4);a&&Text;a&&href;/.*-(\\d+)-.*.html',
 	play_parse: true,
 	lazy:'',
 	limit:6,
@@ -31,7 +31,7 @@ var rule={
 	二级:{
 		"title":".title&&Text;.type-title&&Text",
 		"img":".page-hd&&img&&src",
-		"desc":".desc_item:eq(0) font&&Text;.desc_item:eq(4)--span&&Text;;.desc_item:eq(1)--span&&Text;.desc_item:eq(2)--span&&Text",
+		"desc":".desc_item:eq(3)&&Text;.desc_item:eq(4)--span&&Text;;.desc_item:eq(1)--span&&Text;.desc_item:eq(2)--span&&Text",
 		"content":".detail-con p&&Text",
 		"tabs":".hd li",
 		"lists":".numList:eq(#id) li"

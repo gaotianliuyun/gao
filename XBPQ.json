@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/小暴脾气.jar;md5;d10047ad127888e9588e38bdc0817cdd",
+	"spider": "./jar/小暴脾气.jar;md5;68468d6fd4914032bb8f3ad2b375b949",
 	"wallpaper": "http://xhww.fun:63/img.php",
 	"sites": [{
 			"key": "豆瓣",
@@ -42,14 +42,12 @@
 			}
 		},
 		{
-			"key": "搜狗",
-			"name": "搜狗┃解析",
+			"key": "360",
+			"name": "360┃BPQ",
 			"type": 3,
-			"api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
-			"ext": "http://xiaohewanwan.love/自用/搜狗.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
+			"api": "csp_XBPQ",
+			"playerType": "1",
+			"ext": "./xBPQ/360.json"
 		},
 		{
 			"key": "哔哩哔哩",
@@ -97,6 +95,15 @@
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
 		},
 		{
+			"key": "飞速",
+			"name": "探探┃APP",
+			"type": 3,
+			"api": "csp_YT",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "奇优",
 			"name": "奇优┃BPQ",
 			"type": 3,
@@ -114,6 +121,16 @@
 			"quickSearch": 1,
 			"ext": "https://czzy.art/",
 			"filterable": 1
+		},
+		{
+			"key": "yunyun",
+			"name": "️芸芸┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./xBPQ/爱肥猫.json"
 		},
 		{
 			"key": "yaya",
@@ -137,7 +154,7 @@
 			"api": "csp_XBPQ",
 			"ext": {
 				"主页url": "https://kankanju.cc",
-				"请求头": "User-Agent$Dalvik/2.1.0#Cookie$filter_robot_dd=301",
+				"请求头": "Cookie$filter_robot_tt=301",
 				"播放请求头": "User-Agent$Dalvik/2.1.0 (Linux; U; Android 13; 22127RK46C Build/TKQ1.220905.001)",
 				"副标题": "pic-text text-right\">&&</b>",
 				"嗅探词": ".m3u8#.mp4#tos#video_mp4",
@@ -283,16 +300,6 @@
 			"ext": "./xBPQ/落叶.json"
 		},
 		{
-			"key": "飞速",
-			"name": "飞速┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://get.lfytyl.com/api.php/app/"
-		},
-		{
 			"key": "串串",
 			"name": "串串┃️BPQ",
 			"type": 3,
@@ -365,7 +372,7 @@
 				"副标题": "class=\"item-speed\">&&</p>",
 				"链接": "href=\"&&\"",
 				"播放数组": "class=\"plyr-sidebar-list&&</div>",
-				"嗅探词": "aliyundrive.net#cn-beijing-data",
+				"嗅探词": "aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
 				"搜索url": "https://app.syrme.top/video/search?q={wd}",
 				"分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
 				"分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
@@ -457,6 +464,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://124.222.175.111:89/api.php/app/"
+		},
+		{
+			"key": "测试",
+			"name": "落落┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://luoye.shop:66/api.php/app/"
 		},
 		{
 			"key": "酷酷",
