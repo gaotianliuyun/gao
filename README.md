@@ -13,17 +13,19 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （1）0821.json  在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析，由于有人将0820接口在微信朋友圈发布，特此改名；
 
-（2）0826.json  完全来源于饭太硬的jar包和配置；
+（2）0825.json  jar包来源于Panda Groove的go包，token.txt的写法见于“https://t.me/TVBoxxoo/27464/77911”；
 
-（3）0827.json  jar包和配置来源于fongmi；
+（3）0826.json  完全来源于饭太硬的jar包和配置；
 
-（4）0828.json  jar包和配置来源于唐三；
+（4）0827.json  jar包和配置来源于fongmi；
 
-（5）js.json  资源来源于道长drpy(js)仓库；
+（5）0828.json  jar包和配置来源于唐三；
 
-（6）XYQ.json  XYQ源，jar包和配置来源于香雅情。
+（6）js.json  资源来源于道长drpy(js)仓库；
 
-（7）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气。
+（7）XYQ.json  XYQ源，jar包和配置来源于香雅情。
+
+（8）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气。
 
 2. APP推荐:
 
