@@ -3,7 +3,7 @@
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索|豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"WoGG","name":"阿里|玩偶哥哥","type":3,"api":"csp_WoGG","ext":"file://tvfan/tokengo.txt$$$https://tvfan.xxooo.cf/"},
+{"key":"WoGG","name":"阿里|玩偶哥哥","type":3,"api":"csp_WoGG","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$https://tvfan.xxooo.cf/"},
 {"key":"csp_DuoX","name":"多线|App","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fantuan","name":"饭团|直连","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"探探","name":"探探|App","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
@@ -28,15 +28,15 @@
 {"key":"csp_xuexi","name":"学习园地","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"./json/bili.json"},
 {"key":"csp_Bili","name":"哔哔合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./json/chuqiuyu.json"},
 
-{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"file://tvfan/tokengo.txt"},
-{"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"file://tvfan/tokengo.txt"},
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"file://tvfan/tokengo.txt$$$test2$$$test2"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"file://tvfan/tokengo.txt"},
-{"key":"土狗","name":"土狗","type":3,"api":"csp_TuGou","ext":"file://tvfan/tokengo.txt"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"file://tvfan/tokengo.txt"},
-{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"file://tvfan/tokengo.txt"},
-{"key":"Sean","name":"Sean","type":3,"api":"csp_Sean","ext":"file://tvfan/tokengo.txt"},
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","ext": "file://tvfan/tokengo.txt$$$socks5://192.168.5.227:4592"}
+{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$test2$$$test2"},
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key":"土狗","name":"土狗","type":3,"api":"csp_TuGou","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key":"Sean","name":"Sean","type":3,"api":"csp_Sean","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","ext": "http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$socks5://192.168.5.227:4592"}
 ],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
