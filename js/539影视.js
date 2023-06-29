@@ -1,3 +1,4 @@
+// 搜索数字验证
 muban.首图2.二级.desc = '.data:eq(1)&&Text;.data:eq(3)&&Text;.data:eq(2)&&Text;.data:eq(5)&&Text;.data:eq(4)&&Text';
 muban.首图2.二级.tabs = '.nav.nav-tabs&&li';
 var rule = {
@@ -20,8 +21,15 @@ var rule = {
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
-	searchUrl:'/vodsearch.html#wd=**;post',
-	class_parse: '.stui-header__menu li:gt(0):lt(5);a&&Text;a&&href;/(\\d+).html',
+	headers: {
+		'User-Agent': 'PC_UA'
+	},
+	// searchUrl:'/vodsearch.html#wd=**;post',
+	class_parse: '.stui-header__menu li:gt(0):lt(5);a&&Text;a&&href;.*/(\\d+).html',
 	lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
-	搜索: 'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+	// 搜索: 'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+
+	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	detailUrl:'/voddetail/fyid.html', //非必填,二级详情拼接链接
+	搜索:'json:list;name;pic;;id',
 }

@@ -1,10 +1,12 @@
-// 北川影视唯一发布页 www.bcyingshi.ink
+// 发布页 https://www.bcyingshi.ink/fb
 muban.mxpro.二级.desc = '.module-info-item:eq(3)&&Text;;;.module-info-item--span:eq(2)&&Text;.module-info-item--span:eq(1)&&Text';
 muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
 var rule = {
 	title:'北川影视',
 	模板:'mxpro',
-	host:'https://bczhuiju.com',
+	// host:'https://bczhuiju.com',
+	host:'https://www.bcyingshi.ink/fb',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(1)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---/',
 	url: '/vodshow/fyclassfyfilter/',
 	filterable:1,//是否启用分类筛选,

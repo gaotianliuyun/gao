@@ -1,9 +1,11 @@
+// 永久地址发布页：https://fabu.yrzj.tv
 muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text'
 muban.mxpro.二级.tabs = '.module-tab-items-box .module-tab-item'
 var rule={     
     title:'伊人追剧',
     模板:'mxpro',
-    host:'https://www.yrzj.tv',
+    host:'https://fabu.yrzj.tv',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".links&&a:eq(2)&&href");print(src);HOST=src',
     // url:'/vodshow/id/fyclass/page/fypage.html',
     url:'/vodshow/id/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,

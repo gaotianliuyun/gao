@@ -15,5 +15,7 @@ var rule = {
 		1:{by:'/by/time'}
 	},
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
-    class_parse: '.navbar-items li:gt(1):lt(5);span&&Text;a&&href;/(\\d+).html',
+    // class_parse: '.navbar-items li:gt(1):lt(5);span&&Text;a&&href;/(\\d+).html',
+    class_name:'动漫',
+    class_url:'1',
 }
