@@ -1,0 +1,23 @@
+{
+	"数组二次截取": "\"list\":[&&]",
+	"数组": "{&&}",
+	"标题": "\"vod_name\":\"&&\"",
+	"图片": "\"vod_pic\":\"&&\"",
+	"链接": "\"detail_link\":\"&&\"",
+	"副标题": "\"vod_score\":\"&&\"",
+	"首页": "电视剧",
+	"搜索模式":"1",
+	
+	"搜索url":"http://tv.406np.xyz/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+	"搜索二次截取":"\"list\":[&&]",
+	"搜索数组":"{&&}",
+	"搜索标题":"\"name\":\"&&\"",
+	"搜索图片":"\"pic\":\"&&\"",
+	"搜索链接":"http://tv.406np.xyz/index.php/vod/detail/id/+\"id\":&&,+html",
+	"跳转播放链接": "http://popo.406np.xyz/?url=+vod_class*url\":\"&&\"", 
+    "二次跳转播放链接": "http://popo.406np.xyz/api_config.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"", 
+    "三次跳转播放链接": "\"url\"*\"&&\"",
+	"分类": "电影&电视剧&综艺&动漫",
+	"分类值": "1&2&4&3",
+	"分类url": "http://tv.406np.xyz/api.php/xiao/vod?type={cateId}&page={catePg}&limit=24;;m"
+}

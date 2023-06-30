@@ -2,6 +2,12 @@
 	"spider": "./jar/小暴脾气.jar;md5;68468d6fd4914032bb8f3ad2b375b949",
 	"wallpaper": "http://xhww.fun:63/img.php",
 	"sites": [{
+      "key": "js豆瓣",
+      "name": "豆瓣┃公众号【公众号神秘的哥哥们】关注防失联",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
+    },/*{
 			"key": "豆瓣",
 			"name": "豆瓣┃公众号【公众号神秘的哥哥们】关注防失联",
 			"type": 3,
@@ -10,7 +16,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
-		},
+		},*/
 		{
 			"key": "Kunyu77",
 			"name": "手机┃七七",
@@ -63,6 +69,14 @@
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": "./xBPQ/饭团.json"
+		},
+		{
+			"key": "龟龟",
+			"name": "龟龟┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "1",
+			"ext": "./xBPQ/龟龟.json"
 		},
 		 {
             "key": "YQK_spider",
@@ -350,6 +364,16 @@
 			"ext": "./xBPQ/兔兔.json"
 		},
 		{
+			"key": "鲸落",
+			"name": "鲸落｜BPQ",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"api": "csp_XBPQ",
+			"ext": "./xBPQ/鲸落.json"
+		},
+		{
 			"key": "臭蛋",
 			"name": "臭蛋┃BPQ",
 			"type": 3,
@@ -464,6 +488,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://124.222.175.111:89/api.php/app/"
+		},
+		{
+			"key": "测试2",
+			"name": "可可┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
 		},
 		{
 			"key": "测试",
@@ -606,6 +640,7 @@
 				"动漫"
 			]
 		},
+		
 		{
 			"key": "push_agent",
 			"name": "链接┃推送",
@@ -627,6 +662,17 @@
 			"type": 3,
 			"url": "Web"
 		},
+		{
+		"name": "✌️夜曲",
+		"type": 1,
+		"url": "http://xhww.fun:63/爱肥猫.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua", "nongmin", "CL4K", "xfyun", "ffm3u8", "lzm3u8", "netease", "pgyer", "qzone", "FY", "ppayun", "Feiyun", "zhibo"],
+			"header": {
+				"User-Agent": ""
+				
+			}
+		}}, 
 		{
 			"name": "稻香🌾",
 			"type": 1,
