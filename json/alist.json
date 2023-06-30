@@ -2,6 +2,10 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
+    {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
