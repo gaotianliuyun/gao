@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;da302b288aa50a711f20d9fa16c9cd8a",
+"spider":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8",
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索|豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},

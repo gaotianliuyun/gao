@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.nogo.jar;md5;671eb08475b5c2682a6e610ce194afee",
+"spider":"./jar/fm.nogo.jar;md5;294317e97d2aeab9105858509f3bafee",
 "lives":[{"name":"FongMi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
 {"name":"YanG","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
