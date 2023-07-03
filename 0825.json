@@ -1,5 +1,7 @@
 {
 "spider":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8",
+"lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
@@ -21,7 +23,6 @@
 {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
 {"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1},
 {"key":"異界","name":"異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1},
-{"key":"異界test","name":"異界代理","type":3,"api":"csp_Ysj","searchable":1,"changeable":1,"ext":"socks5://192.168.5.227:4592"},
 
 {"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./json/alist.json"},
