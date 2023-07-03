@@ -1,17 +1,22 @@
 {
-"spider":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8",
+"spider":"./jar/fm.jar;md5;4057f55d38b5980717e0eac93291f88e",
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$https://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$https://tvfan.xxooo.cf/"},
 {"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_陌陌","name":"陌陌","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
-{"key":"探探","name":"探探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_探探","name":"探探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_迪迪","name":"迪迪","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"key":"csp_酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
-{"key":"飞速","name":"飞速","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
+{"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+{"key":"csp_apple","name":"苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AppYsV2_迪迪","name":"迪迪","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+{"key":"AppYsV2_酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
+{"key":"AppYsV2_飞速","name":"飞速","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
 
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":"0;socks5://192.168.5.227:4592"},
 {"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"ext":"socks5://192.168.5.227:4592"},
@@ -37,7 +42,7 @@
 {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
 {"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
 {"key":"Sean","name":"Sean","type":3,"api":"csp_Sean","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","ext": "http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$socks5://192.168.5.227:4592"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$socks5://192.168.5.227:4592"}
 ],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
