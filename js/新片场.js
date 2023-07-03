@@ -26,7 +26,8 @@ var rule = {
         "27":[{"key":"by","name":"排序","value":[{"n":"最多热度","v":"hot"},{"n":"编辑精选","v":"pick"},{"n":"最新发布","v":"addtime"}]},{"key":"time","name":"时长","value":[{"n":"全部","v":"all"},{"n":"1分钟以下","v":"0T60"},{"n":"1-5分钟","v":"60T300"},{"n":"5-10分钟","v":"300T600"},{"n":"10-30分钟","v":"600T1800"}]},{"key":"pr","name":"比例","value":[{"n":"全部","v":"0"},{"n":"横屏","v":"1"},{"n":"竖屏","v":"2"}]},{"key":"dpi","name":"清晰","value":[{"n":"全部","v":"all"},{"n":"2K","v":"2k"},{"n":"4K","v":"4k"}]}],
         "146":[{"key":"by","name":"排序","value":[{"n":"最多热度","v":"hot"},{"n":"编辑精选","v":"pick"},{"n":"最新发布","v":"addtime"}]},{"key":"time","name":"时长","value":[{"n":"全部","v":"all"},{"n":"1分钟以下","v":"0T60"},{"n":"1-5分钟","v":"60T300"},{"n":"5-10分钟","v":"300T600"},{"n":"10-30分钟","v":"600T1800"}]},{"key":"pr","name":"比例","value":[{"n":"全部","v":"0"},{"n":"横屏","v":"1"},{"n":"竖屏","v":"2"}]},{"key":"dpi","name":"清晰","value":[{"n":"全部","v":"all"},{"n":"2K","v":"2k"},{"n":"4K","v":"4k"}]}]
     },
-    searchUrl: '/search?page=fypage&kw=**',
+    // searchUrl: '/search?page=fypage&kw=**',
+    searchUrl: '/search?kw=**',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     headers:{
@@ -40,7 +41,10 @@ var rule = {
     double: true, // 推荐内容是否双层定位
     推荐: '*',
     // 一级: 'body&&.YcskN;img&&alt;img&&src;.list-remarks&&Text;a&&href',
-    一级: 'body&&.ikELow;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
+    // 一级: 'body&&.ikELow;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
+    一级: 'body&&.gVZugC;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
     二级: '*',
-    搜索: 'body&&.w-full.h-auto;*;*;.text-white&&Text&&Text;*',
+    // 搜索: 'body&&.w-full.h-auto;*;*;.text-white&&Text&&Text;*',
+    搜索: 'body&&.sc-f4e5405b-0;*;*;*;*',
+
 }

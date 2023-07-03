@@ -1,6 +1,7 @@
 var rule = {
     title:'嘶哩嘶哩',
-    host:'https://www.silisili.tv',
+    // host:'https://www.silisili.tv',
+    host:'https://www.silisilifun.com',
     // url:'/vodtype/fyclass-fypage/',
     url:'/vodtype/fyclass-fypagefyfilter/',
     filterable:1,//是否启用分类筛选,
