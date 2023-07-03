@@ -4,7 +4,8 @@ muban.vfed.二级.content = '.fed-part-esan--span&&Text';
 var rule={
     title:'柒之社',
     模板:'vfed',
-    host:'https://07vod.fun',
+    // host:'https://07vod.fun',
+    host:'https://www.qzsvod.fun',
     url:'/index.php/vod/show/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}/page/fypage{{fl.year}}',
