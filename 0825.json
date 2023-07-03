@@ -1,7 +1,7 @@
 {
 "spider":"./jar/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
+{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
