@@ -1,5 +1,5 @@
 {
-"spider": "./jar/fanty.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
+"spider": "./jar/fanty.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
@@ -15,6 +15,7 @@
 {"key":"drpy_js_胖虎","name":"影视 | 胖虎[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎.js"},
 {"key":"drpy_js_cokemv","name":"影视 | cokemv[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
+{"key":"drpy_js_LIBVIO2","name":"影视 | LIBVIO2[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO2.js"},
 {"key":"drpy_js_农民","name":"影视 | 农民影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"drpy_js_饭团影视","name":"影视 | 饭团影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 {"key":"drpy_js_双十电影","name":"影视 | 双十电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/双十电影.js"},
@@ -34,6 +35,7 @@
 {"key":"drpy_js_零度影视","name":"影视 | 零度影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/零度影视.js"},
 {"key":"drpy_js_蘑菇","name":"影视 | 蘑菇[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蘑菇.js"},
 {"key":"drpy_js_私人影院","name":"影视 | 私人影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/私人影院.js"},
+{"key":"drpy_js_007影视","name":"影视 | 007影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
 
 {"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},

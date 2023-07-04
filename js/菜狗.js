@@ -22,7 +22,15 @@ var rule = {
     play_json:1,
     // 手动调用解析请求json的url,此lazy不方便
     lazy:'',
-    lazy:'js:print(input);fetch_params.headers["User-Agent"]=MOBILE_UA;print(fetch_params);let html=request(input);let rurl=html.match(/window\\.open\\(\'(.*?)\',/)[1];rurl=urlDeal(rurl);input={parse:1,jx:1,url:rurl};',
+    lazy:`js:
+    print(input);
+    fetch_params.headers["User-Agent"]=MOBILE_UA;
+    print(fetch_params);
+    let html=request(input);
+    let rurl=html.match(/window\\.open\\('(.*?)',/)[1];
+    rurl=urlDeal(rurl);
+    input={parse:1,jx:1,url:rurl};
+    `,
     // 推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     一级:'js:let d=[];let html=request(input);html=JSON.parse(html);let list=html.listData.results;list.forEach(function(it){let desc1=it.ipad_play_for_list.finish_episode?it.ipad_play_for_list.episode===it.ipad_play_for_list.finish_episode?"全集"+it.ipad_play_for_list.finish_episode:"连载"+it.ipad_play_for_list.episode+"/"+it.ipad_play_for_list.finish_episode:"";let desc2=it.score?"评分:"+it.score:"";let desc3=it.date?"更至:"+it.date:"";d.push({title:it.name,img:it.v_picurl,url:"https://v.sogou.com"+it.url.replace("teleplay","series").replace("cartoon","series"),desc:desc1||desc2||desc3})});setResult(d);',
     二级:'',
