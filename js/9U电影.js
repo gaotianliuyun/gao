@@ -26,6 +26,7 @@ var rule={
 	推荐:'*',
 	double:false, // 推荐内容是否双层定位
 	一级: '.module-items .module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+    二级访问前:'log(MY_URL);MY_URL=MY_URL.replace("play","detail").replace("/sid/1/nid/1","")',
 	二级: {
 		"title": "h1&&Text;.module-info-tag&&Text",
 		"img": ".ls-is-cached&&data-original",

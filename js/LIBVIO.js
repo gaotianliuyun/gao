@@ -28,7 +28,21 @@ var rule = {
 	// class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
 	tab_exclude:'夸克网盘|百度云盘',
 	pagecount:{"27":1},
-	lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;var from=html.from;var next=html.link_next;var id=html.id;var nid=html.nid;if(/LINE405/.test(from)){var purl="https://p2.cfnode1.xyz/lb.php?url="+url+"&next="+next+"&id="+id+"&nid="+nid;input={jx:0,url:request(purl).match(/var urls = \'(.*?)\'/)[1]+"#.mp4",parse:1}}else if(/aliyunline2/.test(from)){var purl="https://p2.cfnode1.xyz/ty2.php?url="+url+"&next="+next+"&id="+id+"&nid="+nid;input={jx:0,url:request(purl).match(/var urls = \'(.*?)\'/)[1],parse:1}}else{input}',
+	lazy:`js: var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+var url = html.url;
+var from = html.from;
+var next = html.link_next;
+var id = html.id;
+var nid = html.nid;
+var paurl = request("https://libvio.cc/static/player/" + from + ".js").match(/ src="(.*?)'/)[1];
+if (/https/.test(paurl)) {
+	var purl = paurl + url + "&next=" + next + "&id=" + id + "&nid=" + nid;
+	input = {
+		jx: 0,
+		url: request(purl).match(/var .* = '(.*?)'/)[1],
+		parse: 0
+	}
+}`,
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
 	detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
 	// detailUrl:'/detail_fyid.html', //非必填,二级详情拼接链接

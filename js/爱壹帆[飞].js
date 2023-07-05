@@ -1,6 +1,6 @@
 muban.mxone5.二级.desc = '.title-info&&Text;.tag-link:eq(2)&&Text;.tag-link:eq(3)&&Text;;';
 var rule={
-	title:'爱壹帆',
+	title:'爱壹帆[飞]',
 	模板:'mxone5',
 	host:'https://www.iyf1.tv',
 	// url:'/index.php/vod/show/id/fyclass/page/fypage.html',

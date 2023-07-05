@@ -1,6 +1,6 @@
 var rule = {
-	    title:'gaze',
-	    host:'https://gaze.run',
+	    title:'jsapi',
+	    host:'https://www.baidu.com',
 	    url:'/filter_movielist?fyfilter',
 		detailUrl:'/play/fyid',
 	    // searchUrl:'/search?query=**&page=fypage',
@@ -20,30 +20,37 @@ var rule = {
 	    lazy:'',
 	    limit:6,
 	    double:false,
-	    推荐:'.swiper-slide;.card-title&&Text;img.mcoverimgs&&data-src;.badge-default&&Text;a&&href',
+	    推荐:'',
 		一级:'',
 		一级:`js:
 	log(input);
+	log('Object.keys(jsapi)=======>');
+	log(Object.keys(jsapi));
+	let t1 = jsapi.test;
+	log('typeof(jsapi.test)====>'+typeof(t1));
+	let t2 = jsapi.test1;
+	log('typeof(jsapi.test1)====>'+typeof(t2));
+	log('typeof(jsapi.test.add)===>'+typeof(jsapi.test.add));
+	log('typeof(jsapi.test1.add1)====>'+typeof(jsapi.test1.add1));
+	
+	log('typeof(jsapi.htmlParser)====>'+typeof(jsapi.htmlParser));
+	log('typeof(jsapi.htmlParser.pdfa)====>'+typeof(jsapi.htmlParser.pdfa));
+	log('typeof(jsapi.htmlParser.pdfh)====>'+typeof(jsapi.htmlParser.pdfh));
+	let html = '<a href="http://www.baidu.com">123<a>';
+	log('jsapi.htmlParser.pdfh("'+html+'","a&&Text")====>'+jsapi.htmlParser.pdfh(html,"a&&Text"));
+	
+	log('typeof(jsapi.add)====>'+typeof(jsapi.add));
+	log('typeof(jsapi.add1)====>'+typeof(jsapi.add1));
+	
+	log('jsapi.test.add(1,2)='+jsapi.test.add(1,2));
+	log('jsapi.test1.add1(1,2)='+jsapi.test1.add1(1,2));
+	log('jsapi.test1.add(1,2)='+jsapi.test1.add(1,2));
+	log('jsapi.add(1,2)='+jsapi.add(1,2));
+	log('jsapi.add1(1,2)='+jsapi.add1(1,2));
+	
+	
 	let d=[];
-	let body={
-	mform:MY_CATE,
-	mcountry:MY_FL.mcountry||"all",
-	"tag_arr%5B%5D":MY_FL.mtag||"all",
-	page:MY_PAGE,
-	sort:MY_FL.sort||"updatetime",
-	album:MY_FL.album||"all",
-	title:"",
-	years: "all"
-	};
-	fetch_params.body=body;
-	fetch_params.headers["x-requested-with"]="XMLHttpRequest";
-	let url=input.split("?")[0];
-	let html=post(url,fetch_params);
-	print(html);
-	let data=JSON.parse(html);
-	data.mlist.forEach(function(it){d.push({title:it.title,desc:it.definition+" "+it.grade,url:it.mid,img:it.cover_img})});
 	setResult(d);
 		`,
-	    二级:{"title":".playtitle&&Text;.badge&&Text","img":".pimgs&&src","desc":"h5:eq(1)&&Text","content":"h6&&Text","tabs":"","lists":"js:LISTS=[['第1集$1.mp4','第2集$1.mp4']]"},
-	    // 搜索:'*',
+	    二级:'',
 }

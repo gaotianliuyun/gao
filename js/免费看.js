@@ -20,7 +20,7 @@ var rule = {
 	headers: {
 		'User-Agent': 'MOBILE_UA',
 	},
-	class_parse:'.nav-channel .main-nav:gt(0):lt(6);a&&Text;a&&href;.*/(.*?).html',
+	class_parse:'.nav-channel&&.main-nav;a&&Text;a&&href;/(\\d+).html',
 	play_parse: true,
 	lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}',
 	limit: 6,
