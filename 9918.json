@@ -1,9 +1,9 @@
 {
 "spider":"./jar/fm.nogo.jar;md5;294317e97d2aeab9105858509f3bafee",
-"lives":[{"name":"FongMi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
+"lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
 {"name":"YanG","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
-{"name":"初秋语","type":0,"url":"./listx.txt"}
+{"name":"AV","type":0,"url":"./livex.m3u"}
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
 "sites":[
