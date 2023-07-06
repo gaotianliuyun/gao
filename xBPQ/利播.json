@@ -4,7 +4,7 @@
   "主页url": "https://tv.libvio.cc",
   "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://tv.libvio.cc/",
   "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
-  
+  "嗅探词":"P3.douyinpic.com#.mp4#m3u8#ctyunxs.cn#tos-alisg",
   "分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;u0",
   
   "副标题": "text-right\">&&</span>",
@@ -25,10 +25,10 @@
   
   "线路数组": "<h3 class=\"iconfont&&</div>",
   "线路标题": ">&&<[不包含:云盘#网盘#不要]",
-  "跳转解析":"BD2播放$https://p2.cfnode1.xyz/ty2.php?url=#HD播放$https://p2.cfnode1.xyz/lb.php?url=",
-  "播放数组": "<ul class=\"stui-content&&</ul>",
-  "跳转播放链接":"解析+link_pre*url\":\"&&\"",
-  "二次跳转播放链接":"var urls*'&&'",
+  //"跳转解析":"BD2播放$https://p2.cfnode1.xyz/ty2.php?url=#HD播放$https://p2.cfnode1.xyz/lb.php?url=",
+  //"播放数组": "<ul class=\"stui-content&&</ul>",
+  //"跳转播放链接":"解析+link_pre*url\":\"&&\"",
+  //"二次跳转播放链接":"var vid*'&&'",
   
   "筛选":{
 "1":[

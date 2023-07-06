@@ -1,12 +1,12 @@
 {
-"主页url":"http://www.qiyoudy1.com",
+"主页url":"http://jxjyv.com",
 "数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 //"嗅探词":".m3u8#m3u8#mp4",
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
-"搜索url":"http://www.qiyoudy1.com/search.php;post;searchword={wd}",
+"搜索url":"http://jxjyv.com/search.php;post;searchword={wd}",
 "搜索模式":"1",
 "搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>",
 "搜索图片":"data-original=\"&&\"",
@@ -27,7 +27,7 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"0",
-"分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order={by}",
+"分类url":"http://jxjyv.com/list/{cateId}_{catePg}.html?order={by}",
 "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
 "筛选":
 {
