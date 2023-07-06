@@ -38,7 +38,9 @@
 {"key":"drpy_js_大师兄影视","name":"影视 | 大师兄影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大师兄影视.js"},
 {"key":"drpy_js_免费看","name":"影视 | 免费看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/免费看.js"},
 {"key":"drpy_js_起飞影院","name":"影视 | 起飞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/起飞影院.js"},
+{"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 
+{"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
 {"key":"drpy_js_HG影院[V2]","name":"影视 | HG影院[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HG影院[V2].js"},
 {"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影[V2].js"},
@@ -217,6 +219,7 @@
 {"key":"drpy_js_孜然影视","name":"影视 | 孜然影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蘑菇.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
 
+{"key":"drpy_js_555影视[飞]","name":"起飞 | 555影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[飞].js"},
 {"key":"drpy_js_爱壹帆[飞]","name":"起飞 | 爱壹帆[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱壹帆[飞].js"},
 {"key":"drpy_js_if101[飞]","name":"起飞 | if101[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101[飞].js"},
 {"key":"drpy_js_KUBO影视[飞]","name":"起飞 | KUBO影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/KUBO影视[飞].js"},

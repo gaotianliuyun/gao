@@ -20,7 +20,21 @@ var rule = {
 	class_name:'剧集&电影&综艺&动漫', // 分类筛选 /api.php/v1.vod/types
 	class_url:'2&1&3&4',
 	play_parse:true,
-	lazy:"js:input=/Feiyun/.test(input)?{jx:0,url:JSON.parse(request('http://xhww.fun:63/小米爱肥猫.php?url='+input,{headers:{'User-Agent':'Dalvik/2.1.0(Linux;U;Android10;PDHM00Build/QKQ1.191222.002)'}})).url,parse:0,header:JSON.stringify({'user-agent':'okhttp/4.1.0'})}:input",
+	lazy:`js:
+		let Fyjx = JSON.parse(request('http://xhww.fun:63/小米/DEMO.json')).parses[2].url;
+		input = /Feiyun/.test(input) ? {
+			jx: 0,
+			url: JSON.parse(request(Fyjx + input, {
+				headers: {
+					'User-Agent': 'Dalvik/2.1.0(Linux;U;Android10;PDHM00Build/QKQ1.191222.002)'
+				}
+			})).url,
+			parse: 0,
+			header: JSON.stringify({
+				'user-agent': 'okhttp/4.1.0'
+			})
+		} : input
+	`,
 	limit:6,
 	推荐:'json:data.list;vod_list;*;*;*;*',
 	double:true,
