@@ -7,7 +7,7 @@
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"csp_YGP","name":"新片速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$https://tvfan.xxooo.cf/"},
-{"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
+{"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_陌陌","name":"陌陌","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_探探","name":"探探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
