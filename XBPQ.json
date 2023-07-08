@@ -13,7 +13,7 @@
 			"name": "🗯️手机┃七七",
 			"type": 3,
 			"api": "csp_Kunyu77",
-			"playerType": 1,
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -37,6 +37,14 @@
 				"线路数组": "ax-btn*ax-padding ax-xl\">&&/a>[不包含:介绍]",
 				"分类url": "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"
 			}
+		},
+		{
+			"key": "新片场",
+			"name": "新片场┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "1",
+			"ext": "./xBPQ/新片场.json"
 		},
 		{
 			"key": "360",
@@ -83,7 +91,7 @@
 				"搜索数组": "{\"te&&}[包含:一龙高清]",
 				"搜索图片": "http://xhww.fun:63/小米/4.jpeg",
 				"搜索标题": "xt\":\"&&\"",
-				"搜索副标题": "小米提示！广告误信！",
+				"搜索副标题": "晚九点后纯广告",
 				"搜索链接": "http://www.fantuanhd.com/detail/+\"url\":\"http://www.yilonghd.com/detail/id-&&.html\",+.html",
 				"免嗅": "0",
 				"嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key",
@@ -91,6 +99,17 @@
 				"分类url": "https://www.fantuanhd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
 			}
 		},
+		{
+			"key": "csp_appys_影探",
+			"name": "影探┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://ytcms.lfytyl.com/api.php/app/"
+		},
+
 		{
 			"key": "测试",
 			"name": "🗯️落落┃APP",
@@ -148,7 +167,7 @@
 			"playerType": "1",
 			"ext": {
 				"主页url": "http://www.dadagui.me/",
-				"副标题": "小米提示！广告误信！+pic-text text-right\">&&</b>",
+				"副标题": "pic-text text-right\">&&</b>",
 				"搜索模式": "1",
 				"搜索url": "https://www.dadagui.me/vodsearch/{wd}-------------.html",
 				"图片": "data-original=\"&&\"",
@@ -156,7 +175,7 @@
 				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
 				"导演": "导演：&&</div>",
 				"主演": "主演：&&</div>",
-				"简介": "introduction-content\">&&</span>",
+				"简介": "小米提示！广告误信！+introduction-content\">&&</span>",
 				"线路标题": "\"tab\">&&</a>",
 				"线路数组": "[替换:非云>>高清有4K#蓝光>>1080P无广#自营云播e>>1080P#非凡云播>>广告1#量子云播>>广告2#无尽云播>>广告3][排序:高清有4K>080P无广>1080P>广告1>广告2>广告3]",
 				"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
@@ -204,7 +223,7 @@
 				"搜索数组": "{\"te&&}[包含:一龙高清]",
 				"搜索图片": "http://xhww.fun:63/小米/4.jpeg",
 				"搜索标题": "xt\":\"&&\"",
-				"搜索副标题":"小米提示！广告误信！",
+				"搜索副标题": "一龙",
 				"搜索链接": "\"url\":\"&&\"",
 				"线路数组": "data-toggle=&&</li>[不包含:无尽线路#备用][替换:极速>>无广告有4K#奇热>>无广告1080P#量子>>广告1#非凡>>广告2#自建>>等修复][排序:无广告有4K>无广告1080P>广告1>广告2>等修复]",
 				"线路标题": ">&&</a>",
@@ -271,6 +290,13 @@
 			}
 		},
 		{
+			"key": "星星",
+			"name": "星星┃影视",
+			"type": 3,
+			"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/xx.js"
+		},
+		{
 			"key": "零度",
 			"name": "零度┃BPQ",
 			"type": 3,
@@ -326,12 +352,12 @@
 				"图片": "data-original=\"&&\"",
 				"链接": "href=\"&&\"",
 				"搜索模式": "1",
-				"搜索url":"https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-	             "搜索二次截取":"\"list\":[&&]",
-	             "搜索数组":"{&&}",
-	             "搜索标题":"\"name\":\"&&\"",
-            	"搜索图片":"\"pic\":\"&&\"",
-            	"搜索链接":"https://www.ygpvp.com/voddetail/+\"id\":&&,+html",
+				"搜索url": "https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+				"搜索二次截取": "\"list\":[&&]",
+				"搜索数组": "{&&}",
+				"搜索标题": "\"name\":\"&&\"",
+				"搜索图片": "\"pic\":\"&&\"",
+				"搜索链接": "https://www.ygpvp.com/voddetail/+\"id\":&&,+html",
 				"跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/?url=+vod_class*url\":\"&&\"",
 				"二次跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/API.php;post;url=+\"url\"*\"&&\"+&ac=jx",
 				"三次跳转播放链接": "\"url\"*\"&&\"",
@@ -565,30 +591,32 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"api": "csp_XBPQ",
-			"ext": {	"主页url": "http://www.tvyb03.com/",
-	"请求头": "手机",
-	"简介": "class=\"sketch content\">&&</span>",
-	"数组": "myui-vodlist__thumb&&</a>",
-	"标题": "title=\"&&\"",
-	"副标题": "pic-tag pic-tag-top\">&&</span>",
-	"图片": "data-original=\"&&\"",
-	"链接": "href=\"&&\"",
-	"搜索url": "/vod/search.html?wd={wd}&submit=",
-	"搜索数组": "myui-vodlist__thumb&&</a>",
-	"搜索标题": "title=\"&&\"",
-	"搜索副标题": "pic-tag pic-tag-top\">&&</span>",
-	"搜索图片": "http://w.g9.pub:66/f/Y1ksA/sorry.ico",
-	"搜索链接": "href=\"&&\"",
-	"搜索模式": "1",
-	"嗅探词":".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
-	"搜索后缀": "/vod/detail/id/",
-	"线路数组": "</a><h3&&/h3>",
-	"线路标题": "title\">&&<",
-	"播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
-	"播放标题": ">&&<",
-	"播放列表": "<a&&/a>",
-	"分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;m",
-	"分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
+			"ext": {
+				"主页url": "http://www.tvyb03.com/",
+				"请求头": "手机",
+				"简介": "class=\"sketch content\">&&</span>",
+				"数组": "myui-vodlist__thumb&&</a>",
+				"标题": "title=\"&&\"",
+				"副标题": "pic-tag pic-tag-top\">&&</span>",
+				"图片": "data-original=\"&&\"",
+				"链接": "href=\"&&\"",
+				"搜索url": "/vod/search.html?wd={wd}&submit=",
+				"搜索数组": "myui-vodlist__thumb&&</a>",
+				"搜索标题": "title=\"&&\"",
+				"搜索副标题": "pic-tag pic-tag-top\">&&</span>",
+				"搜索图片": "http://w.g9.pub:66/f/Y1ksA/sorry.ico",
+				"搜索链接": "href=\"&&\"",
+				"搜索模式": "1",
+				"嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+				"搜索后缀": "/vod/detail/id/",
+				"线路数组": "</a><h3&&/h3>",
+				"线路标题": "title\">&&<",
+				"播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
+				"播放标题": ">&&<",
+				"播放列表": "<a&&/a>",
+				"分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;m",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
 		},
 		{
 			"key": "臭蛋",
@@ -757,17 +785,6 @@
 			"ext": "https://www.tvkuys.xyz/api.php/app/"
 		},
 		{
-			"key": "酷云",
-			"name": "酷云┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": ["4K电影", "4K电视剧"],
-			"ext": "http://ys.realdou.cn/api.php/app/"
-		},
-		{
 			"key": "瑞丰",
 			"name": "辣辣┃APP",
 			"type": 3,
@@ -900,49 +917,38 @@
 		{
 			"name": "✌️夜曲",
 			"type": 1,
-			"url": "http://xhww.fun:63/小米肥猫.php?url=",
+			"url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
 			"ext": {
 				"flag": [
-				"mgtv",
-				"qiyi",
-				"imgo",
-				"爱奇艺",
-				"奇艺",
-				"qq",
-				"腾讯",
-				"youku",
-				"优酷",
-				"pptv",
-				"PPTV",
-				"letv",
-				"乐视",
-				"leshi",
-				"bilibili",
-				"哔哩哔哩",
-				"哔哩",
-				"mgtv",
-				"芒果",
-				"芒果"],
+					"mgtv",
+					"qiyi",
+					"imgo",
+					"FY",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"mgtv",
+					"芒果",
+					"芒果"
+				],
 				"header": {
-				"User-Agent": ""
+					"User-Agent": ""
 
 				}
 			}
 		},
-		{
-			"name": "小艺🌾",
-			"type": 1,
-			"url": "https://xjx.tvcms.top/api/?key=86e9e99ae4e23391b0531a2489f57273&url=",
-			"flag": [
-				"mmal",
-				"TD",
-				"TDB"
-			],
-			"header": {
-				"User-Agent": "okhttp/3.12.11"
-
-				}
-		},
+		
 		{
 			"name": "稻香🌾",
 			"type": 1,
@@ -970,6 +976,7 @@
 				"芒果"
 			]
 		},
+		
 		{
 			"name": "25芒果🥭",
 			"type": 1,
@@ -1206,7 +1213,7 @@
 		"name": "live2",
 		"type": 0,
 		"url": "http://home.jundie.top:81/Cat/tv/live.txt",
-		"playerType": 1,
+
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
