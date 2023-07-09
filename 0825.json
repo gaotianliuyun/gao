@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;ecfbd46676b57d3d12d751552d8f34b8",
+"spider":"./jar/fm.jar;md5;883eb08ea6f5e8e86de937b7a4313464",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
