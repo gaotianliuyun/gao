@@ -1,9 +1,9 @@
 {
-"spider":"./jar/fan.txt;md5;88c55af008dbd9344f3cf95e6f426a2a",
+"spider":"./jar/fan.txt;md5;cca6aff85e364046abad5fc1de1ed8e6",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
-{"key":"js豆豆","name":"微信公众号【神秘的哥哥们】关注防失联","type":3,"api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext":"https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆豆","name":"微信公众号【神秘的哥哥们】关注防失联","type":3,"api":"https://pan.shangui.cc/f/ZGdQTv/douban2.js","ext":"https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/json/biliych.json"},
 {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":0,"changeable":0},
@@ -84,7 +84,6 @@
 "parses":[
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
-{"name":"【影视范】提供","type":1,"url":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
 {"name":"刚佬","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"全部","type":0,"url":"https://yun.ckmov.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"来自","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
