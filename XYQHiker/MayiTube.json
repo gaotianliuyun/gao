@@ -29,7 +29,7 @@
     "搜索片单标题": "h1&&Text",
     "搜索片单链接": "a&&href",
     "搜索片单副标题": ".vodthumb-bottom-content&&Text",
-    "搜索片单链接加前缀": "https://mayitube.com",
+    "搜索片单链接加前缀": "https://mayitube.com/",
     "搜索片单链接加后缀": "",
     "链接是否直接播放": "0",
     "直接播放链接加前缀": "https://live.52sf.ga/huya/",

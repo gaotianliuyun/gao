@@ -29,7 +29,7 @@
     "分类起始页码": "1",
     "分类链接": "http://www.98dyw.com/{cateId}/index{catePg}.html[firstPage=http://www.98dyw.com/{cateId}/index.html]",
     "分类名称": "电影&电视剧&综艺&动漫",
-    "分类名称替换词": "dianying&dianshiju&zongyi&dongman",
+    "分类名称替换词": "dianyingpian&dianshiju&zongyi&dongman",
     "筛选数据": {},
     "分类截取模式": "1",
     "分类列表数组规则": ".stui-vodlist&&li",

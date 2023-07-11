@@ -1,0 +1,2 @@
+{"key":"直播转点播","name":"电视直播","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
+{"key":"lf_js直播","name":"mtv","type":3,"api":"https://agit.ai/leeqys/xc/raw/branch/master/sub/lf_live_min.js","ext":"https://agit.ai/leeqys/xc/raw/branch/master/sub/lf_live_min.txt"},
