@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;6b931540fe114080381e4dbcc6ac579a",
+"spider":"./jar/fm.jar;md5;ead8c094968724eae2d1294e2197cd49",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
@@ -20,8 +20,7 @@
 
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":"0;socks5://192.168.5.227:4592"},
 {"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"ext":"socks5://192.168.5.227:4592"},
-{"key":"獨播","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"./json/duboku.json"},
-{"key":"傢伙","name":"傢伙","type":4,"api":"https://php.iptv.hz.cz/moguys.php","searchable":1,"changeable":1},
+{"key":"獨播","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"./json/duboku.json$$$socks5://192.168.5.227:4592"},
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
