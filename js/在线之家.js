@@ -1,4 +1,5 @@
 // 在线之家地址发布页 https://www.zxzj.site
+
 muban.首图2.二级.desc = '.data:eq(3)&&Text;;;.data:eq(1)&&Text;.data:eq(2)&&Text';
 var rule = {
 	title:'在线之家',
@@ -19,4 +20,37 @@ var rule = {
 	tab_exclude:'夸克网盘|迅雷云盘|百度网盘',
 	// 搜索:muban.首图2.搜索1,
 	搜索: 'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
+	图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
+
+	/*
+	lazy代码:源于海阔香雅情大佬 / 小程序：香情影视 https://pastebin.com/L4tHdvFn
+	*/
+	lazy:`js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		var from = html.from;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/m3u8|mp4/.test(url)) {
+			input = url
+		} else if (/line3|line5/.test(from)) {
+			var ifrwy = request(url, {
+				headers: {
+					"User-Agent": MOBILE_UA,
+					"Referer": HOST
+				}
+			});
+			let code = ifrwy.match(/var url = '(.*?)'/)[1].split('').reverse().join('');
+			let temp = '';
+			for (let i = 0x0; i < code.length; i = i + 0x2) {
+				temp += String.fromCharCode(parseInt(code[i] + code[i + 0x1], 0x10))
+			}
+			input=temp.substring(0x0, (temp.length - 0x7) / 0x2) + temp.substring((temp.length - 0x7) / 0x2 + 0x7);
+		} else{
+			input
+		}
+	`,
 }
