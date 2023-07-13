@@ -1,10 +1,11 @@
 var rule = {
     title:'荐片',
     host:'http://api2.rinhome.com',
-    homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
+    //homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
+    homeUrl:'https://api2.rinhome.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',
 	url:'/api/crumb/list?area=0&category_id=fyclass&page=fypage&type=0&limit=24&fyfilter',
-    class_name:'全部&电影&电视剧&动漫&综艺',
-    class_url:'0&1&2&3&4',
+    class_name:'电视剧&综艺&电影&动漫&全部',
+    class_url:'2&4&1&3&0',
     detailUrl:'/api/node/detail?channel=wandoujia&token=&id=fyid',//二级详情拼接链接(json格式用)
     searchUrl:'/api/video/search?key=**&page=fypage',
     searchable:2,
@@ -34,9 +35,11 @@ var rule = {
 	一级:'json:data;title;path;playlist.title;id',
     二级:{
     title:'data.title',
-    desc:';data.description;data.id',
+    //desc:';data.description;data.id',
+    desc:';data.year.title;data.area.title;data.actors[0].name;data.directors[0].name',
     img:'data.thumbnail',
-    content:'data.thumbnail',
+    //content:'data.thumbnail',
+    content:'data.description',
     is_json:1,
     tabs:'js:TABS=[];if(html.data.have_ftp_ur == 1){TABS.push("边下边播超清版")}if(html.data.have_m3u8_ur == 1){TABS.push("在线点播普清版")}',
     lists:'js:log(TABS);LISTS=[];TABS.forEach(function(tab){if(/边下边播/.test(tab)){let ftp=html.data.new_ftp_list;let d=ftp.map(function(it){return it.title+"$"+(/m3u8/.test(it.url)?play_url+it.url:"tvbox-xg:"+it.url)});LISTS.push(d)}else if(/在线点播/.test(tab)){let m3u=html.data.new_m3u8_list;let d=m3u.map(function(it){return it.title+"$"+(/m3u8/.test(it.url)?play_url+it.url:"tvbox-xg:"+it.url)});LISTS.push(d)}});',
