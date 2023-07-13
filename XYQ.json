@@ -54,7 +54,8 @@
       "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable":0
     },
      {
           "key": "傢伙",
@@ -69,14 +70,16 @@
       "name": "电视 | MTV[js]",
       "type":3,
       "api":"https://agit.ai/lengniuge/js/raw/branch/master/Live.js",
-      "ext":"https://agit.ai/lengniuge/mv/raw/branch/master/mv.json"
+      "ext":"https://agit.ai/lengniuge/mv/raw/branch/master/mv.json",
+      "changeable":0
     },
     {
             "key": "MTV转点播1",
             "name": "MTV转换",
             "type": 3,
             "api": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.js",
-            "ext": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.txt"
+            "ext": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.txt",
+            "changeable":0
         },
         
     { "key":"直播转点播",
