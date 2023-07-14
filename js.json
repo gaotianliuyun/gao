@@ -1,5 +1,5 @@
 {
-"spider": "./jar/fanty.jar;md5;f024a5e507951d3c20514202aa6cf5fe",
+"spider": "./jar/fanty.jar;md5;373edf85def4a2a644f8c41364ecab75",
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
