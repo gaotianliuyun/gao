@@ -45,8 +45,9 @@ try {
 
 var rule = {
 	title: 'HG影院[V2]', // csp_AppYsV2
-	host: 'https://www.hgyx.vip',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
+	host: 'https://hong.hgyx.vip',
+	// host: 'https://www.hgyx.vip',
+	// hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
 	homeUrl:'/api.php/v1.vod/vodPhbAll',
 	// url: '/api.php/v1.vod?type=fyclass&limit=20&page=fypage',
 	url: '/api.php/v1.vod?type=fyclassfyfilter&limit=20&page=fypage',
@@ -67,15 +68,17 @@ var rule = {
 	class_name:'4k影视剧&4k影视片&综艺&4k动漫', // 分类筛选 /api.php/v1.vod/types
 	class_url:'2&1&3&4',
 	play_parse:true,
+	// lazy:'`js:input=/hgyx.vip/.test(input)?{jx:0,url:JSON.parse(request(input)).data.redirect_url,parse:0,header:JSON.stringify({"user-agent":"Lavf/58.12.100"})}:/m3u8|mp4/.test(input)?input:{jx:0,url:"https://jx.hgyx.vip/?url="+input,parse:1}',
 	lazy:`js:
-		input = /hgyx.vip/.test(input) ? {
+		input = /m3u8|mp4/.test(input) ? {
 			jx: 0,
-			url: JSON.parse(request(input)).data.redirect_url,
-			parse: 1,
-			header: JSON.stringify({
-				"user-agent": "Lavf/58.12.100"
-			})
-		} : /m3u8|mp4/.test(input) ? input : input
+			url: input,
+			parse: 0
+		} : {
+			jx: 0,
+			url: "https://jx.hgyx.vip/?url=" + input,
+			parse: 1
+		}
 	`,
 	limit:6,
 	推荐:'json:data.list;vod_list;*;*;*;*',

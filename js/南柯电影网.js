@@ -1,5 +1,5 @@
-// 搜索验证码 -> drpy_ocr验证码接口 成功过验证
-muban.mxpro.二级.desc = ';;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text'
+// 搜索验证码 pass
+muban.mxpro.二级.desc = '.module-info-item:eq(5)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text'
 var rule = {
 	title:'南柯电影网',
 	模板:'mxpro',
@@ -39,13 +39,43 @@ var rule = {
 			}
 		}
 	`,
-	预处理:`js:
-		var html = request(HOST, {
-			withHeaders: true
-		});
-		let json = JSON.parse(html);
-		let setCk = Object.keys(json).find(it => it.toLowerCase() === "set-cookie");
-		let cookie = setCk ? json[setCk].split(";")[0] : "";
-		rule_fetch_params.headers.Cookie = cookie;
+	预处理:`
+		rule_fetch_params.headers.Cookie = "3d1899503da128319d46484900974d61=2260e8918a83e15f322f083e71586517";
+		let new_html = request(HOST);
+		if (/检测中/.test(new_html)) {
+			let hhtml = request(HOST, {
+				withHeaders: true
+			});
+			let json = JSON.parse(hhtml);
+			let setCk = Object.keys(json).find(it => it.toLowerCase() === "set-cookie");
+			let cookie = setCk ? json[setCk].split(";")[0] : "";
+			rule_fetch_params.headers.Cookie = cookie;
+			setItem(RULE_CK, cookie)
+		} else if (/正在进行人机识别/.test(new_html)) {
+			let new_src = pd(new_html, "script&&src", HOST);
+			let hhtml = request(new_src, {
+				withHeaders: true
+			});
+			let json = JSON.parse(hhtml);
+			let html = json.body;
+			let key = html.match(new RegExp(\'var key="(.*?)"\'))[1];
+			let avalue = html.match(new RegExp(\'value="(.*?)"\'))[1];
+			let c = "";
+			for (let i = 0; i < avalue.length; i++) {
+				let a = avalue[i];
+				let b = a.charCodeAt();
+				c += b
+			}
+			let value = md5(c);
+			let yz_url = HOST + "/a20be899_96a6_40b2_88ba_32f1f75f1552_yanzheng_ip.php?type=96c4e20a0e951f471d32dae103e83881&key=" + key + "&value=" + value;
+			hhtml = request(yz_url, {
+				withHeaders: true
+			});
+			json = JSON.parse(hhtml);
+			let setCk = Object.keys(json).find(it => it.toLowerCase() === "set-cookie");
+			let cookie = setCk ? json[setCk].split(";")[0] : "";
+			rule_fetch_params.headers.Cookie = cookie;
+			setItem(RULE_CK, cookie)
+		}
 	`,
 }

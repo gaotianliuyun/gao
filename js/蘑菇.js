@@ -1,5 +1,5 @@
 /*
-永久地址发布 https://www.moguys.xyz/label/web.html
+永久地址发布 https://www.gvideo.me/label/web.html
 域名1：https://www.moguys.xyz
 域名2：https://www.gvideo.me
 域名3：https://www.movie4k.pro
@@ -9,8 +9,8 @@ muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq
 var rule = {
     title:'蘑菇',
     模板:'mxone5',
-    host:'https://www.moguys.xyz/label/web.html',
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(0)&&a&&href");print(src);HOST=src',
+    host:'https://www.gvideo.me/label/web.html',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(0)&&a:eq(1)&&href");print(src);HOST=src',
     url:'/vodshow/fyfilter.html',
     homeUrl:'/vodshow/13--score---------.html',
     filterable:1,//是否启用分类筛选,

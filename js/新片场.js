@@ -36,15 +36,21 @@ var rule = {
     timeout:5000,//网站的全局请求超时,默认是3000毫秒
     class_parse: '.flex-wrap.ml-8&&.rounded;.px-3&&Text;a&&href;.*/\\w+-(\\d+)',
     play_parse:true,
-    lazy:'',
+    lazy:`js:
+        let html=request(input);
+        let json=JSON.parse(jsp.pdfh(html, "#__NEXT_DATA__&&Html")).props.pageProps.detail.video.content;
+        input = json.progressive[0].https_url;
+    `,
     limit:6,
     double: true, // 推荐内容是否双层定位
     推荐: '*',
     // 一级: 'body&&.YcskN;img&&alt;img&&src;.list-remarks&&Text;a&&href',
     // 一级: 'body&&.ikELow;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
-    一级: 'body&&.gVZugC;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
+    // 一级: 'body&&.gVZugC;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
+    一级: 'body&&.jPyYqP;img&&alt;img&&src;.px-3.text-xs&&Text;a&&href',
     二级: '*',
     // 搜索: 'body&&.w-full.h-auto;*;*;.text-white&&Text&&Text;*',
-    搜索: 'body&&.sc-f4e5405b-0;*;*;*;*',
+    // 搜索: 'body&&.sc-f4e5405b-0;*;*;*;*',
+    搜索: '*',
 
 }

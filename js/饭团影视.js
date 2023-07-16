@@ -1,12 +1,47 @@
-muban.首图2.二级.desc = '.data:eq(3)&&Text;;;.data:eq(1)&&Text;.data:eq(2)&&Text';
+var 二级=`js:
+    pdfh = jsp.pdfh;pdfa = jsp.pdfa;pd = jsp.pd;
+    VOD = {};
+    var html = request(input);
+    VOD.vod_name = pdfh(html, "h1&&Text");
+    VOD.type_name = pdfh(html, ".data:eq(0)&&Text").replace("类型：", "").replace("地区：", "").replace("年份：", "");
+    VOD.vod_pic = pdfh(html, "img.lazyload&&data-original");
+    VOD.vod_remarks = pdfh(html, ".data:eq(3)&&Text");
+    VOD.vod_actor = pdfh(html, ".data:eq(1)&&Text").replace("主演：", "");
+    VOD.vod_director = pdfh(html, ".data:eq(2)&&Text").replace("导演：", "");
+    VOD.vod_content = pdfh(html, ".detail-content&&Text");
+    let playFrom = [];
+    let vod_tab_list = [];
+    let tabs = pdfa(html, "body&&.stui-vodlist__head:not(:matches(猜你))");
+    tabs.forEach((it) => {
+        playFrom.push(pdfh(it, "h3&&Text"));
+    });
+    for (let i = 0; i < playFrom.length; i++) {
+        let p1 = ".stui-content__playlist:eq(#id)&&li".replaceAll("#id", i);
+        let new_vod_list = [];
+        let vodList = [];
+        try {
+            vodList = pdfa(html, p1);
+        } catch (e) {}
+        for (let i = 0; i < vodList.length; i++) {
+            let it = vodList[i];
+            new_vod_list.push(pdfh(it, "body&&Text").trim() + "$" + pd(it, "a&&href"));
+        }
+        let vlist = new_vod_list.join("#");
+        vod_tab_list.push(vlist);
+    }
+    VOD.vod_play_from = playFrom.reverse().join("$$$");
+    VOD.vod_play_url = vod_tab_list.reverse().join("$$$");
+`;
+
+// muban.首图2.二级.desc = '.data:eq(3)&&Text;;;.data:eq(1)&&Text;.data:eq(2)&&Text';
 var rule = {
     title:'饭团影视',
     模板:'首图2',
     host:'https://www.fantuanhd.com',
     // url:'/show/id-fyclass/page/fypage.html',
-    url:'/type/fyclassfyfilter.html',
+    url:'/show/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
-    filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}/page/fypage{{fl.year}}',
+    filter_url:'{{fl.area}}{{fl.by or "/by/time"}}{{fl.class}}{{fl.lang}}/page/fypage{{fl.year}}',
     filter: {
         "1":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"喜剧","v":"/class/喜剧"},{"n":"爱情","v":"/class/爱情"},{"n":"恐怖","v":"/class/恐怖"},{"n":"动作","v":"/class/动作"},{"n":"科幻","v":"/class/科幻"},{"n":"剧情","v":"/class/剧情"},{"n":"战争","v":"/class/战争"},{"n":"犯罪","v":"/class/犯罪"},{"n":"灾难","v":"/class/灾难"},{"n":"奇幻","v":"/class/奇幻"},{"n":"悬疑","v":"/class/悬疑"},{"n":"惊悚","v":"/class/惊悚"},{"n":"冒险","v":"/class/冒险"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"香港","v":"/area/香港"},{"n":"台湾","v":"/area/台湾"},{"n":"美国","v":"/area/美国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"德国","v":"/area/德国"},{"n":"泰国","v":"/area/泰国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2008","v":"/year/2008"},{"n":"2000","v":"/year/2000"},{"n":"1997","v":"/year/1997"},{"n":"1980","v":"/year/1980"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"普通话","v":"/lang/普通话"},{"n":"英语","v":"/lang/英语"},{"n":"粤语","v":"/lang/粤语"},{"n":"闽南语","v":"/lang/闽南语"},{"n":"韩语","v":"/lang/韩语"},{"n":"日语","v":"/lang/日语"},{"n":"法语","v":"/lang/法语"},{"n":"德语","v":"/lang/德语"},{"n":"其它","v":"/lang/其它"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
         "2":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"古装","v":"/class/古装"},{"n":"战争","v":"/class/战争"},{"n":"偶像","v":"/class/偶像"},{"n":"犯罪","v":"/class/犯罪"},{"n":"奇幻","v":"/class/奇幻"},{"n":"剧情","v":"/class/剧情"},{"n":"历史","v":"/class/历史"},{"n":"网剧","v":"/class/网剧"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"大陆","v":"/area/大陆"},{"n":"香港","v":"/area/香港"},{"n":"台湾","v":"/area/台湾"},{"n":"美国","v":"/area/美国"},{"n":"法国","v":"/area/法国"},{"n":"英国","v":"/area/英国"},{"n":"日本","v":"/area/日本"},{"n":"韩国","v":"/area/韩国"},{"n":"德国","v":"/area/德国"},{"n":"泰国","v":"/area/泰国"},{"n":"印度","v":"/area/印度"},{"n":"其他","v":"/area/其他"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"/year/2023"},{"n":"2022","v":"/year/2022"},{"n":"2021","v":"/year/2021"},{"n":"2020","v":"/year/2020"},{"n":"2019","v":"/year/2019"},{"n":"2018","v":"/year/2018"},{"n":"2017","v":"/year/2017"},{"n":"2016","v":"/year/2016"},{"n":"2008","v":"/year/2008"},{"n":"2000","v":"/year/2000"},{"n":"1997","v":"/year/1997"},{"n":"1980","v":"/year/1980"}]},{"key":"lang","name":"语言","value":[{"n":"全部","v":""},{"n":"普通话","v":"/lang/普通话"},{"n":"英语","v":"/lang/英语"},{"n":"粤语","v":"/lang/粤语"},{"n":"闽南语","v":"/lang/闽南语"},{"n":"韩语","v":"/lang/韩语"},{"n":"日语","v":"/lang/日语"},{"n":"法语","v":"/lang/法语"},{"n":"德语","v":"/lang/德语"},{"n":"其它","v":"/lang/其它"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"/by/time"},{"n":"人气","v":"/by/hits"},{"n":"评分","v":"/by/score"}]}],
@@ -16,5 +51,7 @@ var rule = {
     },
     class_parse: '.stui-header__menu li:gt(0):lt(6);a&&Text;a&&href;.*/(\\d+).html',
     searchUrl:'/search/page/fypage/wd/**.html',
+    lazy:'var base64decode=base64Decode;eval(unescape(base64decode("anM6CiAgICB2YXIgcGxheWVyID0gSlNPTi5wYXJzZShyZXF1ZXN0KGlucHV0KS5tYXRjaCgvciBwbGF5ZXJfLio/PSguKj8pPC8pWzFdKTsKICAgIHZhciBqc3VybCA9IHBsYXllci51cmw7CiAgICB2YXIgZnJvbSA9IHBsYXllci5mcm9tOwogICAgdmFyIGlkID0gcGxheWVyLmlkOwogICAgdmFyIG5pZCA9IHBsYXllci5uaWQ7CiAgICBpZiAocGxheWVyLmVuY3J5cHQgPT0gIjEiKSB7CiAgICB2YXIganN1cmwgPSB1bmVzY2FwZShqc3VybCk7CiAgICB9IGVsc2UgaWYgKHBsYXllci5lbmNyeXB0ID09ICIyIikgewogICAgdmFyIGpzdXJsID0gdW5lc2NhcGUoYmFzZTY0RGVjb2RlKGpzdXJsKSk7CiAgICB9IGVsc2UgewogICAganN1cmw7CiAgICB9CgogICAgdmFyIHBzaHRtbCA9IHJlcXVlc3QoSE9TVCArICIvc3RhdGljL3BsYXllci8iICsgZnJvbSArICIuanMiKTsKICAgIHZhciBqeCA9IHBkZmgocHNodG1sLCAiaWZyYW1lJiZzcmMiKS5zcGxpdCgiPSIpWzBdICsgIj0iOwogICAgdHJ5IHsKICAgIGlmICgvXC5tM3U4fFwubXA0Ly50ZXN0KGpzdXJsKSkgewogICAgICAgIGlucHV0ID0ganN1cmw7CiAgICB9IGVsc2UgewogICAgICAgIHZhciBodG1sID0gZmV0Y2goCiAgICAgICAganggKyBqc3VybCArICImbmV4dD0maWQ9IiArIGlkICsgIiZuaWQ9IiArIG5pZCArICImZnJvbT0iICsgZnJvbSwKICAgICAgICB7CiAgICAgICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICAgIlVzZXItQWdlbnQiOiBNT0JJTEVfVUEsCiAgICAgICAgICAgIFJlZmVyZXI6IEhPU1QsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG1ldGhvZDogImdldCIsCiAgICAgICAgfQogICAgICAgICk7CiAgICAgICAgZXZhbChnZXRDcnlwdG9KUygpKTsKICAgICAgICB2YXIgdXJscyA9IGh0bWwubWF0Y2goL3ZhciB1cmxzID0gIiguKj8pIi8pWzFdOwogICAgICAgIGxldCBwVXJsID0gQ3J5cHRvSlMuQUVTLmRlY3J5cHQoCiAgICAgICAgdXJscywKICAgICAgICBDcnlwdG9KUy5lbmMuTGF0aW4xLnBhcnNlKCJPZjg0ZmYwY2xmMjUyY2JhIiksCiAgICAgICAgewogICAgICAgICAgICBpdjogQ3J5cHRvSlMuZW5jLkxhdGluMS5wYXJzZSgiYzQ4N2VibDJlMzhhMGZhTyIpLAogICAgICAgICAgICBtb2RlOiBDcnlwdG9KUy5tb2RlLkNCQywKICAgICAgICAgICAgcGFkZGluZzogQ3J5cHRvSlMucGFkLlplcm9QYWRkaW5nLAogICAgICAgIH0KICAgICAgICApLnRvU3RyaW5nKENyeXB0b0pTLmVuYy5VdGY4KTsKICAgICAgICBpbnB1dCA9IHBVcmw7CiAgICB9CiAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgaW5wdXQKICAgIH0=")))', // lazy代码:源于海阔Btea大佬 / 小程序：饭团HD♨️ https://pastebin.com/WjzgRyyS
+    二级:二级,
     搜索:muban.首图2.搜索1,
 }

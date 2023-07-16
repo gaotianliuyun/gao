@@ -44,9 +44,9 @@ try {
 
 var rule = {
 	title: '看看剧[V2]', // csp_AppYsV2
-	// host: 'https://www.kankanju.cc',
-	host: 'https://www.kankanju.vip',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
+	host: 'https://www.kankanju.cc',
+	// host: 'https://www.kankanju.vip',
+	// hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
 	homeUrl:'/api.php/app/index_video',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=18&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&year={{fl.year}}',
