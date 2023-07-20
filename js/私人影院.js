@@ -1,11 +1,5 @@
-muban.首图2.二级.title = '.v-thumb&&title;.data--span:eq(0)&&Text';
-muban.首图2.二级.desc = '.data:eq(3)&&Text;;;.data--span:eq(1)&&Text;.data--span:eq(2)&&Text';
-muban.首图2.二级.content = '.desc.hidden-xs--a&&Text';
-muban.首图2.二级.tabs = '.stui-pannel__head.bottom-line';
-muban.首图2.二级.tab_text = 'h3&&Text';
 var rule={
     title:'私人影院(被窝电影)',
-    模板:'首图2',
     // host:'https://www.bei5dy.com',
     host:'https://www.bei5dy.net',
     url:'/show/fyfilter/',
@@ -24,6 +18,140 @@ var rule={
 		dongman:{cateId:'dongman'}
 	},
     searchUrl:'/search/**----------fypage---/',
-    class_parse: '.stui-header__menu&&li;a&&Text;a&&href;.*/(\\w+)/',
-    搜索: muban.首图2.搜索2,
+    searchable:2,
+    quickSearch:0,
+    headers:{
+        'User-Agent':'MOBILE_UA'
+    },
+    timeout:5000,//网站的全局请求超时,默认是3000毫秒
+    // class_parse: '.stui-header__menu&&li;a&&Text;a&&href;.*/(\\w+)/',
+    class_name:'电影&电视剧&动漫&综艺',
+    class_url:'dianying&dianshiju&zongyi&dongman',
+    play_parse:true,
+	lazy:`js:
+        var html = request(input, {
+            withHeaders: true
+        });
+        let json = JSON.parse(html);
+        let setCk = Object.keys(json).find(it => it.toLowerCase() === "set-cookie");
+        let cookie = setCk ? json[setCk].split(";")[0] : "";
+        fetch_params.headers.Cookie = cookie;
+        html = JSON.parse(html).body;
+        if (/检测中/.test(html)) {
+            html = request(input + "?btwaf" + html.match(/btwaf(.*?)\"/)[1], fetch_params)
+        }
+        var phtml = JSON.parse(html.match(/r player_.*?=(.*?)</)[1]);
+        var url = phtml.url;
+        if (phtml.encrypt == '1') {
+            url = unescape(url)
+        } else if (phtml.encrypt == '2') {
+            url = unescape(base64Decode(url))
+        }
+        if (/m3u8|mp4/.test(url)) {
+            input = url
+        } else {
+            input
+        }
+    `,
+    推荐:'*',
+    一级:`js:
+        var d = [];
+        pdfh = jsp.pdfh;
+        pdfa = jsp.pdfa;
+        pd = jsp.pd;
+        var html = request(input, {
+            withHeaders: true
+        });
+        let json = JSON.parse(html);
+        let setCk = Object.keys(json).find(it => it.toLowerCase() === "set-cookie");
+        let cookie = setCk ? json[setCk].split(";")[0] : "";
+        fetch_params.headers.Cookie = cookie;
+        html = JSON.parse(html).body;
+        if (/检测中/.test(html)) {
+            html = request(input + "?btwaf" + html.match(/btwaf(.*?)\"/)[1], fetch_params)
+        }
+        let list = pdfa(html, "ul.stui-vodlist&&li");
+        list.forEach(it => {
+            d.push({
+                title: pdfh(it, "a&&title"),
+                desc: pdfh(it, ".pic-text&&Text"),
+                pic_url: pd(it, ".lazyload&&data-original"),
+                url: pd(it, "a&&href")
+            })
+        });
+        setResult(d)
+    `,
+    二级:`js:
+        pdfh = jsp.pdfh;
+        pdfa = jsp.pdfa;
+        pd = jsp.pd;
+        VOD = {};
+        var html = request(input, {
+            withHeaders: true
+        });
+        let json = JSON.parse(html);
+        let setCk = Object.keys(json).find((it) => it.toLowerCase() === "set-cookie");
+        let cookie = setCk ? json[setCk].split(";")[0] : "";
+        fetch_params.headers.Cookie = cookie;
+        html = JSON.parse(html).body;
+        if (/检测中/.test(html)) {
+            html = request(input + "?btwaf" + html.match(/btwaf(.*?)\"/)[1], fetch_params)
+        }
+        VOD.vod_name = pdfh(html, ".stui-content__detail&&h1--span&&Text");
+        VOD.type_name = pdfh(html, ".data--span:eq(0)&&Text");
+        VOD.vod_pic = pd(html, ".stui-content__thumb&&img&&data-original");
+        VOD.vod_remarks = pdfh(html, ".stui-content__thumb&&pic-text&&Text");
+        VOD.vod_actor = pdfh(html, ".data--span:eq(1)&&Text");
+        VOD.vod_director = pdfh(html, ".data--span:eq(2)&&Text");
+        VOD.vod_content = pdfh(html, ".desc.hidden-xs--a&&Text");
+        let playFrom = [];
+        let vod_tab_list = [];
+        let tabs = pdfa(html, "body .stui-pannel__head.bottom-line");
+        tabs.forEach((it) => {
+            playFrom.push(pdfh(it, "h3&&Text"))
+        });
+        for (let i = 0; i < playFrom.length; i++) {
+            let p1 = ".stui-content__playlist:eq(#id)&&li".replaceAll("#id", i);
+            let new_vod_list = [];
+            let vodList = [];
+            try {
+                vodList = pdfa(html, p1)
+            } catch (e) {}
+            for (let i = 0; i < vodList.length; i++) {
+                let it = vodList[i];
+                new_vod_list.push(pdfh(it, "body&&Text").trim() + "$" + pd(it, "a&&href"))
+            }
+            let vlist = new_vod_list.join("#");
+            vod_tab_list.push(vlist)
+        }
+        VOD.vod_play_from = playFrom.join("$$$");
+        VOD.vod_play_url = vod_tab_list.join("$$$");
+    `,
+    搜索:`js:
+        var d = [];
+        pdfh = jsp.pdfh;
+        pdfa = jsp.pdfa;
+        pd = jsp.pd;
+        var html = request(input, {
+            withHeaders: true
+        });
+        let json = JSON.parse(html);
+        let setCk = Object.keys(json).find(it => it.toLowerCase() === "set-cookie");
+        let cookie = setCk ? json[setCk].split(";")[0] : "";
+        fetch_params.headers.Cookie = cookie;
+        html = JSON.parse(html).body;
+        if (/检测中/.test(html)) {
+            html = request(input + "?btwaf" + html.match(/btwaf(.*?)\"/)[1], fetch_params)
+        }
+        let list = pdfa(html, ".stui-vodlist__media&&li");
+        list.forEach(it => {
+            d.push({
+                title: pdfh(it, "a&&title"),
+                desc: pdfh(it, ".pic-text&&Text"),
+                pic_url: pd(it, ".lazyload&&data-original"),
+                url: pd(it, "a&&href")
+            })
+        });
+        setResult(d)
+    `,
 }

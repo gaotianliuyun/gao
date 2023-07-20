@@ -1,16 +1,17 @@
 /*
-永久地址发布 https://www.gvideo.me/label/web.html
+永久地址发布 https://www.gvideo.me/label/web.html (失效)
 域名1：https://www.moguys.xyz
-域名2：https://www.gvideo.me
-域名3：https://www.movie4k.pro
+域名2：https://www.gvideo.me (维护中)
+域名3：https://www.movie4k.pro (失效)
 */
 muban.mxone5.二级.title = 'h1&&Text;.video-info-aux&&Text';
 muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule = {
     title:'蘑菇',
     模板:'mxone5',
-    host:'https://www.gvideo.me/label/web.html',
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(0)&&a:eq(1)&&href");print(src);HOST=src',
+    host:'https://www.moguys.xyz',
+    // host:'https://www.moguys.xyz/label/web.html',
+    // hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(0)&&a:eq(0)&&href");print(src);HOST=src',
     url:'/vodshow/fyfilter.html',
     homeUrl:'/vodshow/13--score---------.html',
     filterable:1,//是否启用分类筛选,
@@ -34,6 +35,9 @@ var rule = {
         20:{cateId:'20'},
         3:{cateId:'3'},
         4:{cateId:'4'}
+    },
+    headers:{
+        'User-Agent':'PC_UA'
     },
     class_parse: '.library-list&&a;a&&Text;a&&href;/(\\d+)',
     lazy:`js:
