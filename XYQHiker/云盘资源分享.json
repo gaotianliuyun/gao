@@ -1,6 +1,6 @@
 {
     "搜索请求头参数": "手机",
-    "搜索链接": "https://yunpan1.com/?q={wd}",
+    "搜索链接": "https://yunpan1.cc/?q={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": "#flarum-content&&li",

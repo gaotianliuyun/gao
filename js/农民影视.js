@@ -1,7 +1,7 @@
 // 发布页 https://www.nmdvd.com/
 var rule={
 	title:'农民影视',
-	修源:'into',
+
 	//host:'https://www.nmddd.com',
 	//host:'https://v.xiangdao.me',
 	// host:'https://v.emsdn.cn',

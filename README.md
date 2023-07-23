@@ -1,6 +1,6 @@
 tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
-以任何方式查看本仓库内容的人或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
+所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
 
 本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负。
 
@@ -57,39 +57,37 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 （9）菜妮丝：https://tvbox.cainisi.cf
 
-（10）香雅情：https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json
+（10）运输车：https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
 
-（11）运输车：https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
+（11）多多：https://yydsys.top/duo
 
-（12）多多：https://yydsys.top/duo
+（12）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（13）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（13）神器：https://神器每日推送.tk/pz.json
 
-（14）神器：https://神器每日推送.tk/pz.json
+（14）巧技：http://pandown.pro/tvbox/tvbox.json
 
-（15）巧技：http://pandown.pro/tvbox/tvbox.json
+（15）那里花开：http://hz752.love:63/tk.json
 
-（16）那里花开：http://hz752.love:63/tk.json
+（16）吾爱有三：http://52bsj.vip:98/0805
 
-（17）吾爱有三：http://52bsj.vip:98/0805
+（17）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（18）潇洒：https://download.kstore.space/download/2863/01.txt
+（18）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
-（19）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（19）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
-（20）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+（20）云星日记：http://itvbox.cc/tvbox/云星日记/1.m3u8
 
-（21）云星日记：http://itvbox.cc/tvbox/云星日记/1.m3u8
+（21）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（22）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（22）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
-（23）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
+（23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
 
-（24）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+（24）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
 
-（25）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
-
-（26）好人：https://xhdwc.tk/0
+（25）好人：https://xhdwc.tk/0
 
 4. 随机轮换壁纸：
 

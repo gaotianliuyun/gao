@@ -1,0 +1,11 @@
+{
+"站名":"滴答",
+"请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"主页url":"https://didahd.com",
+"嗅探词":".m3u8#?fid=#mp4",
+"搜索模式":"0",
+"跳转播放链接": "https://didahd.com/m3u8/?url=+Base64(vod_class*url\":\"&&\")",
+"二次跳转播放链接": "url\"*\"&&\"",
+"分类":"电影$1#电视剧$2#综艺$12#动漫$3",
+"分类url":"https://didahd.com/show/{cateId}----{area}----{catePg}---{year}.html"
+}
