@@ -1,5 +1,5 @@
 {
-"spider": "./jar/fanty.jar;md5;f4ec316a5fa752ef8082328b9b28e708",
+"spider": "./jar/fanty.jar;md5;666ca7d5468412592cd65e5a22376dc6",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
@@ -99,6 +99,7 @@
 {"key":"drpy_js_58动漫","name":"动漫 | 58动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/58动漫.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AGE动漫.js"},
 {"key":"drpy_js_AnFuns","name":"动漫 | AnFuns[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
+{"key":"drpy_js_Anime1动畫","name":"动漫 | Anime1动畫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Anime1动畫.js"},
 {"key":"drpy_js_NT动漫","name":"动漫 | NT动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NT动漫.js"},
 {"key":"drpy_js_NyaFun","name":"动漫 | NyaFun[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NyaFun.js"},
 {"key":"drpy_js_爱弹幕","name":"动漫 | 爱弹幕[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱弹幕.js"},
@@ -169,7 +170,6 @@
 {"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 {"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影先生.js"},
-{"key":"drpy_js_番茄影视","name":"影视 | 番茄影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/番茄影视.js"},
 {"key":"drpy_js_飞兔影视","name":"影视 | 飞兔影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/飞兔影视.js"},
 {"key":"drpy_js_光棍影院","name":"影视 | 光棍影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/光棍影院.js"},
 {"key":"drpy_js_海兔影院","name":"影视 | 海兔影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海兔影院.js"},
