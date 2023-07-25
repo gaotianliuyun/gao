@@ -988,8 +988,6 @@ TVBS NEWS LIVE,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:45
 EBC東森財經,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url=https://www.youtube.com/watch?v=WHEPzbFA3hw
 三立財經,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
 NHK WORLD,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
-NHK WORLD,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url=https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
-NHK WORLD,http://127.0.0.1:10079/?proxy=socks5://192.168.5.227:4592&thread=0&url=https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 Sky News,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url=https://www.youtube.com/watch?v=9Auq9mYxFEE
 FRANCE 24,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url=https://www.youtube.com/watch?v=h3MuIUNCCzI
 ABC News,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url=https://www.youtube.com/watch?v=w_Ma8oQLmSM
@@ -1041,7 +1039,6 @@ KOMPASTV,http://127.0.0.1:9978/proxy?do=yt&proxy=socks5://192.168.5.227:4592&url
 浙江休闲台,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 世界,#genre#
-鳳凰衛視資訊台,http://127.0.0.1:10079/?proxy=socks5://192.168.1.109:2080&thread=0&url=http://sc2022.stream-link.org/tv2306.php?id=h15NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
