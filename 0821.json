@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;666ca7d5468412592cd65e5a22376dc6",
+"spider":"./jar/fan.txt;md5;50bc219c741872bc7a60e79c7584edb4",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -33,7 +33,7 @@
 {"key":"csp_DiDuan" ,"name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Lib","name": "利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.fun/"},
 {"key":"贱贱","name":"贱贱┃p2p","type":3,"playerType":"1","api":"http://xhww.fun:63/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/jp.js"},
-{"key":"酷酷","name":"酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://cms.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧"]},
+{"key":"酷酷","name":"酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧"]},
 {"key":"探探","name":"探探┃App","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_YQKAPP","name":"一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_kuaikan","name":"快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":1},
@@ -72,6 +72,7 @@
 {"key":"csp_七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
 
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"888解忧愁","name":"解忧","type":4,"api":"https://private--t410.repl.co/888?","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 {"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1,"filterable":1,"changeable":0},

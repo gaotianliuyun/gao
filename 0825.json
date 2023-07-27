@@ -38,7 +38,7 @@
 {"key":"異界","name":"異界","type":3,"api":"csp_Ysj","searchable":1,"changeable":1},
 {"key":"獨播","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"./json/duboku.json$$$socks5://192.168.5.227:4592"},
 
-{"key":"888解忧愁","name":"解忧","type":4,"api":"https://private--t410.repl.co/888?","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"888解忧愁","name":"解忧","type":4,"api":"https://private--t410.repl.co/888?","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"廠長","name":"廠長","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js","searchable":1,"changeable":1},
 {"key":"愛看","name":"愛看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":1,"changeable":1},
 {"key":"快看","name":"快看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js","searchable":1,"changeable":1},
