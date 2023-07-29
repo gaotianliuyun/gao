@@ -321,10 +321,6 @@ https://vod.mycamtv.net/159.m3u8
 https://vod.mycamtv.net/160.m3u8
 #EXTINF:-1 group-title="AV1",#161
 https://vod.mycamtv.net/161.m3u8
-#EXTINF:-1 group-title="AV1",#162
-https://vod.mycamtv.net/162.m3u8
-#EXTINF:-1 group-title="AV1",#163
-https://vod.mycamtv.net/163.m3u8
 #EXTINF:-1 group-title="AV1",#164
 https://vod.mycamtv.net/164.m3u8
 #EXTINF:-1 group-title="AV1",#165
@@ -503,8 +499,6 @@ https://vod.mycamtv.net/250.m3u8
 https://vod.mycamtv.net/251.m3u8
 #EXTINF:-1 group-title="AV1",#252
 https://vod.mycamtv.net/252.m3u8
-#EXTINF:-1 group-title="AV1",#253
-https://vod.mycamtv.net/253.m3u8
 #EXTINF:-1 group-title="AV1",#254
 https://vod.mycamtv.net/254.m3u8
 #EXTINF:-1 group-title="AV1",#255
@@ -1011,12 +1005,8 @@ https://vod.mycamtv.net/504.m3u8
 https://vod.mycamtv.net/505.m3u8
 #EXTINF:-1 group-title="AV1",#506
 https://vod.mycamtv.net/506.m3u8
-#EXTINF:-1 group-title="AV1",#507
-https://vod.mycamtv.net/507.m3u8
 #EXTINF:-1 group-title="AV1",#508
 https://vod.mycamtv.net/508.m3u8
-#EXTINF:-1 group-title="AV1",#509
-https://vod.mycamtv.net/509.m3u8
 #EXTINF:-1 group-title="AV1",#510
 https://vod.mycamtv.net/510.m3u8
 #EXTINF:-1 group-title="AV1",#511
@@ -1025,20 +1015,8 @@ https://vod.mycamtv.net/511.m3u8
 https://vod.mycamtv.net/512.m3u8
 #EXTINF:-1 group-title="AV1",#513
 https://vod.mycamtv.net/513.m3u8
-#EXTINF:-1 group-title="AV1",#514
-https://vod.mycamtv.net/514.m3u8
 #EXTINF:-1 group-title="AV1",#515
 https://vod.mycamtv.net/515.m3u8
-#EXTINF:-1 group-title="AV1",#516
-https://vod.mycamtv.net/516.m3u8
-#EXTINF:-1 group-title="AV1",#517
-https://vod.mycamtv.net/517.m3u8
-#EXTINF:-1 group-title="AV1",#518
-https://vod.mycamtv.net/518.m3u8
-#EXTINF:-1 group-title="AV1",#519
-https://vod.mycamtv.net/519.m3u8
-#EXTINF:-1 group-title="AV1",#520
-https://vod.mycamtv.net/520.m3u8
 #EXTINF:-1 group-title="AV1",#521
 https://vod.mycamtv.net/521.m3u8
 #EXTINF:-1 group-title="AV1",#522
@@ -1763,8 +1741,6 @@ https://vod.mycamtv.net/880.m3u8
 https://vod.mycamtv.net/881.m3u8
 #EXTINF:-1 group-title="AV1",#882
 https://vod.mycamtv.net/882.m3u8
-#EXTINF:-1 group-title="AV1",#883
-https://vod.mycamtv.net/883.m3u8
 #EXTINF:-1 group-title="AV1",#884
 https://vod.mycamtv.net/884.m3u8
 #EXTINF:-1 group-title="AV1",#885
@@ -1927,8 +1903,6 @@ https://vod.mycamtv.net/962.m3u8
 https://vod.mycamtv.net/963.m3u8
 #EXTINF:-1 group-title="AV1",#964
 https://vod.mycamtv.net/964.m3u8
-#EXTINF:-1 group-title="AV1",#965
-https://vod.mycamtv.net/965.m3u8
 #EXTINF:-1 group-title="AV1",#966
 https://vod.mycamtv.net/966.m3u8
 #EXTINF:-1 group-title="AV1",#967
@@ -2559,32 +2533,16 @@ https://vod.mycamtv.net/1278.m3u8
 https://vod.mycamtv.net/1279.m3u8
 #EXTINF:-1 group-title="AV2",#1280
 https://vod.mycamtv.net/1280.m3u8
-#EXTINF:-1 group-title="AV2",#1281
-https://vod.mycamtv.net/1281.m3u8
-#EXTINF:-1 group-title="AV2",#1282
-https://vod.mycamtv.net/1282.m3u8
-#EXTINF:-1 group-title="AV2",#1283
-https://vod.mycamtv.net/1283.m3u8
 #EXTINF:-1 group-title="AV2",#1284
 https://vod.mycamtv.net/1284.m3u8
 #EXTINF:-1 group-title="AV2",#1285
 https://vod.mycamtv.net/1285.m3u8
-#EXTINF:-1 group-title="AV2",#1286
-https://vod.mycamtv.net/1286.m3u8
 #EXTINF:-1 group-title="AV2",#1287
 https://vod.mycamtv.net/1287.m3u8
-#EXTINF:-1 group-title="AV2",#1288
-https://vod.mycamtv.net/1288.m3u8
 #EXTINF:-1 group-title="AV2",#1289
 https://vod.mycamtv.net/1289.m3u8
-#EXTINF:-1 group-title="AV2",#1290
-https://vod.mycamtv.net/1290.m3u8
-#EXTINF:-1 group-title="AV2",#1291
-https://vod.mycamtv.net/1291.m3u8
 #EXTINF:-1 group-title="AV2",#1292
 https://vod.mycamtv.net/1292.m3u8
-#EXTINF:-1 group-title="AV2",#1293
-https://vod.mycamtv.net/1293.m3u8
 #EXTINF:-1 group-title="AV2",#1294
 https://vod.mycamtv.net/1294.m3u8
 #EXTINF:-1 group-title="AV2",#1295
@@ -2669,8 +2627,6 @@ https://vod.mycamtv.net/1333.m3u8
 https://vod.mycamtv.net/1334.m3u8
 #EXTINF:-1 group-title="AV2",#1335
 https://vod.mycamtv.net/1335.m3u8
-#EXTINF:-1 group-title="AV2",#1336
-https://vod.mycamtv.net/1336.m3u8
 #EXTINF:-1 group-title="AV2",#1337
 https://vod.mycamtv.net/1337.m3u8
 #EXTINF:-1 group-title="AV2",#1338
@@ -3315,8 +3271,6 @@ https://vod.mycamtv.net/1656.m3u8
 https://vod.mycamtv.net/1657.m3u8
 #EXTINF:-1 group-title="AV2",#1658
 https://vod.mycamtv.net/1658.m3u8
-#EXTINF:-1 group-title="AV2",#1659
-https://vod.mycamtv.net/1659.m3u8
 #EXTINF:-1 group-title="AV2",#1660
 https://vod.mycamtv.net/1660.m3u8
 #EXTINF:-1 group-title="AV2",#1661
@@ -3461,8 +3415,6 @@ https://vod.mycamtv.net/1729.m3u8
 https://vod.mycamtv.net/1730.m3u8
 #EXTINF:-1 group-title="AV2",#1731
 https://vod.mycamtv.net/1731.m3u8
-#EXTINF:-1 group-title="AV2",#1732
-https://vod.mycamtv.net/1732.m3u8
 #EXTINF:-1 group-title="AV2",#1733
 https://vod.mycamtv.net/1733.m3u8
 #EXTINF:-1 group-title="AV2",#1734
@@ -4037,28 +3989,14 @@ https://vod.mycamtv.net/2017.m3u8
 https://vod.mycamtv.net/2018.m3u8
 #EXTINF:-1 group-title="AV3",#2019
 https://vod.mycamtv.net/2019.m3u8
-#EXTINF:-1 group-title="AV3",#2020
-https://vod.mycamtv.net/2020.m3u8
-#EXTINF:-1 group-title="AV3",#2021
-https://vod.mycamtv.net/2021.m3u8
 #EXTINF:-1 group-title="AV3",#2022
 https://vod.mycamtv.net/2022.m3u8
 #EXTINF:-1 group-title="AV3",#2023
 https://vod.mycamtv.net/2023.m3u8
-#EXTINF:-1 group-title="AV3",#2024
-https://vod.mycamtv.net/2024.m3u8
 #EXTINF:-1 group-title="AV3",#2025
 https://vod.mycamtv.net/2025.m3u8
-#EXTINF:-1 group-title="AV3",#2026
-https://vod.mycamtv.net/2026.m3u8
-#EXTINF:-1 group-title="AV3",#2027
-https://vod.mycamtv.net/2027.m3u8
-#EXTINF:-1 group-title="AV3",#2028
-https://vod.mycamtv.net/2028.m3u8
 #EXTINF:-1 group-title="AV3",#2029
 https://vod.mycamtv.net/2029.m3u8
-#EXTINF:-1 group-title="AV3",#2030
-https://vod.mycamtv.net/2030.m3u8
 #EXTINF:-1 group-title="AV3",#2031
 https://vod.mycamtv.net/2031.m3u8
 #EXTINF:-1 group-title="AV3",#2032
@@ -4143,8 +4081,6 @@ https://vod.mycamtv.net/2070.m3u8
 https://vod.mycamtv.net/2071.m3u8
 #EXTINF:-1 group-title="AV3",#2072
 https://vod.mycamtv.net/2072.m3u8
-#EXTINF:-1 group-title="AV3",#2073
-https://vod.mycamtv.net/2073.m3u8
 #EXTINF:-1 group-title="AV3",#2074
 https://vod.mycamtv.net/2074.m3u8
 #EXTINF:-1 group-title="AV3",#2075
@@ -4813,10 +4749,6 @@ https://vod.mycamtv.net/2405.m3u8
 https://vod.mycamtv.net/2406.m3u8
 #EXTINF:-1 group-title="AV3",#2407
 https://vod.mycamtv.net/2407.m3u8
-#EXTINF:-1 group-title="AV3",#2408
-https://vod.mycamtv.net/2408.m3u8
-#EXTINF:-1 group-title="AV3",#2409
-https://vod.mycamtv.net/2409.m3u8
 #EXTINF:-1 group-title="AV3",#2410
 https://vod.mycamtv.net/2410.m3u8
 #EXTINF:-1 group-title="AV3",#2411
@@ -5561,34 +5493,16 @@ https://vod.mycamtv.net/2779.m3u8
 https://vod.mycamtv.net/2780.m3u8
 #EXTINF:-1 group-title="AV3",#2781
 https://vod.mycamtv.net/2781.m3u8
-#EXTINF:-1 group-title="AV3",#2782
-https://vod.mycamtv.net/2782.m3u8
-#EXTINF:-1 group-title="AV3",#2783
-https://vod.mycamtv.net/2783.m3u8
 #EXTINF:-1 group-title="AV3",#2784
 https://vod.mycamtv.net/2784.m3u8
 #EXTINF:-1 group-title="AV3",#2785
 https://vod.mycamtv.net/2785.m3u8
-#EXTINF:-1 group-title="AV3",#2786
-https://vod.mycamtv.net/2786.m3u8
-#EXTINF:-1 group-title="AV3",#2787
-https://vod.mycamtv.net/2787.m3u8
-#EXTINF:-1 group-title="AV3",#2788
-https://vod.mycamtv.net/2788.m3u8
-#EXTINF:-1 group-title="AV3",#2789
-https://vod.mycamtv.net/2789.m3u8
-#EXTINF:-1 group-title="AV3",#2790
-https://vod.mycamtv.net/2790.m3u8
-#EXTINF:-1 group-title="AV3",#2791
-https://vod.mycamtv.net/2791.m3u8
 #EXTINF:-1 group-title="AV3",#2792
 https://vod.mycamtv.net/2792.m3u8
 #EXTINF:-1 group-title="AV3",#2793
 https://vod.mycamtv.net/2793.m3u8
 #EXTINF:-1 group-title="AV3",#2794
 https://vod.mycamtv.net/2794.m3u8
-#EXTINF:-1 group-title="AV3",#2795
-https://vod.mycamtv.net/2795.m3u8
 #EXTINF:-1 group-title="AV3",#2796
 https://vod.mycamtv.net/2796.m3u8
 #EXTINF:-1 group-title="AV3",#2797
@@ -5667,8 +5581,6 @@ https://vod.mycamtv.net/2832.m3u8
 https://vod.mycamtv.net/2833.m3u8
 #EXTINF:-1 group-title="AV3",#2834
 https://vod.mycamtv.net/2834.m3u8
-#EXTINF:-1 group-title="AV3",#2835
-https://vod.mycamtv.net/2835.m3u8
 #EXTINF:-1 group-title="AV3",#2836
 https://vod.mycamtv.net/2836.m3u8
 #EXTINF:-1 group-title="AV3",#2837
@@ -6321,8 +6233,6 @@ https://vod.mycamtv.net/3159.m3u8
 https://vod.mycamtv.net/3160.m3u8
 #EXTINF:-1 group-title="AV4",#3161
 https://vod.mycamtv.net/3161.m3u8
-#EXTINF:-1 group-title="AV4",#3162
-https://vod.mycamtv.net/3162.m3u8
 #EXTINF:-1 group-title="AV4",#3163
 https://vod.mycamtv.net/3163.m3u8
 #EXTINF:-1 group-title="AV4",#3164
@@ -6403,8 +6313,6 @@ https://vod.mycamtv.net/3200.m3u8
 https://vod.mycamtv.net/3201.m3u8
 #EXTINF:-1 group-title="AV4",#3202
 https://vod.mycamtv.net/3202.m3u8
-#EXTINF:-1 group-title="AV4",#3203
-https://vod.mycamtv.net/3203.m3u8
 #EXTINF:-1 group-title="AV4",#3204
 https://vod.mycamtv.net/3204.m3u8
 #EXTINF:-1 group-title="AV4",#3205
@@ -6459,8 +6367,6 @@ https://vod.mycamtv.net/3228.m3u8
 https://vod.mycamtv.net/3229.m3u8
 #EXTINF:-1 group-title="AV4",#3230
 https://vod.mycamtv.net/3230.m3u8
-#EXTINF:-1 group-title="AV4",#3231
-https://vod.mycamtv.net/3231.m3u8
 #EXTINF:-1 group-title="AV4",#3232
 https://vod.mycamtv.net/3232.m3u8
 #EXTINF:-1 group-title="AV4",#3233
@@ -6999,30 +6905,12 @@ https://vod.mycamtv.net/3498.m3u8
 https://vod.mycamtv.net/3499.m3u8
 #EXTINF:-1 group-title="AV4",#3500
 https://vod.mycamtv.net/3500.m3u8
-#EXTINF:-1 group-title="AV4",#3501
-https://vod.mycamtv.net/3501.m3u8
-#EXTINF:-1 group-title="AV4",#3502
-https://vod.mycamtv.net/3502.m3u8
 #EXTINF:-1 group-title="AV4",#3503
 https://vod.mycamtv.net/3503.m3u8
-#EXTINF:-1 group-title="AV4",#3504
-https://vod.mycamtv.net/3504.m3u8
-#EXTINF:-1 group-title="AV4",#3505
-https://vod.mycamtv.net/3505.m3u8
 #EXTINF:-1 group-title="AV4",#3506
 https://vod.mycamtv.net/3506.m3u8
-#EXTINF:-1 group-title="AV4",#3507
-https://vod.mycamtv.net/3507.m3u8
 #EXTINF:-1 group-title="AV4",#3508
 https://vod.mycamtv.net/3508.m3u8
-#EXTINF:-1 group-title="AV4",#3509
-https://vod.mycamtv.net/3509.m3u8
-#EXTINF:-1 group-title="AV4",#3510
-https://vod.mycamtv.net/3510.m3u8
-#EXTINF:-1 group-title="AV4",#3511
-https://vod.mycamtv.net/3511.m3u8
-#EXTINF:-1 group-title="AV4",#3512
-https://vod.mycamtv.net/3512.m3u8
 #EXTINF:-1 group-title="AV4",#3513
 https://vod.mycamtv.net/3513.m3u8
 #EXTINF:-1 group-title="AV4",#3514
@@ -7111,8 +6999,6 @@ https://vod.mycamtv.net/3554.m3u8
 https://vod.mycamtv.net/3555.m3u8
 #EXTINF:-1 group-title="AV4",#3556
 https://vod.mycamtv.net/3556.m3u8
-#EXTINF:-1 group-title="AV4",#3557
-https://vod.mycamtv.net/3557.m3u8
 #EXTINF:-1 group-title="AV4",#3558
 https://vod.mycamtv.net/3558.m3u8
 #EXTINF:-1 group-title="AV4",#3559
@@ -7817,8 +7703,6 @@ https://vod.mycamtv.net/3907.m3u8
 https://vod.mycamtv.net/3908.m3u8
 #EXTINF:-1 group-title="AV4",#3909
 https://vod.mycamtv.net/3909.m3u8
-#EXTINF:-1 group-title="AV4",#3910
-https://vod.mycamtv.net/3910.m3u8
 #EXTINF:-1 group-title="AV4",#3911
 https://vod.mycamtv.net/3911.m3u8
 #EXTINF:-1 group-title="AV4",#3912
@@ -8469,30 +8353,14 @@ https://vod.mycamtv.net/4233.m3u8
 https://vod.mycamtv.net/4234.m3u8
 #EXTINF:-1 group-title="AV5",#4235
 https://vod.mycamtv.net/4235.m3u8
-#EXTINF:-1 group-title="AV5",#4236
-https://vod.mycamtv.net/4236.m3u8
-#EXTINF:-1 group-title="AV5",#4237
-https://vod.mycamtv.net/4237.m3u8
 #EXTINF:-1 group-title="AV5",#4238
 https://vod.mycamtv.net/4238.m3u8
 #EXTINF:-1 group-title="AV5",#4239
 https://vod.mycamtv.net/4239.m3u8
 #EXTINF:-1 group-title="AV5",#4240
 https://vod.mycamtv.net/4240.m3u8
-#EXTINF:-1 group-title="AV5",#4241
-https://vod.mycamtv.net/4241.m3u8
-#EXTINF:-1 group-title="AV5",#4242
-https://vod.mycamtv.net/4242.m3u8
 #EXTINF:-1 group-title="AV5",#4243
 https://vod.mycamtv.net/4243.m3u8
-#EXTINF:-1 group-title="AV5",#4244
-https://vod.mycamtv.net/4244.m3u8
-#EXTINF:-1 group-title="AV5",#4245
-https://vod.mycamtv.net/4245.m3u8
-#EXTINF:-1 group-title="AV5",#4246
-https://vod.mycamtv.net/4246.m3u8
-#EXTINF:-1 group-title="AV5",#4247
-https://vod.mycamtv.net/4247.m3u8
 #EXTINF:-1 group-title="AV5",#4248
 https://vod.mycamtv.net/4248.m3u8
 #EXTINF:-1 group-title="AV5",#4249
@@ -8571,8 +8439,6 @@ https://vod.mycamtv.net/4284.m3u8
 https://vod.mycamtv.net/4285.m3u8
 #EXTINF:-1 group-title="AV5",#4286
 https://vod.mycamtv.net/4286.m3u8
-#EXTINF:-1 group-title="AV5",#4287
-https://vod.mycamtv.net/4287.m3u8
 #EXTINF:-1 group-title="AV5",#4288
 https://vod.mycamtv.net/4288.m3u8
 #EXTINF:-1 group-title="AV5",#4289
@@ -9173,10 +9039,6 @@ https://vod.mycamtv.net/4585.m3u8
 https://vod.mycamtv.net/4586.m3u8
 #EXTINF:-1 group-title="AV5",#4587
 https://vod.mycamtv.net/4587.m3u8
-#EXTINF:-1 group-title="AV5",#4588
-https://vod.mycamtv.net/4588.m3u8
-#EXTINF:-1 group-title="AV5",#4589
-https://vod.mycamtv.net/4589.m3u8
 #EXTINF:-1 group-title="AV5",#4590
 https://vod.mycamtv.net/4590.m3u8
 #EXTINF:-1 group-title="AV5",#4591
@@ -9873,30 +9735,12 @@ https://vod.mycamtv.net/4935.m3u8
 https://vod.mycamtv.net/4936.m3u8
 #EXTINF:-1 group-title="AV5",#4937
 https://vod.mycamtv.net/4937.m3u8
-#EXTINF:-1 group-title="AV5",#4938
-https://vod.mycamtv.net/4938.m3u8
-#EXTINF:-1 group-title="AV5",#4939
-https://vod.mycamtv.net/4939.m3u8
 #EXTINF:-1 group-title="AV5",#4940
 https://vod.mycamtv.net/4940.m3u8
-#EXTINF:-1 group-title="AV5",#4941
-https://vod.mycamtv.net/4941.m3u8
-#EXTINF:-1 group-title="AV5",#4942
-https://vod.mycamtv.net/4942.m3u8
 #EXTINF:-1 group-title="AV5",#4943
 https://vod.mycamtv.net/4943.m3u8
-#EXTINF:-1 group-title="AV5",#4944
-https://vod.mycamtv.net/4944.m3u8
-#EXTINF:-1 group-title="AV5",#4945
-https://vod.mycamtv.net/4945.m3u8
 #EXTINF:-1 group-title="AV5",#4946
 https://vod.mycamtv.net/4946.m3u8
-#EXTINF:-1 group-title="AV5",#4947
-https://vod.mycamtv.net/4947.m3u8
-#EXTINF:-1 group-title="AV5",#4948
-https://vod.mycamtv.net/4948.m3u8
-#EXTINF:-1 group-title="AV5",#4949
-https://vod.mycamtv.net/4949.m3u8
 #EXTINF:-1 group-title="AV5",#4950
 https://vod.mycamtv.net/4950.m3u8
 #EXTINF:-1 group-title="AV5",#4951
@@ -9971,8 +9815,6 @@ https://vod.mycamtv.net/4984.m3u8
 https://vod.mycamtv.net/4985.m3u8
 #EXTINF:-1 group-title="AV5",#4986
 https://vod.mycamtv.net/4986.m3u8
-#EXTINF:-1 group-title="AV5",#4987
-https://vod.mycamtv.net/4987.m3u8
 #EXTINF:-1 group-title="AV5",#4988
 https://vod.mycamtv.net/4988.m3u8
 #EXTINF:-1 group-title="AV5",#4989
@@ -10719,8 +10561,6 @@ https://vod.mycamtv.net/5358.m3u8
 https://vod.mycamtv.net/5359.m3u8
 #EXTINF:-1 group-title="AV6",#5360
 https://vod.mycamtv.net/5360.m3u8
-#EXTINF:-1 group-title="AV6",#5361
-https://vod.mycamtv.net/5361.m3u8
 #EXTINF:-1 group-title="AV6",#5362
 https://vod.mycamtv.net/5362.m3u8
 #EXTINF:-1 group-title="AV6",#5363
@@ -10871,8 +10711,6 @@ https://vod.mycamtv.net/5434.m3u8
 https://vod.mycamtv.net/5435.m3u8
 #EXTINF:-1 group-title="AV6",#5436
 https://vod.mycamtv.net/5436.m3u8
-#EXTINF:-1 group-title="AV6",#5437
-https://vod.mycamtv.net/5437.m3u8
 #EXTINF:-1 group-title="AV6",#5438
 https://vod.mycamtv.net/5438.m3u8
 #EXTINF:-1 group-title="AV6",#5439
@@ -11463,30 +11301,12 @@ https://vod.mycamtv.net/5730.m3u8
 https://vod.mycamtv.net/5731.m3u8
 #EXTINF:-1 group-title="AV6",#5732
 https://vod.mycamtv.net/5732.m3u8
-#EXTINF:-1 group-title="AV6",#5733
-https://vod.mycamtv.net/5733.m3u8
-#EXTINF:-1 group-title="AV6",#5734
-https://vod.mycamtv.net/5734.m3u8
 #EXTINF:-1 group-title="AV6",#5735
 https://vod.mycamtv.net/5735.m3u8
-#EXTINF:-1 group-title="AV6",#5736
-https://vod.mycamtv.net/5736.m3u8
 #EXTINF:-1 group-title="AV6",#5737
 https://vod.mycamtv.net/5737.m3u8
-#EXTINF:-1 group-title="AV6",#5738
-https://vod.mycamtv.net/5738.m3u8
-#EXTINF:-1 group-title="AV6",#5739
-https://vod.mycamtv.net/5739.m3u8
-#EXTINF:-1 group-title="AV6",#5740
-https://vod.mycamtv.net/5740.m3u8
-#EXTINF:-1 group-title="AV6",#5741
-https://vod.mycamtv.net/5741.m3u8
-#EXTINF:-1 group-title="AV6",#5742
-https://vod.mycamtv.net/5742.m3u8
 #EXTINF:-1 group-title="AV6",#5743
 https://vod.mycamtv.net/5743.m3u8
-#EXTINF:-1 group-title="AV6",#5744
-https://vod.mycamtv.net/5744.m3u8
 #EXTINF:-1 group-title="AV6",#5745
 https://vod.mycamtv.net/5745.m3u8
 #EXTINF:-1 group-title="AV6",#5746
@@ -12171,8 +11991,6 @@ https://vod.mycamtv.net/6084.m3u8
 https://vod.mycamtv.net/6085.m3u8
 #EXTINF:-1 group-title="AV7",#6086
 https://vod.mycamtv.net/6086.m3u8
-#EXTINF:-1 group-title="AV7",#6087
-https://vod.mycamtv.net/6087.m3u8
 #EXTINF:-1 group-title="AV7",#6088
 https://vod.mycamtv.net/6088.m3u8
 #EXTINF:-1 group-title="AV7",#6089
@@ -12327,8 +12145,6 @@ https://vod.mycamtv.net/6162.m3u8
 https://vod.mycamtv.net/6163.m3u8
 #EXTINF:-1 group-title="AV7",#6164
 https://vod.mycamtv.net/6164.m3u8
-#EXTINF:-1 group-title="AV7",#6165
-https://vod.mycamtv.net/6165.m3u8
 #EXTINF:-1 group-title="AV7",#6166
 https://vod.mycamtv.net/6166.m3u8
 #EXTINF:-1 group-title="AV7",#6167
@@ -12887,32 +12703,14 @@ https://vod.mycamtv.net/6442.m3u8
 https://vod.mycamtv.net/6443.m3u8
 #EXTINF:-1 group-title="AV7",#6444
 https://vod.mycamtv.net/6444.m3u8
-#EXTINF:-1 group-title="AV7",#6445
-https://vod.mycamtv.net/6445.m3u8
-#EXTINF:-1 group-title="AV7",#6446
-https://vod.mycamtv.net/6446.m3u8
-#EXTINF:-1 group-title="AV7",#6447
-https://vod.mycamtv.net/6447.m3u8
 #EXTINF:-1 group-title="AV7",#6448
 https://vod.mycamtv.net/6448.m3u8
 #EXTINF:-1 group-title="AV7",#6449
 https://vod.mycamtv.net/6449.m3u8
 #EXTINF:-1 group-title="AV7",#6450
 https://vod.mycamtv.net/6450.m3u8
-#EXTINF:-1 group-title="AV7",#6451
-https://vod.mycamtv.net/6451.m3u8
-#EXTINF:-1 group-title="AV7",#6452
-https://vod.mycamtv.net/6452.m3u8
-#EXTINF:-1 group-title="AV7",#6453
-https://vod.mycamtv.net/6453.m3u8
-#EXTINF:-1 group-title="AV7",#6454
-https://vod.mycamtv.net/6454.m3u8
-#EXTINF:-1 group-title="AV7",#6455
-https://vod.mycamtv.net/6455.m3u8
 #EXTINF:-1 group-title="AV7",#6456
 https://vod.mycamtv.net/6456.m3u8
-#EXTINF:-1 group-title="AV7",#6457
-https://vod.mycamtv.net/6457.m3u8
 #EXTINF:-1 group-title="AV7",#6458
 https://vod.mycamtv.net/6458.m3u8
 #EXTINF:-1 group-title="AV7",#6459
@@ -13659,8 +13457,6 @@ https://vod.mycamtv.net/6828.m3u8
 https://vod.mycamtv.net/6829.m3u8
 #EXTINF:-1 group-title="AV7",#6830
 https://vod.mycamtv.net/6830.m3u8
-#EXTINF:-1 group-title="AV7",#6831
-https://vod.mycamtv.net/6831.m3u8
 #EXTINF:-1 group-title="AV7",#6832
 https://vod.mycamtv.net/6832.m3u8
 #EXTINF:-1 group-title="AV7",#6833
@@ -13811,8 +13607,6 @@ https://vod.mycamtv.net/6904.m3u8
 https://vod.mycamtv.net/6905.m3u8
 #EXTINF:-1 group-title="AV7",#6906
 https://vod.mycamtv.net/6906.m3u8
-#EXTINF:-1 group-title="AV7",#6907
-https://vod.mycamtv.net/6907.m3u8
 #EXTINF:-1 group-title="AV7",#6908
 https://vod.mycamtv.net/6908.m3u8
 #EXTINF:-1 group-title="AV7",#6909
@@ -14467,12 +14261,8 @@ https://vod.mycamtv.net/7232.m3u8
 https://vod.mycamtv.net/7233.m3u8
 #EXTINF:-1 group-title="AV8",#7234
 https://vod.mycamtv.net/7234.m3u8
-#EXTINF:-1 group-title="AV8",#7235
-https://vod.mycamtv.net/7235.m3u8
 #EXTINF:-1 group-title="AV8",#7236
 https://vod.mycamtv.net/7236.m3u8
-#EXTINF:-1 group-title="AV8",#7237
-https://vod.mycamtv.net/7237.m3u8
 #EXTINF:-1 group-title="AV8",#7238
 https://vod.mycamtv.net/7238.m3u8
 #EXTINF:-1 group-title="AV8",#7239
@@ -14483,10 +14273,6 @@ https://vod.mycamtv.net/7240.m3u8
 https://vod.mycamtv.net/7241.m3u8
 #EXTINF:-1 group-title="AV8",#7242
 https://vod.mycamtv.net/7242.m3u8
-#EXTINF:-1 group-title="AV8",#7243
-https://vod.mycamtv.net/7243.m3u8
-#EXTINF:-1 group-title="AV8",#7244
-https://vod.mycamtv.net/7244.m3u8
 #EXTINF:-1 group-title="AV8",#7245
 https://vod.mycamtv.net/7245.m3u8
 #EXTINF:-1 group-title="AV8",#7246
@@ -14495,14 +14281,10 @@ https://vod.mycamtv.net/7246.m3u8
 https://vod.mycamtv.net/7247.m3u8
 #EXTINF:-1 group-title="AV8",#7248
 https://vod.mycamtv.net/7248.m3u8
-#EXTINF:-1 group-title="AV8",#7249
-https://vod.mycamtv.net/7249.m3u8
 #EXTINF:-1 group-title="AV8",#7250
 https://vod.mycamtv.net/7250.m3u8
 #EXTINF:-1 group-title="AV8",#7251
 https://vod.mycamtv.net/7251.m3u8
-#EXTINF:-1 group-title="AV8",#7252
-https://vod.mycamtv.net/7252.m3u8
 #EXTINF:-1 group-title="AV8",#7253
 https://vod.mycamtv.net/7253.m3u8
 #EXTINF:-1 group-title="AV8",#7254
@@ -14579,8 +14361,6 @@ https://vod.mycamtv.net/7288.m3u8
 https://vod.mycamtv.net/7289.m3u8
 #EXTINF:-1 group-title="AV8",#7290
 https://vod.mycamtv.net/7290.m3u8
-#EXTINF:-1 group-title="AV8",#7291
-https://vod.mycamtv.net/7291.m3u8
 #EXTINF:-1 group-title="AV8",#7292
 https://vod.mycamtv.net/7292.m3u8
 #EXTINF:-1 group-title="AV8",#7293
@@ -15149,8 +14929,6 @@ https://vod.mycamtv.net/7573.m3u8
 https://vod.mycamtv.net/7574.m3u8
 #EXTINF:-1 group-title="AV8",#7575
 https://vod.mycamtv.net/7575.m3u8
-#EXTINF:-1 group-title="AV8",#7576
-https://vod.mycamtv.net/7576.m3u8
 #EXTINF:-1 group-title="AV8",#7577
 https://vod.mycamtv.net/7577.m3u8
 #EXTINF:-1 group-title="AV8",#7578
@@ -15297,8 +15075,6 @@ https://vod.mycamtv.net/7647.m3u8
 https://vod.mycamtv.net/7648.m3u8
 #EXTINF:-1 group-title="AV8",#7649
 https://vod.mycamtv.net/7649.m3u8
-#EXTINF:-1 group-title="AV8",#7650
-https://vod.mycamtv.net/7650.m3u8
 #EXTINF:-1 group-title="AV8",#7651
 https://vod.mycamtv.net/7651.m3u8
 #EXTINF:-1 group-title="AV8",#7652
@@ -15853,30 +15629,12 @@ https://vod.mycamtv.net/7925.m3u8
 https://vod.mycamtv.net/7926.m3u8
 #EXTINF:-1 group-title="AV8",#7927
 https://vod.mycamtv.net/7927.m3u8
-#EXTINF:-1 group-title="AV8",#7928
-https://vod.mycamtv.net/7928.m3u8
-#EXTINF:-1 group-title="AV8",#7929
-https://vod.mycamtv.net/7929.m3u8
-#EXTINF:-1 group-title="AV8",#7930
-https://vod.mycamtv.net/7930.m3u8
 #EXTINF:-1 group-title="AV8",#7931
 https://vod.mycamtv.net/7931.m3u8
-#EXTINF:-1 group-title="AV8",#7932
-https://vod.mycamtv.net/7932.m3u8
-#EXTINF:-1 group-title="AV8",#7933
-https://vod.mycamtv.net/7933.m3u8
-#EXTINF:-1 group-title="AV8",#7934
-https://vod.mycamtv.net/7934.m3u8
 #EXTINF:-1 group-title="AV8",#7935
 https://vod.mycamtv.net/7935.m3u8
-#EXTINF:-1 group-title="AV8",#7936
-https://vod.mycamtv.net/7936.m3u8
-#EXTINF:-1 group-title="AV8",#7937
-https://vod.mycamtv.net/7937.m3u8
 #EXTINF:-1 group-title="AV8",#7938
 https://vod.mycamtv.net/7938.m3u8
-#EXTINF:-1 group-title="AV8",#7939
-https://vod.mycamtv.net/7939.m3u8
 #EXTINF:-1 group-title="AV8",#7940
 https://vod.mycamtv.net/7940.m3u8
 #EXTINF:-1 group-title="AV8",#7941
@@ -15951,8 +15709,6 @@ https://vod.mycamtv.net/7974.m3u8
 https://vod.mycamtv.net/7975.m3u8
 #EXTINF:-1 group-title="AV8",#7976
 https://vod.mycamtv.net/7976.m3u8
-#EXTINF:-1 group-title="AV8",#7977
-https://vod.mycamtv.net/7977.m3u8
 #EXTINF:-1 group-title="AV8",#7978
 https://vod.mycamtv.net/7978.m3u8
 #EXTINF:-1 group-title="AV8",#7979
@@ -16641,8 +16397,6 @@ https://vod.mycamtv.net/8319.m3u8
 https://vod.mycamtv.net/8320.m3u8
 #EXTINF:-1 group-title="AV9",#8321
 https://vod.mycamtv.net/8321.m3u8
-#EXTINF:-1 group-title="AV9",#8322
-https://vod.mycamtv.net/8322.m3u8
 #EXTINF:-1 group-title="AV9",#8323
 https://vod.mycamtv.net/8323.m3u8
 #EXTINF:-1 group-title="AV9",#8324
@@ -17349,28 +17103,14 @@ https://vod.mycamtv.net/8673.m3u8
 https://vod.mycamtv.net/8674.m3u8
 #EXTINF:-1 group-title="AV9",#8675
 https://vod.mycamtv.net/8675.m3u8
-#EXTINF:-1 group-title="AV9",#8676
-https://vod.mycamtv.net/8676.m3u8
 #EXTINF:-1 group-title="AV9",#8677
 https://vod.mycamtv.net/8677.m3u8
-#EXTINF:-1 group-title="AV9",#8678
-https://vod.mycamtv.net/8678.m3u8
 #EXTINF:-1 group-title="AV9",#8679
 https://vod.mycamtv.net/8679.m3u8
 #EXTINF:-1 group-title="AV9",#8680
 https://vod.mycamtv.net/8680.m3u8
 #EXTINF:-1 group-title="AV9",#8681
 https://vod.mycamtv.net/8681.m3u8
-#EXTINF:-1 group-title="AV9",#8682
-https://vod.mycamtv.net/8682.m3u8
-#EXTINF:-1 group-title="AV9",#8683
-https://vod.mycamtv.net/8683.m3u8
-#EXTINF:-1 group-title="AV9",#8684
-https://vod.mycamtv.net/8684.m3u8
-#EXTINF:-1 group-title="AV9",#8685
-https://vod.mycamtv.net/8685.m3u8
-#EXTINF:-1 group-title="AV9",#8686
-https://vod.mycamtv.net/8686.m3u8
 #EXTINF:-1 group-title="AV9",#8687
 https://vod.mycamtv.net/8687.m3u8
 #EXTINF:-1 group-title="AV9",#8688
@@ -17463,8 +17203,6 @@ https://vod.mycamtv.net/8730.m3u8
 https://vod.mycamtv.net/8731.m3u8
 #EXTINF:-1 group-title="AV9",#8732
 https://vod.mycamtv.net/8732.m3u8
-#EXTINF:-1 group-title="AV9",#8733
-https://vod.mycamtv.net/8733.m3u8
 #EXTINF:-1 group-title="AV9",#8734
 https://vod.mycamtv.net/8734.m3u8
 #EXTINF:-1 group-title="AV9",#8735
@@ -18187,8 +17925,6 @@ https://vod.mycamtv.net/9092.m3u8
 https://vod.mycamtv.net/9093.m3u8
 #EXTINF:-1 group-title="AV10",#9094
 https://vod.mycamtv.net/9094.m3u8
-#EXTINF:-1 group-title="AV10",#9095
-https://vod.mycamtv.net/9095.m3u8
 #EXTINF:-1 group-title="AV10",#9096
 https://vod.mycamtv.net/9096.m3u8
 #EXTINF:-1 group-title="AV10",#9097
@@ -18327,8 +18063,6 @@ https://vod.mycamtv.net/9162.m3u8
 https://vod.mycamtv.net/9163.m3u8
 #EXTINF:-1 group-title="AV10",#9164
 https://vod.mycamtv.net/9164.m3u8
-#EXTINF:-1 group-title="AV10",#9165
-https://vod.mycamtv.net/9165.m3u8
 #EXTINF:-1 group-title="AV10",#9166
 https://vod.mycamtv.net/9166.m3u8
 #EXTINF:-1 group-title="AV10",#9167
@@ -18899,30 +18633,12 @@ https://vod.mycamtv.net/9448.m3u8
 https://vod.mycamtv.net/9449.m3u8
 #EXTINF:-1 group-title="AV10",#9450
 https://vod.mycamtv.net/9450.m3u8
-#EXTINF:-1 group-title="AV10",#9451
-https://vod.mycamtv.net/9451.m3u8
-#EXTINF:-1 group-title="AV10",#9452
-https://vod.mycamtv.net/9452.m3u8
 #EXTINF:-1 group-title="AV10",#9453
 https://vod.mycamtv.net/9453.m3u8
-#EXTINF:-1 group-title="AV10",#9454
-https://vod.mycamtv.net/9454.m3u8
-#EXTINF:-1 group-title="AV10",#9455
-https://vod.mycamtv.net/9455.m3u8
 #EXTINF:-1 group-title="AV10",#9456
 https://vod.mycamtv.net/9456.m3u8
-#EXTINF:-1 group-title="AV10",#9457
-https://vod.mycamtv.net/9457.m3u8
-#EXTINF:-1 group-title="AV10",#9458
-https://vod.mycamtv.net/9458.m3u8
-#EXTINF:-1 group-title="AV10",#9459
-https://vod.mycamtv.net/9459.m3u8
-#EXTINF:-1 group-title="AV10",#9460
-https://vod.mycamtv.net/9460.m3u8
 #EXTINF:-1 group-title="AV10",#9461
 https://vod.mycamtv.net/9461.m3u8
-#EXTINF:-1 group-title="AV10",#9462
-https://vod.mycamtv.net/9462.m3u8
 #EXTINF:-1 group-title="AV10",#9463
 https://vod.mycamtv.net/9463.m3u8
 #EXTINF:-1 group-title="AV10",#9464
@@ -18985,8 +18701,6 @@ https://vod.mycamtv.net/9491.m3u8
 https://vod.mycamtv.net/9492.m3u8
 #EXTINF:-1 group-title="AV10",#9493
 https://vod.mycamtv.net/9493.m3u8
-#EXTINF:-1 group-title="AV10",#9494
-https://vod.mycamtv.net/9494.m3u8
 #EXTINF:-1 group-title="AV10",#9495
 https://vod.mycamtv.net/9495.m3u8
 #EXTINF:-1 group-title="AV10",#9496
@@ -19601,8 +19315,6 @@ https://vod.mycamtv.net/9799.m3u8
 https://vod.mycamtv.net/9800.m3u8
 #EXTINF:-1 group-title="AV10",#9801
 https://vod.mycamtv.net/9801.m3u8
-#EXTINF:-1 group-title="AV10",#9802
-https://vod.mycamtv.net/9802.m3u8
 #EXTINF:-1 group-title="AV10",#9803
 https://vod.mycamtv.net/9803.m3u8
 #EXTINF:-1 group-title="AV10",#9804
@@ -20273,28 +19985,12 @@ https://vod.mycamtv.net/10135.m3u8
 https://vod.mycamtv.net/10136.m3u8
 #EXTINF:-1 group-title="AV11",#10137
 https://vod.mycamtv.net/10137.m3u8
-#EXTINF:-1 group-title="AV11",#10138
-https://vod.mycamtv.net/10138.m3u8
 #EXTINF:-1 group-title="AV11",#10139
 https://vod.mycamtv.net/10139.m3u8
-#EXTINF:-1 group-title="AV11",#10140
-https://vod.mycamtv.net/10140.m3u8
 #EXTINF:-1 group-title="AV11",#10141
 https://vod.mycamtv.net/10141.m3u8
-#EXTINF:-1 group-title="AV11",#10142
-https://vod.mycamtv.net/10142.m3u8
-#EXTINF:-1 group-title="AV11",#10143
-https://vod.mycamtv.net/10143.m3u8
-#EXTINF:-1 group-title="AV11",#10144
-https://vod.mycamtv.net/10144.m3u8
-#EXTINF:-1 group-title="AV11",#10145
-https://vod.mycamtv.net/10145.m3u8
-#EXTINF:-1 group-title="AV11",#10146
-https://vod.mycamtv.net/10146.m3u8
 #EXTINF:-1 group-title="AV11",#10147
 https://vod.mycamtv.net/10147.m3u8
-#EXTINF:-1 group-title="AV11",#10148
-https://vod.mycamtv.net/10148.m3u8
 #EXTINF:-1 group-title="AV11",#10149
 https://vod.mycamtv.net/10149.m3u8
 #EXTINF:-1 group-title="AV11",#10150
@@ -20367,8 +20063,6 @@ https://vod.mycamtv.net/10182.m3u8
 https://vod.mycamtv.net/10183.m3u8
 #EXTINF:-1 group-title="AV11",#10184
 https://vod.mycamtv.net/10184.m3u8
-#EXTINF:-1 group-title="AV11",#10185
-https://vod.mycamtv.net/10185.m3u8
 #EXTINF:-1 group-title="AV11",#10186
 https://vod.mycamtv.net/10186.m3u8
 #EXTINF:-1 group-title="AV11",#10187
@@ -21113,8 +20807,6 @@ https://vod.mycamtv.net/10555.m3u8
 https://vod.mycamtv.net/10556.m3u8
 #EXTINF:-1 group-title="AV11",#10557
 https://vod.mycamtv.net/10557.m3u8
-#EXTINF:-1 group-title="AV11",#10558
-https://vod.mycamtv.net/10558.m3u8
 #EXTINF:-1 group-title="AV11",#10559
 https://vod.mycamtv.net/10559.m3u8
 #EXTINF:-1 group-title="AV11",#10560
@@ -21843,12 +21535,8 @@ https://vod.mycamtv.net/10920.m3u8
 https://vod.mycamtv.net/10921.m3u8
 #EXTINF:-1 group-title="AV11",#10922
 https://vod.mycamtv.net/10922.m3u8
-#EXTINF:-1 group-title="AV11",#10923
-https://vod.mycamtv.net/10923.m3u8
 #EXTINF:-1 group-title="AV11",#10924
 https://vod.mycamtv.net/10924.m3u8
-#EXTINF:-1 group-title="AV11",#10925
-https://vod.mycamtv.net/10925.m3u8
 #EXTINF:-1 group-title="AV11",#10926
 https://vod.mycamtv.net/10926.m3u8
 #EXTINF:-1 group-title="AV11",#10927
@@ -21857,22 +21545,12 @@ https://vod.mycamtv.net/10927.m3u8
 https://vod.mycamtv.net/10928.m3u8
 #EXTINF:-1 group-title="AV11",#10929
 https://vod.mycamtv.net/10929.m3u8
-#EXTINF:-1 group-title="AV11",#10930
-https://vod.mycamtv.net/10930.m3u8
 #EXTINF:-1 group-title="AV11",#10931
 https://vod.mycamtv.net/10931.m3u8
 #EXTINF:-1 group-title="AV11",#10932
 https://vod.mycamtv.net/10932.m3u8
-#EXTINF:-1 group-title="AV11",#10933
-https://vod.mycamtv.net/10933.m3u8
-#EXTINF:-1 group-title="AV11",#10934
-https://vod.mycamtv.net/10934.m3u8
-#EXTINF:-1 group-title="AV11",#10935
-https://vod.mycamtv.net/10935.m3u8
 #EXTINF:-1 group-title="AV11",#10936
 https://vod.mycamtv.net/10936.m3u8
-#EXTINF:-1 group-title="AV11",#10937
-https://vod.mycamtv.net/10937.m3u8
 #EXTINF:-1 group-title="AV11",#10938
 https://vod.mycamtv.net/10938.m3u8
 #EXTINF:-1 group-title="AV11",#10939
@@ -21965,8 +21643,6 @@ https://vod.mycamtv.net/10981.m3u8
 https://vod.mycamtv.net/10982.m3u8
 #EXTINF:-1 group-title="AV11",#10983
 https://vod.mycamtv.net/10983.m3u8
-#EXTINF:-1 group-title="AV11",#10984
-https://vod.mycamtv.net/10984.m3u8
 #EXTINF:-1 group-title="AV11",#10985
 https://vod.mycamtv.net/10985.m3u8
 #EXTINF:-1 group-title="AV11",#10986
@@ -22577,8 +22253,6 @@ https://vod.mycamtv.net/11287.m3u8
 https://vod.mycamtv.net/11288.m3u8
 #EXTINF:-1 group-title="AV12",#11289
 https://vod.mycamtv.net/11289.m3u8
-#EXTINF:-1 group-title="AV12",#11290
-https://vod.mycamtv.net/11290.m3u8
 #EXTINF:-1 group-title="AV12",#11291
 https://vod.mycamtv.net/11291.m3u8
 #EXTINF:-1 group-title="AV12",#11292
@@ -23353,34 +23027,16 @@ https://vod.mycamtv.net/11675.m3u8
 https://vod.mycamtv.net/11676.m3u8
 #EXTINF:-1 group-title="AV12",#11677
 https://vod.mycamtv.net/11677.m3u8
-#EXTINF:-1 group-title="AV12",#11678
-https://vod.mycamtv.net/11678.m3u8
-#EXTINF:-1 group-title="AV12",#11679
-https://vod.mycamtv.net/11679.m3u8
 #EXTINF:-1 group-title="AV12",#11680
 https://vod.mycamtv.net/11680.m3u8
 #EXTINF:-1 group-title="AV12",#11681
 https://vod.mycamtv.net/11681.m3u8
 #EXTINF:-1 group-title="AV12",#11682
 https://vod.mycamtv.net/11682.m3u8
-#EXTINF:-1 group-title="AV12",#11683
-https://vod.mycamtv.net/11683.m3u8
-#EXTINF:-1 group-title="AV12",#11684
-https://vod.mycamtv.net/11684.m3u8
-#EXTINF:-1 group-title="AV12",#11685
-https://vod.mycamtv.net/11685.m3u8
-#EXTINF:-1 group-title="AV12",#11686
-https://vod.mycamtv.net/11686.m3u8
-#EXTINF:-1 group-title="AV12",#11687
-https://vod.mycamtv.net/11687.m3u8
-#EXTINF:-1 group-title="AV12",#11688
-https://vod.mycamtv.net/11688.m3u8
 #EXTINF:-1 group-title="AV12",#11689
 https://vod.mycamtv.net/11689.m3u8
 #EXTINF:-1 group-title="AV12",#11690
 https://vod.mycamtv.net/11690.m3u8
-#EXTINF:-1 group-title="AV12",#11691
-https://vod.mycamtv.net/11691.m3u8
 #EXTINF:-1 group-title="AV12",#11692
 https://vod.mycamtv.net/11692.m3u8
 #EXTINF:-1 group-title="AV12",#11693
@@ -23467,8 +23123,6 @@ https://vod.mycamtv.net/11732.m3u8
 https://vod.mycamtv.net/11733.m3u8
 #EXTINF:-1 group-title="AV12",#11734
 https://vod.mycamtv.net/11734.m3u8
-#EXTINF:-1 group-title="AV12",#11735
-https://vod.mycamtv.net/11735.m3u8
 #EXTINF:-1 group-title="AV12",#11736
 https://vod.mycamtv.net/11736.m3u8
 #EXTINF:-1 group-title="AV12",#11737
@@ -24087,10 +23741,6 @@ https://vod.mycamtv.net/12042.m3u8
 https://vod.mycamtv.net/12043.m3u8
 #EXTINF:-1 group-title="AV13",#12044
 https://vod.mycamtv.net/12044.m3u8
-#EXTINF:-1 group-title="AV13",#12045
-https://vod.mycamtv.net/12045.m3u8
-#EXTINF:-1 group-title="AV13",#12046
-https://vod.mycamtv.net/12046.m3u8
 #EXTINF:-1 group-title="AV13",#12047
 https://vod.mycamtv.net/12047.m3u8
 #EXTINF:-1 group-title="AV13",#12048
@@ -24829,10 +24479,6 @@ https://vod.mycamtv.net/12413.m3u8
 https://vod.mycamtv.net/12414.m3u8
 #EXTINF:-1 group-title="AV13",#12415
 https://vod.mycamtv.net/12415.m3u8
-#EXTINF:-1 group-title="AV13",#12416
-https://vod.mycamtv.net/12416.m3u8
-#EXTINF:-1 group-title="AV13",#12417
-https://vod.mycamtv.net/12417.m3u8
 #EXTINF:-1 group-title="AV13",#12418
 https://vod.mycamtv.net/12418.m3u8
 #EXTINF:-1 group-title="AV13",#12419
@@ -24841,26 +24487,12 @@ https://vod.mycamtv.net/12419.m3u8
 https://vod.mycamtv.net/12420.m3u8
 #EXTINF:-1 group-title="AV13",#12421
 https://vod.mycamtv.net/12421.m3u8
-#EXTINF:-1 group-title="AV13",#12422
-https://vod.mycamtv.net/12422.m3u8
 #EXTINF:-1 group-title="AV13",#12423
 https://vod.mycamtv.net/12423.m3u8
-#EXTINF:-1 group-title="AV13",#12424
-https://vod.mycamtv.net/12424.m3u8
-#EXTINF:-1 group-title="AV13",#12425
-https://vod.mycamtv.net/12425.m3u8
-#EXTINF:-1 group-title="AV13",#12426
-https://vod.mycamtv.net/12426.m3u8
-#EXTINF:-1 group-title="AV13",#12427
-https://vod.mycamtv.net/12427.m3u8
-#EXTINF:-1 group-title="AV13",#12428
-https://vod.mycamtv.net/12428.m3u8
 #EXTINF:-1 group-title="AV13",#12429
 https://vod.mycamtv.net/12429.m3u8
 #EXTINF:-1 group-title="AV13",#12430
 https://vod.mycamtv.net/12430.m3u8
-#EXTINF:-1 group-title="AV13",#12431
-https://vod.mycamtv.net/12431.m3u8
 #EXTINF:-1 group-title="AV13",#12432
 https://vod.mycamtv.net/12432.m3u8
 #EXTINF:-1 group-title="AV13",#12433
@@ -24961,8 +24593,6 @@ https://vod.mycamtv.net/12480.m3u8
 https://vod.mycamtv.net/12481.m3u8
 #EXTINF:-1 group-title="AV13",#12482
 https://vod.mycamtv.net/12482.m3u8
-#EXTINF:-1 group-title="AV13",#12483
-https://vod.mycamtv.net/12483.m3u8
 #EXTINF:-1 group-title="AV13",#12484
 https://vod.mycamtv.net/12484.m3u8
 #EXTINF:-1 group-title="AV13",#12485
@@ -25447,8 +25077,6 @@ https://vod.mycamtv.net/12723.m3u8
 https://vod.mycamtv.net/12724.m3u8
 #EXTINF:-1 group-title="AV13",#12725
 https://vod.mycamtv.net/12725.m3u8
-#EXTINF:-1 group-title="AV13",#12726
-https://vod.mycamtv.net/12726.m3u8
 #EXTINF:-1 group-title="AV13",#12727
 https://vod.mycamtv.net/12727.m3u8
 #EXTINF:-1 group-title="AV13",#12728
@@ -25529,10 +25157,6 @@ https://vod.mycamtv.net/12764.m3u8
 https://vod.mycamtv.net/12765.m3u8
 #EXTINF:-1 group-title="AV13",#12766
 https://vod.mycamtv.net/12766.m3u8
-#EXTINF:-1 group-title="AV13",#12767
-https://vod.mycamtv.net/12767.m3u8
-#EXTINF:-1 group-title="AV13",#12768
-https://vod.mycamtv.net/12768.m3u8
 #EXTINF:-1 group-title="AV13",#12769
 https://vod.mycamtv.net/12769.m3u8
 #EXTINF:-1 group-title="AV13",#12770
@@ -26249,36 +25873,16 @@ https://vod.mycamtv.net/13124.m3u8
 https://vod.mycamtv.net/13125.m3u8
 #EXTINF:-1 group-title="AV14",#13126
 https://vod.mycamtv.net/13126.m3u8
-#EXTINF:-1 group-title="AV14",#13127
-https://vod.mycamtv.net/13127.m3u8
-#EXTINF:-1 group-title="AV14",#13128
-https://vod.mycamtv.net/13128.m3u8
-#EXTINF:-1 group-title="AV14",#13129
-https://vod.mycamtv.net/13129.m3u8
 #EXTINF:-1 group-title="AV14",#13130
 https://vod.mycamtv.net/13130.m3u8
 #EXTINF:-1 group-title="AV14",#13131
 https://vod.mycamtv.net/13131.m3u8
-#EXTINF:-1 group-title="AV14",#13132
-https://vod.mycamtv.net/13132.m3u8
-#EXTINF:-1 group-title="AV14",#13133
-https://vod.mycamtv.net/13133.m3u8
-#EXTINF:-1 group-title="AV14",#13134
-https://vod.mycamtv.net/13134.m3u8
-#EXTINF:-1 group-title="AV14",#13135
-https://vod.mycamtv.net/13135.m3u8
 #EXTINF:-1 group-title="AV14",#13136
 https://vod.mycamtv.net/13136.m3u8
-#EXTINF:-1 group-title="AV14",#13137
-https://vod.mycamtv.net/13137.m3u8
-#EXTINF:-1 group-title="AV14",#13138
-https://vod.mycamtv.net/13138.m3u8
 #EXTINF:-1 group-title="AV14",#13139
 https://vod.mycamtv.net/13139.m3u8
 #EXTINF:-1 group-title="AV14",#13140
 https://vod.mycamtv.net/13140.m3u8
-#EXTINF:-1 group-title="AV14",#13141
-https://vod.mycamtv.net/13141.m3u8
 #EXTINF:-1 group-title="AV14",#13142
 https://vod.mycamtv.net/13142.m3u8
 #EXTINF:-1 group-title="AV14",#13143
@@ -26367,8 +25971,6 @@ https://vod.mycamtv.net/13183.m3u8
 https://vod.mycamtv.net/13184.m3u8
 #EXTINF:-1 group-title="AV14",#13185
 https://vod.mycamtv.net/13185.m3u8
-#EXTINF:-1 group-title="AV14",#13186
-https://vod.mycamtv.net/13186.m3u8
 #EXTINF:-1 group-title="AV14",#13187
 https://vod.mycamtv.net/13187.m3u8
 #EXTINF:-1 group-title="AV14",#13188
@@ -27051,10 +26653,6 @@ https://vod.mycamtv.net/13525.m3u8
 https://vod.mycamtv.net/13526.m3u8
 #EXTINF:-1 group-title="AV14",#13527
 https://vod.mycamtv.net/13527.m3u8
-#EXTINF:-1 group-title="AV14",#13528
-https://vod.mycamtv.net/13528.m3u8
-#EXTINF:-1 group-title="AV14",#13529
-https://vod.mycamtv.net/13529.m3u8
 #EXTINF:-1 group-title="AV14",#13530
 https://vod.mycamtv.net/13530.m3u8
 #EXTINF:-1 group-title="AV14",#13531
@@ -27727,34 +27325,18 @@ https://vod.mycamtv.net/13863.m3u8
 https://vod.mycamtv.net/13864.m3u8
 #EXTINF:-1 group-title="AV14",#13865
 https://vod.mycamtv.net/13865.m3u8
-#EXTINF:-1 group-title="AV14",#13866
-https://vod.mycamtv.net/13866.m3u8
 #EXTINF:-1 group-title="AV14",#13867
 https://vod.mycamtv.net/13867.m3u8
-#EXTINF:-1 group-title="AV14",#13868
-https://vod.mycamtv.net/13868.m3u8
 #EXTINF:-1 group-title="AV14",#13869
 https://vod.mycamtv.net/13869.m3u8
 #EXTINF:-1 group-title="AV14",#13870
 https://vod.mycamtv.net/13870.m3u8
 #EXTINF:-1 group-title="AV14",#13871
 https://vod.mycamtv.net/13871.m3u8
-#EXTINF:-1 group-title="AV14",#13872
-https://vod.mycamtv.net/13872.m3u8
-#EXTINF:-1 group-title="AV14",#13873
-https://vod.mycamtv.net/13873.m3u8
 #EXTINF:-1 group-title="AV14",#13874
 https://vod.mycamtv.net/13874.m3u8
 #EXTINF:-1 group-title="AV14",#13875
 https://vod.mycamtv.net/13875.m3u8
-#EXTINF:-1 group-title="AV14",#13876
-https://vod.mycamtv.net/13876.m3u8
-#EXTINF:-1 group-title="AV14",#13877
-https://vod.mycamtv.net/13877.m3u8
-#EXTINF:-1 group-title="AV14",#13878
-https://vod.mycamtv.net/13878.m3u8
-#EXTINF:-1 group-title="AV14",#13879
-https://vod.mycamtv.net/13879.m3u8
 #EXTINF:-1 group-title="AV14",#13880
 https://vod.mycamtv.net/13880.m3u8
 #EXTINF:-1 group-title="AV14",#13881
@@ -27837,8 +27419,6 @@ https://vod.mycamtv.net/13918.m3u8
 https://vod.mycamtv.net/13919.m3u8
 #EXTINF:-1 group-title="AV14",#13920
 https://vod.mycamtv.net/13920.m3u8
-#EXTINF:-1 group-title="AV14",#13921
-https://vod.mycamtv.net/13921.m3u8
 #EXTINF:-1 group-title="AV14",#13922
 https://vod.mycamtv.net/13922.m3u8
 #EXTINF:-1 group-title="AV14",#13923
@@ -28543,8 +28123,6 @@ https://vod.mycamtv.net/14271.m3u8
 https://vod.mycamtv.net/14272.m3u8
 #EXTINF:-1 group-title="AV15",#14273
 https://vod.mycamtv.net/14273.m3u8
-#EXTINF:-1 group-title="AV15",#14274
-https://vod.mycamtv.net/14274.m3u8
 #EXTINF:-1 group-title="AV15",#14275
 https://vod.mycamtv.net/14275.m3u8
 #EXTINF:-1 group-title="AV15",#14276
@@ -29285,10 +28863,6 @@ https://vod.mycamtv.net/14642.m3u8
 https://vod.mycamtv.net/14643.m3u8
 #EXTINF:-1 group-title="AV15",#14644
 https://vod.mycamtv.net/14644.m3u8
-#EXTINF:-1 group-title="AV15",#14645
-https://vod.mycamtv.net/14645.m3u8
-#EXTINF:-1 group-title="AV15",#14646
-https://vod.mycamtv.net/14646.m3u8
 #EXTINF:-1 group-title="AV15",#14647
 https://vod.mycamtv.net/14647.m3u8
 #EXTINF:-1 group-title="AV15",#14648
@@ -29297,24 +28871,12 @@ https://vod.mycamtv.net/14648.m3u8
 https://vod.mycamtv.net/14649.m3u8
 #EXTINF:-1 group-title="AV15",#14650
 https://vod.mycamtv.net/14650.m3u8
-#EXTINF:-1 group-title="AV15",#14651
-https://vod.mycamtv.net/14651.m3u8
-#EXTINF:-1 group-title="AV15",#14652
-https://vod.mycamtv.net/14652.m3u8
-#EXTINF:-1 group-title="AV15",#14653
-https://vod.mycamtv.net/14653.m3u8
-#EXTINF:-1 group-title="AV15",#14654
-https://vod.mycamtv.net/14654.m3u8
 #EXTINF:-1 group-title="AV15",#14655
 https://vod.mycamtv.net/14655.m3u8
 #EXTINF:-1 group-title="AV15",#14656
 https://vod.mycamtv.net/14656.m3u8
-#EXTINF:-1 group-title="AV15",#14657
-https://vod.mycamtv.net/14657.m3u8
 #EXTINF:-1 group-title="AV15",#14658
 https://vod.mycamtv.net/14658.m3u8
-#EXTINF:-1 group-title="AV15",#14659
-https://vod.mycamtv.net/14659.m3u8
 #EXTINF:-1 group-title="AV15",#14660
 https://vod.mycamtv.net/14660.m3u8
 #EXTINF:-1 group-title="AV15",#14661
@@ -29377,8 +28939,6 @@ https://vod.mycamtv.net/14688.m3u8
 https://vod.mycamtv.net/14689.m3u8
 #EXTINF:-1 group-title="AV15",#14690
 https://vod.mycamtv.net/14690.m3u8
-#EXTINF:-1 group-title="AV15",#14691
-https://vod.mycamtv.net/14691.m3u8
 #EXTINF:-1 group-title="AV15",#14692
 https://vod.mycamtv.net/14692.m3u8
 #EXTINF:-1 group-title="AV15",#14693
