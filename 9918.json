@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.nogo.jar;md5;27f5491c6dec1ee3b80ac68c129d5db5",
+"spider":"./jar/fm.nogo.jar;md5;efecb2d08257b153c65d46055f8d87d8",
 "lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
 {"name":"YanG","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
@@ -11,6 +11,7 @@
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1;socks5://192.168.5.227:4592"},
 {"key":"量子","name":"量子","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.5.227:4592&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.5.227:4592&url=","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.5.227:4592&url=http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.5.227:4592&url=","searchable":1,"changeable":1,"categories":["伦理片"]},
+{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1},
 {"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1},
 {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1},
