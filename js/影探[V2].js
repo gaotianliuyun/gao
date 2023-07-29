@@ -15,29 +15,31 @@ try {
 		vod_director: node["vod_director"],
 		vod_content: node["vod_content"].strip(),
 	};
-	let episodes = node.vod_url_with_player;
-	let playMap = {};
-	if (typeof play_url === "undefined") {
-		var play_url = ""
-	}
-	episodes.forEach(function(ep) {
-		let source = ep["name"];
-		if (!playMap.hasOwnProperty(source)) {
-			playMap[source] = []
-		}
-		// playMap[source].append(ep["url"])
-		playMap[source].append(ep["url"].replace(/影探lfytv.cn(.*).mp4#/,''))
-	});
-	let playFrom = [];
-	let playList = [];
-	Object.keys(playMap).forEach(function(key) {
-		playFrom.append(key);
-		playList.append(playMap[key])
-	});
-	let vod_play_from = playFrom.join("$$$");
-	let vod_play_url = playList.join("$$$");
-	VOD["vod_play_from"] = vod_play_from;
-	VOD["vod_play_url"] = vod_play_url
+	// let episodes = node.vod_url_with_player;
+	// let playMap = {};
+	// if (typeof play_url === "undefined") {
+	// 	var play_url = ""
+	// }
+	// episodes.forEach(function(ep) {
+	// 	let source = ep["name"];
+	// 	if (!playMap.hasOwnProperty(source)) {
+	// 		playMap[source] = []
+	// 	}
+	// 	// playMap[source].append(ep["url"])
+	// 	playMap[source].append(ep["url"].replace(/影探lfytv.cn(.*).mp4#/,''))
+	// });
+	// let playFrom = [];
+	// let playList = [];
+	// Object.keys(playMap).forEach(function(key) {
+	// 	playFrom.append(key);
+	// 	playList.append(playMap[key])
+	// });
+	// let vod_play_from = playFrom.join("$$$");
+	// let vod_play_url = playList.join("$$$");
+	// VOD["vod_play_from"] = vod_play_from;
+	VOD["vod_play_from"] = node["vod_play_from"];
+	// VOD["vod_play_url"] = vod_play_url
+	VOD["vod_play_url"] = node["vod_play_url"].replace(/影探lfytv(.*?)mp4#/g,'')
 } catch (e) {
 	log("获取二级详情页发生错误:" + e.message)
 }
@@ -45,9 +47,9 @@ try {
 
 var rule = {
 	title: '影探[V2]', // csp_AppYsV2
-	// host: 'http://yt22106.lfytyl.com',
-	host: 'http://www.lyyytv.cn/yt/yt.json',
-    hostJs:'print(HOST);let html=JSON.parse(request(HOST,{headers:{"User-Agent":PC_UA}}));let src = html.sites[0].ext.replace("/api.php/app/","");print(src);HOST=src',//网页域名根动态抓取js代码。通过HOST=赋值
+	host: 'http://ytcms.lfytyl.com',
+	// host: 'http://www.lyyytv.cn/yt/yt.json',
+    // hostJs:'print(HOST);let html=JSON.parse(request(HOST,{headers:{"User-Agent":PC_UA}}));let src = html.sites[0].ext.replace("/api.php/app/","");print(src);HOST=src',//网页域名根动态抓取js代码。通过HOST=赋值
 	homeUrl:'/api.php/app/index_video',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=18&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&year={{fl.year}}',

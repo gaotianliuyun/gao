@@ -11,7 +11,7 @@
 {"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
 {"key":"drpy_js_ikanbot3","name":"影视 | 爱看机器人3[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
-{"key":"drpy_js_磁力熊[磁]","name":"磁力 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/磁力熊[磁].js"},
+{"key":"drpy_js_磁力熊[磁]","name":"磁力 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊[磁].js"},
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
@@ -46,7 +46,6 @@
 {"key":"drpy_js_往往影视","name":"影视 | 往往影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/往往影视.js"},
 {"key":"drpy_js_蛋蛋剧","name":"影视 | 蛋蛋剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蛋蛋剧.js"},
 {"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
-{"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
 
 {"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
@@ -59,7 +58,6 @@
 {"key":"drpy_js_看看剧[V2]","name":"影视 | 看看剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看看剧[V2].js"},
 {"key":"drpy_js_萌蛋蛋[V2]","name":"影视 | 萌蛋蛋[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌蛋蛋[V2].js"},
 {"key":"drpy_js_速看100[V2]","name":"影视 | 速看100[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/速看100[V2].js"},
-{"key":"drpy_js_鸭奈飞[V2]","name":"影视 | 鸭奈飞[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞[V2].js"},
 {"key":"drpy_js_鸭鸭[V2]","name":"影视 | 鸭鸭[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭鸭[V2].js"},
 {"key":"drpy_js_影探[V2]","name":"影视 | 影探[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影探[V2].js"},
 

@@ -17,8 +17,8 @@ var rule = {
 		'User-Agent': 'MOBILE_UA'
 	},
 	timeout:5000,
-	class_name:'电影&剧集',
-	class_url:'1&2',
+	class_name:'电影&剧集&豆瓣电影Top250&IMDB Top250&高分悬疑片&高分喜剧片&高分传记片&高分爱情片&高分犯罪片&高分恐怖片&高分冒险片&高分武侠片&高分奇幻片&高分历史片&高分战争片&高分歌舞片&高分灾难片&高分情色片&高分西部片&高分音乐片&高分科幻片&高分动作片&高分动画片&高分纪录片&冷门佳片',
+	class_url:'1&2&/top250/&/s/imdbtop250/&/s/suspense/&/s/comedy/&/s/biopic/&/s/romance/&/s/crime/&/s/horror/&/s/adventure/&/s/martial/&/s/fantasy/&/s/history/&/s/war/&/s/musical/&/s/disaster/&/s/erotic/&/s/west/&/s/music/&/s/sci-fi/&s/action/&/s/animation/&/s/documentary/&/s/unpopular/',
 	play_parse:true,
 	lazy:'',
 	limit:6,
@@ -31,8 +31,7 @@ var rule = {
 			d.push({
 				title: pdfh(it, 'h2&&Text'),
 				desc: pdfh(it, '.me-auto&&Text') + '分 / ' + pdfh(it, '.small&&Text'),
-				// pic_url: pd(it, '.card-img&&style'),
-				pic_url: /!'/.test(pd(it, '.card-img&&style'))?pd(it, '.card-img&&style'):pd(it, '.card-img&&style').replaceAll("'",""),
+				pic_url: pd(it, '.card-img&&style'),
 				url: pd(it, 'a&&href')
 			});
 		})
@@ -41,14 +40,17 @@ var rule = {
 	一级: `js:
 		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 		var d = [];
+		if (MY_CATE !== '1' && MY_CATE !== '2') {
+			let turl = (MY_PAGE === 1)? 'index' : 'index_'+ MY_PAGE;
+			input = HOST + MY_CATE + turl + '.html';
+		}
 		var html = request(input);
 		var list = pdfa(html, 'body&&.col');
 		list.forEach(it => {
 			d.push({
 				title: pdfh(it, 'h2&&Text'),
 				desc: pdfh(it, '.me-auto&&Text') + '分 / ' + pdfh(it, '.small&&Text'),
-				// pic_url: pdfh(it, '.card-img&&style'),
-				pic_url: /!'/.test(pd(it, '.card-img&&style'))?pd(it, '.card-img&&style'):pd(it, '.card-img&&style').replaceAll("'",""),
+				pic_url: pdfh(it, '.card-img&&style'),
 				url: pd(it, 'a&&href')
 			});
 		})
