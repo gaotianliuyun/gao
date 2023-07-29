@@ -26,21 +26,50 @@ var rule = {
     },
     class_parse: '.fixed-nav&&.flex:lt(4);li&&Text;li&&data-id',
     play_parse:true,
-    lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;var from=html.from;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else if(/VIP/.test(from)){input="https://siguyy.cc/player/?url="+url}else if(/JHA/.test(from)){input="https://www.dmmoyu.com/player/?url="+url}else{input={jx:0,url:"https://jx.jsonplayer.com/player/?url="+url,parse:1,}}',
+    lazy:`js:
+        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        var url = html.url;
+        var from = html.from;
+        if (html.encrypt == '1') {
+            url = unescape(url)
+        } else if (html.encrypt == '2') {
+            url = unescape(base64Decode(url))
+        }
+        if (/m3u8|mp4/.test(url)) {
+            input = url
+        } else {
+            var MacPlayerConfig = {};
+            eval(fetch(HOST + "/static/js/playerconfig.js").replace('var Mac', 'Mac'));
+            var jx = MacPlayerConfig.player_list[from].parse;
+            if (jx == '') {
+                jx = MacPlayerConfig.parse
+            };
+            if (jx.startsWith("/")) {
+                jx = "https:" + jx;
+            }
+            input = {
+                jx: 0,
+                url: jx + url,
+                parse: 1
+            }
+        }
+    `,
     limit:6,
     推荐:'*',
     一级:'.movie-list-body&&.movie-list-item;.movie-title&&Text;.Lazy&&data-original;.movie-rating&&Text;a&&href',
+    二级访问前:'log(MY_URL);MY_URL=MY_URL.replace("/play/","/detail/").replace("/sid/1/nid/1","");log(MY_URL)',
     二级:{
-        "title":"h1&&title",
+        "title":"h1&&title;.scroll-content&&Text",
         "img":".poster&&img&&src",
-        "desc":";;;;",
-        "content":".detailsTxt&&Text",
+        "desc":";;;.starLink&&Text;.cr3:eq(0)&&Text",
+        "content":".detailsTxt--div&&Text",
         "tabs":".swiper-wrapper&&a",
-        "lists":".play_list_box:eq(#id) li"
+        "lists":".content_playlist:eq(#id)&&li"
     },
+
     // searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
-	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
-	detailUrl:'/index.php/vod/play/id/fyid/sid/1/nid/1.html', //非必填,二级详情拼接链接
+	searchUrl:'/index.php/ajax/suggest?mid=fypage&wd=**',
+	detailUrl:'/index.php/vod/detail/id/fyid.html',
     // 搜索:'.movie-list-body&&.vod-search-list;*;*;.getop&&Text;*',
 	搜索:'json:list;name;pic;;id',
 }
