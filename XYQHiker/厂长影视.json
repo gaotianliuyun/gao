@@ -27,7 +27,7 @@
     "分类片单链接加后缀": "",
     //"搜索请求头参数": "User-Agent$PC_UA",
     "搜索请求头参数": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36#Referer$https://www.czspp.com#Cookie$esc_search_captcha=1",
-    "搜索链接": "https://www.czspp.com/page/1?s={wd}",
+    "搜索链接": "https://czzy.art/page/1?s={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".search_list&&ul&&li",
