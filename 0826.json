@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;91b04592e14b3cc30f34c1324a59e8ad",
+"spider":"./jar/fan.txt;md5;639daff8ea868eca3a39d53ee4912e43",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
@@ -18,7 +18,7 @@
 {"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Lib","name": "🌟利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.fun/"},
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"playerType":"1","api":"http://xhww.fun:63/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/jp.js"},
-{"key":"酷酷","name":"💡酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧"]},
+{"key":"酷酷","name":"💡酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://cms.realdou.cn:27953/api.php/app/","categories":["4K电影","4K电视剧"]},
 {"key":"探探","name":"🏵探探┃App","type":3,"playerType":"1","api":"csp_YT","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_YQKAPP","name":"🎉一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top"},
 
