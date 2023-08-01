@@ -1,6 +1,6 @@
 {
-"spider":"./jar/fan.txt;md5;0b808ddea31654697cf64d4e237ce09f",
-"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+"spider":"./jar/fan.txt;md5;f69ca3669c84947f2f1635af5be99492",
+"wallpaper":"http://饭.eu.org/深色壁纸/api.php",
 
 "sites":[
 {"key":"js豆豆","name":"微信公众号【神秘的哥哥们】关注防失联","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
