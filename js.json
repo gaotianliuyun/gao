@@ -1,5 +1,5 @@
 {
-"spider": "./jar/fanty.jar;md5;f69ca3669c84947f2f1635af5be99492",
+"spider": "./jar/fanty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
