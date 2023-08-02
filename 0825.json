@@ -12,7 +12,7 @@
 {"key":"drpy_js_ikanbot3","name":"爱姬","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
 
-{"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_陌陌","name":"陌陌","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
