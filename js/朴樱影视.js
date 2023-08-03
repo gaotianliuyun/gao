@@ -4,7 +4,8 @@ var rule = {
 	title:'朴樱影视',
 	模板:'mxone5',
 	// host:'https://www.b09.net',
-	host:'https://www.pyys.art',
+	// host:'https://www.pyys.art',
+	host:'https://www.pyys.top',
 	// url:'/index.php/vod/show/id/fyclass/page/fypage.html',
 	url:'/index.php/vod/show/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
@@ -21,6 +22,21 @@ var rule = {
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
+	lazy:`js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		var from = html.from;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/m3u8|mp4/.test(url)) {
+			input = url
+		} else {
+			input
+		}
+	`,
 	searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
 	class_parse: '.nav-menu-items:eq(0)&&li:gt(0):lt(5);a&&title;a&&href;/(\\d+).html',
 	二级访问前:'MY_URL=/play/.test(MY_URL)?MY_URL.replace("play","detail").replace("/sid/1/nid/1",""):MY_URL',

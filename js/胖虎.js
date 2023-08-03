@@ -1,4 +1,4 @@
-// 永久发布页 https://www.webqq.ml
+// 永久发布页 https://my.cdnkan.top
 // 搜索数字验证(解决)
 muban.mxpro.二级.desc = ';;;.module-info-item:eq(2) .module-info-item-content&&Text;.module-info-item:eq(1) .module-info-item-content&&Text';
 muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
@@ -6,7 +6,7 @@ var rule = {
 	title:'胖虎',
 	模板:'mxpro',
 	// host:'http://www.panghuys.com',
-	host:'https://www.webqq.ml',
+	host:'https://my.cdnkan.top',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a&&href");print(src);HOST=src',
 	url:'/vodshow/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
@@ -20,5 +20,18 @@ var rule = {
 	class_parse:'.navbar-items li:gt(1):lt(6);a&&Text;a&&href;/(\\d+).html',
 	searchUrl:'/phsch/page/fypage/wd/**.html',
 	searchable: 1,
-	lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
+	lazy:`js:
+		var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+		var url = html.url;
+		if (html.encrypt == '1') {
+			url = unescape(url)
+		} else if (html.encrypt == '2') {
+			url = unescape(base64Decode(url))
+		}
+		if (/m3u8|mp4/.test(url)) {
+			input = url
+		} else {
+			input
+		}
+	`,
 }
