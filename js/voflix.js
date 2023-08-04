@@ -2,8 +2,8 @@ muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.module-info-item-con
 var rule={
     title:'voflix',
     模板:'mxpro',
-    host:'https://www.voflix.com',
-    // host:'https://www.voflix.me',
+    // host:'https://www.voflix.com',
+    host:'https://www.voflix.me',
     homeUrl:'/label/new.html',
     // url:'/show/fyclass--------fypage---.html',
     url:'/show/fyfilter.html',

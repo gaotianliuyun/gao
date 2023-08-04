@@ -4,10 +4,11 @@ var rule={
     title:'看韩剧',
     模板:'首图',
     // host:'https://www.kan.cc',
-    host:'https://www.kangii.com',
+    // host:'https://www.kangii.com',
+    host:'https://cc.kan.cc',
     url:'/search.html?page=fypage&searchtype=5&tid=fyclassfyfilter',
     filterable:1,//是否启用分类筛选,
-    filter_url:'&order={{fl.by}}&year={{fl.year}}',
+    filter_url:'&order={{fl.by or "time"}}&year={{fl.year}}',
     filter:{
         "1":[{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"more","v":"more"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"},{"n":"评分","v":"commend"}]}],
         "2":[{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"more","v":"more"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hit"},{"n":"评分","v":"commend"}]}],
@@ -20,5 +21,22 @@ var rule={
     },
     // class_parse:'.myui-header__menu&&li:gt(0):lt(6);a--span&&Text;a&&href;/(.*?)/',
     class_parse:'div.myui-panel__head.clearfix;h2&&Text;a&&href;.*/(\\d+).html',
+    lazy:`js:
+        pd = jsp.pd;
+        var html = pd(request(input), 'iframe&&src');
+        try {
+            var url = request(html).match(/r url = '(.*?)'/)[1];
+        } catch (e) {
+            var url = pd(request(html), 'iframe&&src');
+        }
+        if (/m3u8|mp4/.test(url)) {
+            input = url
+        } else if (/share/.test(url)) {
+            var purl = JSON.parse(request(url).match(/playlist = '\\[(.*?)\\]'/)[1]).url;
+            input = urljoin2(url, purl)
+        } else {
+            input
+        }
+    `,
     搜索: '.myui-vodlist__media.clearfix li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href;.text-muted:eq(-1)&&Text',
 }

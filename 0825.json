@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;b3d75d1f335a00f04b0632266a0a6d7c",
+"spider":"./jar/fm.jar;md5;da5b7063792deeda9e33c6189c6eba14",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -11,7 +11,8 @@
 {"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$https://tvfan.xxooo.cf/"},
 {"key":"drpy_js_ikanbot3","name":"爱姬","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
-{"key":"drpy_js_磁力熊[磁]","name":"磁熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊[磁].js"},
+
+{"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_陌陌","name":"陌陌","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
@@ -22,6 +23,7 @@
 {"key":"AppYsV2_酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
 {"key":"AppYsV2_飞速","name":"飞速","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
 
+{"key":"Gitcafe", "name": "纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt" },
 {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
 {"key":"盤搜索","name":"盤搜","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
 {"key":"找資源","name":"資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$test2$$$test2"},
@@ -31,6 +33,13 @@
 {"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
 {"key":"Sean","name":"肖恩","type":3,"api":"csp_Sean","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
 
+{"key":"drpy_js_磁力熊[磁]","name":"磁力熊*","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊[磁].js"},
+{"key":"KubaCL","name":"酷吧*","type":3,"api":"csp_KubaCL","playerType":"1", "changeable":0},
+{"key":"MeijuMi","name":"美剧迷*","type":3,"api":"csp_MeijuMi","playerType":"1", "changeable":0},
+{"key":"MeijuTT","name":"美剧天天*","type":3,"api":"csp_MeijuTT","playerType":"1", "changeable":0},
+{"key":"Mp4Mov","name":"Mp4Mov*","type":3,"api":"csp_Mp4Mov","playerType":"1", "changeable":0},
+{"key":"New6v","name":"新版6v*","type":3,"api":"csp_New6v","playerType":"1", "changeable":0},
+{"key":"SeedHub","name":"SeedHub*","type":3,"api":"csp_SeedHub","playerType":"1", "changeable":0},
 
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":"0;socks5://192.168.5.227:4592"},
 {"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"ext":"socks5://192.168.5.227:4592"},

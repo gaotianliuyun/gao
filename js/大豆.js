@@ -1,13 +1,13 @@
+muban.短视2.二级.title = '.slide-info-title&&Text;.hl-ma0&&Text';
 muban.短视2.二级.img = '.detail-pic&&img&&data-src';
 var rule = {
     title: '大豆',
     模板:'短视2',
-    host: 'https://www.rebo.cm',
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
-    homeUrl:'/map.html',
+    // host: 'https://www.rebo.cm',
+    host: 'https://www.dadou.cm',
+    homeUrl:'/index.php/label/rb.html',
     // url: '/index.php/api/vod#type=fyclass&page=fypage',
-    // url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodshow/fyclassfyfilter.html',
+    url: '/vodshow/fyclassfyfilter.html',
     detailUrl:'/Vod/fyid.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
@@ -20,25 +20,12 @@ var rule = {
         "40":[{"key":"letter","name":"字母","value":[{"n":"全部","v":""},{"n":"A","v":"A"},{"n":"B","v":"B"},{"n":"C","v":"C"},{"n":"D","v":"D"},{"n":"E","v":"E"},{"n":"F","v":"F"},{"n":"G","v":"G"},{"n":"H","v":"H"},{"n":"I","v":"I"},{"n":"J","v":"J"},{"n":"K","v":"K"},{"n":"L","v":"L"},{"n":"M","v":"M"},{"n":"N","v":"N"},{"n":"O","v":"O"},{"n":"P","v":"P"},{"n":"Q","v":"Q"},{"n":"R","v":"R"},{"n":"S","v":"S"},{"n":"T","v":"T"},{"n":"U","v":"U"},{"n":"V","v":"V"},{"n":"W","v":"W"},{"n":"X","v":"X"},{"n":"Y","v":"Y"},{"n":"Z","v":"Z"}]},{"key":"by","name":"排序","value":[{"n":"最新","v":"time"},{"n":"最热","v":"hits"},{"n":"评分","v":"score"}]}],
         "41":[{"key":"by","name":"排序","value":[{"n":"最新","v":"time"},{"n":"最热","v":"hits"},{"n":"评分","v":"score"}]}]
     },
-    class_parse:'.swiper-wrapper&&li;a&&Text;a&&href;/(\\d+)',
+    class_parse:'.swiper-wrapper&&li;a--em&&Text;a&&href;.*/(\\d+)',
     class_name:'',
     class_url:'',
+    cate_exclude:'听书',
     play_parse:true,
-    lazy:`js:
-        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
-        var url = html.url;
-        if (html.encrypt == '1') {
-            url = unescape(url)
-        } else if (html.encrypt == '2') {
-            url = unescape(base64Decode(url))
-        }
-        if (/m3u8|mp4/.test(url)) {
-            input = url
-        } else {
-            input
-        }
-    `,
-    推荐:'.border-box .public-list-box;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
-    一级:'.public-list-box;a&&title;.lazy&&data-src;.hide&&Text;a&&href',
+    推荐:'.list-vod&&.public-list-box;*;*;*;*',
     double: false, // 推荐内容是否双层定位
+    一级:'.border-box&&.public-list-box&&;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
 }

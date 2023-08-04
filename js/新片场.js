@@ -79,7 +79,6 @@ var rule = {
                 vod_content: node.content.replaceAll('\\n','/').strip()
             };
             let episodes = node.video.content.progressive;
-            let playMap = {};
             if (typeof play_url === "undefined") {
                 var play_url = ""
             }
