@@ -23,7 +23,7 @@ var rule = {
     class_parse: '.stui-header__menu li:gt(0):lt(5);a&&Text;a&&href;.*/(.*?).html',
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);log(html);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
     // searchUrl: '/so/**----------fypage---.html',
-    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
 	detailUrl:'/html/fyid.html', //非必填,二级详情拼接链接
 	搜索:'json:list;name;pic;;id',
 }

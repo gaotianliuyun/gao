@@ -43,7 +43,7 @@ if (/https/.test(paurl)) {
 		parse: 0
 	}
 }`,
-	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
 	detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
 	// detailUrl:'/detail_fyid.html', //非必填,二级详情拼接链接
 	// searchUrl:'/search/**----------fypage---.html',

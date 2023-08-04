@@ -16,7 +16,7 @@ var rule= {
 	},
     cate_exclude:'网址|演员',
     // searchUrl:'/index.php/vod/search.html?wd=**',
-    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
     detailUrl:'/index.php/vod/detail/id/fyid.html', //非必填,二级详情拼接链接
     搜索:'json:list;name;pic;;id',
 }

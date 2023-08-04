@@ -1,6 +1,7 @@
 var rule = {
 	title:'JangoIndex',
-	host:'https://jango-index.ml',
+	// host:'https://jango-index.ml',
+	host:'https://jango-index.tk',
 	url: 'fyclass',
 	searchUrl: '/?search=**',
 	searchable:2,

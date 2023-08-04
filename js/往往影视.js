@@ -63,7 +63,7 @@ var rule={
     `,
 
     // searchUrl:'/oftenssearch/**----------fypage---.html',
-	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
 	detailUrl:'/oftensdetail/fyid.html', //非必填,二级详情拼接链接
 	搜索:'json:list;name;pic;;id',
 }
