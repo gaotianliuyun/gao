@@ -3,7 +3,7 @@
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-"wallpaper":"https://jianbian.chuqiuyu.tk",
+"wallpaper":"http://饭.eu.org/深色壁纸/api.php",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_新片场","name":"片场","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新片场.js","searchable":1,"quickSearch":1,"changeable":0},
