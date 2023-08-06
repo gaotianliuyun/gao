@@ -35,7 +35,8 @@
 
 {"key":"drpy_js_磁力熊[磁]","name":"磁力熊*","type":3,"api":"./lib/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊[磁].js"},
 {"key":"csp_BLSGod","name":"80S影视*","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xunlei8","name":"迅雷吧*","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},{"key":"KubaCL","name":"酷吧*","type":3,"api":"csp_KubaCL","playerType":"1", "changeable":0},
+{"key":"csp_Xunlei8","name":"迅雷吧*","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"KubaCL","name":"酷吧*","type":3,"api":"csp_KubaCL","playerType":"1", "changeable":0},
 {"key":"MeijuMi","name":"美剧迷*","type":3,"api":"csp_MeijuMi","playerType":"1", "changeable":0},
 {"key":"MeijuTT","name":"美剧天天*","type":3,"api":"csp_MeijuTT","playerType":"1", "changeable":0},
 {"key":"Mp4Mov","name":"Mp4Mov*","type":3,"api":"csp_Mp4Mov","playerType":"1", "changeable":0},
