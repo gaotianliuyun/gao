@@ -1,0 +1,25 @@
+{
+"首页":"儿童启蒙",
+"请求头":"电脑#Cookie$buvid3=7744EBBF-F0C4-AA10-F10F-391C2182313D74857infoc; buvid4=4E436761-DD44-3258-FCB4-DC31292487EB75415-022051117-3FHZ9UuNGIFsHXpqTN9FQQ%3D%3D; i-wanna-go-back=-1; nostalgia_conf=-1; CURRENT_BLACKGAP=0; blackside_state=0; CURRENT_FNVAL=4048; b_nut=100; rpdid=|(JYlmJ|kJ|m0J'uY~|km|Y~u; fingerprint=2cef9947ca81b890fc25547bb159f7ca; buvid_fp_plain=undefined; SESSDATA=97c96d23%2C1690700009%2C61dac%2A12; bili_jct=f9d0025658d6fb2df56305f0670f9b3c; DedeUserID=533021051; DedeUserID__ckMd5=dc7496e98fa2bd64; CURRENT_QUALITY=80; buvid_fp=c53cfb8dd9f4d7e9297687261d7a0b0e; b_ut=5; header_theme_version=CLOSE; PVID=1; _uuid=1B8E9252-EFE10-10E84-10657-D2AA443224B439593infoc; FEED_LIVE_VERSION=V8; bp_video_offset_533021051=796245413168414700; innersign=0; b_lsid=C43CF628_18893A844C2; bsource=search_google; home_feed_column=4; browser_resolution=452-703",
+"分类url":"https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword={cateId}&page={catePg}&duration={year}&order={by};;vS2",
+"搜索url":"https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword={wd}&page={pg}",
+"分类":"儿童启蒙&奥特曼&儿童&儿童汇聚&学前&小学&初中&高中&蜡笔小新&熊出没&拉丁舞&芭蕾&儿童睡前故事&儿童舞蹈&儿童电影&儿童益智动画片&儿童纪录片",
+"类型":"儿童启蒙--动画&番剧&国创&音乐&纪录片||学前--儿童启蒙故事&儿童英语启蒙&儿童睡前故事&儿童安全教育||小学--沪教版&人教版&北师大版&外研版&苏教版&小学英语听力||初中--初一七年级&初二八年级&初三九年级&初中沪教版&初中人教版&初中北师大版&初中外研版&初中苏教版",
+"时长":"60分钟以上$4#30~60分钟$3#10~30分钟$2#10分钟以下$1",
+"排序":"综合排序$0#最多点击$click#最新发布$pubdate#最多弹幕$dm#最多收藏$stow",
+"数组":"type\"&&}",
+"标题":"title\":\"&&\",",
+"图片":"pic\":\"&&\"",
+"线路标题":"落叶播放",
+"副标题":"duration\":\"&&\"",
+"链接":"https://api.bilibili.com/x/web-interface/view?aid=+id\":&&,",
+"影片类型":"tname\":\"&&\"",
+"简介":"\"desc\":\"&&\"",
+"播放二次截取":"pages&&subtitle",
+"播放列表":"{&&}",
+"播放标题":"part\":\"&&\",",
+"播放链接":"https://api.bilibili.com/x/player/playurl?avid=+aid\":&&,整页+&cid=+cid\":&&,+&qn=120&fourk=1",
+"播放链接二次截取":"\"url\":\"&&\"",
+"播放请求头":"电脑#Referer$https://www.bilibili.com"
+
+}
