@@ -1,12 +1,12 @@
 {
-"spider":"./jar/fan.txt;md5;18b8df1e0f7813098c1e70979a264aad",
+"spider":"./jar/fan.txt;md5;43d5af5fc45bbff83ae54e4f3fe703e5",
 "wallpaper":"http://饭.eu.org/深色壁纸/api.php",
 
 "sites":[
 {"key":"js豆豆","name":"微信公众号【神秘的哥哥们】关注防失联","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","viewType":1,"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","viewType":1,"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/biliych.json"},
-{"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","viewType":2,"searchable":1,"quickSearch":0,"changeable":0},
+{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/bilibili.json"},
+{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/biliych.json"},
+{"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
@@ -48,14 +48,15 @@
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
 {"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable":1},
 
-{"key":"88js","name":"⚽ 88┃看球","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"csp_xp_qiumi","name":"⚽ Jrs┃球迷","type": 3,"api": "csp_XPath","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0,"ext": "http://饭太硬.top/tv/dj看球.json"},
-{"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","viewType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/310直播.json"},
-{"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","viewType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/企鹅直播.json"},
-{"key":"酷奇js","name":"🎤酷奇┃MV","type": 3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js","viewType": 1,"searchable": 0,"quickSearch": 0,"changeable":0},{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"88js","name":"⚽ 88┃看球","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_xp_qiumi","name":"⚽ Jrs┃球迷","type": 3,"api": "csp_XPath","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0,"ext": "http://饭太硬.top/tv/dj看球.json"},
+{"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/310直播.json"},
+{"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/企鹅直播.json"},
+{"key":"酷奇js","name":"🎤酷奇┃MV","type": 3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"csp_XBPQ_聚短视频","name":"📽️聚短┃视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/短视频.json"},
-{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
 
 
 {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
@@ -69,11 +70,11 @@
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"changeable":1},
 
-{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js","viewType":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","viewType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","viewType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","viewType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/初中课堂.json"},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","viewType":1,"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/高中课堂.json"},
+{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/初中课堂.json"},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/高中课堂.json"},
 {"key":"ext_live_protocol","name":"导航 http://饭太硬.top","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
