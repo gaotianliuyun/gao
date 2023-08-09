@@ -64,7 +64,7 @@
 {"key":"AList","name":"网盘","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./json/alist.json"},
 {"key":"WebDAV","name":"云盘","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./json/webdav.json"},
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt$$$socks5://192.168.5.227:4592"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"}
 ],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
