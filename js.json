@@ -1,5 +1,5 @@
 {
-"spider": "./jar/fanty.jar;md5;55894a9f32ba4201a1e2b157bb2e5c91",
+"spider": "./jar/fanty.jar;md5;5b2f704da69aa9910a5246018d7baa6d",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭.eu.org/深色壁纸/api.php",
 "sites":[
