@@ -1,0 +1,26 @@
+name: Sync with upstream
+on: [push]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Add upstream remote
+        run: |
+          git remote add upstream https://github.com/gaotianliuyun/gao.git
+
+      - name: Fetch upstream changes
+        run: |
+      
+          git fetch upstream
+
+      - name: Merge upstream changes
+        run: |
+          git merge upstream/master
+
+      - name: Push changes to upstream
+        run: |
+          git push origin master
