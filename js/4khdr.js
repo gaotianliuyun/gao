@@ -12,7 +12,7 @@ var rule = {
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
+         	'Cookie':'http://smallmi.xiaohewanwan.love:63/cili/4khdr.txt',
 	},
 	timeout:5000,
 	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
