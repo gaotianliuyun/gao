@@ -1,14 +1,11 @@
-// muban.短视2.二级.title = 'h2&&Text;.hl-ma0&&Text';
 muban.短视2.二级.img = '.detail-pic&&img&&data-src';
-// muban.短视2.二级.desc = 'p:eq(1)&&Text;;;p:eq(2)&&Text;p:eq(1)&&Text';
-// muban.短视2.二级.content = '.card-text&&Text';
 var rule = {
     title: '爱弹幕',
     模板:'短视2',
     host: 'https://anime.girigirilove.com',
-    homeUrl:'/vodshow/2-----------/',
-    // url:'/vodshow/fyclass--------fypage---/'
-    url: '/vodshow/fyclassfyfilter/',
+    homeUrl:'/map/',
+    // url:'/show/fyclass--------fypage---/'
+    url: '/show/fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
     filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter: {
@@ -19,14 +16,44 @@ var rule = {
         "24":[{"key":"by","name":"排序","value":[{"n":"最新","v":"time"},{"n":"最热","v":"hits"},{"n":"评分","v":"score"}]}],
         "26":[{"key":"by","name":"排序","value":[{"n":"最新","v":"time"},{"n":"最热","v":"hits"},{"n":"评分","v":"score"}]}]
     },
-    // detailUrl:'/vodplay/fyid-1-1/',
-    detailUrl:'/voddetail/fyid/',
-    class_name:'',
-    class_url:'',
-    class_parse:'.swiper-wrapper:eq(2) li;a&&Text;a&&href;.*/(\\d+)',
-    // 图片来源:'@Referer=https://anime.girigirilove.com/',
-    lazy:"",
-    推荐: '*',
-    // 一级:'.list-vod .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
+    searchUrl: '/search/**----------fypage---/',
+    class_name:'日番&美番&劇場版&真人番劇&BD副音軌&其他',
+    class_url:'2&3&21&20&24&26',
+    play_parse:true,
+    lazy:`js:
+        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        var url = html.url;
+        var from = html.from;
+        var next = html.link_next;
+        if (html.encrypt == '1') {
+            url = unescape(url)
+        } else if (html.encrypt == '2') {
+            url = unescape(base64Decode(url))
+        } else if (html.encrypt == '3') {
+            url = url.substring(8, url.length);
+            url = base64Decode(url);
+            url = url.substring(8, (url.length) - 8)
+        }
+        if (/\\.m3u8|\\.mp4/.test(url)) {
+            input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            }
+        } else {
+            var paurl = request(HOST + '/static/player/' + from + '.js').match(/ src="(.*?)'/)[1];
+            if (/https/.test(paurl)) {
+                var purl = paurl + url + '&next=' + next + '&title=';
+                input = {
+                    jx: 0,
+                    url: purl,
+                    parse: 1
+                }
+            }
+        }
+    `,
+    推荐:'.border-box&&.public-list-box;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
+    double: false, // 推荐内容是否双层定位
     一级:'.border-box .public-list-box;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
+    搜索:'.row-right&&.search-box;.thumb-txt&&Text;.lazy&&data-src;.public-list-prb&&Text;a&&href',
 }
