@@ -6,18 +6,25 @@ var rule = {
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/search/#nobot=1&wd=**;post',
+	searchUrl: '/search/**-1.html',
 	searchable:2,
-	quickSearch:1,
+	quickSearch:0,
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-		'Referer': 'https://www.mp4us.com/',
+         	'Cookie':''
 	},
 	timeout:5000,
 	class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
 	class_url: '1&2&3&4&5&6&7&8&9&10',
-	play_parse:false,
+	play_parse:true,
+	play_json:[{
+		re:'*',
+		json:{
+			parse:0,
+			jx:0
+		}
+	}],
 	lazy:'',
 	limit:6,
 	推荐:'div.index_update ul li;a&&Text;;b&&Text;a&&href',
@@ -101,15 +108,54 @@ var rule = {
 			`,
 
 	},
-	搜索:'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',
+	搜索bak:'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',
+	搜索:`js:
+		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
+			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
+			let cookie = rule_fetch_params.headers.Cookie;
+			setItem(RULE_CK, cookie);
+		};
+		log('mp4us seach cookie>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+                let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+		//log("mp4us search params>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
+                let search_html = request( HOST + '/search/' + KEY + '-1.html', _fetch_params)
+		//log("mp4us search result>>>>>>>>>>>>>>>" + search_html);
+		let d=[];
+		//'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',
+		let dlist = pdfa(search_html, 'div#list_all li');
+		dlist.forEach(function(it){
+			let title = pdfh(it, 'img.lazy&&alt');
+			if (searchObj.quick === true){
+				if (title.includes(KEY)){
+					title = KEY;
+				}
+			}
+			let img = pd(it, 'img.lazy&&src', HOST);
+			let content = pdfh(it, 'div.text_info h2&&Text');
+			let desc = pdfh(it, 'p.info&&Text');
+			let url = pd(it, 'a&&href', HOST);
+			d.push({
+				title:title,
+				img:img,
+				content:content,
+				desc:desc,
+				url:url
+				})
+		});
+		setResult(d);
+	`,
 	预处理:`
-		let new_host=HOST;
-		let new_html=request(new_host, {withHeaders:true});
-		let json=JSON.parse(new_html);
-		let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");
-		let cookie=setCk?json[setCk].split(";")[0]:"";
-		log("cookie:"+cookie);
-		rule_fetch_params.headers.Cookie=cookie;
-		setItem(RULE_CK,cookie);
+    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
+			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
+			let cookie = rule_fetch_params.headers.Cookie;
+			setItem(RULE_CK, cookie);
+		};
+		log('mp4us init cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+	`,
+	proxy_url_bak: `js:
+                let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+                let proxy_html = request( 'http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.101.1:1080&url=' + encodeURIComponent(input), _fetch_params);
+		input = [200, "text/html", proxy_html];
 	`,
 }
