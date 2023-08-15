@@ -64,7 +64,7 @@ if (/^magnet/.test(tab)) {
 	d.forEach(function(it){
 		let burl = pdfh(it, 'a[href^="magnet"]&&href');
 		if (burl.startsWith("magnet")){
-			if (index == targetindex){
+			if (index === targetindex){
 				let title = pdfh(it, 'a[href^="magnet"]&&Text');
 				log('jiyingw title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('jiyingw burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);

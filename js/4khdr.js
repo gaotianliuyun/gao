@@ -39,8 +39,8 @@ pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
 // log("4khdr 二级 html>>>>>>>>>>" + html);
 var d = pdfa(html, 'table.t_table');
-let magnetIndex=0;
-let aliIndex=0;
+let magnetIndex=1;
+let aliIndex=1;
 d.forEach(function(it) {
 let burl = pdfh(it, 'a&&href');
 log("burl >>>>>>" + burl);
@@ -70,11 +70,11 @@ TABS.forEach(function(tab) {
 log('tab >>>>>>>>' + tab);
 if (/^aliyun/.test(tab)) {
 	let targetindex = parseInt(tab.substring(6));
-	let index = 0;
+	let index = 1;
 	d.forEach(function(it){
 		let burl = pdfh(it, 'a&&href');
 		if (burl.startsWith("https://www.aliyundrive.com/s/")){
-			if (index == targetindex){
+			if (index === targetindex){
 				let title = pdfh(it, 'a&&Text');
 				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
@@ -91,11 +91,11 @@ TABS.forEach(function(tab) {
 log('tab >>>>>>>>' + tab);
 if (/^magnet/.test(tab)) {
 	let targetindex = parseInt(tab.substring(6));
-	let index = 0;
+	let index = 1;
 	d.forEach(function(it){
 		let burl = pdfh(it, 'a&&href');
 		if (burl.startsWith("magnet")){
-			if (index == targetindex){
+			if (index === targetindex){
 				let title = pdfh(it, 'a&&Text');
 				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);

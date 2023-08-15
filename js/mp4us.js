@@ -38,8 +38,8 @@ var rule = {
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
 var d = pdfa(html, 'ul.down-list&&li');
-let magnetIndex=0;
-let ed2kIndex=0;
+let magnetIndex=1;
+let ed2kIndex=1;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
 	log("burl >>>>>>" + burl);
@@ -69,11 +69,11 @@ TABS.forEach(function(tab) {
 	log('tab >>>>>>>>' + tab);
 	if (/^magnet/.test(tab)) {
 		let targetindex = parseInt(tab.substring(6));
-		let index = 0;
+		let index = 1;
 		d.forEach(function(it){
 			let burl = pdfh(it, 'a&&href');
 			if (burl.startsWith("magnet")){
-				if (index == targetindex){
+				if (index === targetindex){
 					let title = pdfh(it, 'a&&Text');
 					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
@@ -89,11 +89,11 @@ TABS.forEach(function(tab) {
 	log('tab >>>>>>>>' + tab);
 	if (/^ed2k/.test(tab)) {
 		let targetindex = parseInt(tab.substring(4));
-		let index = 0;
+		let index = 1;
 		d.forEach(function(it){
 			let burl = pdfh(it, 'a&&href');
 			if (burl.startsWith("ed2k")){
-				if (index == targetindex){
+				if (index === targetindex){
 					let title = pdfh(it, 'a&&Text');
 					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
