@@ -35,132 +35,124 @@ var rule = {
 		desc:'td[id^="postmessage_"] font&&Text',
 		content:'td[id^="postmessage_"] font&&Text',
 		tabs:`js:
-			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-			TABS=[]
-			// log("4khdr 二级 html>>>>>>>>>>" + html);
-			var d = pdfa(html, 'table.t_table');
-			let magnetIndex=0;
-			let aliIndex=0;
-			d.forEach(function(it) {
-				let burl = pdfh(it, 'a&&href');
-				log("burl >>>>>>" + burl);
-				if (burl.startsWith("https://www.aliyundrive.com/s/")){
-					let result = 'aliyun' + aliIndex;
-					aliIndex = aliIndex + 1;
-					TABS.push(result);
-				}
-			});
-			d.forEach(function(it) {
-				let burl = pdfh(it, 'a&&href');
-				log("burl >>>>>>" + burl);
-				if (burl.startsWith("magnet")){
-					let result = 'magnet' + magnetIndex;
-					magnetIndex = magnetIndex + 1;
-					TABS.push(result);
-				}
-			});
-			log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
-		`,
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+TABS=[]
+// log("4khdr 二级 html>>>>>>>>>>" + html);
+var d = pdfa(html, 'table.t_table');
+let magnetIndex=0;
+let aliIndex=0;
+d.forEach(function(it) {
+let burl = pdfh(it, 'a&&href');
+log("burl >>>>>>" + burl);
+if (burl.startsWith("https://www.aliyundrive.com/s/")){
+	let result = 'aliyun' + aliIndex;
+	aliIndex = aliIndex + 1;
+	TABS.push(result);
+}
+});
+d.forEach(function(it) {
+let burl = pdfh(it, 'a&&href');
+log("burl >>>>>>" + burl);
+if (burl.startsWith("magnet")){
+	let result = 'magnet' + magnetIndex;
+	magnetIndex = magnetIndex + 1;
+	TABS.push(result);
+}
+});
+log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
+`,
 		lists:`js:
-			log(TABS);
-			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-			LISTS = [];
-			var d = pdfa(html, 'table.t_table');
-			TABS.forEach(function(tab) {
-				log('tab >>>>>>>>' + tab);
-				if (/^aliyun/.test(tab)) {
-					let targetindex = parseInt(tab.substring(6));
-					let index = 0;
-					d.forEach(function(it){
-						let burl = pdfh(it, 'a&&href');
-						if (burl.startsWith("https://www.aliyundrive.com/s/")){
-							if (index == targetindex){
-								let title = pdfh(it, 'a&&Text');
-								log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-								burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
-								log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-								let loopresult = title + '$' + burl;
-								LISTS.push([loopresult]);
-							}
-							index = index + 1;
-						}
-					});
-				}
-			});
-			TABS.forEach(function(tab) {
-				log('tab >>>>>>>>' + tab);
-				if (/^magnet/.test(tab)) {
-					let targetindex = parseInt(tab.substring(6));
-					let index = 0;
-					d.forEach(function(it){
-						let burl = pdfh(it, 'a&&href');
-						if (burl.startsWith("magnet")){
-							if (index == targetindex){
-								let title = pdfh(it, 'a&&Text');
-								log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-								log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-								let loopresult = title + '$' + burl;
-								LISTS.push([loopresult]);
-							}
-							index = index + 1;
-						}
-					});
-				}
-			});
-			`,
+log(TABS);
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+LISTS = [];
+var d = pdfa(html, 'table.t_table');
+TABS.forEach(function(tab) {
+log('tab >>>>>>>>' + tab);
+if (/^aliyun/.test(tab)) {
+	let targetindex = parseInt(tab.substring(6));
+	let index = 0;
+	d.forEach(function(it){
+		let burl = pdfh(it, 'a&&href');
+		if (burl.startsWith("https://www.aliyundrive.com/s/")){
+			if (index == targetindex){
+				let title = pdfh(it, 'a&&Text');
+				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+				burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+				log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+				let loopresult = title + '$' + burl;
+				LISTS.push([loopresult]);
+			}
+			index = index + 1;
+		}
+	});
+}
+});
+TABS.forEach(function(tab) {
+log('tab >>>>>>>>' + tab);
+if (/^magnet/.test(tab)) {
+	let targetindex = parseInt(tab.substring(6));
+	let index = 0;
+	d.forEach(function(it){
+		let burl = pdfh(it, 'a&&href');
+		if (burl.startsWith("magnet")){
+			if (index == targetindex){
+				let title = pdfh(it, 'a&&Text');
+				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+				log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+				let loopresult = title + '$' + burl;
+				LISTS.push([loopresult]);
+			}
+			index = index + 1;
+		}
+	});
+}
+});
+`,
 
 	},
 	一级:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
 	搜索:`js:
-		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
-			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
-			let cookie = rule_fetch_params.headers.Cookie;
-			setItem(RULE_CK, cookie);
-		};
-		log('4khdr search cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
-		let new_host= HOST + '/search.php';
-		let new_html=request(new_host);
-		let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
-		log("4khdr formhash>>>>>>>>>>>>>>>" + formhash);
-		let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + KEY;
-                let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-                let postData = {
-                    body: params
-                };
-                Object.assign(_fetch_params, postData);
-		log("4khdr search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-                let search_html = post( HOST + '/search.php', _fetch_params)
-		//log("4khdr search result>>>>>>>>>>>>>>>" + search_html);
-		let d=[];
-		let dlist = pdfa(search_html, 'div#threadlist ul li');
-		dlist.forEach(function(it){
-			let title = pdfh(it, 'h3&&Text');
-			if (searchObj.quick === true){
-				if (title.includes(KEY)){
-					title = KEY;
-				}
-			}
-			let img = "";
-			let content = pdfh(it, 'p:eq(3)&&Text');
-			let desc = pdfh(it, 'p:eq(2)&&Text');
-			let url = pd(it, 'a&&href', HOST);
-			d.push({
-				title:title,
-				img:img,
-				content:content,
-				desc:desc,
-				url:url
-				})
-		});
-		setResult(d);
-	`,
-	预处理:`
-    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
-			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
-			let cookie = rule_fetch_params.headers.Cookie;
-			setItem(RULE_CK, cookie);
-		};
-		log('4khdr init cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+if (rule_fetch_params.headers.Cookie.startsWith("http")){
+	rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
+	let cookie = rule_fetch_params.headers.Cookie;
+	setItem(RULE_CK, cookie);
+};
+log('4khdr search cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+let new_host= HOST + '/search.php';
+let new_html=request(new_host);
+let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
+log("4khdr formhash>>>>>>>>>>>>>>>" + formhash);
+let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + KEY;
+let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+let postData = {
+    body: params
+};
+Object.assign(_fetch_params, postData);
+log("4khdr search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
+let search_html = post( HOST + '/search.php', _fetch_params)
+//log("4khdr search result>>>>>>>>>>>>>>>" + search_html);
+let d=[];
+let dlist = pdfa(search_html, 'div#threadlist ul li');
+dlist.forEach(function(it){
+	let title = pdfh(it, 'h3&&Text');
+	if (searchObj.quick === true){
+		if (title.includes(KEY)){
+			title = KEY;
+		}
+	}
+	let img = "";
+	let content = pdfh(it, 'p:eq(3)&&Text');
+	let desc = pdfh(it, 'p:eq(2)&&Text');
+	let url = pd(it, 'a&&href', HOST);
+	d.push({
+		title:title,
+		img:img,
+		content:content,
+		desc:desc,
+		url:url
+		})
+});
+setResult(d);
 	`,
 }

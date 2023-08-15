@@ -35,127 +35,113 @@ var rule = {
 		desc:'div.article-header div.text&&Text',
 		content:'div.article-related.info p&&Text',
 		tabs:`js:
-			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-			TABS=[]
-			var d = pdfa(html, 'ul.down-list&&li');
-			let magnetIndex=0;
-			let ed2kIndex=0;
-			d.forEach(function(it) {
-				let burl = pdfh(it, 'a&&href');
-				log("burl >>>>>>" + burl);
-				if (burl.startsWith("magnet")){
-					let result = 'magnet' + magnetIndex;
-					magnetIndex = magnetIndex + 1;
-					TABS.push(result);
-				}
-			});
-			d.forEach(function(it) {
-				let burl = pdfh(it, 'a&&href');
-				log("burl >>>>>>" + burl);
-				if (burl.startsWith("ed2k")){
-					let result = 'ed2k' + ed2kIndex;
-					ed2kIndex = ed2kIndex + 1;
-					TABS.push(result);
-				}
-			});
-			log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
-		`,
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+TABS=[]
+var d = pdfa(html, 'ul.down-list&&li');
+let magnetIndex=0;
+let ed2kIndex=0;
+d.forEach(function(it) {
+	let burl = pdfh(it, 'a&&href');
+	log("burl >>>>>>" + burl);
+	if (burl.startsWith("magnet")){
+		let result = 'magnet' + magnetIndex;
+		magnetIndex = magnetIndex + 1;
+		TABS.push(result);
+	}
+});
+d.forEach(function(it) {
+	let burl = pdfh(it, 'a&&href');
+	log("burl >>>>>>" + burl);
+	if (burl.startsWith("ed2k")){
+		let result = 'ed2k' + ed2kIndex;
+		ed2kIndex = ed2kIndex + 1;
+		TABS.push(result);
+	}
+});
+log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
+`,
 		lists:`js:
-			log(TABS);
-			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-			LISTS = [];
-			var d = pdfa(html, 'ul.down-list&&li');
-			TABS.forEach(function(tab) {
-				log('tab >>>>>>>>' + tab);
-				if (/^magnet/.test(tab)) {
-					let targetindex = parseInt(tab.substring(6));
-					let index = 0;
-					d.forEach(function(it){
-						let burl = pdfh(it, 'a&&href');
-						if (burl.startsWith("magnet")){
-							if (index == targetindex){
-								let title = pdfh(it, 'a&&Text');
-								log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-								log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-								let loopresult = title + '$' + burl;
-								LISTS.push([loopresult]);
-							}
-							index = index + 1;
-						}
-					});
+log(TABS);
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+LISTS = [];
+var d = pdfa(html, 'ul.down-list&&li');
+TABS.forEach(function(tab) {
+	log('tab >>>>>>>>' + tab);
+	if (/^magnet/.test(tab)) {
+		let targetindex = parseInt(tab.substring(6));
+		let index = 0;
+		d.forEach(function(it){
+			let burl = pdfh(it, 'a&&href');
+			if (burl.startsWith("magnet")){
+				if (index == targetindex){
+					let title = pdfh(it, 'a&&Text');
+					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+					let loopresult = title + '$' + burl;
+					LISTS.push([loopresult]);
 				}
-			});
-			TABS.forEach(function(tab) {
-				log('tab >>>>>>>>' + tab);
-				if (/^ed2k/.test(tab)) {
-					let targetindex = parseInt(tab.substring(4));
-					let index = 0;
-					d.forEach(function(it){
-						let burl = pdfh(it, 'a&&href');
-						if (burl.startsWith("ed2k")){
-							if (index == targetindex){
-								let title = pdfh(it, 'a&&Text');
-								log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-								log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-								let loopresult = title + '$' + burl;
-								LISTS.push([loopresult]);
-							}
-							index = index + 1;
-						}
-					});
+				index = index + 1;
+			}
+		});
+	}
+});
+TABS.forEach(function(tab) {
+	log('tab >>>>>>>>' + tab);
+	if (/^ed2k/.test(tab)) {
+		let targetindex = parseInt(tab.substring(4));
+		let index = 0;
+		d.forEach(function(it){
+			let burl = pdfh(it, 'a&&href');
+			if (burl.startsWith("ed2k")){
+				if (index == targetindex){
+					let title = pdfh(it, 'a&&Text');
+					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+					let loopresult = title + '$' + burl;
+					LISTS.push([loopresult]);
 				}
-			});
-			`,
+				index = index + 1;
+			}
+		});
+	}
+});
+`,
 
 	},
-	搜索bak:'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',
 	搜索:`js:
-		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
-			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
-			let cookie = rule_fetch_params.headers.Cookie;
-			setItem(RULE_CK, cookie);
-		};
-		log('mp4us seach cookie>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
-                let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-		//log("mp4us search params>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-                let search_html = request( HOST + '/search/' + KEY + '-1.html', _fetch_params)
-		//log("mp4us search result>>>>>>>>>>>>>>>" + search_html);
-		let d=[];
-		//'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',
-		let dlist = pdfa(search_html, 'div#list_all li');
-		dlist.forEach(function(it){
-			let title = pdfh(it, 'img.lazy&&alt');
-			if (searchObj.quick === true){
-				if (title.includes(KEY)){
-					title = KEY;
-				}
-			}
-			let img = pd(it, 'img.lazy&&src', HOST);
-			let content = pdfh(it, 'div.text_info h2&&Text');
-			let desc = pdfh(it, 'p.info&&Text');
-			let url = pd(it, 'a&&href', HOST);
-			d.push({
-				title:title,
-				img:img,
-				content:content,
-				desc:desc,
-				url:url
-				})
-		});
-		setResult(d);
-	`,
-	预处理:`
-    		if (rule_fetch_params.headers.Cookie.startsWith("http")){
-			rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
-			let cookie = rule_fetch_params.headers.Cookie;
-			setItem(RULE_CK, cookie);
-		};
-		log('mp4us init cookie>>>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
-	`,
-	proxy_url_bak: `js:
-                let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-                let proxy_html = request( 'http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.101.1:1080&url=' + encodeURIComponent(input), _fetch_params);
-		input = [200, "text/html", proxy_html];
-	`,
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+if (rule_fetch_params.headers.Cookie.startsWith("http")){
+	rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);
+	let cookie = rule_fetch_params.headers.Cookie;
+	setItem(RULE_CK, cookie);
+};
+log('mp4us seach cookie>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
+let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+//log("mp4us search params>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
+let search_html = request( HOST + '/search/' + KEY + '-1.html', _fetch_params)
+//log("mp4us search result>>>>>>>>>>>>>>>" + search_html);
+let d=[];
+//'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',
+let dlist = pdfa(search_html, 'div#list_all li');
+dlist.forEach(function(it){
+	let title = pdfh(it, 'img.lazy&&alt');
+	if (searchObj.quick === true){
+		if (title.includes(KEY)){
+			title = KEY;
+		}
+	}
+	let img = pd(it, 'img.lazy&&src', HOST);
+	let content = pdfh(it, 'div.text_info h2&&Text');
+	let desc = pdfh(it, 'p.info&&Text');
+	let url = pd(it, 'a&&href', HOST);
+	d.push({
+		title:title,
+		img:img,
+		content:content,
+		desc:desc,
+		url:url
+		})
+});
+setResult(d);
+`,
 }

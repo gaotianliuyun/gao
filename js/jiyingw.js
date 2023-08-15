@@ -9,7 +9,7 @@ var rule = {
 	},
 	searchUrl: '/?s=**',
 	searchable:2,
-	quickSearch:1,
+	quickSearch:0,
 	filterable:1,
 	headers:{
 		'User-Agent': 'PC_UA',
@@ -18,7 +18,14 @@ var rule = {
 	timeout:5000,
 	class_name:'电影&电视剧&动漫&综艺&影评',
 	class_url:'movie&tv&cartoon&movie/variety&yingping',
-	play_parse:false,
+	play_parse:true,
+	play_json:[{
+		re:'*',
+		json:{
+			parse:0,
+			jx:0
+		}
+	}],
 	lazy:'',
 	limit:6,
 	推荐:'ul#post_container li;a&&title;img&&src;.article entry_post&&Text;a&&href',
@@ -29,58 +36,73 @@ var rule = {
 		desc:"#post_content&&Text",
 		content:".movie-introduce&&Text",
 		tabs:`js:
-			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-			TABS=[]
-			var d = pdfa(html, 'p.down-list3');
-			var index=0;
-			d.forEach(function(it) {
-				let burl = pdfh(it, 'a&&href');
-				log("burl >>>>>>" + burl);
-				if (burl.startsWith("magnet")){
-					let result = 'magnet' + index;
-					index = index + 1;
-					TABS.push(result);
-				}
-			});
-			log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
-		`,
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+TABS=[]
+var d = pdfa(html, '.movie-introduce p');
+var index=1;
+d.forEach(function(it) {
+	let burl = pdfh(it, 'a[href^="magnet"]&&href');
+	if (burl.startsWith("magnet")){
+		log("jiyingw burl >>>>>>" + burl);
+		let result = 'magnet' + index;
+		index = index + 1;
+		TABS.push(result);
+	}
+});
+log('jiyingw TABS >>>>>>>>>>>>>>>>>>' + TABS);
+`,
 		lists:`js:
-			log(TABS);
-			pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-			LISTS = [];
-			var d = pdfa(html, 'p.down-list3');
-			TABS.forEach(function(tab) {
-				log('tab >>>>>>>>' + tab);
-				if (/^magnet/.test(tab)) {
-					let targetindex = parseInt(tab.substring(6));
-					let index = 0;
-					d.forEach(function(it){
-						let burl = pdfh(it, 'a&&href');
-						if (burl.startsWith("magnet")){
-							if (index == targetindex){
-								let title = pdfh(it, 'a&&Text');
-								log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-								log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-								let loopresult = title + '$' + burl;
-								LISTS.push([loopresult]);
-							}
-							index = index + 1;
-						}
-					});
-				}
-			});
-			`,
+log(TABS);
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+LISTS = [];
+var d = pdfa(html, '.movie-introduce p');
+TABS.forEach(function(tab) {
+log('jiyingw tab >>>>>>>>' + tab);
+if (/^magnet/.test(tab)) {
+	let targetindex = parseInt(tab.substring(6));
+	let index = 1;
+	d.forEach(function(it){
+		let burl = pdfh(it, 'a[href^="magnet"]&&href');
+		if (burl.startsWith("magnet")){
+			if (index == targetindex){
+				let title = pdfh(it, 'a[href^="magnet"]&&Text');
+				log('jiyingw title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+				log('jiyingw burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+				let loopresult = title + '$' + burl;
+				LISTS.push([loopresult]);
+			}
+			index = index + 1;
+		}
+	});
+}
+});
+`,
 
 	},
-	搜索:'#post_container li.post;a.zoom&&title;a.zoom img&&src;.info&&Text;a&&href;.article&&Text',
-	预处理:`
-		let new_host=HOST;
-		let new_html=request(new_host, {withHeaders:true});
-		let json=JSON.parse(new_html);
-		let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");
-		let cookie=setCk?json[setCk].split(";")[0]:"";
-		log("cookie:"+cookie);
-		rule_fetch_params.headers.Cookie=cookie;
-		setItem(RULE_CK,cookie);
-	`,
+	搜索:`js:
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+let search_html=request(HOST + '/?s=' + KEY, _fetch_params);
+let d=[];
+let dlist = pdfa(search_html, 'h2');
+log("jiyingw dlist.length>>>>>>>"+dlist.length);
+dlist.forEach(function(it){
+	let title = pdfh(it, 'a&&title');
+	//if (searchObj.quick === true){
+	//	title = KEY;
+	//}
+	let img = '';
+	let content = title;
+	let desc = title;
+	let url = pd(it, 'a&&href', HOST);
+	d.push({
+		title:title,
+		img:img,
+		content:content,
+		desc:desc,
+		url:url
+		})
+});
+setResult(d);
+`,
 }

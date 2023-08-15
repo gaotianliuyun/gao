@@ -7,7 +7,7 @@
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
 "sites":[
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"SOD","server":"https://a.sodaz.xyz"},{"name":"AV","server":"https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"}]}},
+{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}},
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1;socks5://192.168.5.227:4592"},
 {"key":"量子","name":"量子","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.5.227:4592&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.5.227:4592&url=","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.5.227:4592&url=http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.5.227:4592&url=","searchable":1,"changeable":1,"categories":["伦理片"]},
