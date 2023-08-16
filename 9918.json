@@ -11,6 +11,10 @@
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1;socks5://192.168.5.227:4592"},
 {"key":"量子","name":"量子","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.5.227:4592&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.5.227:4592&url=","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.5.227:4592&url=http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.5.227:4592&url=","searchable":1,"changeable":1,"categories":["伦理片"]},
+{"key":"❤𝐹𝑜𝓃𝑔𝑀𝒾🍯大屌","name":"❤𝐹𝑜𝓃𝑔𝑀𝒾🍯大屌","type":3,"api":"https://qu.ax/VzAE.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://qu.ax/FqoN.json"},
+{"key":"push_agent","name":"推送|lf_push","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent_min.js"},
+{"key":"lf_js_search","name":"搜索|lf_search","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
+{"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"18+"},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"style":{"type":"rect","ratio":1.309}},
@@ -80,10 +84,10 @@
 {"key":"gdlsp.com","name":"成人49","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"sewozyapi.com","name":"成人50","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"jgczyapi.com","name":"成人51","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
-{"key":"api.apilyzy.com","name":"成人52","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
+{"key":"api.apilyzy.com","name":"成人52","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}}
 ],
 "rules":[
+{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
 {"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
 ]
