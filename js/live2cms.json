@@ -1,12 +1,12 @@
 [
         {
-            "name": "电视剧",
+            "name": "AV1",
             "type": 0,
-            "url": "https://qu.ax/qnbP.txt"
+            "url": "https://ghproxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/json/AV01.txt"
         },
         {
-            "name": "电影",
+            "name": "AV",
             "type": 0,
-            "url": "https://qu.ax/dzHV.txt"
+            "url": "https://ghproxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/json/AV.txt"
         }
 ]

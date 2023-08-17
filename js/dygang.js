@@ -39,7 +39,7 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-var d = pdfa(html, '#dede_content&&a');
+var d = pdfa(html, '#dede_content table tbody tr');
 var index=1;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
@@ -56,7 +56,7 @@ log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-var d = pdfa(html, '#dede_content&&a');
+var d = pdfa(html, '#dede_content table tbody tr');
 TABS.forEach(function(tab) {
 	log('tab >>>>>>>>' + tab);
 	if (/^magnet/.test(tab)) {
