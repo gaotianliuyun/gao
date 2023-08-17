@@ -1,29 +1,27 @@
-// 道长 drpy仓库 https://gitcode.net/qq_32394351/dr_py
-// drpy安卓本地搭建说明 https://code.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/blob/master/%E5%AE%89%E5%8D%93%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.md
-// Pluto Player官方TG https://t.me/PlutoPlayer
-// Pluto Player官方TG https://t.me/PlutoPlayerChannel
-
 var rule = {
     title:'抓饭体育',
-    host:'https://www.zhuafan.tech',
+    host:'https://www.zhuafan.xin',
     url:'/sports-home/category/fyclass',
-    class_name:'全部&足球&篮球&羽乒&台球&棒球&户外&搏击&综合&棋盘&电竞&网球&排球&聊天&原声',
-    class_url:'all&Football&Basketball&Badminton&Billiards&Baseball&Outdoors&Wrestling&Others&Boardgame&Popular&Tennis&Volleyball&Chat&Acoustic',
-	homeUrl:'/sports-home/category/all',//网站的首页链接,用于分类获取和推荐获取
-    detailUrl:'https://m.zhuafan.tech/fyid',//二级详情拼接链接(json格式用)
-    searchUrl:'/live-search/search/query/data?keyword=**&page=fypage&num=&searchType=all&uid=null&from=pc',
+    class_name:'全部&足球&篮球&网球&羽乒&台球&排球&棒球&搏击&电竞&棋盘&户外&聊天&原声&综合',
+    class_url:'all&Football&Basketball&Tennis&Badminton&Billiards&Volleyball&Baseball&Wrestling&Popular&Boardgame&Outdoors&Chat&Acoustic&Others',
+	homeUrl:'/sports-home/category/all',
+    detailUrl:'https://m.justmi.cn/fyid',
+    searchUrl:'/sports-user/user/search/query-data?keyword=**&searchType=cname',
     searchable:2,
     quickSearch:0,
     headers:{ 
-        'User-Agent':'PC_UA'
+        'User-Agent':'PC_UA',
+        'Referer':'https://www.justmi.cn/',
+        'Origin':'https://www.justmi.cn'
     },
     limit:6,
     timeout:5000,
     play_parse:true,
+    pagecount:{"all":1,"Football":1,"Basketball":1,"Tennis":1,"Badminton":1,"Billiards":1,"Volleyball":1,"Baseball":1,"Wrestling":1,"Popular":1,"Boardgame":1,"Outdoors":1,"Chat":1,"Acoustic":1,"Others":1},
     lazy:'',
     double:false,
     推荐:'*',
     一级:'json:data;cname;imageUrl;uname;id',
     二级:'*',
-	搜索:'json:cObj.cList;*;*;*;_id',
+	搜索:'json:data.channelList;*;*;onlinescore;id',
 }
