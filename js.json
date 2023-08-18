@@ -15,6 +15,7 @@
 {"key":"push_agent","name":"路飞 | 推送[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent_min.js"},
 {"key":"lf_js_p2p","name":"路飞 | 磁力[js]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js"},
 {"key":"lf_js_ikanbot","name":"路飞 | 点播[js]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_ikanbot4_min.js"},
+{"key":"lf_js_lf_live","name":""路飞 | 直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
 {"key":"drpy_js_4KHDR","name":"PG | 4KHDR[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
 {"key":"drpy_js_极影网","name":"PG | 极影网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
 {"key":"drpy_js_MP4US","name":"PG | MP4电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},

@@ -25,8 +25,6 @@
 {"key":"drpy_js_极影网","name":"极影网*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_MP4US","name":"MP4电影*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_电影港","name":"电影港*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
-{"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
-{"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
 {"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$socks5://192.168.5.227:4592"},
 {"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
@@ -43,6 +41,8 @@
 {"key":"AppYsV2_迪迪","name":"迪迪","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"AppYsV2_酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
 {"key":"AppYsV2_飞速","name":"飞速","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
+{"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+{"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
 {"key":"Gitcafe", "name": "纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt" },
 {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
