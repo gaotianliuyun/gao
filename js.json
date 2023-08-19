@@ -1,5 +1,5 @@
 {
-"spider": "./jar/fanty.jar;md5;b3a5a49c793dd82c3fd04e75d3071b20",
+"spider": "./jar/fanty.jar;md5;125712f0807f914eae788cd96348e259",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
@@ -9,6 +9,7 @@
 {"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/新片场.js"},
 {"key":"csp_YGP","name":"新片速递[jar]","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_WoGG","name":"玩偶哥哥[jar]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
+{"key":"DiDuan","name":"新6V磁力[jar]","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 
 {"key":"csp_wogg_cli","name":"俊俊 | 玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"荐片","name":"俊俊 | 荐片[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
