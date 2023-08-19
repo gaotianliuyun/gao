@@ -1,5 +1,8 @@
 var rule = {
 	title:'极影网[磁]',
+	//host:'https://www.jiyingw.net',
+	//homeUrl:'/',
+	//url: '/fyclass/page/fypage?',
 	host:'http://127.0.0.1:10079',
 	homeUrl:'/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.jiyingw.net',
 	url: '/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.jiyingw.net/fyclass/page/fypage?',

@@ -1,9 +1,10 @@
 var rule = {
 	title:'磁力熊[磁]',
-	host:'http://127.0.0.1:10079',
-	homeUrl:'/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.cilixiong.com/',
-	// url: '/fyclass/index_(fypage-1).html',
+	//host:'https://www.cilixiong.com',
+	//homeUrl:'/',
 	//url: '/fyclassfyfilter-(fypage-1).html',
+	host:'http://127.0.0.1:10079',
+	homeUrl:'/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.cilixiong.com',
 	url:'/p/0/socks5%253A%252F%252F192.168.101.1%253A1080/https://www.cilixiong.com/fyclassfyfilter-(fypage-1).html',
 	filter_url:'-{{fl.class or "0"}}-{{fl.area or "0"}}',
 	filter:{
@@ -19,7 +20,7 @@ var rule = {
 	},
 	timeout:5000,
 	class_name:'电影&剧集&豆瓣电影Top250&IMDB Top250&高分悬疑片&高分喜剧片&高分传记片&高分爱情片&高分犯罪片&高分恐怖片&高分冒险片&高分武侠片&高分奇幻片&高分历史片&高分战争片&高分歌舞片&高分灾难片&高分情色片&高分西部片&高分音乐片&高分科幻片&高分动作片&高分动画片&高分纪录片&冷门佳片',
-	class_url:'1&2&/top250/&/s/imdbtop250/&/s/suspense/&/s/comedy/&/s/biopic/&/s/romance/&/s/crime/&/s/horror/&/s/adventure/&/s/martial/&/s/fantasy/&/s/history/&/s/war/&/s/musical/&/s/disaster/&/s/erotic/&/s/west/&/s/music/&/s/sci-fi/&s/action/&/s/animation/&/s/documentary/&/s/unpopular/',
+	class_url:'1&2&/top250/&/s/imdbtop250/&/ssuspense/&/s/comedy/&/s/biopic/&/s/romance/&/s/crime/&/s/horror/&/s/adventure/&/s/martial/&/s/fantasy/&/s/history/&/s/war/&/s/musical/&/s/disaster/&/s/erotic/&/s/west/&/s/music/&/s/sci-fi/&/s/action/&/s/animation/&/s/documentary/&/s/unpopular/',
 	play_parse:false,
 	lazy:'',
 	limit:6,
@@ -43,7 +44,7 @@ var rule = {
 		var d = [];
 		if (MY_CATE !== '1' && MY_CATE !== '2') {
 			let turl = (MY_PAGE === 1)? 'index' : 'index_'+ MY_PAGE;
-			input = HOST + MY_CATE + turl + '.html';
+			input = rule.homeUrl + MY_CATE + turl + '.html';
 		}
 		var html = request(input);
 		var list = pdfa(html, 'body&&.col');
