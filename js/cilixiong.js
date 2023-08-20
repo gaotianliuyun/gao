@@ -20,7 +20,7 @@ var rule = {
 	},
 	timeout:5000,
 	class_name:'电影&剧集&豆瓣电影Top250&IMDB Top250&高分悬疑片&高分喜剧片&高分传记片&高分爱情片&高分犯罪片&高分恐怖片&高分冒险片&高分武侠片&高分奇幻片&高分历史片&高分战争片&高分歌舞片&高分灾难片&高分情色片&高分西部片&高分音乐片&高分科幻片&高分动作片&高分动画片&高分纪录片&冷门佳片',
-	class_url:'1&2&/top250/&/s/imdbtop250/&/ssuspense/&/s/comedy/&/s/biopic/&/s/romance/&/s/crime/&/s/horror/&/s/adventure/&/s/martial/&/s/fantasy/&/s/history/&/s/war/&/s/musical/&/s/disaster/&/s/erotic/&/s/west/&/s/music/&/s/sci-fi/&/s/action/&/s/animation/&/s/documentary/&/s/unpopular/',
+	class_url:'1&2&/top250/&/s/imdbtop250/&/s/suspense/&/s/comedy/&/s/biopic/&/s/romance/&/s/crime/&/s/horror/&/s/adventure/&/s/martial/&/s/fantasy/&/s/history/&/s/war/&/s/musical/&/s/disaster/&/s/erotic/&/s/west/&/s/music/&/s/sci-fi/&/s/action/&/s/animation/&/s/documentary/&/s/unpopular/',
 	play_parse:false,
 	lazy:'',
 	limit:6,

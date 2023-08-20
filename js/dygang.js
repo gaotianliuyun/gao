@@ -39,44 +39,41 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-var d = pdfa(html, '#dede_content table tbody tr');
-var index=1;
-d.forEach(function(it) {
-	let burl = pdfh(it, 'a&&href');
-	log("burl >>>>>>" + burl);
-	if (burl.startsWith("magnet")){
-		let result = 'magnet' + index;
-		index = index + 1;
-		TABS.push(result);
-	}
-});
-log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
+var d = pdfa(html, '#dede_content table tbody tr a[href^="magnet"]');
+if (d.length>0){
+	TABS.push("磁力");
+}
+d = pdfa(html, '#dede_content table tbody tr a[href^="ed2k"]');
+if (d.length>0){
+	TABS.push("電驢");
+}
+log('dygang TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
 var d = pdfa(html, '#dede_content table tbody tr');
-TABS.forEach(function(tab) {
-	log('tab >>>>>>>>' + tab);
-	if (/^magnet/.test(tab)) {
-		let targetindex = parseInt(tab.substring(6));
-		let index = 1;
-		d.forEach(function(it){
-			let burl = pdfh(it, 'a&&href');
-			if (burl.startsWith("magnet")){
-				if (index === targetindex){
-					let title = pdfh(it, 'a&&Text');
-					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-					let loopresult = title + '$' + burl;
-					LISTS.push([loopresult]);
-				}
-				index = index + 1;
-			}
-		});
+let listm = [];
+let liste = [];
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	let title = pdfh(it, 'a&&Text');
+	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	let loopresult = title + '$' + burl;
+	if (burl.startsWith("magnet")){
+		listm.push(loopresult);
+	}else if (burl.startsWith("ed2k")){
+		liste.push(loopresult);
 	}
 });
+if (listm.length>0){
+	LISTS.push(listm);
+}
+if (liste.length>0){
+	LISTS.push(liste);
+}
 `,
 
 	},

@@ -37,74 +37,41 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-var d = pdfa(html, 'ul.down-list&&li');
-let magnetIndex=1;
-let ed2kIndex=1;
-d.forEach(function(it) {
-	let burl = pdfh(it, 'a&&href');
-	log("burl >>>>>>" + burl);
-	if (burl.startsWith("magnet")){
-		let result = 'magnet' + magnetIndex;
-		magnetIndex = magnetIndex + 1;
-		TABS.push(result);
-	}
-});
-d.forEach(function(it) {
-	let burl = pdfh(it, 'a&&href');
-	log("burl >>>>>>" + burl);
-	if (burl.startsWith("ed2k")){
-		let result = 'ed2k' + ed2kIndex;
-		ed2kIndex = ed2kIndex + 1;
-		TABS.push(result);
-	}
-});
-log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
+let d = pdfa(html, 'ul.down-list&&li a[href^="magnet"]');
+if (d.length > 0){
+	TABS.push("磁力");
+}
+d = pdfa(html, 'ul.down-list&&li a[href^="ed2k"]');
+if (d.length > 0){
+	TABS.push("電驢");
+}
+log('mp4us TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-var d = pdfa(html, 'ul.down-list&&li');
-TABS.forEach(function(tab) {
-	log('tab >>>>>>>>' + tab);
-	if (/^magnet/.test(tab)) {
-		let targetindex = parseInt(tab.substring(6));
-		let index = 1;
-		d.forEach(function(it){
-			let burl = pdfh(it, 'a&&href');
-			if (burl.startsWith("magnet")){
-				if (index === targetindex){
-					let title = pdfh(it, 'a&&Text');
-					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-					let loopresult = title + '$' + burl;
-					LISTS.push([loopresult]);
-				}
-				index = index + 1;
-			}
-		});
+let d = pdfa(html, 'ul.down-list&&li');
+let listm = [];
+let liste = [];
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	let title = pdfh(it, 'a&&Text');
+	log('mp4us title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('mp4us burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	let loopresult = title + '$' + burl;
+	if (burl.startsWith("magnet")){
+		listm.push(loopresult);
+	}else if (burl.startsWith("ed2k")){
+		liste.push(loopresult);
 	}
 });
-TABS.forEach(function(tab) {
-	log('tab >>>>>>>>' + tab);
-	if (/^ed2k/.test(tab)) {
-		let targetindex = parseInt(tab.substring(4));
-		let index = 1;
-		d.forEach(function(it){
-			let burl = pdfh(it, 'a&&href');
-			if (burl.startsWith("ed2k")){
-				if (index === targetindex){
-					let title = pdfh(it, 'a&&Text');
-					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-					let loopresult = title + '$' + burl;
-					LISTS.push([loopresult]);
-				}
-				index = index + 1;
-			}
-		});
-	}
-});
+if (listm.length>0){
+	LISTS.push(listm.reverse());
+}
+if (liste.length>0){
+	LISTS.push(liste.reverse());
+}
 `,
 
 	},

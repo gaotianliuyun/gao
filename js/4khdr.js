@@ -37,76 +37,52 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-// log("4khdr 二级 html>>>>>>>>>>" + html);
-var d = pdfa(html, 'table.t_table');
-let magnetIndex=1;
+let d = pdfa(html, 'table.t_table');
 let aliIndex=1;
 d.forEach(function(it) {
-let burl = pdfh(it, 'a&&href');
-log("burl >>>>>>" + burl);
-if (burl.startsWith("https://www.aliyundrive.com/s/")){
-	let result = 'aliyun' + aliIndex;
-	aliIndex = aliIndex + 1;
-	TABS.push(result);
-}
+	let burl = pdfh(it, 'a&&href');
+	log("burl >>>>>>" + burl);
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		TABS.push("aliyun"+aliIndex);
+		aliIndex = aliIndex + 1;
+	}
 });
-d.forEach(function(it) {
-let burl = pdfh(it, 'a&&href');
-log("burl >>>>>>" + burl);
-if (burl.startsWith("magnet")){
-	let result = 'magnet' + magnetIndex;
-	magnetIndex = magnetIndex + 1;
-	TABS.push(result);
+d = pdfa(html, 'table.t_table a[href^="magnet"]');
+if (d.length>0){
+	TABS.push("磁力");
 }
-});
 log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-var d = pdfa(html, 'table.t_table');
-TABS.forEach(function(tab) {
-log('tab >>>>>>>>' + tab);
-if (/^aliyun/.test(tab)) {
-	let targetindex = parseInt(tab.substring(6));
-	let index = 1;
-	d.forEach(function(it){
-		let burl = pdfh(it, 'a&&href');
-		if (burl.startsWith("https://www.aliyundrive.com/s/")){
-			if (index === targetindex){
-				let title = pdfh(it, 'a&&Text');
-				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-				burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
-				log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-				let loopresult = title + '$' + burl;
-				LISTS.push([loopresult]);
-			}
-			index = index + 1;
-		}
-	});
-}
+let d = pdfa(html, 'table.t_table');
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		let title = pdfh(it, 'a&&Text');
+		log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+		burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+		log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+		let loopresult = title + '$' + burl;
+		LISTS.push([loopresult]);
+	}
 });
-TABS.forEach(function(tab) {
-log('tab >>>>>>>>' + tab);
-if (/^magnet/.test(tab)) {
-	let targetindex = parseInt(tab.substring(6));
-	let index = 1;
-	d.forEach(function(it){
-		let burl = pdfh(it, 'a&&href');
-		if (burl.startsWith("magnet")){
-			if (index === targetindex){
-				let title = pdfh(it, 'a&&Text');
-				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-				log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-				let loopresult = title + '$' + burl;
-				LISTS.push([loopresult]);
-			}
-			index = index + 1;
-		}
-	});
-}
+let listm = [];
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("magnet")){
+		let title = pdfh(it, 'a&&Text');
+		log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+		log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+		let loopresult = title + '$' + burl;
+		listm.push(loopresult);
+	}
 });
+if (listm.length>0){
+	LISTS.push(listm);
+}
 `,
 
 	},
