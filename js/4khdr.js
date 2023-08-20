@@ -43,8 +43,17 @@ d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
 	log("burl >>>>>>" + burl);
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
-		TABS.push("aliyun"+aliIndex);
+		TABS.push("阿里雲盤"+aliIndex);
 		aliIndex = aliIndex + 1;
+	}
+});
+let quarkIndex=1;
+d.forEach(function(it) {
+	let burl = pdfh(it, 'a&&href');
+	log("burl >>>>>>" + burl);
+	if (burl.startsWith("https://pan.quark.cn/s/")){
+		TABS.push("夸克雲盤"+quarkIndex);
+		quarkIndex = quarkIndex + 1;
 	}
 });
 d = pdfa(html, 'table.t_table a[href^="magnet"]');
@@ -64,6 +73,17 @@ d.forEach(function(it){
 		let title = pdfh(it, 'a&&Text');
 		log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 		burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+		log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+		let loopresult = title + '$' + burl;
+		LISTS.push([loopresult]);
+	}
+});
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("https://pan.quark.cn/s/")){
+		let title = pdfh(it, 'a&&Text');
+		log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+		burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
 		log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 		let loopresult = title + '$' + burl;
 		LISTS.push([loopresult]);
