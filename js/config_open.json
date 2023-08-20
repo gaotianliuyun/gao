@@ -1,0 +1,161 @@
+﻿{
+  "video": {
+    "sites": [
+{"key":"drpy_js_boosj_open","name":"童趣┃猫","type":3,"api":"assets://js/boosj_open.js"},
+{"key":"drpy_js_tuxiaobei_open","name":"兔小贝┃猫","type":3,"api":"assets://js/tuxiaobei_open.js"},
+{"key":"drpy_js_ubestkid_open","name":"贝乐虎┃猫","type":3,"api":"assets://js/ubestkid_open.js"},
+{"key":"drpy_js_dj0898_open","name":"世纪DJ┃猫","type":3,"api":"assets://js/dj0898_open.js"},
+{"key":"drpy_js_zxzj_open","name":"在线之家┃猫","type":3,"api":"assets://js/zxzj_open.js"},
+{"key":"drpy_js_cntv_open","name":"视聚场┃猫","type":3,"api":"assets://js/cntv_open.js"},
+{"key":"drpy_js_bili_open","name":"哔哩合集┃猫","type":3,"api":"assets://js/bili_open.js"},
+      {
+        "key": "wogg",
+        "name": "Cat_open_js_玩偶｜猫影视app",
+        "type": 3,
+        "api": "assets://js/wogg_open.js",
+        "ext": "8069d2ca50c749ed932e171fb2a41b95"
+      },
+
+      {
+        "key": "kunyu77",
+        "name": "Cat_open_js_鲲鱼｜猫影视app",
+        "type": 3,
+        "api": "assets://js/kunyu77_open.js"
+     },
+	 {
+        "key": "czzy",
+        "name": "Cat_open_js_厂长｜猫影视app",
+        "type": 3,
+        "api": "assets://js/czzy_open.js"
+     },
+	 {
+        "key": "libvio",
+        "name": "Cat_open_js_黎波｜猫影视app",
+        "type": 3,
+        "api": "assets://js/libvio_open.js"
+     },	 
+	 {
+        "key": "kkys",
+        "name": "Cat_open_js_快看｜猫影视app",
+        "type": 3,
+        "api": "assets://js/kkys_open.js"
+     },	 
+	 {
+        "key": "ikanbot",
+        "name": "Cat_open_js_爱看｜猫影视app",
+        "type": 3,
+        "api": "assets://js/ikanbot_open.js"
+     },	 
+	 {
+        "key": "ngys",
+        "name": "Cat_open_js_南瓜｜猫影视app",
+        "type": 3,
+        "api": "assets://js/ng_open.js"
+     },	 
+      {
+        "key": "duboku",
+        "name": "Cat_open_js_独播库｜猫影视app",
+        "type": 3,
+        "api": "assets://js/duboku_open.js"
+      },	
+	 {
+        "key": "subaibai",
+        "name": "Cat_open_js_素白白｜猫影视app",
+        "type": 3,
+        "api": "assets://js/subaibai_open.js"
+     },	 
+
+	 {
+        "key": "sharenice",
+        "name": "Cat_open_js_短视频｜猫影视app",
+        "type": 3,
+        "api": "assets://js/sharenice_open.js"
+     },	
+	 {
+        "key": "mybili",
+        "name": "Cat_open_js_哔哩｜猫影视app",
+        "type": 3,
+        "api": "assets://js/mybili_open.js"
+     },	 
+	 {
+        "key": "kuqimv",
+        "name": "Cat_open_js_酷奇｜猫影视app",
+        "type": 3,
+        "api": "assets://js/kuqimv_open.js"
+     },	 
+	 {
+        "key": "230ts",
+        "name": "Cat_open_js_听书｜猫影视app",
+        "type": 3,
+        "api": "assets://js/230ts_open.js"
+     }	 
+
+    ]	
+  },
+  "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "Alist",
+        "type": 40,
+        "api": "assets://js/alist_open.js",
+        "ext": [
+          {
+            "name": "🙋丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+          {
+            "name": "🐋一只鱼",
+            "server": "https://alist.youte.ml"
+          },
+          {
+            "name": "杜比",
+            "server": "https://dubi.tk"
+          },
+          {
+            "name": "资源",
+            "server": "https://pan.ecve.cn"
+          },
+          {
+            "name": "🌊七米蓝",
+            "server": "https://al.chirmyram.com"
+          },
+          {
+            "name": "🐉神族九帝",
+            "server": "https://alist.shenzjd.com"
+          },
+          {
+            "name": "☃️姬路白雪",
+            "server": "https://pan.jlbx.xyz"
+          },
+          {
+            "name": "✨星梦",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "💢repl",
+            "server": "https://ali.liucn.repl.co"
+          },
+          {
+            "name": "💦讯维云盘",
+            "server": "https://pan.xwbeta.com"
+          }
+        ]
+      }
+    ]
+  }
+}
