@@ -27,7 +27,9 @@ FongMi影视、TVBox配置文件。所有资源均来自于各路大神无私分
 
 （8）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气；
 
-（9）XYQ.json  XYQ源，jar包和配置来源于香雅情。
+（9）XYQ.json  XYQ源，jar包和配置来源于香雅情；
+
+（10）cat.json  cat源，资源来源于CatVodOpen仓库和tloook大佬，适配FongMi影视播放。
 
 2. APP推荐:
 
