@@ -41,72 +41,133 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-let d = pdfa(html, '.movie-introduce p a[href^="magnet"]');
-if (d.length > 0){
+let tabsa = [];
+let tabsq = [];
+let tabsm = false;
+let tabse = false;
+let d = pdfa(html, '.movie-introduce p a');
+d.forEach(function(it) {
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		tabsa.push("阿里云盤");
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		tabsq.push("夸克云盤");
+	}else if (burl.startsWith("magnet")){
+		tabsm = true;
+	}else if (burl.startsWith("ed2k")){
+		tabse = true;
+	}
+});
+d = pdfa(html, 'div#down p.down-list3 a');
+d.forEach(function(it) {
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		tabsa.push("阿里云盤");
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		tabsq.push("夸克云盤");
+	}else if (burl.startsWith("magnet")){
+		tabsm = true;
+	}else if (burl.startsWith("ed2k")){
+		tabse = true;
+	}
+});
+if (tabsm === true){
 	TABS.push("磁力");
-}else{
-	d = pdfa(html, 'div#down p.down-list3 a[href^="magnet"]');
-	if (d.length > 0){
-		TABS.push("磁力");
-	}
 }
-d = pdfa(html, '.movie-introduce p a[href^="ed2k"]');
-if (d.length > 0){
+if (tabse === true){
 	TABS.push("電驢");
-}else{
-	d = pdfa(html, 'div#down p.down-list3 a[href^="ed2k');
-	if (d.length > 0){
-		TABS.push("電驢");
-	}
 }
+let tmpIndex;
+tmpIndex=1;
+tabsa.forEach(function(it){
+	TABS.push(it + tmpIndex);
+	tmpIndex = tmpIndex + 1;
+});
+tmpIndex=1;
+tabsq.forEach(function(it){
+	TABS.push(it + tmpIndex);
+	tmpIndex = tmpIndex + 1;
+});
 log('jiyingw TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
+let lista = [];
+let listq = [];
 let listm = [];
 let liste = [];
 let d = pdfa(html, '.movie-introduce p');
 d.forEach(function(it){
-	let burl = pdfh(it, 'a[href^="magnet"]&&href');
-	let title = pdfh(it, 'a[href^="magnet"]&&Text');
-	log('jiyingw title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('jiyingw burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	let burl = pdfh(it, 'a&&href');
+	let title = pdfh(it, 'a&&Text');
+	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
-	listm.push(loopresult);
-
-	burl = pdfh(it, 'a[href^="ed2k"]&&href');
-	title = pdfh(it, 'a[href^="ed2k"]&&Text');
-	log('jiyingw title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('jiyingw burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-	loopresult = title + '$' + burl;
-	liste.push(loopresult);
-});
-if (listm.length<=0){
-	d = pdfa(html, 'div#down p.down-list3');
-	d.forEach(function(it){
-		let burl = pdfh(it, 'a[href^="magnet"]&&href');
-		let title = pdfh(it, 'a[href^="magnet"]&&Text');
-		log('jiyingw title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-		log('jiyingw burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-		let loopresult = title + '$' + burl;
-		listm.push(loopresult);
-
-		burl = pdfh(it, 'a[href^="ed2k"]&&href');
-		title = pdfh(it, 'a[href^="ed2k"]&&Text');
-		log('jiyingw title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-		log('jiyingw burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+		}
 		loopresult = title + '$' + burl;
+		lista.push(loopresult);
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		}
+		loopresult = title + '$' + burl;
+		listq.push(loopresult);
+	}else if (burl.startsWith("magnet")){
+		listm.push(loopresult);
+	}else if (burl.startsWith("ed2k")){
 		liste.push(loopresult);
-	});
-}
+	}
+});
+d = pdfa(html, 'div#down p.down-list3 a');
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	let title = pdfh(it, 'a&&Text');
+	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	let loopresult = title + '$' + burl;
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+		}
+		loopresult = title + '$' + burl;
+		lista.push(loopresult);
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		}
+		loopresult = title + '$' + burl;
+		listq.push(loopresult);
+	}else if (burl.startsWith("magnet")){
+		listm.push(loopresult);
+	}else if (burl.startsWith("ed2k")){
+		liste.push(loopresult);
+	}
+});
 if (listm.length>0){
 	LISTS.push(listm);
 }
 if (liste.length>0){
 	LISTS.push(liste);
 }
+lista.forEach(function(it){
+	LISTS.push([it]);
+});
+listq.forEach(function(it){
+	LISTS.push([it]);
+});
 `,
 
 	},

@@ -33,8 +33,7 @@ var rule = {
 			d.push({
 				title: pdfh(it, 'h2&&Text'),
 				desc: pdfh(it, '.me-auto&&Text') + '分 / ' + pdfh(it, '.small&&Text'),
-				pic_url: pd(it, '.card-img&&style'),
-				url: pd(it, 'a&&href')
+				pic_url: pd(it, '.card-img&&style')
 			});
 		})
 		setResult(d);
@@ -52,8 +51,7 @@ var rule = {
 			d.push({
 				title: pdfh(it, 'h2&&Text'),
 				desc: pdfh(it, '.me-auto&&Text') + '分 / ' + pdfh(it, '.small&&Text'),
-				pic_url: pdfh(it, '.card-img&&style'),
-				url: ''
+				pic_url: pdfh(it, '.card-img&&style')
 			});
 		})
 		setResult(d);

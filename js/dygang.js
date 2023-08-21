@@ -39,21 +39,49 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-var d = pdfa(html, '#dede_content table tbody tr a[href^="magnet"]');
-if (d.length>0){
+let d = pdfa(html, '#dede_content table tbody tr a');
+let tabsa = [];
+let tabsq = [];
+let tabsm = false;
+let tabse = false;
+d.forEach(function(it) {
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		tabsa.push("阿里云盤");
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		tabsq.push("夸克云盤");
+	}else if (burl.startsWith("magnet")){
+		tabsm = true;
+	}else if (burl.startsWith("ed2k")){
+		tabse = true;
+	}
+});
+if (tabsm === true){
 	TABS.push("磁力");
 }
-d = pdfa(html, '#dede_content table tbody tr a[href^="ed2k"]');
-if (d.length>0){
+if (tabse === true){
 	TABS.push("電驢");
 }
+let tmpIndex;
+tmpIndex=1;
+tabsa.forEach(function(it){
+	TABS.push(it + tmpIndex);
+	tmpIndex = tmpIndex + 1;
+});
+tmpIndex=1;
+tabsq.forEach(function(it){
+	TABS.push(it + tmpIndex);
+	tmpIndex = tmpIndex + 1;
+});
 log('dygang TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-var d = pdfa(html, '#dede_content table tbody tr');
+let d = pdfa(html, '#dede_content table tbody tr a');
+let lista = [];
+let listq = [];
 let listm = [];
 let liste = [];
 d.forEach(function(it){
@@ -62,7 +90,23 @@ d.forEach(function(it){
 	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
-	if (burl.startsWith("magnet")){
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+		}
+		loopresult = title + '$' + burl;
+		lista.push(loopresult);
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		}
+		loopresult = title + '$' + burl;
+		listq.push(loopresult);
+	}else if (burl.startsWith("magnet")){
 		listm.push(loopresult);
 	}else if (burl.startsWith("ed2k")){
 		liste.push(loopresult);
@@ -74,6 +118,12 @@ if (listm.length>0){
 if (liste.length>0){
 	LISTS.push(liste);
 }
+lista.forEach(function(it){
+	LISTS.push([it]);
+});
+listq.forEach(function(it){
+	LISTS.push([it]);
+});
 `,
 
 	},
