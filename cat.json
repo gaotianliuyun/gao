@@ -1,0 +1,21 @@
+﻿{"sites":[
+{"key":"wogg","name":"影视 | 玩偶哥哥[cat]","type":3,"api":"./js/wogg_open.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"kunyu77","name":"影视 | 七七[cat]","type":3,"api":"./js/kunyu77_open.js"},
+{"key":"czzy","name":"影视 | 厂长[cat]","type":3,"api":"./js/czzy_open.js"},
+{"key":"libvio","name":"影视 | libvio[cat]","type":3,"api":"./js/libvio_open.js"},
+{"key":"kkys","name":"影视 | 快看[cat]","type":3,"api":"./js/kkys_open.js"},
+{"key":"ikanbot","name":"影视 | 爱看[cat]","type":3,"api":"./js/ikanbot_open.js"},
+{"key":"ngys","name":"影视 | 南瓜[cat]","type":3,"api":"./js/ng_open.js"},
+{"key":"duboku","name":"影视 | 独播库[cat]","type":3,"api":"./js/duboku_open.js"},
+{"key":"subaibai","name":"影视 | 素白白[cat]","type":3,"api":"./js/subaibai_open.js"},
+{"key":"drpy_js_zxzj_open","name":"影视 | 在线之家[cat]","type":3,"api":"./js/zxzj_open.js"},
+{"key":"drpy_js_boosj_open","name":"少儿 | 童趣[cat]","type":3,"api":"./js/boosj_open.js"},
+{"key":"drpy_js_tuxiaobei_open","name":"少儿 | 兔小贝[cat]","type":3,"api":"./js/tuxiaobei_open.js"},
+{"key":"drpy_js_ubestkid_open","name":"少儿 | 贝乐虎[cat]","type":3,"api":"./js/ubestkid_open.js"},
+{"key":"sharenice","name":"聚合 | 短视频[cat]","type":3,"api":"./js/sharenice_open.js"},
+{"key":"mybili","name":"视频 | 哔哩合集[cat]","type":3,"api":"./js/mybili_open.js"},
+{"key":"drpy_js_cntv_open","name":"电视 | 视聚场[cat]","type":3,"api":"./js/cntv_open.js"},
+{"key":"drpy_js_dj0898_open","name":"音频 | 世纪DJ[cat]","type":3,"api":"./js/dj0898_open.js"},
+{"key":"kuqimv","name":"MV | 酷奇[cat]","type":3,"api":"./js/kuqimv_open.js"},
+{"key":"230ts","name":"听书 | 听书[cat]","type":3,"api":"./js/230ts_open.js"}
+]}

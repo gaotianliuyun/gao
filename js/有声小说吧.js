@@ -1,3 +1,4 @@
+
 var rule = {
     title:'有声小说吧',
     编码:'gb18030',
@@ -21,10 +22,12 @@ var rule = {
     推荐:'.list-ul .list-li;.list-name&&Text;*;.module-slide-author&&Text;*',
     一级:'.book-ol&&li;h4&&Text;img&&data-original;.book-meta&&Text;a&&href',
     二级:{
-    	title:'h2&&Text;.book-cell .book-rand-a:eq(2)&&Text',
+    	// title:'h2&&Text;.book-cell .book-rand-a:eq(2)&&Text',
+        title:'h1&&Text;.book-cell .book-rand-a:eq(0)&&a&&Text',
     	img:'.book img&&src',
-    	desc:';;;;.book-des p&&Text',
-    	content:'.book-des&&Text',
+    	// desc:';;;;.book-des p&&Text',
+        desc:';;;.book-rand-a:eq(2)&&Text;.book-des p&&Text',
+    	content:'.book-des--p&&Text',
 	    tabs:'.playlist-top&&h2',
     	// lists:'js:pd=jsp.pd;let url=pd(html,".bookbutton&&a&&href");log(url);html=request(url);let v=pd(html,".booksite&&script&&Html");var document={};var VideoListJson;VideoListJson=eval(v.split("VideoListJson=")[1].split(",urlinfo")[0]);log(typeof VideoListJson);let list1=VideoListJson[0][1];LISTS=[list1];log(LISTS);',
    		// 有声小说有防盗链,我服了(上面的列表数据正常拿到了,没法播放)

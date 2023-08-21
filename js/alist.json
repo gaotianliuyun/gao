@@ -29,51 +29,6 @@
 }
 }
 },
-{
-"name": "小狗电影",
-"server": "https://alist.ccome.site",
-"startPage": "/电影",
-"showAll": false,
-"search": true,
-"params": {
-"/abc": {
-"password": "123"
-},
-"/abc/abc": {
-"password": "123"
-}
-}
-},
-{
-"name": "小鸟剧集",
-"server": "https://alist.ccome.site",
-"startPage": "/电视剧1",
-"showAll": false,
-"search": true,
-"params": {
-"/abc": {
-"password": "123"
-},
-"/abc/abc": {
-"password": "123"
-}
-}
-},
-{
-"name": "小象动漫",
-"server": "https://alist.ccome.site",
-"startPage": "/动漫",
-"showAll": false,
-"search": true,
-"params": {
-"/abc": {
-"password": "123"
-},
-"/abc/abc": {
-"password": "123"
-}
-}
-},
         {
         "name" : "🙋丫仙女",
         "server" : "http://alist.xiaoya.pro",

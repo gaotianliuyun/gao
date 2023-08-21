@@ -97,10 +97,13 @@ if (/getvddr/.test(purl)) {
 `;
 
 // 网址发布页 https://ddys.site
+// 网址发布页 https://ddys.wiki
 var rule={
     title:'ddys',
-    host:'https://ddys.site', 
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});HOST = jsp.pdfh(html,"a:eq(1)&&href")',
+    // host:'https://ddys.wiki', 
+    // hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});HOST = jsp.pdfh(html,"a:eq(1)&&href")',
+    host:'https://ddys.pro',
+    // host:'https://ddys.mov',
     url:'/fyclass/page/fypage/',
     searchUrl:'/?s=**&post_type=post',
     searchable:2,

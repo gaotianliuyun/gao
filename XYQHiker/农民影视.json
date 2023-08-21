@@ -67,6 +67,6 @@
     "选集链接加后缀": "",
     "分析MacPlayer": "2",
     "是否开启手动嗅探": "1",
-    "手动嗅探视频链接关键词": ".mp4#.m3u8#item/video#video_mp4",
+    "手动嗅探视频链接关键词": ".mp4#.m3u8#item/video#video_mp4#video/tos",
     "手动嗅探视频链接过滤词": ".html#=http"
 }

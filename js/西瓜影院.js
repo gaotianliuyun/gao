@@ -2,7 +2,7 @@
            title: '西瓜影院',
             host: 'https://www.uccomic.com',
             url: '/vodshow/fyclass--------fypage---/',
-            searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
+            searchUrl: '/index.php/ajax/suggest?mid=1&wd=**&limit=50',
             searchable: 2,//是否启用全局搜索,
             quickSearch: 0,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,

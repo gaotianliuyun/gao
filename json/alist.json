@@ -2,6 +2,14 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
+      "name": "弱水",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "NICS",
+      "server": "https://nics.eu.org"
+    },
+    {
       "name": "ECVE",
       "server": "https://pan.ecve.cn"
     },
@@ -28,20 +36,6 @@
     {
       "name": "梓澪",
       "server": "https://zi0.cc"
-    },
-    {
-      "name": "範本",
-      "server": "https://one.fongmi.com",
-      "login": {
-        "username": "fongmi",
-        "password": "fongmi"
-      },
-      "params": [
-        {
-          "path": "/安齋拉拉",
-          "pass": "18181818"
-        }
-      ]
     }
   ]
 }

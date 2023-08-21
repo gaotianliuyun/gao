@@ -3,8 +3,9 @@ try {
     VOD={};
 	let html1 = request(input);
 	pdfh = jsp.pdfh;
-	VOD.vod_id = pdfh(html1, "#current_id&&value");
-	VOD.vod_name = pdfh(html1, "h2&&Text");
+	//VOD.vod_id = pdfh(html1, "#current_id&&value");
+	VOD.vod_id = input;
+VOD.vod_name = pdfh(html1, "h2&&Text");
 	// VOD.vod_pic = pdfh(html1, ".item-root&&img&&src");
 	VOD.vod_pic = pdfh(html1, ".item-root&&img&&data-src");
 	// VOD.vod_actor = pdfh(html1, ".celebrity&&Text");

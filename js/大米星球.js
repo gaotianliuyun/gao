@@ -23,7 +23,7 @@ var rule = {
 	推荐:'.tab-list.active;a.module-poster-item.module-item;.module-poster-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href',
 
 	// searchUrl:'/vodsearch/**----------fypage---/pjax/NO.html',
-	searchUrl:'/index.php/ajax/suggest?mid=fypage&wd=**',
+	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
 	detailUrl:'/voddetail/fyid.html', //非必填,二级详情拼接链接
 	搜索:'json:list;name;pic;;id',
 }

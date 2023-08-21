@@ -17,7 +17,7 @@ var rule = {
     },
     class_parse: '.navbar-items&&li:gt(1):lt(7);a&&title;a&&href;/(\\d+).html',
 
-    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
     detailUrl:'/voddetail/fyid.html', //非必填,二级详情拼接链接
     搜索:'json:list;name;pic;;id',
 }
