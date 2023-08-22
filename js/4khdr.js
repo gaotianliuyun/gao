@@ -125,7 +125,6 @@ listq.forEach(function(it){
 `,
 
 	},
-	一级:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
 	搜索:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 if (rule_fetch_params.headers.Cookie.startsWith("http")){

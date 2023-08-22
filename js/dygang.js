@@ -29,8 +29,27 @@ var rule = {
 	}],
 	lazy:'',
 	limit:6,
-	推荐:'div#tl table.border1;img&&alt;img&&src;;a&&href',
-	一级:'table.border1;img&&alt;img&&src;;a&&href',
+	推荐:'div#tl tr:has(>td>table.border1>tbody>tr>td>a>img);table.border1 img&&alt;table.border1 img&&src;table:eq(2)&&Text;a&&href',
+	一级:`js:
+		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+		let d = [];
+		let turl = (MY_PAGE === 1)? '/' : '/index_'+ MY_PAGE + '.htm';
+		input = rule.homeUrl + MY_CATE + turl;
+		let html = request(input);
+		let list = pdfa(html, 'tr:has(>td>table.border1)');
+		list.forEach(it => {
+			let title = pdfh(it, 'table.border1 img&&alt');
+			if (title!==""){
+				d.push({
+					title: title,
+					desc: pdfh(it, 'table:eq(1)&&Text'),
+					pic_url: pdfh(it, 'table.border1 img&&src'),
+					url: pdfh(it, 'a&&href')
+				});
+			}
+		})
+		setResult(d);
+	`,
 	二级:{
 		title:"div.title a&&Text",
 		img:"#dede_content img&&src",
