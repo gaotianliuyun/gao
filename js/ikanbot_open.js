@@ -118,7 +118,7 @@ async function detail(id) {
 	};
 	const res = await req(url + '/api/getResN?videoId=' + id.substring(id.lastIndexOf('/') + 1) + '&mtype=2', {
 		headers: {
-			Referer: url,
+			Referer: 'play',
 			'User-Agent': UA,
 		},
 	});
