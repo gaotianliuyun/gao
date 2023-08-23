@@ -135,7 +135,7 @@ if (rule_fetch_params.headers.Cookie.startsWith("http")){
 log('mp4us seach cookie>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
 let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
 //log("mp4us search params>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = request( HOST + '/search/' + KEY + '-1.html', _fetch_params)
+let search_html = request( HOST + '/search/' + encodeURIComponent(KEY) + '-1.html', _fetch_params)
 //log("mp4us search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
 //'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',

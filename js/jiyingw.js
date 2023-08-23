@@ -174,7 +174,7 @@ listq.forEach(function(it){
 	搜索:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
-let search_html=request(HOST + rule.homeUrl + '/?s=' + KEY, _fetch_params);
+let search_html=request(HOST + rule.homeUrl + '/?s=' + encodeURIComponent(KEY), _fetch_params);
 let d=[];
 let dlist = pdfa(search_html, 'h2');
 log("jiyingw dlist.length>>>>>>>"+dlist.length);

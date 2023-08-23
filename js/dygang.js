@@ -210,7 +210,7 @@ delete(_fetch_params.headers['Content-Type']);
 Object.assign(_fetch_params, postData);
 log("dygang search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
 let search_html = request( HOST + '/e/search/index123.php', _fetch_params, true);
-log("dygang search result>>>>>>>>>>>>>>>" + search_html);
+//log("dygang search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
 let dlist = pdfa(search_html, 'table.border1');
 dlist.forEach(function(it){

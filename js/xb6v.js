@@ -238,7 +238,7 @@ delete(_fetch_params.headers['Content-Type']);
 Object.assign(_fetch_params, postData);
 log("xb6v search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
 let search_html = request( HOST + '/e/search/index.php', _fetch_params, true);
-log("xb6v search result>>>>>>>>>>>>>>>" + search_html);
+//log("xb6v search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
 let dlist = pdfa(search_html, 'div.mainleft&&ul#post_container&&li');
 dlist.forEach(function(it){

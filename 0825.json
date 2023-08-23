@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;abc8379065c48caa77e5f727f7dfc339",
+"spider":"./jar/fm.jar;md5;e5c0ef48516dff5022ded2d3aaed8cdc",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -29,6 +29,7 @@
 {"key":"drpy_js_磁力熊p","name":"磁力熊p*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_xb6v","name":"新版6v*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_美剧迷","name":"美剧迷*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1,"timeout":60000},
+{"key":"drpy_js_kkpans","name":"kkpans","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js", "quickSearch":1, "changeable":1,"timeout":60000},
 {"key": "push_quark","name": "推送quark","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt"},
 
 {"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$socks5://192.168.5.227:4592"},

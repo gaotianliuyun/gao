@@ -137,7 +137,7 @@ let new_host= HOST + '/search.php';
 let new_html=request(new_host);
 let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
 log("4khdr formhash>>>>>>>>>>>>>>>" + formhash);
-let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + KEY;
+let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + encodeURIComponent(KEY);
 let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
 let postData = {
     body: params
