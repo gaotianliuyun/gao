@@ -18,7 +18,12 @@ try {
     VOD.vod_content = "";
     log(VOD);
     input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
-    let html = request(input);
+	let html = request(input, {
+        headers: {
+			'User-Agent':'PC_UA',
+            'Referer': input,
+        }
+    });
     print(html);
     html = JSON.parse(html);
     let episodes = html.data.list;

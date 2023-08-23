@@ -3,9 +3,8 @@ try {
     VOD={};
 	let html1 = request(input);
 	pdfh = jsp.pdfh;
-	//VOD.vod_id = pdfh(html1, "#current_id&&value");
-	VOD.vod_id = input;
-VOD.vod_name = pdfh(html1, "h2&&Text");
+	VOD.vod_id = pdfh(html1, "#current_id&&value");
+	VOD.vod_name = pdfh(html1, "h2&&Text");
 	// VOD.vod_pic = pdfh(html1, ".item-root&&img&&src");
 	VOD.vod_pic = pdfh(html1, ".item-root&&img&&data-src");
 	// VOD.vod_actor = pdfh(html1, ".celebrity&&Text");
@@ -18,13 +17,13 @@ VOD.vod_name = pdfh(html1, "h2&&Text");
 	VOD.vod_director = "";
 	VOD.vod_content = "";
 	log(VOD);
-	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
-	let html = request(input, {
-        headers: {
-			'User-Agent':'PC_UA',
-            'Referer': input,
-        }
-    });
+	var v_tks = '';
+	let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
+    // print(script);
+    eval(script);
+	print('v_tks:'+v_tks);
+	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2"+"&token="+v_tks;
+	let html = request(input,{headers: {'User-Agent':'PC_UA','Referer': input}});
 	print(html);
 	html = JSON.parse(html);
 	let episodes = html.data.list;

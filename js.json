@@ -47,6 +47,7 @@
 {"key":"kuqimv","name":"MV | 酷奇[cat]","type":3,"api":"./js/kuqimv_open.js"},
 {"key":"230ts","name":"听书 | 听书[cat]","type":3,"api":"./js/230ts_open.js"},
 
+{"key":"drpy_js_爱看机器人","name":"影视 | 爱看机器人新版[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/爱看机器人.js"},
 {"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
 {"key":"drpy_js_ikanbot3","name":"影视 | 爱看机器人3[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
