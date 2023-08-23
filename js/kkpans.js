@@ -99,7 +99,7 @@ if (typeof setCk !== "undefined"){
 fetch_params.headers.Cookie=cookie;
 rule_fetch_params.headers.Cookie=cookie;
 log('kkpans search cookie >>>>>>>>>>>>>>>>>>>>>' + cookie);
-log('kkpans search body >>>>>>>>>>>>>>>>>>>>>' + json['body']);
+//log('kkpans search body >>>>>>>>>>>>>>>>>>>>>' + json['body']);
 
 new_html = json['body'];
 

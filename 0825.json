@@ -14,10 +14,8 @@
 {"key":"drpy_js_ikanbot3","name":"爱姬","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
 
-
 {"key":"csp_wogg_cli","name":"玩偶jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"push_agent","name":"推送lf","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent_min.js"},
 {"key":"lf_js_p2p","name":"磁力lf","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js"},
 {"key":"lf_js_ikanbot","name":"点播lf","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_ikanbot_min.js"},
 {"key":"lf_js_lf_live","name":"直播lf","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
@@ -29,7 +27,9 @@
 {"key":"drpy_js_磁力熊p","name":"磁力熊p*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_xb6v","name":"新版6v*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_美剧迷","name":"美剧迷*","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1,"timeout":60000},
-{"key":"drpy_js_kkpans","name":"kkpans","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js", "quickSearch":1, "changeable":1,"timeout":60000},
+{"key":"drpy_js_kkpans","name":"夸克","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js", "quickSearch":1, "changeable":1,"timeout":60000},
+{"key":"drpy_js_kuba","name":"酷吧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1,"timeout":60000},
+{"key":"push_agent","name":"推送ali","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
 {"key": "push_quark","name": "推送quark","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt"},
 
 {"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"changeable":1,"ext":"$$$socks5://192.168.5.227:4592"},
