@@ -85,8 +85,8 @@ let liste = [];
 d.forEach(function(it){
 	let burl = pdfh(it, 'a&&href');
 	let title = pdfh(it, 'a&&Text');
-	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	log('4khdr title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('4khdr burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
 		if (TABS.length==1){

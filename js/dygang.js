@@ -43,7 +43,7 @@ var rule = {
 				d.push({
 					title: title,
 					desc: pdfh(it, 'table:eq(1)&&Text'),
-					pic_url: pdfh(it, 'table.border1 img&&src'),
+					pic_url: pd(it, 'table.border1 img&&src', HOST),
 					url: pdfh(it, 'a&&href')
 				});
 			}
@@ -53,8 +53,8 @@ var rule = {
 	二级:{
 		title:"div.title a&&Text",
 		img:"#dede_content img&&src",
-		desc:"#dede_content p:eq(3)&&Text",
-		content:"#dede_content p:eq(2)&&Text",
+		desc:"#dede_content&&Text",
+		content:"#dede_content&&Text",
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
@@ -63,6 +63,7 @@ let tabsa = [];
 let tabsq = [];
 let tabsm = false;
 let tabse = false;
+let tabm3u8 = [];
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
@@ -75,6 +76,12 @@ d.forEach(function(it) {
 		tabse = true;
 	}
 });
+if (false){
+d = pdfa(html, 'div:has(>div#post_content) div.widget:has(>h3)');
+d.forEach(function(it) {
+	tabm3u8.push(pdfh(it, 'h3&&Text'));
+});
+}
 if (tabsm === true){
 	TABS.push("磁力");
 }
@@ -92,6 +99,9 @@ tabsq.forEach(function(it){
 	TABS.push(it + tmpIndex);
 	tmpIndex = tmpIndex + 1;
 });
+tabm3u8.forEach(function(it){
+	TABS.push(it);
+});
 log('dygang TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
@@ -103,6 +113,7 @@ let lista = [];
 let listq = [];
 let listm = [];
 let liste = [];
+let listm3u8 = {};
 d.forEach(function(it){
 	let burl = pdfh(it, 'a&&href');
 	let title = pdfh(it, 'a&&Text');
@@ -131,6 +142,42 @@ d.forEach(function(it){
 		liste.push(loopresult);
 	}
 });
+if (false){
+d = pdfa(html, 'div:has(>div#post_content) div.widget:has(>h3)');
+d.forEach(function(it){
+	let index = pdfh(it, 'h3&&Text');
+	let burl = pd(it, 'a&&href', HOST);
+	let title = pdfh(it, 'a&&Text');
+	log('xb6v title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('xb6v burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	let m3u8_html = request(burl);
+	let playerUrl = pd(m3u8_html, 'div.video&&iframe&&src', HOST);
+	log('xb6v playerUrl >>>>>>>>>>>>>>>>>>>>>>>>>>' + playerUrl);
+	if (!listm3u8.hasOwnProperty(index)){
+		listm3u8[index] = [];
+	}
+	let loopresult = title + '$' + ' ';
+	if (/(\/player\/|\/share\/)/.test(playerUrl)){
+		let player_html = request(playerUrl);
+		let m3u8Url="";
+		try{
+			m3u8Url = player_html.match(/'([^']*.m3u8)'/)[1];
+		}catch(e){
+			try{
+				m3u8Url = player_html.match(/"([^"]*.m3u8)"/)[1];
+			}catch(e){
+				m3u8Url = "";
+			}
+		}
+		if (m3u8Url !== ""){
+			m3u8Url = urljoin2(playerUrl, m3u8Url);
+			log('xb6v m3u8Url >>>>>>>>>>>>>>>>>>>>>>>>>>' + m3u8Url);
+			loopresult = title + '$' + m3u8Url;
+		}
+	}
+	listm3u8[index].push(loopresult);
+});
+}
 if (listm.length>0){
 	LISTS.push(listm);
 }
@@ -143,6 +190,11 @@ lista.forEach(function(it){
 listq.forEach(function(it){
 	LISTS.push([it]);
 });
+for ( const key in listm3u8 ){
+	if (listm3u8.hasOwnProperty(key)){
+		LISTS.push(listm3u8[key]);
+	}
+};
 `,
 
 	},
