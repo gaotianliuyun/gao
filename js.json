@@ -26,7 +26,7 @@
 {"key":"drpy_js_美剧迷","name":"PG | 美剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1, "timeout":60000},
 {"key":"drpy_js_kkpans","name":"PG | 夸克[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js", "quickSearch":1, "changeable":1,"timeout":60000},
 {"key":"drpy_js_kuba","name":"PG | 酷吧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1,"timeout":60000},
-{"key": "push_quark","name": "PG | 夸克推送[jar]","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt","jar":"./jar/fm.nogo.jar"},
+{"key": "push_quark","name": "PG | 夸克推送[jar]","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt","jar":"./jar/fm.nogo.jar;md5;222ce36e5aec8d425b7516aee9f48228"},
 {"key":"北极狐","name":"影视 | 北极狐[jar]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"迷你库","name":"影视 | 迷你库[jar]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 

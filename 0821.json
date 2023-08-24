@@ -41,7 +41,7 @@
 {"key":"drpy_js_美剧迷","name":"美剧迷┃PG","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1, "timeout":60000},
 {"key":"drpy_js_kkpans","name":"夸克┃PG","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js", "quickSearch":1, "changeable":1,"timeout":60000},
 {"key":"drpy_js_kuba","name":"酷吧┃PG","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1,"timeout":60000},
-{"key": "push_quark","name": "推送quark┃PG","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt","jar":"./jar/fm.nogo.jar"},
+{"key": "push_quark","name": "推送quark┃PG","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt","jar":"./jar/fm.nogo.jar;md5;222ce36e5aec8d425b7516aee9f48228"},
 {"key":"新6V","name":"新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 {"key":"北极狐","name":"北极狐┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
