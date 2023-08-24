@@ -1,6 +1,6 @@
 {
-  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-				"分类url": "https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ma",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+				"分类url": "https://www.6080yy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ma",
 				"数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">",
 				"图片": "data-src=\"&&\"",
 				"标题": "alt=\"&&\"",
