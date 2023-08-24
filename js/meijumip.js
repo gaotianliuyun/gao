@@ -1,8 +1,11 @@
 var rule = {
 	title:'美剧迷[磁]',
-	host:'https://www.meijumi.net',
-	homeUrl:'/',
-	url: '/fyclass/page/fypage/?',
+	//host:'https://www.meijumi.xyz',
+	//homeUrl:'/',
+	//url: '/fyclass/page/fypage/?',
+	host:'http://127.0.0.1:10079',
+	homeUrl:'/p/0/socks5%253A%252F%252F192.168.1.3%253A4592/https://www.meijumi.net/',
+	url: '/p/0/socks5%253A%252F%252F192.168.1.3%253A4592/https://www.meijumi.net/fyclass/page/fypage/?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
