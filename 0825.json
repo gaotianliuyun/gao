@@ -58,8 +58,8 @@
 {"key":"drpy_js_极影网P","name":"极影网P[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jiyingwp.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_磁力熊p","name":"磁力熊p[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_美剧迷p","name":"美剧迷p[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumip.js", "quickSearch":1, "changeable":1,"timeout":60000},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
-{"key": "push_quark","name": "推送quark","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt"},
+{"key": "push_quark","name": "推送quark","type": 3,"api": "csp_Quark","searchable":0,"quickSearch":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt"},
 
 {"key":"csp_BLSGod","name":"80S影视","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xunlei8","name":"迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
