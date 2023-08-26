@@ -29,6 +29,18 @@
       "ext": "./json/webdav.json"
     },
     {
+      "key": "bili_open",
+      "name": "哔哩(open)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "categories": "沙雕动画#沙雕穿越#沙雕",
+        "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
+      }
+    },
+    {
       "key": "哔哩",
       "name": "哔哩",
       "type": 3,
