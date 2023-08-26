@@ -1,9 +1,9 @@
 {
-"spider":"./jar/fan.txt;md5;c80207edebbe5019a688fd2eb653e005",
+"spider":"./jar/fan.txt;md5;bf1f28d65240042a470d4f80035e529f",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
-{"key":"豆豆","name":"微信公众号【神秘的哥哥们】关注防失联","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"豆豆","name":"关注公众号【神秘的哥哥们】防失联","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {"key":"Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/json/bilibili.json"},
 {"key":"Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/x/json/biliych.json"},
