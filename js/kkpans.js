@@ -74,10 +74,14 @@ let d = pdfa(html, 'div.viewthread div.message a[href^="https://pan.quark.cn/s/"
 let index = 1;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	if (d.length==1){
-		burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+	if (false){
+		if (d.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		}
 	}else{
-		burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		burl = "push://" + burl;
 	}
 	let title = pdfh(it, 'a&&Text');
 	LISTS.push([title + '$' + burl]);

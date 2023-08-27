@@ -243,7 +243,8 @@ playGroups.forEach(function(it){
 		for(const key in it["ali"]){
 			if (it["ali"].hasOwnProperty(key)){
 				let title = it["ali"][key];
-				let burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(key);
+				//let burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(key);
+				let burl = "push://" + key;
 				log('meijumi ali title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('meijumi ali burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 				d.push(title + '$' + burl);
@@ -256,7 +257,8 @@ playGroups.forEach(function(it){
 		for(const key in it["quark"]){
 			if (it["quark"].hasOwnProperty(key)){
 				let title = it["quark"][key];
-				let burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(key);
+				//let burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(key);
+				let burl = "push://" + key;
 				log('meijumi quark title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('meijumi quark burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 				d.push(title + '$' + burl);

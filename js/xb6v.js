@@ -29,55 +29,55 @@ var rule = {
 	limit:6,
 	推荐:'',
 	推荐:`js:
-		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-		let d = [];
-		let html = request(input);
-		let list = pdfa(html, 'div.mainleft ul#post_container li');
-		list.forEach(it => {
-			d.push({
-				title: pdfh(it, 'div.thumbnail img&&alt'),
-				desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
-				pic_url: pd(it, 'div.thumbnail img&&src', HOST),
-				url: pdfh(it, 'div.thumbnail&&a&&href')
-			});
-		});
-		setResult(d);
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+let d = [];
+let html = request(input);
+let list = pdfa(html, 'div.mainleft ul#post_container li');
+list.forEach(it => {
+	d.push({
+		title: pdfh(it, 'div.thumbnail img&&alt'),
+		desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
+		pic_url: pd(it, 'div.thumbnail img&&src', HOST),
+		url: pdfh(it, 'div.thumbnail&&a&&href')
+	});
+});
+setResult(d);
 	`,
 	一级:'',
 	一级:`js:
-		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-		let d = [];
-		if (MY_CATE !== 'qian50m.html') {
-			let turl = (MY_PAGE === 1)? '/' : '/index_'+ MY_PAGE + '.html';
-			input = rule.homeUrl + MY_CATE + turl;
-			let html = request(input);
-			let list = pdfa(html, 'div.mainleft ul#post_container li');
-			list.forEach(it => {
-				d.push({
-					title: pdfh(it, 'div.thumbnail img&&alt'),
-					desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
-					pic_url: pd(it, 'div.thumbnail img&&src', HOST),
-					url: pdfh(it, 'div.thumbnail&&a&&href')
-				});
-			})
-		}else{
-			input = rule.homeUrl + MY_CATE;
-			let html = request(input);
-			let list = pdfa(html, 'div.container div#tab-content&&ul&&li');
-			list.forEach(it => {
-				let title = pdfh(it, 'a&&Text');
-				if (title!==""){
-					d.push({
-						title: title,
-						desc: pdfh(it, 'a&&Text'),
-						pic_url: '',
-						url: pdfh(it, 'a&&href')
-					});
-				}
-			})
+pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+let d = [];
+if (MY_CATE !== 'qian50m.html') {
+	let turl = (MY_PAGE === 1)? '/' : '/index_'+ MY_PAGE + '.html';
+	input = rule.homeUrl + MY_CATE + turl;
+	let html = request(input);
+	let list = pdfa(html, 'div.mainleft ul#post_container li');
+	list.forEach(it => {
+		d.push({
+			title: pdfh(it, 'div.thumbnail img&&alt'),
+			desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
+			pic_url: pd(it, 'div.thumbnail img&&src', HOST),
+			url: pdfh(it, 'div.thumbnail&&a&&href')
+		});
+	})
+}else{
+	input = rule.homeUrl + MY_CATE;
+	let html = request(input);
+	let list = pdfa(html, 'div.container div#tab-content&&ul&&li');
+	list.forEach(it => {
+		let title = pdfh(it, 'a&&Text');
+		if (title!==""){
+			d.push({
+				title: title,
+				desc: pdfh(it, 'a&&Text'),
+				pic_url: '',
+				url: pdfh(it, 'a&&href')
+			});
 		}
-		setResult(d);
-	`,
+	})
+}
+setResult(d);
+`,
 	二级:{
 		title:"div.article_container h1&&Text",
 		img:"div#post_content img&&src",
@@ -149,19 +149,27 @@ d.forEach(function(it){
 	log('xb6v burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
 	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		if (false){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
 		}
+		}else{
+                        burl = "push://" + burl;
+                }
 		loopresult = title + '$' + burl;
 		lista.push(loopresult);
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		if (false){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
 		}
+		}else{
+                        burl = "push://" + burl;
+                }
 		loopresult = title + '$' + burl;
 		listq.push(loopresult);
 	}else if (burl.startsWith("magnet")){

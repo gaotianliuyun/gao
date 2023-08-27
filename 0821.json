@@ -83,8 +83,7 @@
 {"key":"drpy_js_kkpans","name":"kkpans[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js", "quickSearch":1, "changeable":1,"timeout":60000},
 {"key":"drpy_js_xb6v","name":"新版6v[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
 {"key":"drpy_js_美剧迷","name":"美剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1,"timeout":60000},
-{"key": "push_quark","name": "推送quark","type": 3,"api": "csp_Quark","searchable":0,"quickSearch":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/quark.txt","jar":"./jar/fm.nogo.jar;md5;983457ae68637987e6359921972c4362"},
-{"key":"push_agent","name":"推送路飞","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent_min.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt","jar":"./jar/fm.nogo.jar;md5;95917fbe683a6dc15c56df00c9d3996e"},
 
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"888解忧愁","name":"解忧","type":4,"api":"https://private--t410.repl.co/888?","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
