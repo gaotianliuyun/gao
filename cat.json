@@ -1,5 +1,5 @@
 ﻿{"sites":[
-{"key":"wogg","name":"影视 | 玩偶哥哥[cat]","type":3,"api":"./js/wogg_open.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"wogg","name":"影视 | 玩偶哥哥[cat]","type":3,"api":"./js/wogg_open.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
 {"key":"kunyu77","name":"影视 | 七七[cat]","type":3,"api":"./js/kunyu77_open.js"},
 {"key":"czzy","name":"影视 | 厂长[cat]","type":3,"api":"./js/czzy_open.js"},
 {"key":"libvio","name":"影视 | libvio[cat]","type":3,"api":"./js/libvio_open.js"},

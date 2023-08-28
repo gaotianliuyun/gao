@@ -39,6 +39,11 @@
       "url": "./XYQ.json",
       "name": "高天流云 XYQ",
       "time": "2023-04-19"
+    },
+    {
+      "url": "./cat.json",
+      "name": "高天流云 CAT",
+      "time": "2023-04-19"
     }
   ]
 }
