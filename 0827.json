@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd07",
+  "spider": "./jar/custom_spider.jar;md5;a2204506315000174d11fe509f88259c",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -32,7 +32,7 @@
       "key": "bili_open",
       "name": "哔哩(open)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "api": "./js/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -49,7 +49,7 @@
       "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.433
       },
       "ext": {
         "json": "./json/chuqiuyu1.json",
@@ -63,6 +63,18 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
+        "filter": "./json/wogg.json"
+      }
     },
     {
       "key": "星星",
@@ -85,7 +97,7 @@
       "key": "廠長",
       "name": "廠長",
       "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",
+      "api": "./js/czzy_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -93,7 +105,7 @@
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
+      "api": "./js/ikanbot_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -101,7 +113,15 @@
       "key": "快看",
       "name": "快看",
       "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
+      "api": "./js/kkys_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "暴風",
+      "name": "暴風",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1
     },
@@ -111,82 +131,7 @@
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
-      ]
-    },
-    {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
+      "changeable": 1
     },
     {
       "key": "櫻花",
@@ -213,20 +158,13 @@
       "changeable": 1
     },
     {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "雲搜",
@@ -234,7 +172,8 @@
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "盤搜",
@@ -242,7 +181,8 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "盤搜索",
@@ -250,7 +190,8 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "找資源",
@@ -259,7 +200,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "影視天下第一$$$test2$$$test2"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$test2$$$test2"
     },
     {
       "key": "push_agent",
@@ -267,7 +208,8 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     }
   ],
   "doh": [
@@ -316,6 +258,15 @@
   ],
   "rules": [
     {
+      "name": "暴風",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
       "name": "星星",
       "hosts": [
         "aws.ulivetv.net"
@@ -325,7 +276,7 @@
       ]
     },
     {
-      "name": "量子廣告",
+      "name": "量子",
       "hosts": [
         "vip.lz",
         "hd.lz"
@@ -336,7 +287,7 @@
       ]
     },
     {
-      "name": "非凡廣告",
+      "name": "非凡",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
