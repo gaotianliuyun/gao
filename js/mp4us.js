@@ -60,6 +60,9 @@ if (tabsm === true){
 if (tabse === true){
 	TABS.push("電驢");
 }
+if (tabsa.length + tabsq.length > 1){
+	TABS.push("選擇右側綫路");
+}
 let tmpIndex;
 tmpIndex=1;
 tabsa.forEach(function(it){
@@ -123,6 +126,9 @@ if (listm.length>0){
 }
 if (liste.length>0){
 	LISTS.push(liste.reverse());
+}
+if (lista.length + listq.length > 1){
+	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
 }
 lista.forEach(function(it){
 	LISTS.push([it]);

@@ -60,6 +60,9 @@ pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
 let d = pdfa(html, 'div.viewthread div.message a[href^="https://pan.quark.cn/s/"]');
 let index = 1;
+if (d.length>1){
+	TABS.push("選擇右側綫路");
+}
 d.forEach(function(it) {
 	TABS.push("夸克雲盤" + index);
 	index = index + 1;
@@ -72,6 +75,9 @@ LISTS=[];
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = pdfa(html, 'div.viewthread div.message a[href^="https://pan.quark.cn/s/"]');
 let index = 1;
+if (d.length>1){
+	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+}
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
 	if (false){
