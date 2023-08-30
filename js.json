@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;90d78495ccfa0386cbc920aad30d385e",
+"spider":"./jar/fm.jar;md5;026dbaa77deff2861b6e47c70f1bbbf5",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
@@ -92,6 +92,7 @@
 {"key":"drpy_js_磁力熊p","name":"磁力 | 磁力熊p[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiongp.js","searchable":0,"quickSearch":0,"changeable":1, "timeout":30},
 {"key":"drpy_js_美剧迷p","name":"磁力 | 美剧迷p[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumip.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_kkpans","name":"夸克 | kk盘[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js", "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"drpy_js_校长影视","name":"夸克 | 校长影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xzys.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_愛盤搜","name":"夸克 | 爱盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_趣盤搜","name":"夸克 | 趣盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/funletu.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"push_agent","name":"手机 | 推送[jar]","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
