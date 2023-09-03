@@ -6,8 +6,8 @@ var rule = {
 	title:'LIBVIO',
 	模板:'首图2',
 	// host:'https://tv.libvio.cc',
-	host:'https://libvio.app',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a:eq(0)&&href");print(src);HOST=src',
+	host:'https://tv.libvio.cc',
+	//hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a:eq(0)&&href");print(src);HOST=src',
 	// url:'/type/fyclass-fypage.html',
 	url:'/show/fyclassfyfilter.html',
 	// url:'/show_fyclassfyfilter.html',
@@ -36,19 +36,39 @@ var rule = {
 		"tabs": `js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[];
+let tabsq=[];
+let tabsm3u8=[];
 let d = pdfa(html, 'div.stui-vodlist__head');
 d.forEach(function(it) {
 	let name = pdfh(it, 'h3&&Text');
 	if (!/(猜你|喜欢|剧情|热播)/.test(name)){
 		log("libvio tabs name>>>>>>>>>>>>>>>" + name);
-		TABS.push(name);
+		if (name.includes("夸克")){
+			tabsq.push("夸克雲盤");
+		}else if (name.includes("阿里")){
+			tabsq.push("阿里雲盤");
+		}else{
+			tabsm3u8.push(name);
+		}
 	}
 });
+if (tabsq.length==1){
+	TABS=TABS.concat(tabsq);
+}else{
+	let tmpIndex=1;
+	tabsq.forEach(function(it){
+		TABS.push(it+tmpIndex);
+		tmpIndex++;
+	});
+}
+TABS=TABS.concat(tabsm3u8);
 log('libvio TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		"lists":`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
+let listq=[];
+let listm3u8=[];
 let d = pdfa(html, 'div.stui-vodlist__head');
 d.forEach(function(it){
 	let name = pdfh(it, 'h3&&Text');
@@ -59,11 +79,17 @@ d.forEach(function(it){
 		durl.forEach(function(it1){
 			let dhref = pd(it1, 'a&&href', HOST);
 			let dname = pdfh(it1, 'a&&Text');
-			dd.push(name + " " + dname + "$" + dhref);
+			dd.push(dname + "$" + dhref);
 		});
-		LISTS.push(dd);
+		if (/(夸克|阿里)/.test(name)){
+			listq.push(dd);
+		}else{
+			listm3u8.push(dd);
+		}
 	}
 });
+LISTS=LISTS.concat(listq);
+LISTS=LISTS.concat(listm3u8);
 `,
 	},
 	lazy:`js: 
