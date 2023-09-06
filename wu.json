@@ -4,7 +4,7 @@
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
 "sites":[
-{"key":"tvbix","name":"tvbox","type":3,"api":"demo"}
+{"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1;socks5://192.168.1.9:4592"}
 ],
 "rules":[
 {"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
