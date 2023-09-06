@@ -1,1 +1,14 @@
-
+{
+"spider":"./jar/fm.nogo.jar;md5;e2fe217c83e8fc27153ec703dca9c326",
+"lives":[{"name":"live","type":0,"url":"./live_livex.m3u"}
+],
+"wallpaper":"https://liu.chuqiuyu.tk",
+"sites":[
+{"key":"tvbix","name":"tvbox","type":3,"api":"demo"}
+],
+"rules":[
+{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
+{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
+]
+}
