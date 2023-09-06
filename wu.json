@@ -1,6 +1,6 @@
 {
 "spider":"./jar/fm.nogo.jar;md5;e2fe217c83e8fc27153ec703dca9c326",
-"lives":[{"name":"live","type":0,"url":"./live_livex.m3u"}
+"lives":[{"name":"国家直播","type":0,"url":"./live_country.m3u"}
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
 "sites":[
