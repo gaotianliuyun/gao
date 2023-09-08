@@ -1,16 +1,16 @@
 /*
-永久地址发布 https://www.gvideo.me/label/web.html (失效)
-域名1：https://www.moguys.xyz
-域名2：https://www.gvideo.me (维护中)
-域名3：https://www.movie4k.pro (失效)
+永久地址发布 https://www.moguys.xyz
+域名1：https://www.muguys.com
+域名2：https://www.movie4k.vip
 */
 muban.mxone5.二级.title = 'h1&&Text;.video-info-aux&&Text';
 muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule = {
     title:'蘑菇',
     模板:'mxone5',
-    host:'https://www.moguys.xyz',
-    // host:'https://www.moguys.xyz/label/web.html',
+    host:'https://www.muguys.com',
+    // host:'https://www.movie4k.vip',
+    // host:'https://www.moguys.xyz',
     // hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"p:eq(0)&&a:eq(0)&&href");print(src);HOST=src',
     url:'/vodshow/fyfilter.html',
     // homeUrl:'/vodshow/13--score---------.html',
@@ -40,10 +40,14 @@ var rule = {
         'User-Agent':'PC_UA'
     },
     // class_parse: '.library-list&&a;a&&Text;a&&href;/(\\d+)',
-    class_parse: 'div.subw500&&a;a&&title;a&&href;/(\\d+)',
+    // class_parse: 'div.subw500&&a;a&&title;a&&href;/(\\d+)',
+    class_parse: 'ul.grid-items&&li;a&&title;a&&href;/(\\d+).html',
     lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
+        var from = html.from;
+        var next = html.link_next;
+        var title = html.vod_data.vod_name;
         if (html.encrypt == "1") {
             url = unescape(url)
         } else if (html.encrypt == "2") {
@@ -51,6 +55,30 @@ var rule = {
         }
         if (/m3u8|mp4/.test(url)) {
             input = url
+        } else if (/kmm3u8/.test(from)) {
+            var paurl = request(HOST + '/static/player/' + from + ".js").match(/ src="(.*?)'/)[1];
+            var purl = request(paurl + url + "&next=" + next + "&title=" + title + '&thumb=undefined');
+            var ptime = purl.match(/"time":"(.*?)"/)[1];
+            var pkey = purl.match(/"key":"(.*?)"/)[1];
+            var apiurl = 'https://player.moguys.xyz/111/api_config.php';
+            var pxurl = JSON.parse(request(apiurl, {
+                body: 'url=' + url + '&time=' + ptime + '&key=' + pkey,
+                method: 'POST'
+            })).url;
+            input = {
+                jx: 0,
+                url: pxurl,
+                parse: 0
+            }
+        } else if (/ali/.test(from)) {
+            var paurl = request(HOST + '/static/player/' + from + ".js").match(/ src="(.*?)'/)[1];
+            var purl = request(paurl + url + "&next=" + next + "&title=" + title);
+            var pxurl = purl.match(/"url":"(.*?)"/)[1];
+            input = {
+                jx: 0,
+                url: pxurl,
+                parse: 0
+            }
         } else {
             input
         }

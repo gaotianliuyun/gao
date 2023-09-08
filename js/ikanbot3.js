@@ -17,8 +17,17 @@ try {
     VOD.vod_director = "";
     VOD.vod_content = "";
     log(VOD);
-    input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
-    let html = request(input);
+    var v_tks = '';
+	let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
+    eval(script);
+	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2"+"&token="+v_tks;
+    // input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
+	let html = request(input, {
+        headers: {
+			'User-Agent':'PC_UA',
+            'Referer': input,
+        }
+    });
     print(html);
     html = JSON.parse(html);
     let episodes = html.data.list;
@@ -101,7 +110,8 @@ var rule = {
     host:'https://www.ikanbot.com',
     url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
-    searchUrl:'/search?q=**&p=fypage',
+    // searchUrl:'/search?q=**&p=fypage',
+    searchUrl:'/search?q=**',
     searchable:2,
     quickSearch:0,
     filterable:1,
