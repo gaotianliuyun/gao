@@ -24,6 +24,8 @@
 {"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新片场.js"},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js","timeout":30},
 {"key":"drpy_js_爱看机器人","name":"爱看机器人[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/爱看机器人.js"},
+{"key":"csp_Bili","name":"哔哔┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"recordable":0,"style":{"type":"rect","ratio":1.597},"filterable":1,"changeable":0,"ext":"./json/chuqiuyu.json"},
+{"key":"csp_xuexi","name":"哔哔┃学习园地","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","style":{"type":"rect","ratio":1.597},"filterable":"1","changeable":0,"ext":"./json/bili.json"},
 {"key":"csp_YGP","name":"新片┃速递","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_WoGG","name":"玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://www.wogg.xyz:2052/","timeout":30},
 {"key":"csp_wogg_cli","name":"玩偶┃俊于","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
@@ -64,8 +66,6 @@
 {"key":"csp_Nbys","name":"泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name": "唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_xuexi","name":"哔哔┃学习园地","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","style":{"type":"rect","ratio":1.597},"filterable":"1","changeable":0,"ext":"./json/bili.json"},
-{"key":"csp_Bili","name":"哔哔┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"recordable":0,"style":{"type":"rect","ratio":1.597},"filterable":1,"changeable":0,"ext":"./json/chuqiuyu.json"},
 {"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"./json/alist.json"},
 {"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","timeout":30},
 {"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111","timeout":30},
