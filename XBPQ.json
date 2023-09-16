@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/XBPQ.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+	"spider": "./jar/XBPQ.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
 	"wallpaper": "http://xhww.fun:63/img.php",
 	"sites": [{
 			"key": "豆豆",
@@ -179,7 +179,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"jar": "./jar/XBPQ1.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
-			"ext": "http://cms.jialiangos.com/api.php/app/"
+			"ext": "http://cms.jialiangos.com/api.php/app/;;v"
 		},
 		{
 			"key": "Xinsj",
@@ -435,7 +435,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"jar": "./jar/XBPQ1.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+			"jar": "./jar/XBPQ2.jar;md5;d86999aba43144a25646757a06363b8f",
 			"ext": {
 				"数组": "class=\"top&&</li",
 				"嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
@@ -460,8 +460,8 @@
 				"搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
 				"搜索标题": "xt\":\"&&\"",
 				"搜索副标题": "\"website\":\"&&\"",
-				"搜索链接": "https://www.ssyy.run/v_+\"url\":\"https://www.ssyy.run/project-&&.html\"+_1_1.html",
-				"分类url": "https://www.ssyy.run/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
+				"搜索链接": "https://www.sstv.pw/v_+\"url\":\"https://www.ssyy.run/project-&&.html\"+_1_1.html",
+				"分类url": "https://www.sstv.pw/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
 			}
 
