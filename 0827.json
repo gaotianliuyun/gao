@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;211cb09b88752dd0d56201b84b0b3e47",
+  "spider": "./jar/custom_spider.jar;md5;e99f254a76be4612aaf4f8e6eef5dae1",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -283,15 +283,6 @@
     }
   ],
   "rules": [
-    {
-      "name": "海外看",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
     {
       "name": "暴風",
       "hosts": [
