@@ -1,7 +1,7 @@
 [
-{"name":"初秋语","type": 0,"url":"../list.txt"},
+{"name":"初秋语","type": 0,"url":"https://ghproxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt"},
 {"name":"YanG","type": 0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type": 1,"url":"https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
-{"name":"AV集","type": 1,"url":"../livex.txt"},
-{"name":"磁力AV","type": 0,"url":"../json/AV.txt"}
+{"name":"AV集","type": 1,"url":"https://ghproxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.txt"},
+{"name":"磁力AV","type": 0,"url":"https://ghproxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/json/AV.txt"}
 ]
