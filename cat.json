@@ -15,7 +15,7 @@
 {"key":"drpy_js_zxzj_open","name":"影视 | 在线之家","type":3,"api":"./cat/js/zxzj_open.js"},
 {"key":"230ts","name":"听书 | 爱上你听书","type":3,"api":"./cat/js/230ts_book_open.js"},
 {"key":"bookan","name":"听书 | 博看听书","type":3,"api":"./cat/js/MyCatBookan.js"},
-{"key":"dj0898","name":"音频 | 世纪DJ","type":3,"api":"./cat/js/dj0898_book_open.js"}
+{"key":"dj0898","name":"音频 | 世纪DJ","type":3,"api":"./cat/js/dj0898_book_open.js"},
 {"key":"drpy_js_boosj_open","name":"少儿 | 童趣","type":3,"api":"./cat/js/boosj_open.js"},
 {"key":"drpy_js_tuxiaobei_open","name":"少儿 | 兔小贝","type":3,"api":"./cat/js/tuxiaobei_open.js"},
 {"key":"drpy_js_ubestkid_open","name":"少儿 | 贝乐虎","type":3,"api":"./cat/js/ubestkid_open.js"},
