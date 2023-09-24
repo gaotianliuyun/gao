@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;8ebaf83ea4ffc0082680d3c8484479f2",
+  "spider": "./jar/custom_spider.jar;md5;e615e21ea55994ac1dbc284463412a3a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -8,7 +8,8 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "proxy": true
     },
     {
       "key": "星星",
@@ -16,7 +17,8 @@
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "proxy": true
     },
     {
       "key": "玩偶",
