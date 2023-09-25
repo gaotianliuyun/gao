@@ -1,4 +1,4 @@
-FongMi影视、TVBox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
 所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
 
@@ -15,7 +15,7 @@ FongMi影视、TVBox配置文件。所有资源均来自于各路大神无私分
 
 （2）0821.json  大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
 
-（3）0825.json  小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url；
+（3）0825.json  小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星等，需要替换成自己的代理url；
 
 （4）0826.json  完全来源于饭太硬的jar包和配置；
 
@@ -29,19 +29,21 @@ FongMi影视、TVBox配置文件。所有资源均来自于各路大神无私分
 
 （9）XYQ.json  XYQ源，jar包和配置来源于香雅情；
 
-（10）cat.json  cat源，资源来源于CatVodOpen仓库和tloook大佬，适配FongMi影视播放。
+（10）cat.json  cat源，资源来源于网络各路大佬，仅适配FongMi影视。/cat/js配合猫影视可直接食用。
 
-（11）lf.json  极简配置，点播共包含5个路飞的js源和2个俊于的T4源。
+（11）lf.json  极简配置，包含路飞的js源和俊于的T4源。
 
 2. APP推荐:
 
-（1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、支持自动换源、支持直播倍速，手机版支持投屏；
+（1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、自动换源、直播倍速，手机投屏；
 
 （2）q215613905版本  项目地址：https://github.com/q215613905/TVBoxOS 支持直播回放；
 
 （3）takagen99版本  项目地址：https://github.com/takagen99/Box 支持直播回放，界面美观；
 
-（4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持直播回放，支持弹幕。
+（4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持直播回放，支持弹幕；
+
+（5）新版猫影视   项目地址：https://github.com/catvod/CatVodOpen 界面简洁，支持多平台。
 
 3. TVBox各路大佬配置（排名不分先后）：
 

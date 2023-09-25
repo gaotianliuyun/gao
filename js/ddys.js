@@ -152,7 +152,7 @@ let tabsq=[];
 d.forEach(function(it){
 	let burl = pd(it, 'a&&href', HOST);
 	if (burl.includes("pan.quark.cn")){
-		tabsq.push("夸克雲盤");
+		tabsq.push("夸克網盤");
 	}else if (burl.includes("www.aliyundrive.com")){
 		tabsq.push("阿里雲盤");
 	}

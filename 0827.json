@@ -1,22 +1,15 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;37e03cb1531bf4b163bf0b366bc9aa6c",
+  "spider": "./jar/custom_spider.jar;md5;da248d3decd2fb6776b2ce39013c3e6e",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-      "key": "影視",
-      "name": "影視",
-      "type": 3,
-      "api": "csp_YingShi",
-      "searchable": 1,
-      "changeable": 1
-    },
     {
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "proxy": true
     },
     {
       "key": "星星",
@@ -24,7 +17,8 @@
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "proxy": true
     },
     {
       "key": "玩偶",
@@ -75,7 +69,23 @@
       "key": "暴風",
       "name": "暴風",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "索尼",
+      "name": "索尼 ",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快帆",
+      "name": "快帆",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
     },
@@ -124,7 +134,7 @@
       },
       "ext": {
         "json": "./json/chuqiuyu1.json",
-        "cookie": ""
+        "cookie": "http://127.0.0.1:9978/file/tvfan/cookie.txt"
       }
     },
     {
@@ -135,7 +145,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "categories": "沙雕动画#沙雕穿越#沙雕",
+        "categories": "帕梅拉#音乐#舞蹈#风景#美食#科普#历史#法考#医考",
         "cookie": ""
       }
     },
@@ -284,6 +294,18 @@
   ],
   "rules": [
     {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "8.1748",
+        "10.0099",
+        "10.3333",
+        "16.0599"
+      ]
+    },
+    {
       "name": "暴風",
       "hosts": [
         "bfzy"
@@ -305,7 +327,8 @@
       "name": "量子",
       "hosts": [
         "vip.lz",
-        "hd.lz"
+        "hd.lz",
+        "v.cdnlz"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
