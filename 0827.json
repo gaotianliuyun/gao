@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;da248d3decd2fb6776b2ce39013c3e6e",
+  "spider": "./jar/custom_spider.jar;md5;ae892558d47c58a60932c7552fbc4bc7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -64,6 +64,15 @@
       "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "proxy": true
     },
     {
       "key": "暴風",
