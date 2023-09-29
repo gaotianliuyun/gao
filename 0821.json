@@ -32,9 +32,9 @@
 {"key":"lf_js_p2p","name":"磁力┃路飞[js]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","timeout":30},
 {"key":"lf_js_lf_live","name":"直播┃路飞[js]","type":3,"api":"./lib/lf_live_min.js","recordable":0,"style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
 {"key":"drpy_js_直播大全","name":"电视┃直播大全[js]","type":3,"api":"./lib/live2cms.js","recordable":0,"style":{ "type":"oval"},"changeable":0,"ext":"./js/live2mv_data.json"},
-{"key":"csp_Sp360","name":"弹幕┃360影视","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e"},
-{"key":"荐片","name":"弹幕┃荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e"},
-{"key":"玩偶","name":"弹幕┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","filter":"./json/wogg.json","danmu":true},"jar":"./jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e"},
+{"key":"csp_Sp360","name":"弹幕┃360影视","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e"},
+{"key":"荐片","name":"弹幕┃荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e","timeout":30},
+{"key":"玩偶","name":"弹幕┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","filter":"./json/wogg.json","danmu":true},"jar":"./jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e","timeout":30},
 
 {"key":"迪迪","name":"迪迪┃App","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://22222.yiyingys.asia/api.php/app/"},
 {"key":"Czsapp","name":"厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
