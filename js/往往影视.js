@@ -29,10 +29,9 @@ var rule={
         'User-Agent': 'PC_UA',
     },
     class_parse: '.navbar-items&&li;a&&title;a&&href;/(\\w+).html',
-	lazy:`js:
+    lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
-        var from = html.from;
         if (html.encrypt == '1') {
             url = unescape(url)
         } else if (html.encrypt == '2') {
@@ -40,25 +39,8 @@ var rule={
         }
         if (/m3u8|mp4/.test(url)) {
             input = url
-        } else if (/videojs/.test(from)) {
-            input={jx:0,url:url,parse:0,
-                header: JSON.stringify({
-                    'referer': HOST
-                })}
         } else {
-            var MacPlayerConfig={};
-            eval(fetch(HOST + "/static/js/playerconfig.js").replace('var Mac','Mac'));
-            var jx = MacPlayerConfig.player_list[from].parse;
-            if (jx == '') {
-                jx = MacPlayerConfig.parse
-            };
-            if (jx.startsWith("/")) {
-                jx = jx = "https:" + jx;
-            }
-            input={jx:0,url:jx+url,parse:1,
-                header: JSON.stringify({
-                    'referer': HOST
-                })}
+            input
         }
     `,
 

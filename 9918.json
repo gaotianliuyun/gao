@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.nogo.jar;md5;bafcd82ed2f65f457bc2656faf981cfa",
+"spider":"./jar/fm.nogo.jar;md5;3c386122e7a7c5ffda686b0301c2a52c",
 "lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
 {"name":"YanG","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
@@ -13,8 +13,9 @@
 {"key":"lf_js_lf_live","name":"直播|lf_live","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live1.txt"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":60},
 {"key":"nivod18","name":"泥巴cat","type":3,"api":"./cat/js/nivod_op.js","ext":"做爱"},
-{"key":"mtsp_open","name":"mtspcat","type":3,"api":"./cat/js/mtsp_open.js"},
-{"key":"18av_open","name":"18avcat","type":3,"api":"./cat/js/18av_open.js"},
+{"key":"mtsp_open","name":"mtspcat","type":3,"api":"./cat/js/mtsp_open.js","style":{"type":"rect","ratio":1.485}},
+{"key":"18av_open","name":"18avcat","type":3,"api":"./cat/js/18av_open.js","style":{"type":"rect","ratio":1.485}},
+{"key":"18A貓","name":"18A貓","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/18a_open.js","searchable":1,"style":{"type":"rect","ratio":1.485}},
 {"key":"csp_SMB目录","name":"网络共享","type":3,"api":"csp_Smb4nas","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/smb.jar;md5;0ebaae84cd3d8a284c59734bb02f91dd","ext":"smb://MAIBENBEN:123@192.168.1.9/"},
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"SOD","server":"https://a.sodaz.xyz"},{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}},
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1;socks5://192.168.1.9:4592"},
