@@ -17,7 +17,7 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA'
     },
-    class_parse:'.stui-header__menu&&li:lt(5);a&&Text;a&&href;/(\\w+).html',
+    class_parse:'.stui-header__menu&&li;a&&Text;a&&href;e/(\\w+).html',
     lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
