@@ -1,8 +1,6 @@
 {
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"wogg_open","name":"影视 | 玩偶1","type":3,"api":"./cat/js/wogg_open.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
-{"key":"wogg","name":"影视 | 玩偶2","type":3,"api":"./cat/js/wogg.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
 {"key":"ytvip","name":"影视 | 影探","type":3,"api":"./cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 {"key":"yqktv_open","name":"影视 | 一起看","type":3,"api":"./cat/js/yqktv_open.js"},
 {"key":"555dy_open","name":"影视 | 555","type":3,"api":"./cat/js/555dy_open.js"},
@@ -22,6 +20,8 @@
 {"key":"duboku2_open","name":"影视 | 独播库2","type":3,"api":"./cat/js/duboku2_open.js"},
 {"key":"subaibai","name":"影视 | 素白白","type":3,"api":"./cat/js/subaibai_open.js"},
 {"key":"drpy_js_zxzj_open","name":"影视 | 在线之家","type":3,"api":"./cat/js/zxzj_open.js"},
+{"key":"wogg_open","name":"影视 | 玩偶1","type":3,"api":"./cat/js/wogg_open.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
+{"key":"wogg","name":"影视 | 玩偶2","type":3,"api":"./cat/js/wogg.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
 {"key":"230ts","name":"听书 | 爱上你听书","type":3,"api":"./cat/js/230ts_book_open.js"},
 {"key":"bookan","name":"听书 | 博看听书","type":3,"api":"./cat/js/MyCatBookan.js"},
 {"key":"dj0898","name":"音频 | 世纪DJ","type":3,"api":"./cat/js/dj0898_book_open.js"},

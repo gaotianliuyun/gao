@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;bdd6ea018f428c52eea3710108efa5d2",
+"spider":"./jar/fm.jar;md5;d866ad07bd44fda8a459dc8fc4b6e1dd",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -10,7 +10,7 @@
 {"key":"csp_YGP","name":"预告片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"recordable":0,"style":{"type":"rect","ratio":1.755},"filterable":1,"changeable":0,"ext":{"json":"./json/chuqiuyu1.json","cookie": "http://127.0.0.1:9978/file/tvfan/cookie.txt"}},
 {"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://www.wogg.xyz/", "timeout":30},
-{"key":"csp_Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"" , "timeout":30},
+{"key":"csp_Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"$$$socks5://192.168.1.9:4592","timeout":30},
 {"key":"小纸条_cli","name":"小纸条","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
 {"key":"drpy_js_直播大全","name":"直播","type":3,"api":"./lib/live2cms.js","recordable":0,"style":{ "type":"oval"},"changeable":0,"ext":"./js/live2mv_data.json"},
 
