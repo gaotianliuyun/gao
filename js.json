@@ -41,6 +41,10 @@
 {"key":"drpy_js_孜然影视","name":"影视 | 孜然影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/孜然影视.js"},
 {"key":"drpy_js_我爱跟剧","name":"影视 | 我爱跟剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我爱跟剧.js"},
 {"key":"drpy_js_蘑菇","name":"影视 | 蘑菇[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蘑菇.js"},
+{"key":"drpy_js_干饭影视","name":"影视 | 干饭影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/干饭影视.js"},
+{"key":"drpy_js_秋霞影视","name":"影视 | 秋霞影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/秋霞影视.js"},
+{"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/阿布影院.js"},
+{"key":"drpy_js_华乐影院","name":"影视 | 华乐影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/华乐影院.js"},
 
 {"key":"drpy_js_555电影[V2]","name":"影视 | 555电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影[V2].js"},
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
@@ -174,7 +178,6 @@
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 {"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影先生.js"},
 {"key":"drpy_js_飞兔影视","name":"影视 | 飞兔影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/飞兔影视.js"},
-{"key":"drpy_js_干饭影视","name":"影视 | 干饭影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/干饭影视.js"},
 {"key":"drpy_js_光棍影院","name":"影视 | 光棍影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/光棍影院.js"},
 {"key":"drpy_js_海兔影院","name":"影视 | 海兔影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海兔影院.js"},
 {"key":"drpy_js_花猫TV","name":"影视 | 花猫TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
