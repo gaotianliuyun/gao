@@ -41,6 +41,6 @@
     "直接播放链接加后缀": "",
     "直接播放直链视频请求头": "",
     "是否开启手动嗅探": "1",
-    "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos#php/huya#112114.xyz/huya#live.52sf.ga",
+    "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos#/huya/#112114.xyz/huya#live.52sf.ga",
     "手动嗅探视频链接过滤词": ".html#=http"
 }
