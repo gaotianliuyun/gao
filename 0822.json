@@ -19,5 +19,8 @@
 {"name":"爱酷解析","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"m3u8tv","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="}
+],
+"rules":[
+{"name":"proxy","hosts":["dmku.thefilehosting.com"]}
 ]
 }
