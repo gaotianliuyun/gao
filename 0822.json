@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./jar/101102.jar;md5;a7ab4a1af9d9d5a0c930e54c0c81c49b",
+"spider":"./jar/101103.jar;md5;8cfa98814d9b73cb19892638a18489eb",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
