@@ -1,11 +1,11 @@
 ﻿{
-"spider":"./jar/101103.jar;md5;8cfa98814d9b73cb19892638a18489eb",
+"spider":"./jar/1012.jar;md5;275bf48978d1bbfd1f04d64beebbbb80",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}, "timeout":30},
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","filter":"./json/wogg.json","danmu":true}, "timeout":30},
-{"key":"jojo","name":"JOJO","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true}},
+{"key":"jojo","name":"JOJO","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true}},
 {"key":"csp_Sp360","name":"360","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
 {"key":"小纸条_cli","name":"纸条","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
 {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.755},"filterable":1,"changeable":0,"ext":{"json":"./json/chuqiuyu1.json","cookie": "http://127.0.0.1:9978/file/tvfan/cookie.txt"}},
