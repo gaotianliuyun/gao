@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
+  "spider": "./jar/custom_spider.jar;md5;6e09ca5f0d30c65076c316b3260deafd",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -31,6 +31,15 @@
       }
     },
     {
+      "key": "賤賤",
+      "name": "賤賤",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/jianpian.json"
+    },
+    {
       "key": "獨播",
       "name": "獨播",
       "type": 3,
@@ -38,14 +47,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json"
-    },
-    {
-      "key": "布雷",
-      "name": "布雷",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "廠長",
@@ -60,14 +61,6 @@
       "name": "快看",
       "type": 3,
       "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "伊人",
-      "name": "伊人",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/yrzj_open.js",
       "searchable": 1,
       "changeable": 1
     },
