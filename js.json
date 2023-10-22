@@ -13,7 +13,7 @@
 {"key":"jojo","name":"弹幕 | JOJO[jar]","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}, "timeout":30},
 {"key":"jojo弹幕直连","name":"弹幕 | Jiohub[jar]","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"timeout":30},
 {"key":"csp_Sp360","name":"弹幕 | 360[jar]","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true}, "timeout":30},
-{"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{./json/jianpian.json$$$1}, "timeout":60},
+{"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
 {"key":"csp_WoGG","name":"阿里 | 玩偶哥哥[jar]","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wogg.xyz/", "timeout":30},
 {"key":"csp_Wobg","name":"阿里 | 玩偶表哥[jar]","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wobge.run.goorm.io", "timeout":30},
 {"key":"小纸条_cli","name":"俊于 | 小纸条[T4]","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
