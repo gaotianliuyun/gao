@@ -24,7 +24,7 @@
 {"key":"ddmv_open","name":"影视 | DDMV","type":3,"api":"assets://js/ddmv_open.js"},
 {
     "key": "rejumao",
-    "name": "热剧猫",
+    "name": "影视 | 热剧猫",
     "type": 3,
     "api": "assets://js/apptov5_open.js",
     "ext": {
@@ -40,7 +40,7 @@
 },
 {
     "key": "布雷v5",
-    "name": "布雷",
+    "name": "影视 | 布雷",
     "type": 3,
     "api": "assets://js/apptov5_open.js",
     "ext": {
@@ -55,7 +55,7 @@
 },
 {
     "key": "追忆",
-    "name": "追忆",
+    "name": "影视 | 追忆",
     "type": 3,
     "api": "assets://js/apptov5_open.js",
     "ext": {
