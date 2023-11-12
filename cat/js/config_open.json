@@ -26,7 +26,7 @@
     "key": "rejumao",
     "name": "热剧猫",
     "type": 3,
-    "api": "./apptov5_open.js",
+    "api": "assets://js/apptov5_open.js",
     "ext": {
         "domains": [
             "https://app-1253196701.cos.ap-shanghai.myqcloud.com/app.txt",
@@ -42,7 +42,7 @@
     "key": "布雷v5",
     "name": "布雷",
     "type": 3,
-    "api": "./apptov5_open.js",
+    "api": "assets://js/apptov5_open.js",
     "ext": {
         "domains": [
             "https://v5-public-1251970844.cos.ap-shanghai.myqcloud.com/accredits/68.json"
@@ -57,7 +57,7 @@
     "key": "追忆",
     "name": "追忆",
     "type": 3,
-    "api": "./JavaScript/apptov5_open.js",
+    "api": "assets://js/apptov5_open.js",
     "ext": {
         "domains": [
             "https://xtao-1253811961.cos.ap-chengdu.myqcloud.com/appto/xtao.json"
