@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.20231111-1902.jar;md5;07c98e25840771fe1e05f8babe67ec51",
+"spider":"./jar/fm.20231113-0911.jar;md5;0b91b3fad7a6951f366edc8645d9a227",
 "lives":[{"name":"初秋语","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
