@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.20231113-0911.jar;md5;0b91b3fad7a6951f366edc8645d9a227",
+"spider":"./jar/fm.20231114-2003.jar;md5;23461d9553474037f5ca776274003c90",
 "lives":[{"name":"初秋语","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
@@ -23,7 +23,6 @@
 {"key":"4KHDR","name":"弹幕 | 4KHDR[jar]","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$http://127.0.0.1:9978/file/tvfan/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60},
 {"key":"校长影视","name":"弹幕 | 校长[jar]","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/tvfan/token.json","quickSearch":1,"changeable":1,"timeout":30},
 {"key":"团长资源","name":"弹幕 | 团长[jar]","type":3,"api":"csp_TZFile","ext":"http://127.0.0.1:9978/file/tvfan/token.json", "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"迪迪","name":"弹幕 | 迪迪[jar]","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/$$$1"},
 
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
