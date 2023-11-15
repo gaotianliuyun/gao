@@ -23,15 +23,13 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （6）0827.json  jar包和配置来源于fongmi；
 
-（7）0828.json  jar包和配置来源于唐三；
+（7）js.json  jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库；
 
-（8）js.json  jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库；
+（8）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气；
 
-（9）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气；
+（9）XYQ.json  XYQ源，jar包和配置来源于香雅情；
 
-（10）XYQ.json  XYQ源，jar包和配置来源于香雅情；
-
-（11）cat.json  cat源，资源来源于网络各路大佬。/cat/js配合猫影视可直接食用。
+（10）/cat/js/config_open.json  cat源，资源来源于网络各路大佬。配合猫影视可直接食用。
 
 2. APP推荐:
 
