@@ -65,6 +65,7 @@
 {"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影[V2].js"},
 {"key":"drpy_js_爱迪[V2]","name":"影视 | 爱迪[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪[V2].js"},
 {"key":"drpy_js_创艺影视[V2]","name":"影视 | 创艺影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
+{"key":"drpy_js_刺桐[V2]","name":"影视 | 刺桐[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/刺桐[V2].js"},
 {"key":"drpy_js_咕噜[V2]","name":"影视 | 咕噜[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/咕噜[V2].js"},
 {"key":"drpy_js_吼吼[V2]","name":"影视 | 吼吼[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/吼吼[V2].js"},
 {"key":"drpy_js_曲奇影视[V2]","name":"影视 | 曲奇影视[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/曲奇影视[V2].js"},
