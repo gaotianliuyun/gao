@@ -1,5 +1,5 @@
 {
-"spider":"./jar/20231117-2245.fm.jar;md5;bc345e82b907f1ef24ca1a55734f02c1",
+"spider":"./jar/20231118-1828.fm.jar;md5;07daa9a3672e66b78afbdf3943f4422f",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
