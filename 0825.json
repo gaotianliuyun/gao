@@ -1,5 +1,5 @@
 {
-"spider":"./jar/20231118-1828.fm.jar;md5;07daa9a3672e66b78afbdf3943f4422f",
+"spider":"./jar/20231118-2220.fm.jar;md5;c7490687d67967fcf1afa46140aec05d",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -22,6 +22,7 @@
 {"key":"NanGua","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1"},
 {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://ppxzy.net/$$$null$$$1", "timeout":30}, 
 {"key":"Bdys_spider","name":"哔滴┃","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1"},
+{"key":"蝴蝶","name":"蝴蝶","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},
 {"key":"tvbsk","name":"TVB","type":3,"api":"csp_Skapp","playerType":2,"ext":"CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"},
 {"key":"二三","name":"二三","type":3,"api":"csp_Skapp","playerType":2,"ext":"foDcK/eeOJLwwd5pQEogXfDd4NATiqgG/X+7Qpw+wjnlahxCG2tmmT4bpWOIRXC83aNIaDCVRfExbnEXrtzthNtQhRfvZNGEWY+ZdFcCkxW8ParA0r12xThUmCz92NHeRuEZ8Yqd5oDJNFU09V3B4yUG85t0ygZ2d9CTyMRh9J6rB8i14SBjlv2JY4fOi0QmwwiJmoQK5kTnnz8VCMcf7ZzankASe7oBYPZGtJl4DBogRs7ozrEnfYRLB03E53T4yK9mzhk95uMgJpdYiCRJ8qaf98YXeh5Ph5ZMAzioG+XPiSkVcRuVEa+jGlvci59fuDh2djZXztIjVyow8xOKrlA==$$$null$$$1"},
 {"key":"极光","name":"极光","type":3,"api":"csp_Skapp","playerType":2,"ext":"ZFZbm+8/DoQgtIt3G0/Mz6OeRoZWCs+PvkQC15PDK6ei0vs+1zXvcuKY+1yFUYkyCEGFxiX3V5nvIn0LHuLpMYTYe7szdw1r1BXQPhZq2shVL/3BiXQ+cZMnfTp2jknXlw5RqWsAnm4R7VG2jzNU+LccWBPDmXEzUPF1IxheQTj22NRtxqm1dUCzmEw9ZyBgIjQong7D50mglAy1pkEAmFE7rmVyZXX2/cYuKbzsLSE9+JnO/xCsIh347jlvEIVJQOOZsbYB+IUQdGIky8swj9KtWODcob/TXAa/CYzPfIePbEr5XHQIRMmWvx2rIV9z3h6D2B3i5GWu/rkLwRZUT3A==$$$null$$$1"},
