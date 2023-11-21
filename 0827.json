@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;a71b8fa729618f6a1f11fb1b96b5278f",
+  "spider": "./jar/custom_spider.jar;md5;4bc4aada582cd00fafe20d12508dc2a7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -317,7 +317,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+      "ext": "./json/market.json"
     }
   ],
   "doh": [
