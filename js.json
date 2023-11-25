@@ -78,6 +78,7 @@
 {"key":"drpy_js_西门[V2]","name":"影视 | 西门[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/西门[V2].js"},
 {"key":"drpy_js_路人甲[V2]","name":"影视 | 路人甲[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/路人甲[V2].js"},
 {"key":"drpy_js_鑫鑫[V2]","name":"影视 | 鑫鑫[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鑫鑫[V2].js"},
+{"key":"drpy_js_毛子[V2]","name":"影视 | 毛子[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/毛子[V2].js"},
 
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
