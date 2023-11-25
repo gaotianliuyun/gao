@@ -203,7 +203,7 @@
       "key": "bili_open",
       "name": "哔哩貓",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
