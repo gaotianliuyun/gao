@@ -103,7 +103,7 @@
 {"key":"csp_XPath_企鹅体育","name":"企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/企鹅直播.json"},
 {"key":"MV_vod","name":"卡拉OK┃采集","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"style":{ "type":"oval", "ratio":1.1 },"changeable":1,"filterable":1,"changeable":0},
 {"key":"lf_js_lf_live","name":"路飞┃直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
-{"key":"直播转点播","name":"电视┃直播[js]","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","style":{"type":"oval"},"ext":"http://我不是.肥猫.love:63/lives/直播仓.json","changeable":0},
+{"key":"直播转点播","name":"电视┃直播[js]","type":3,"api":"./lib/live2vod.js","style":{"type":"oval"},"ext":"./js/feimaolive.json","changeable":0},
 {"key":"csp_xBPQ_短视频","name":"短视频┃聚合[XBPQ]","type":3,"api":"csp_XBPQ","changeable":0,"ext":"./XBPQ/短视频.json"},
 
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
