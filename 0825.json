@@ -100,7 +100,7 @@
 			"style": {
 				"type": "rect",
 				"ratio": 1
-			},
+			}},
 		{"key": "push_quark","name": "夸克推送","type": 3,"api": "csp_Quark","changeable":0,"ext": "./lib/quark.txt"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
 
