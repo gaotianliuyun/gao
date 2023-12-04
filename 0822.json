@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./jar/ok1129.png;md5;D59936A6BF2200623700FA5AB9D852CF",
+"spider":"./jar/ok1203.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
@@ -25,6 +25,7 @@
     {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true, "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"}, "timeout":30},
     {"key":"Up云搜","name":"Up云搜","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true}, "timeout":30},
     {"key":"云盘4K","name":"云盘","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "danmu": true}, "timeout":30},
+    {"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1}},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt", "cookie": "http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true}, "timeout":30},
     {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}, "timeout":30},
     {"key":"快手直播","name":"快手","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433}},
