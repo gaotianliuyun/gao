@@ -6,7 +6,7 @@
 {"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
 {"name":"AV","type":0,"url":"./livex.m3u"}
 ],
-"wallpaper":"https://liu.chuqiuyu.tk",
+"wallpaper":"https://liu.chuqiuyu.workers.dev",
 "sites":[
 {"key":"lf_js_search","name":"搜索|lf_search","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
 {"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"18+","timeout":60},
