@@ -52,7 +52,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "./jar/XBPQ1.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.xsmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -87,7 +87,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "./jar/XBPQ1.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.psmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -188,7 +188,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -210,7 +210,7 @@
 			"api": "csp_XBPQ",
 			"changeable": 0,
 			"playerType": "1",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
@@ -238,7 +238,7 @@
 			"name": "🍯迷你┃APP",
 			"type": 3,
 			"api": "csp_AppYs",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"quickSearch": 1,
 			"ext": "http://www.miniku.cc/xgapp.php/v2/"
@@ -289,7 +289,7 @@
 			"name": "🐱夜猫┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -379,7 +379,7 @@
 			"name": "📰嘿嘿┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -416,7 +416,7 @@
 			"name": "🍵爱看┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -453,7 +453,7 @@
 			"key": "好戏",
 			"name": "🍺好戏┃BPQ",
 			"type": 3,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"主页url": "https://haoxi.vip/",
@@ -489,7 +489,7 @@
 			"name": "☁️云播┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 
 				"影片类型": "分类：&&主演",
@@ -523,7 +523,7 @@
 			"name": "🐦乌鸦┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -560,7 +560,7 @@
 			"name": "🍑淘剧┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"主页url": "http://dyxz.tv",
 				"数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -621,7 +621,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -662,7 +662,7 @@
 			"name": "🐢龟龟┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
@@ -684,7 +684,7 @@
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
 			"type": 3,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -702,7 +702,7 @@
 			"name": "🔥热播┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "./jar/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
