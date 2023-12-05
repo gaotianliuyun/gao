@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;e19f98c566e2280e961ce054f9367808",
+  "spider": "./jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -100,15 +100,12 @@
       ]
     },
     {
-      "key": "短劇網",
-      "name": "短劇網",
+      "key": "短劇",
+      "name": "短劇",
       "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/%E7%9F%AD%E5%89%A7%E7%BD%91.js"
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "豆瓣",
