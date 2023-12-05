@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;26dd5c5643385f5fe4447a9fda705438",
+"spider":"./jar/pg.jar;md5;63e240459d7d8437c5dd611c0365daf4",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -11,14 +11,7 @@
 {"key":"csp_YGP","name":"预告片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Bili","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.755},"filterable":1,"changeable":0,"ext":{"json":"./json/bili.json","cookie": ""}},
 {"key":"bili_open","name":"哔哩貓","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bili_open.js","searchable":1,"changeable":0,"ext":{"categories":"沙雕动画#帕梅拉#音乐#舞蹈#风景#美食#科普#历史#法考#医考#法医学","cookie":""}},
-		{
-			"key": "短剧",
-			"name": "短剧",
-			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 0,
-			"changeable": 1
-		},
+{"key": "短剧","name": "短剧","type": 3,"api": "csp_Duanju","searchable": 0,"changeable": 1},
 {"key":"csp_Sp360","name":"360","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true}, "timeout":30},
 {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
 {"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://api.wogg.xyz/$$$1", "timeout":30},
@@ -97,18 +90,8 @@
 {"key":"drpy_js_愛盤搜","name":"爱盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_趣盤搜","name":"趣盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/funletu.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_meow","name":"meow搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meow.js", "quickSearch":1, "changeable":1, "timeout":30}, 
-		{
-			"key": "獲取阿里云盤Token",
-			"name": "配置中心",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			}},
-		{"key": "push_quark","name": "夸克推送","type": 3,"api": "csp_Quark","changeable":0,"ext": "./lib/quark.txt"},
+{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key": "push_quark","name": "夸克推送","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/TV/quark.txt", "timeout":30},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
 
 {"key":"csp_BLSGod","name":"80S影视","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -160,5 +143,6 @@
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}
-]
+],
+"ads":["mozai.4gtv.tv"]
 }
