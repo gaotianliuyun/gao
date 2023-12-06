@@ -17,6 +17,7 @@
 {"key":"bulei_open","name":"影视 | 布雷","type":3,"api":"assets://js/bulei_open.js"},
 {"key":"miku_open","name":"影视 | 咪咕","type":3,"api":"assets://js/miku_open.js"},
 {"key":"tutu_open","name":"影视 | 图图","type":3,"api":"assets://js/tutu_open.js"},
+{"key":"hmsp_open","name":"影视 | 河马","type":3,"api":"assets://js/hmsp_open.js"},
 {"key":"jojo_open","name":"影视 | jojo","type":3,"api":"assets://js/jojo_open.js"},
 {"key":"jiohub","name":"影视 | jiohub","type":3,"api":"assets://js/jiohub.js"},
 {"key":"dovx_open","name":"阿里 | 七夜","type":3,"api":"assets://js/dovx_open.js"},
