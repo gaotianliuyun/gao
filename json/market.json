@@ -136,17 +136,11 @@
     "list": [
       {
         "name": "watson",
-        "url": "https://fm.t4tv.hz.cz/zip/js-1115.zip",
+        "url": "https://fm.t4tv.hz.cz/zip/js-1206.zip",
         "icon": "https://i.imgs.ovh/2023/10/20/2I7XH.jpeg",
         "copy": "file://Download/JS/js.json",
-        "version": "11/15"
+        "version": "12/06"
       },
-      {
-        "name": "香雅情",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqtvbox/main/XYQTVBox_本地包.zip",
-        "icon": "https://i.imgs.ovh/2023/10/20/2IO0D.jpeg",
-        "copy": "file://Download/XYQTVBox/XYQTVBox.json"
-      }
     ]
   }
 ]
