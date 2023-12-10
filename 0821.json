@@ -30,6 +30,7 @@
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 
+{"key":"看球","name":"看球┃体育","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
 {"key":"玩偶弹幕版","name":"玩偶哥哥┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {"token": "http://127.0.0.1:9978/file/TV/token.txt","filter": "./json/wogg.json","danmu" : true},"jar":"./jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
 {"key":"玩偶表哥弹幕","name":"玩偶表哥┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {"token": "http://127.0.0.1:9978/file/TV/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","danmu" : true},"jar":"./jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
 {"key":"sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"./jar/ok1208.nogo.png;md5;646CF6D3210EF5334BBD29C2D15DEA85", "timeout":30},
