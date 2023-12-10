@@ -45,9 +45,9 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 3. TVBox各路大佬配置（排名不分先后）：
 
-（1）唐三：https://gh.t4tv.hz.cz/newtang.bmp
+（1）okjack：https://999740.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.jsonp
 
-（2）Fongmi：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
+（2）Fongmi：https://999740.xyz/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
 
 （3）俊于：http://home.jundie.top:81/top98.json
 
@@ -55,7 +55,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （5）肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
 
-（6）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+（6）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
 （7）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
 
@@ -79,7 +79,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （17）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（18）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（18）佰欣园：https://999740.xyz/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
 （19）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
@@ -87,7 +87,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （21）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（22）Ray：https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json
+（22）Ray：https://999740.xyz/https://raw.githubusercontent.com/dxawi/0/main/0.json
 
 （23）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
 
@@ -95,9 +95,11 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （25）好人：https://xhdwc.tk/0
 
+（26）唐三：https://gh.t4tv.hz.cz/newtang.bmp
+
 4. 随机轮换壁纸：
 
-（1）https://bing.img.run/rand.php
+（1）https://jianbian.chuqiuyu.workers.dev 自制极简渐变壁纸
 
 （2）http://www.kf666888.cn/api/tvbox/img
 
@@ -118,6 +120,8 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 （10）http://api.btstu.cn/sjbz/?lx=suiji
 
 （11）https://pictures.catvod.eu.org/
+
+（12）https://bing.img.run/rand.php
 
 自用仓库，如果喜欢，请Fork自用，谢谢！
 

@@ -44,7 +44,7 @@ let tabsm = false;
 let tabse = false;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 		tabsa.push("阿里雲盤");
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
 		tabsq.push("夸克網盤");
@@ -91,7 +91,7 @@ d.forEach(function(it){
 	log('4khdr title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 	log('4khdr burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
@@ -158,7 +158,7 @@ let postData = {
 };
 Object.assign(_fetch_params, postData);
 log("4khdr search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = post( HOST + '/search.php', _fetch_params)
+let search_html = post( HOST + '/search.php?mod=forum', _fetch_params)
 //log("4khdr search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
 let dlist = pdfa(search_html, 'div#threadlist ul li');
@@ -170,8 +170,8 @@ dlist.forEach(function(it){
 		}
 	}
 	let img = "";
-	let content = pdfh(it, 'p:eq(3)&&Text');
-	let desc = pdfh(it, 'p:eq(2)&&Text');
+	let content = pdfh(it, 'p:eq(2)&&Text');
+	let desc = pdfh(it, 'p:eq(3)&&Text');
 	let url = pd(it, 'a&&href', HOST);
 	d.push({
 		title:title,
