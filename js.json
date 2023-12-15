@@ -30,7 +30,8 @@
 {"key":"校长影视","name":"弹幕 | 校长[jar]","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/TV/token.json","quickSearch":1,"changeable":1,"timeout":30},
 {"key":"团长资源","name":"弹幕 | 团长[jar]","type":3,"api":"csp_TZFile","ext":"http://127.0.0.1:9978/file/TV/token.json", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"csp_Hdhive","name":"阿里 | 影巢[jar]","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json","timeout":30},
-
+{"key":"Alist","name":"Alist","type":3,"api":"http://192.168.50.3:6789/tvbox/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.50.3:6789/tvbox/json/alist.json;200;video"},
+{"key":"Alist1","name":"我的收藏","type":3,"api":"http://192.168.50.3:6789/tvbox/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://192.168.50.3:6789/tvbox/json/myalist.json;200;video"},
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
