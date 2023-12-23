@@ -69,7 +69,7 @@
 {"key":"小紙條", "name": "小紙條", "type": 3, "api": "csp_XiaoZhiTiao", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"http://127.0.0.1:9978/file/TV/token.json" , "timeout":30},
 {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
 {"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
+{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$fanty$$$qqq111", "timeout":30},
 {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TV/token.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
 {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
 {"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
