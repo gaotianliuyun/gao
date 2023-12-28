@@ -27,7 +27,7 @@ var rule = {
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
     url:'/x/web-interface/search/type?search_type=videofyfilter',
     class_name:'专属&历史记录&推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&时事&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&热门&旅行探险',
-    class_url:'专属&历史记录&推荐&专属&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险',
+    class_url:'专属&历史记录&推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
     filter_def:{
@@ -322,7 +322,6 @@ var rule = {
         let videos = [];
         
         if (MY_CATE === '专属') {
-            console.log(MY_PAGE,rule.dynamicOffset,rule.limit)
             if (MY_PAGE == 1 ) {
                 input = 'https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/all?timezone_offset=-480&type=video&page=' + MY_PAGE
             } else {
@@ -330,7 +329,6 @@ var rule = {
             }
             data = JSON.parse(request(input)).data;
             rule.dynamicOffset = data.offset
-            console.log(rule.dynamicOffset)
             data.items.forEach(function (vod) {
                 if (vod['type'] == 'DYNAMIC_TYPE_AV') {
                     let ivod = vod.modules.module_dynamic.major.archive;
