@@ -26,14 +26,14 @@ var rule = {
     // homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
     url:'/x/web-interface/search/type?search_type=videofyfilter',
-    class_name:'动态&推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&时事&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&热门&旅行探险&历史记录',
-    class_url:'动态&推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险&历史记录',
+    class_name:'专属&历史记录&推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&时事&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&热门&旅行探险',
+    class_url:'专属&历史记录&推荐&专属&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
     filter_def:{
-        动态:{tid:'动态'},
         推荐:{tid:'推荐'},
         历史记录:{tid:'历史记录'},
+        专属:{tid:'专属'},
         经典无损音乐合集:{tid:'经典无损音乐合集'},
         帕梅拉:{tid:'帕梅拉'},
         太极拳:{tid:'太极拳'},
@@ -108,6 +108,7 @@ var rule = {
     searchUrl:'/x/web-interface/search/type?search_type=video&keyword=**&page=fypage',
     searchable:2,
     quickSearch:0,
+    dynamicOffset:'',
     headers:{
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
@@ -252,7 +253,7 @@ var rule = {
             input = HOST + '/x/web-interface/search/type?search_type=video&keyword=' + cateObj.tid + '&page=' + MY_PAGE;
         }
         function stripHtmlTag(src) {
-            return src.replace(/<\\/ ? [^>] + (>| $) / g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
+            return src.replace(/<\\/?[^>]+(>|$)/g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
         }
         function turnDHM(duration) {
             let min = '';
@@ -318,19 +319,19 @@ var rule = {
         }
         let data = [];
         let vodList = [];
-        let dynamic_offset = ''
         let videos = [];
         
-        if (MY_CATE === '动态') {
-            if (MY_PAGE == '1') {
-                input = 'https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/all?timezone_offset=-480&type=video&page=%s' % MY_PAGE
+        if (MY_CATE === '专属') {
+            console.log(MY_PAGE,rule.dynamicOffset,rule.limit)
+            if (MY_PAGE == 1 ) {
+                input = 'https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/all?timezone_offset=-480&type=video&page=' + MY_PAGE
             } else {
-                input = 'https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/all?timezone_offset=-480&type=video&offset=%s&page=%s' % (
-                    dynamic_offset, MY_PAGE)
+                input = 'https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/all?timezone_offset=-480&type=video&offset=' + rule.dynamicOffset +'&page=' + MY_PAGE
             }
             data = JSON.parse(request(input)).data;
-            dynamic_offset = data.offset
-            data.forEach(function (vod) {
+            rule.dynamicOffset = data.offset
+            console.log(rule.dynamicOffset)
+            data.items.forEach(function (vod) {
                 if (vod['type'] == 'DYNAMIC_TYPE_AV') {
                     let ivod = vod.modules.module_dynamic.major.archive;
                     let aid = ivod.aid;
@@ -341,7 +342,7 @@ var rule = {
                     }
                     let play = '';
                     let danmaku = '';
-                    play = ConvertNum(ivod.stat.play);
+                    play = ivod.stat.play;
                     danmaku = ivod.stat.danmaku;
                     let remark = turnDHM(ivod.duration_text) + ' ▶' + play + ' 💬' + danmaku;
                     videos.push({
