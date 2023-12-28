@@ -26,11 +26,12 @@ var rule = {
     // homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
     url:'/x/web-interface/search/type?search_type=videofyfilter',
-    class_name:'推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&时事&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&热门&旅行探险&历史记录',
-    class_url:'推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险&历史记录',
+    class_name:'动态&推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&时事&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&热门&旅行探险&历史记录',
+    class_url:'动态&推荐&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&时事&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&热门&旅行探险&历史记录',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
     filter_def:{
+        动态:{tid:'动态'},
         推荐:{tid:'推荐'},
         历史记录:{tid:'历史记录'},
         经典无损音乐合集:{tid:'经典无损音乐合集'},
@@ -251,7 +252,7 @@ var rule = {
             input = HOST + '/x/web-interface/search/type?search_type=video&keyword=' + cateObj.tid + '&page=' + MY_PAGE;
         }
         function stripHtmlTag(src) {
-            return src.replace(/<\\/?[^>]+(>|$)/g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
+            return src.replace(/<\\/ ? [^>] + (>| $) / g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
         }
         function turnDHM(duration) {
             let min = '';
@@ -317,46 +318,81 @@ var rule = {
         }
         let data = [];
         let vodList = [];
-        if (MY_CATE === '推荐') {
-            input = HOST + '/x/web-interface/index/top/rcmd?ps=14&fresh_idx=' + MY_PAGE + '&fresh_idx_1h=' + MY_PAGE;
-            data = JSON.parse(request(input)).data;
-            vodList = data.item;
-        } else if (MY_CATE === '历史记录') {
-            input = HOST + '/x/v2/history?pn=' + MY_PAGE;
-            data = JSON.parse(request(input)).data;
-            vodList = data;
-        } else {
-            data = JSON.parse(request(input)).data;
-            vodList = data.result;
-        }
+        let dynamic_offset = ''
         let videos = [];
-        vodList.forEach(function(vod) {
-            let aid = vod.aid?vod.aid:vod.id;
-            let title = stripHtmlTag(vod.title);
-            let img = vod.pic;
-            if (img.startsWith('//')) {
-                img = 'https:' + img;
-            }
-            let play = '';
-            let danmaku = '';
-            if (MY_CATE === '推荐') {
-                play = ConvertNum(vod.stat.view);
-                danmaku = vod.stat.danmaku;
-            } else if (MY_CATE === '历史记录') {
-                play = ConvertNum(vod.stat.view);
-                danmaku = vod.stat.danmaku;
+        
+        if (MY_CATE === '动态') {
+            if (MY_PAGE == '1') {
+                input = 'https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/all?timezone_offset=-480&type=video&page=%s' % MY_PAGE
             } else {
-                play = ConvertNum(vod.play);
-                danmaku = vod.video_review;
+                input = 'https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/all?timezone_offset=-480&type=video&offset=%s&page=%s' % (
+                    dynamic_offset, MY_PAGE)
             }
-            let remark = turnDHM(vod.duration) + ' ▶' + play + ' 💬' + danmaku;
-            videos.push({
-                vod_id: aid,
-                vod_name: title,
-                vod_pic: img,
-                vod_remarks: remark
-            })
-        });
+            data = JSON.parse(request(input)).data;
+            dynamic_offset = data.offset
+            data.forEach(function (vod) {
+                if (vod['type'] == 'DYNAMIC_TYPE_AV') {
+                    let ivod = vod.modules.module_dynamic.major.archive;
+                    let aid = ivod.aid;
+                    let title = stripHtmlTag(ivod.title);
+                    let img = ivod.cover;
+                    if (img.startsWith('//')) {
+                        img = 'https:' + img;
+                    }
+                    let play = '';
+                    let danmaku = '';
+                    play = ConvertNum(ivod.stat.play);
+                    danmaku = ivod.stat.danmaku;
+                    let remark = turnDHM(ivod.duration_text) + ' ▶' + play + ' 💬' + danmaku;
+                    videos.push({
+                        vod_id: aid,
+                        vod_name: title,
+                        vod_pic: img,
+                        vod_remarks: remark
+                    })
+                }
+            });
+        } else {
+            if (MY_CATE === '推荐') {
+                input = HOST + '/x/web-interface/index/top/rcmd?ps=14&fresh_idx=' + MY_PAGE + '&fresh_idx_1h=' + MY_PAGE;
+                data = JSON.parse(request(input)).data;
+                vodList = data.item;
+            } else if (MY_CATE === '历史记录') {
+                input = HOST + '/x/v2/history?pn=' + MY_PAGE;
+                data = JSON.parse(request(input)).data;
+                vodList = data;
+            } else {
+                data = JSON.parse(request(input)).data;
+                vodList = data.result;
+            }
+            vodList.forEach(function (vod) {
+                let aid = vod.aid ? vod.aid : vod.id;
+                let title = stripHtmlTag(vod.title);
+                let img = vod.pic;
+                if (img.startsWith('//')) {
+                    img = 'https:' + img;
+                }
+                let play = '';
+                let danmaku = '';
+                if (MY_CATE === '推荐') {
+                    play = ConvertNum(vod.stat.view);
+                    danmaku = vod.stat.danmaku;
+                } else if (MY_CATE === '历史记录') {
+                    play = ConvertNum(vod.stat.view);
+                    danmaku = vod.stat.danmaku;
+                } else {
+                    play = ConvertNum(vod.play);
+                    danmaku = vod.video_review;
+                }
+                let remark = turnDHM(vod.duration) + ' ▶' + play + ' 💬' + danmaku;
+                videos.push({
+                    vod_id: aid,
+                    vod_name: title,
+                    vod_pic: img,
+                    vod_remarks: remark
+                })
+            });
+        }
         VODS = videos
     `,
     二级:`js:
