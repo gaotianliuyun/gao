@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+"spider":"./jar/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
 "lives":[{"name":"初秋语","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
@@ -16,6 +16,7 @@
 
 {"key": "996影院","name": "影视 | 996[jar]","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1},
 {"key": "FirstAid","name": "科普 | 急救[jar]","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
+{"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
 {"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
 {"key": "河马","name": "弹幕 | 河马[jar]","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1"},
 {"key": "天天","name": "弹幕 | 天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
@@ -127,7 +128,6 @@
 {"key":"drpy_js_愛盤搜","name":"夸克 | 爱盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_趣盤搜","name":"夸克 | 趣盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/funletu.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_meow","name":"影视 | meow搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meow.js", "quickSearch":1, "changeable":1, "timeout":30}, 
-{"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
 {"key": "push_quark","name": "夸克 | 推送","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/TV/quark.txt", "timeout":30},
 {"key":"push_agent","name":"手机 | 推送[jar]","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
 
