@@ -1,6 +1,6 @@
 ﻿{
 "spider":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D",
-"lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 {"key":"996影院","name":"996影院","type":3,"api":"csp_Cs1369","searchable":1,"changeable":1,"timeout":30},
