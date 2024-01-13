@@ -101,8 +101,6 @@ CCTV14,http://tvphp1.rbq.plus/migu.php?id=cctv14
 CCTV15,http://tvphp1.rbq.plus/migu.php?id=cctv15
 CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
 CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
-风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
-风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
 卫视,#genre#
 安徽卫视,http://39.134.66.110/PLTV/88888888/224/3221225925/index.m3u8
 北京卫视,http://39.134.66.110/PLTV/88888888/224/3221225931/index.m3u8
