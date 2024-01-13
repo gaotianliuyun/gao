@@ -150,6 +150,12 @@ CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
 湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
 东方卫视,http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视,http://tvphp1.rbq.plus/migu.php?id=dfws
+广东卫视,http://tvphp1.rbq.plus/migu.php?id=gdws
+湖北卫视,http://tvphp1.rbq.plus/migu.php?id=hubws
+湖南卫视,http://tvphp1.rbq.plus/migu.php?id=hunws
+吉林卫视,http://tvphp1.rbq.plus/migu.php?id=jlws
+江苏卫视,http://tvphp1.rbq.plus/migu.php?id=jsws
 斗鱼,#genre#
 斗鱼电影4K,https://ygbh--xingkongbujian.repl.co/douyu/9249162
 斗鱼电影HD1,https://ygbh--xingkongbujian.repl.co/douyu/4246519
