@@ -15,9 +15,9 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （2）0821.json  大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
 
-（3）0822.json  极简配置，OK大佬的jar，还包括几条路飞、俊于的源。
+（3）0822.json  极简配置，OK大佬的jar。
 
-（4）0825.json  小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星等，需要替换成自己的代理url；
+（4）0825.json  小而精的配置，jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.txt ；
 
 （5）0826.json  完全来源于饭太硬的jar包和配置；
 
@@ -39,9 +39,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （3）takagen99版本  项目地址：https://github.com/takagen99/Box 支持直播回放，界面美观；
 
-（4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持直播回放，支持弹幕；
-
-（5）新版猫影视   项目地址：https://github.com/catvod/CatVodOpen 界面简洁，支持多平台。
+（4）猫影视   项目地址：https://github.com/catvod/CatVodOpen 界面简洁，支持多平台。
 
 3. TVBox各路大佬配置（排名不分先后）：
 

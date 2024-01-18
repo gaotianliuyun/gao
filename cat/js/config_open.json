@@ -1,6 +1,17 @@
 ﻿{
 "video": {"sites": [
 {"key":"douban_open","name":"索引 | 豆瓣","type":3,"api":"assets://js/douban_open.js"},
+{"key":"kanqiu_open","name":"体育 | 看球","type":3,"api":"assets://js/kanqiu_open.js"},
+{"key":"xinshijue_open","name":"影视 | 新视觉","type":3,"api":"assets://js/xinshijue_open.js"},
+{"key":"sc1080_open","name":"影视 | 圣城","type":3,"api":"assets://js/sc1080_open.js"},
+
+{"key":"ff_open","name":"影视 | 非凡","type":3,"api":"assets://js/ff_open.js"},
+{"key":"push_agent","name":"影视 | 推送","type":4,"api":"assets://js/push_open.js","ext":{"token":"ali_token","cookie":"quark_cookie"}},
+{"key":"ggys_open","name":"影视 | 高光","type":3,"api":"assets://js/ggys_open.js"},
+{"key":"ddys_open","name":"影视 | 低端","type":3,"api":"assets://js/ddys_open.js"},
+{"key":"4kysxz_open","name":"影视 | 4KXZ","type":3,"api":"assets://js/4kysxz_open.js"},
+{"key":"nkvod_open","name":"影视 | 耐看","type":3,"api":"assets://js/nkvod_open.js"},
+
 {"key":"52ju_open","name":"影视 | 我爱剧","type":3,"api":"assets://js/52ju_open.js"},
 {"key":"dyxs_open","name":"影视 | 电影先生","type":3,"api":"assets://js/dyxs_openn.js"},
 {"key":"lz_open","name":"影视 | 量子","type":3,"api":"assets://js/lz_open.js"},
@@ -28,6 +39,8 @@
 {"key":"pansearch_open","name":"阿里 | 盘搜索","type":3,"api":"assets://js/pansearch_open.js","ext":"填入你的token"},
 {"key":"funletu","name":"夸克 | 趣盘搜","type":3,"api":"assets://js/funletu.js","ext":"夸克cookie,可http"},
 
+{"key":"ys996_open","name":"影视 | 996","type":3,"api":"assets://js/ys996_open.js"},
+{"key":"star_open","name":"影视 | 星视界","type":3,"api":"assets://js/star_open.js"},
 {"key":"ytvip","name":"影视 | 影探","type":3,"api":"assets://js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 {"key":"yqktv_open","name":"影视 | 一起看","type":3,"api":"assets://js/yqktv_open.js"},
 {"key":"555dy_open","name":"影视 | 555","type":3,"api":"assets://js/555dy_open.js"},
@@ -135,6 +148,7 @@
 {"key":"mybili","name":"B站 | 哔哩综合","type":3,"api":"assets://js/mybili_open.js"},
 {"key":"bili_open","name":"B站 | 我的哔哩","type":3,"api":"assets://js/bili_open.js","ext":{"categories":"沙雕动画#健身#音乐#舞蹈#风景#美食#科普#历史#法考#医考","cookie":"填自己的cookie"}},
 {"key":"kuqimv","name":"MV | 酷奇","type":3,"api":"assets://js/kuqimv_open.js"},
+{"key":"zzmusic_open","name":"音乐 | 渣渣","type":3,"api":"assets://js/zzmusic_open.js"},
 {"key":"drpy_js_cntv_open","name":"电视 | 视聚场","type":3,"api":"assets://js/cntv_open.js"},
 
 {"key":"哈喽","name":"V2 | 哈喽","type":3,"api":"assets://js/appysv2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -175,6 +189,7 @@
 {"key":"guangsuapi","name":"采集 | 光速","type":3,"api":"assets://js/caiji.js","ext":"http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"}
 ]},
 "read":{"sites":[
+{"key":"zzmusic_book_open","name":"渣渣音乐","type":10,"api":"assets://js/zzmusic_book_open.js"},
 {"key":"zz123_book_open","name":"123听歌","type":10,"api":"assets://js/zz123_book_open.js"},
 {"key":"230ts","name":"爱上你听书","type":10,"api":"assets://js/230ts_book_open.js"},
 {"key":"laobaigushi","name":"老白故事","type":10,"api":"assets://js/lbgs_open.js"},

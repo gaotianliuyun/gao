@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
+  "spider": "./jar/custom_spider.jar;md5;0111bf77b42bfb642dd8217dc6606828",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -100,6 +100,14 @@
       ]
     },
     {
+      "key": "996影院",
+      "name": "996影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "短劇",
       "name": "短劇",
       "type": 3,
@@ -122,7 +130,8 @@
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "timeout": 60
     },
     {
       "key": "看球",
@@ -258,9 +267,17 @@
       "name": "WebDAV",
       "type": 3,
       "api": "csp_WebDAV",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": "./json/webdav.json"
+    },
+    {
+      "key": "JustLive",
+      "name": "JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "七夜",
@@ -324,8 +341,9 @@
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
+      "searchable": 0,
+      "changeable": 0,
+      "timeout": 60
     }
   ],
   "doh": [
@@ -402,6 +420,7 @@
         "10.3333",
         "16.0599",
         "8.1748",
+        "12.33",
         "10.85"
       ]
     },
@@ -451,7 +470,8 @@
         "hd.ffzy"
       ],
       "regex": [
-        "25.0666"
+        "25.0666",
+        "25.08"
       ]
     },
     {
@@ -480,9 +500,36 @@
       "regex": [
         "video/tos/cn"
       ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "夜市點擊",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
     }
   ],
   "ads": [
-    "mozai.4gtv.tv"
+    "static-mozai.4gtv.tv"
   ]
 }
