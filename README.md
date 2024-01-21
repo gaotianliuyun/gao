@@ -45,7 +45,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （2）道长：https://github.com/hjdhnx/dr_py 这是道长的仓库
 
-（2）Fongmi：https://github.com//CatVodSpider 这是FongMi的仓库，只更新jar，不再更新json
+（2）Fongmi：https://github.com/FongMi/CatVodSpider 这是FongMi的仓库，只更新jar，不再更新json
 
 （3）俊于：http://home.jundie.top:81/top98.json
 
