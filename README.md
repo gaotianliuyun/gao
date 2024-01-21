@@ -1,6 +1,6 @@
 请关注饭太硬TG群组，https://t.me/TVBoxxoo PG大佬的最新发布和教程都在群组里，我的自述文件暂时还不能将PG包的用法进行详细阐述。
 
-複製https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/token.json到安卓設備的/sdcard/TV/目錄，并填寫必要的内容。
+複製 https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/token.json 到安卓設備的/sdcard/TV/目錄，并填寫必要的内容。
 
 特別警告：據傳阿里要求使用者不得使用多綫程加速方式使用阿里云盤資源，若并發鏈接數超過10有可能導致被限制訪問或封禁帳號的處理，所以下方綫程限制設置超過10所需承擔的風險請使用者自行斟酌。
 特别警告2：迅雷云盘限制极为严格，不要尝试单token多用户异地使用，或多线程使用，随时可能封号。
