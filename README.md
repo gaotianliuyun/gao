@@ -17,7 +17,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （3）0822.json  极简配置，OK大佬的jar。
 
-（4）0825.json  小而精的配置，jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.txt ；
+（4）0825.json  小而精的配置，jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.md ；
 
 （5）0826.json  完全来源于饭太硬的jar包和配置；
 
