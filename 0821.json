@@ -28,6 +28,7 @@
 {"key":"csp_xuexi","name":"哔哩┃学习园地","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","style":{"type":"rect","ratio":1.597},"filterable":"1","changeable":0,"ext":"./json/xuexi.json"},
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
+{"key":"lf_js_lf_live","name":"电视┃直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
 
 {"key":"看球","name":"看球┃体育","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D", "timeout":30},
 {"key":"短剧","name":"短剧┃合集","type":3,"api":"csp_Duanju","jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":30},
@@ -99,8 +100,6 @@
 {"key":"csp_xp_qiumi","name":"Jrs球迷┃体育","type": 3,"api": "csp_XPath","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0,"ext": "./json/dj看球.json"},
 {"key":"csp_XPath_企鹅体育","name":"企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/企鹅直播.json"},
 {"key":"MV_vod","name":"卡拉OK┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"style":{ "type":"oval", "ratio":1.1 },"changeable":1,"filterable":1,"changeable":0},
-{"key":"lf_js_lf_live","name":"路飞┃直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
-{"key":"直播转点播","name":"电视┃直播[js]","type":3,"api":"./lib/live2cms.js","style":{"type":"oval"},"ext":"./js/live2mv_data.json","changeable":0},
 {"key":"csp_xBPQ_短视频","name":"短视频┃聚合[XBPQ]","type":3,"api":"csp_XBPQ","changeable":0,"ext":"./XBPQ/短视频.json"},
 
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
