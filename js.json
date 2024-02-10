@@ -16,7 +16,7 @@
 {"key":"豆瓣","name":"搜索 | 豆瓣[jar]","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
 {"key": "FirstAid","name": "科普 | 急救[jar]","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
 {"key":"配置中心","name":"配置 | 中心[jar]","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
-{"key":"AliShareEBook","name":"书籍 | 分享[jar]","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$./lib/alishare.ebook.txt$$$db$$$1",
+{"key":"AliShareEBook","name":"书籍 | 分享[jar]","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$./json/alishare.ebook.txt$$$db$$$1","style":{"type":"list"}},
 {"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
 {"key": "996影院","name": "弹幕 | 996[jar]","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"ext":"https://www.cs1369.com$$$null$$$1"},
 {"key": "河马","name": "弹幕 | 河马[jar]","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1"},
