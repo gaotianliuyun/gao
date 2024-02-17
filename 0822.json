@@ -11,7 +11,8 @@
     {"key":"阿里合集","name":"阿里合集","type": 3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext": {
       "token": "http://127.0.0.1:9978/file/TV/token.txt",
       "share": "./json/alishare.txt"
-    }, "style":{"type":"list"}, {"key":"新6V","name":"新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":30},
+    }, "timeout":30}, 
+{"key":"新6V","name":"新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":30},
 {"key":"玩偶弹幕版","name":"玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt","wogg": true,  "danmu" : true}, "timeout":30},
 {"key":"运输车弹幕版","name":"运输车","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","site": "https://www.weixine.net", "danmu" : true}, "timeout":30},
     {"key":"土豆网盘弹幕","name":"土豆网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
