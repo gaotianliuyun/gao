@@ -11,11 +11,7 @@
     {"key":"阿里合集","name":"阿里合集","type": 3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext": {
       "token": "http://127.0.0.1:9978/file/TV/token.txt",
       "share": "./json/alishare.txt"
-    }, "style":{"type":"list"}, "timeout": 30},
-    {"key":"AliShareEBook","name":"书籍合集","type": 3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext": {
-      "token": "http://127.0.0.1:9978/file/TV/token.txt",
-      "share": "./json/alishare.ebook.txt"
-    }, "style":{"type":"list"}, "timeout": 30,"style":{"type":"list"}},
+    }, "timeout":30}, 
 {"key":"新6V","name":"新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":30},
 {"key":"玩偶弹幕版","name":"玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt","wogg": true,  "danmu" : true}, "timeout":30},
 {"key":"运输车弹幕版","name":"运输车","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","site": "https://www.weixine.net", "danmu" : true}, "timeout":30},
@@ -35,7 +31,6 @@
     },"timeout":25},
 {"key":"荐片弹幕版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout":30},
 {"key":"泥巴弹幕版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true}, "timeout":30},
-    {"key":"星星","name":"星星┃直连","type":3,"api":"csp_Star","searchable":1,"changeable":1,"timeout":10},
 {"key":"csp_QuPanSou","name":"趣盘搜","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true}, "timeout":30},
 {"key":"csp_Qkpanso","name":"夸克盘搜","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true}, "timeout":30},
     {"key":"csp_AiPanSou","name":"爱盘搜","type":3,"api":"csp_AiPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt", "danmu": true},"timeout":15},
