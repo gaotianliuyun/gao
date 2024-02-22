@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;411d26974731ccd8edb85ebb2b20f57a",
+"spider":"./jar/pg.jar;md5;385933ea4fbec9cbe733e1d56a86e7d3",
 "lives":[{"name":"初秋语","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
