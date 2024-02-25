@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./jar/okpng.txt;md5;63679d62cae69aebb358d137b8add31c",
+"spider":"./jar/okpng.txt;md5;793a740f07f09bddfcafb57eb192e2ed",
 "lives":[{"name":"live","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
