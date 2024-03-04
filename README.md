@@ -15,7 +15,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （2）0821.json  大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
 
-（3）0822.json  极简配置，OK大佬的jar。
+（3）0822.json  极简配置，OK大佬的jar，有弹窗，介意慎用。
 
 （4）0825.json  小而精的配置，jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.md ；
 
@@ -47,19 +47,21 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （2）饭太硬：http://饭太硬.top/tv
 
-（3）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+（3）okjack：https://jihulab.com/okcaptain/kko/raw/main/ok.txt
 
-（4）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
+（4）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-（5）菜妮丝：https://tvbox.cainisi.cf
+（5）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
 
-（6）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+（6）菜妮丝：https://tvbox.cainisi.cf
 
-（7）神器：https://神器每日推送.tk/pz.json
+（7）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-（8）巧技：http://pandown.pro/tvbox/tvbox.json
+（8）神器：https://神器每日推送.tk/pz.json
 
-（9）Ray：https://100km.top/0
+（9）巧技：http://pandown.pro/tvbox/tvbox.json
+
+（10）Ray：https://100km.top/0
 
 4. 随机轮换壁纸：
 
