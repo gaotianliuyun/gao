@@ -351,5 +351,5 @@
 {"name":"夜市點擊","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 {"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
 ],
-"ads":[ "static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"]
+"ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 }
