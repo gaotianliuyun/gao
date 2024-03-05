@@ -22,7 +22,7 @@
 {"key":"荐片弹幕版","name":"弹幕 | 荐片[jar]","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
 {"key":"Yingtantv","name":"弹幕 | 影探[jar]","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./json/yt.json$$$1"},
 {"key":"Bdys_spider","name":"弹幕 | 哔滴[jar]","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1","timeout":30},
-//{"key": "996影院","name": "弹幕 | 996[jar]","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"ext":"https://www.cs1369.com$$$null$$$1"},
+{"key": "996影院","name": "弹幕 | 996[jar]","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"ext":"https://www.cs1369.com$$$null$$$1"},
 {"key": "河马","name": "弹幕 | 河马[jar]","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1"},
 {"key": "天天","name": "弹幕 | 天天[jar]","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
 {"key":"NanGua","name":"弹幕 | 南瓜[jar]","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1"},
@@ -78,7 +78,7 @@
 {"key":"drpy_js_爱迪影视","name":"影视 | 爱迪影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱迪影视.js"},
 {"key":"drpy_js_539影视","name":"影视 | 539影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/539影视.js"},
 {"key":"drpy_js_333影视","name":"影视 | 333影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/333影视.js"},
-//{"key":"drpy_js_996影视","name":"影视 | 996影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/996影视.js"},
+{"key":"drpy_js_996影视","name":"影视 | 996影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/996影视.js"},
 {"key":"drpy_js_188影视","name":"影视 | 188影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/188影视.js"},
 {"key":"drpy_js_哔嘀影视","name":"影视 | 哔嘀影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔嘀影视.js"},
 
