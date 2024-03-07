@@ -48,6 +48,7 @@
       "changeable": 1,
       "ext": "./json/jianpian.json"
     },
+{"key":"drpy_js_ikanbot3","name":"爱看","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
     {
       "key": "獨播",
       "name": "獨播",
