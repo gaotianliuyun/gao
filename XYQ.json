@@ -56,7 +56,7 @@
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TV/token.txt"},
         //磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
-        {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
+        {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
