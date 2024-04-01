@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;04d74f2c921acbc9a2e20bd880a6e630",
+"spider":"./jar/pg.jar;md5;20951b7b8b4979ec1214839a2b2e36b8",
 "lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
 {"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 {"name":"YanG","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/Adult.m3u"},
