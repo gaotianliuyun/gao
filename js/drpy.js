@@ -8,7 +8,7 @@ var rule = {
     quickSearch:1,
     filterable:1,
     // 分类链接fypage参数支持1个()表达式
-    url:'/?pg=fypage&class=fyclass&douban=$douban',
+    url:'/?pg=fypage&class=fyclass&douban=2297669',
     filter_url:'fl={{fl}}',
     图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
     headers:{

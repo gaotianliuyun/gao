@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3",
+  "spider": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -48,6 +48,8 @@
       "changeable": 1,
       "ext": "./json/jianpian.json"
     },
+{"key":"drpy_js_ikanbot3","name":"爱看","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
+{"key":"T4-duanju5","name":"短剧屋","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
     {
       "key": "獨播",
       "name": "獨播",
@@ -98,22 +100,6 @@
         "纪录片",
         "经典片"
       ]
-    },
-    {
-      "key": "996影院",
-      "name": "996影院",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "短劇",
-      "name": "短劇",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "changeable": 0
     },
     {
       "key": "豆瓣",
@@ -229,7 +215,7 @@
       "key": "bili_open",
       "name": "哔哩貓",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "api": "./cat/js/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
