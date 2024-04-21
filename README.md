@@ -43,13 +43,13 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （1）俊于：http://home.jundie.top:81/top98.json
 
-（2）饭太硬：http://饭太硬.top/tv
+（2）饭太硬：http://www.饭太硬.top/tv/
 
 （3）okjack：https://jihulab.com/okcaptain/kko/raw/main/ok.txt
 
 （4）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-（5）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
+（5）小米小爆脾气：http://xhww.fun/小米/DEMO.json
 
 （6）菜妮丝：https://tvbox.cainisi.cf
 
