@@ -43,7 +43,7 @@
             "name": "91黑料",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"./jar/XBPQ.jar;md5;518d66b6cd98f169579f71ec43032048",
+            "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
