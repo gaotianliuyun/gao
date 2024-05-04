@@ -135,7 +135,7 @@
             "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"
         },
 		{"key":"XBPQ_黑狐影院","name":"黑狐","type":3,"api":"csp_XBPQ",
-            "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"
+            "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
