@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;8c6e049d99fcce701ee1e02bdaac7992",
+"spider":"./jar/pg.jar;md5;128487d1f5bcf36e17a6ec682bfeab04",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -91,6 +91,62 @@
 {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
 {"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":1},
 
+		{
+			"key": "小白",
+			"name": "小白",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": 1,
+			"timeout":60,
+			"jar": "./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
+			"ext": {
+				"主页url": "https://www.xbw20.com/",
+				"编码": "gb2312",
+				"图片": "data-src=\"&&\"",
+				"标题": "alt=\"&&\"",
+				"副标题":"class=\"time\">&&</label",
+				"分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
+				"分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
+				"起始页": 2,
+				"倒序": 1,
+				"播放数组": "迅雷下载</div>&&</div>",
+				"播放列表": "<a&&</a >"
+			}
+		},
+		{
+			"key": "BT天堂",
+			"name":"BT天堂",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"timeout":60,
+			"quickSearch":1,
+			"filterable":1,
+			"ext": "./XBPQ/bttt.json",
+			"jar": "./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"
+		},
+		{"key":"布谷tv",
+			"name":"布谷4K",
+			"type":3,
+			"api":"csp_XBPQ",
+			"timeout":60,
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"jar": "./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
+			"ext":{
+				"搜索链接":"https://www.bugutv.org/?cat=&s={wd}",
+				"简介":"◎简*介</p>&&</p>",
+				"线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+				"线路标题":"磁力",
+				"播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
+				"播放列表":"<p>&&</p>[包含:magnet]",
+				"分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+				"分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}",
+				"搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
+				"搜索数组": "class=\"entry-media\">&&</div"
+			}
+		},
 {
 "key": "haokongbu",
 "name": "好恐怖",
@@ -107,7 +163,7 @@
 "播放数组": "下载地址</h2>&&</ul>",
 "播放列表": "<li><&&</a>"
  },
-"jar": "./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"
+"jar": "./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"
 },
 {
             "key": "rarbt",
@@ -132,10 +188,10 @@
                 "分类": "电影$movie#电视剧$Series#动漫$cartoon#综艺$variety",
                 "分类url": "https://www.rarbt.fun/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
             },
-            "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"
+            "jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"
         },
 		{"key":"XBPQ_黑狐影院","name":"黑狐","type":3,"api":"csp_XBPQ",
-            "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+            "jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -169,7 +225,7 @@
 				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 			}
 		},
-{"key":"XBPQ_文才","name":"文才","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+{"key":"XBPQ_文才","name":"文才","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 "ext":{"分类": "国产剧&短剧&国产动漫&日韩动漫&欧美动漫&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 "分类值": "14&42&75&76&77&22&26&36&25&30&23&69&15&16&62",
 "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -204,14 +260,14 @@
 "免嗅": "0"
 }
 },
-{"key":"XBPQ_BaiPiao","name":"白嫖","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+{"key":"XBPQ_BaiPiao","name":"白嫖","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 "ext": {
 "地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
 "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
 "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 }
 },
-{"key":"XBPQ_黑狐影院","name":"黑狐","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+{"key":"XBPQ_黑狐影院","name":"黑狐","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 "ext": {
 "站名": "黑狐影院",
 "主页url": "http://fagmn.com",
@@ -248,7 +304,7 @@
 {
 "key":"XBPQ_电影先生",
 "name": "电影先生",
-"jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+"jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 "type": 3,
 "api": "csp_XBPQ",
 "ext": {
@@ -266,7 +322,7 @@
 "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 }
 },
-{"key": "XBPQ_麻衣影院","name":"麻衣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+{"key": "XBPQ_麻衣影院","name":"麻衣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
 "ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 },
         {
@@ -280,7 +336,7 @@
                         },
                         "quickSearch": 0,
                         "api": "csp_XBPQ",
-                        "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+                        "jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
                         "ext": {
                                 "主页url": "https://www.xsmp3.com",
                                 "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -315,7 +371,7 @@
                         },
                         "quickSearch": 0,
                         "api": "csp_XBPQ",
-                        "jar":"./jar/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f",
+                        "jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
                         "ext": {
                                 "主页url": "https://www.psmp3.com",
                                 "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
