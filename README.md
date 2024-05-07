@@ -13,9 +13,9 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （1）0707.json  Fengmi影视多线配置接口,仅适用于Fengmi影视；
 
-（2）0821.json  大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
+（2）0821.json  在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
 
-（3）0825.json  小而精的配置，jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.md ；
+（3）0825.json  jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.md ；
 
 （4）0826.json  完全来源于饭太硬的jar包和配置；
 
@@ -23,11 +23,9 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （6）js.json  jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库；
 
-（7）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气；
+（7）XYQ.json  XYQ源，jar包和配置来源于香雅情；
 
-（8）XYQ.json  XYQ源，jar包和配置来源于香雅情；
-
-（9）/cat/js/config_open.json  cat源，资源来源于网络各路大佬。配合猫影视可直接食用。
+（8）/cat/js/config_open.json  cat源，资源暂停更新，如果有能力的大佬愿意发电，请联系我。
 
 2. APP推荐:
 
@@ -43,13 +41,13 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （1）俊于：http://home.jundie.top:81/top98.json
 
-（2）饭太硬：http://饭太硬.top/tv
+（2）饭太硬：http://www.饭太硬.top/tv/
 
 （3）okjack：https://jihulab.com/okcaptain/kko/raw/main/ok.txt
 
 （4）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-（5）小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
+（5）小米小爆脾气：http://xhww.fun/小米/DEMO.json
 
 （6）菜妮丝：https://tvbox.cainisi.cf
 
