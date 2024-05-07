@@ -39,18 +39,18 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 3. TVBox各路大佬配置（排名不分先后）：
 
-（1）俊于：http://home.jundie.top:81/top98.json
+（1）饭太硬：http://www.饭太硬.top/tv/
 
-（2）饭太硬：http://www.饭太硬.top/tv/
+（2）okjack：https://jihulab.com/okcaptain/kko/raw/main/ok.txt
 
-（3）okjack：https://jihulab.com/okcaptain/kko/raw/main/ok.txt
+（3）王二小放牛娃：http://tvbox.王二小放牛娃.xyz
 
-（4）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+（4）摸鱼儿：http://我不是.摸鱼儿.top
 
-（5）小米小爆脾气：http://xhww.fun/小米/DEMO.json
+（5）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-（6）菜妮丝：https://tvbox.cainisi.cf
-
+（6）小米小爆脾气：http://xhww.fun/小米/DEMO.json
+s
 （7）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 （8）神器：https://神器每日推送.tk/pz.json
@@ -58,6 +58,8 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 （9）巧技：http://pandown.pro/tvbox/tvbox.json
 
 （10）Ray：https://100km.top/0
+
+（11）俊于：http://home.jundie.top:81/top98.json
 
 4. 随机轮换壁纸：
 
