@@ -1,4 +1,4 @@
-请关注饭太硬TG群组，https://t.me/TVBoxxoo PG大佬的最新发布和教程都在群组里，我的自述文件暂时还不能将PG包的用法进行详细阐述。
+请关注PG节奏熊猫发布频道：https://t.me/PandaGroovePG 和PG节奏熊猫讨论群组：https://t.me/pandagroovechat PG大佬的最新发布和教程都在群组里，我的自述文件暂时还不能将PG包的用法进行详细阐述。
 
 複製 https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/token.json 到安卓設備的/sdcard/TV/目錄，并填寫必要的内容。
 
