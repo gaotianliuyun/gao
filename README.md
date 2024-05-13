@@ -50,7 +50,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 （5）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
 （6）小米小爆脾气：http://xhww.fun/小米/DEMO.json
-s
+
 （7）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 （8）神器：https://神器每日推送.tk/pz.json
