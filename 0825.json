@@ -101,6 +101,7 @@
 {"key": "haokongbu","name": "好恐怖","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好恐怖.json","jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key": "圣城1080","name": "圣城1080","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/圣城1080.json","jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key": "秋霞","name": "秋霞","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/秋霞.json","jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
+{"key": "VidHub","name": "VidHub","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/VidHub.json","jar": "./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key": "rarbt","name": "rarbt","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext":"./XBPQ/rarbt.json" ,"jar":"./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"},
 {"key":"XBPQ_文才","name":"文才","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e","ext":"./XBPQ/文才.json"},
 {"key":"XBPQ_BaiPiao","name":"白嫖影视","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e","ext": "./XBPQ/白嫖影视.json"},
