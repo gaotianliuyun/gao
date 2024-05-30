@@ -5,10 +5,6 @@
       "name": "高天流云 No.1"
     },
     {
-      "url": "./0822.json",
-      "name": "高天流云 No.2"
-    },
-    {
       "url": "./0825.json",
       "name": "高天流云 PG"
     },
@@ -23,10 +19,6 @@
     {
       "url": "./js.json",
       "name": "高天流云 JS"
-    },
-    {
-      "url": "./XBPQ.json",
-      "name": "高天流云 XBPQ"
     },
     {
       "url": "./XYQ.json",

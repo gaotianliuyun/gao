@@ -65,6 +65,7 @@ var rule = {
     `,
 	// 一级:'json:data;title;path;playlist.title;id',
 	一级: `js:
+		cateObj.tid = cateObj.tid+'';
         if (cateObj.tid.endsWith('_clicklink')) {
             cateObj.tid = cateObj.tid.split('_')[0];
             input = HOST + '/api/video/search?key=' + cateObj.tid + '&page=' + + MY_PAGE;

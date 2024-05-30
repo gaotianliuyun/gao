@@ -1,7 +1,16 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;2ea1762a8c802608c2222c7051709afc",
+  "spider": "./jar/custom_spider.jar;md5;883df69d6854363bcb610b44946ed374",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+    {
+      "key": "商店",
+      "name": "商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/market.json"
+    },
     {
       "key": "泥巴",
       "name": "泥巴",
@@ -26,7 +35,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
+        "token": "影視天下第一",
         "filter": "./json/wogg.json"
       }
     },
@@ -47,14 +56,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json"
-    },
-    {
-      "key": "五五",
-      "name": "五五",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "haiwaikan",
@@ -113,7 +114,19 @@
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "看球",
+      "name": "看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "暴風",
@@ -142,8 +155,16 @@
     {
       "key": "量子",
       "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
     },
@@ -183,7 +204,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./json/chuqiuyu1.json",
+        "json": "./json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -192,11 +213,11 @@
       "key": "bili_open",
       "name": "哔哩貓",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "api": "./cat/js/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "categories": "帕梅拉#音乐#舞蹈#风景#美食#科普#历史#法考#医考",
+        "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
         "cookie": ""
       }
     },
@@ -230,9 +251,17 @@
       "name": "WebDAV",
       "type": 3,
       "api": "csp_WebDAV",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "ext": "./json/webdav.json"
+    },
+    {
+      "key": "JustLive",
+      "name": "JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "七夜",
@@ -240,8 +269,7 @@
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "易搜",
@@ -249,8 +277,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "雲搜",
@@ -258,8 +285,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "盤搜",
@@ -267,8 +293,7 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "紙條搜",
@@ -276,8 +301,7 @@
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "盤搜索",
@@ -285,8 +309,7 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+      "changeable": 0
     },
     {
       "key": "找資源",
@@ -295,25 +318,16 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$test2$$$test2"
+      "ext": "影視天下第一$$$test2$$$test2"
     },
     {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
-    },
-    {
-      "key": "應用商店",
-      "name": "應用商店",
-      "type": 3,
-      "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+      "timeout": 60
     }
   ],
   "doh": [
@@ -386,10 +400,12 @@
         "haiwaikan"
       ],
       "regex": [
+        "8.16",
         "8.1748",
         "10.0099",
         "10.3333",
-        "10.8565",
+        "10.85",
+        "12.33",
         "16.0599"
       ]
     },
@@ -399,7 +415,8 @@
         "suonizy"
       ],
       "regex": [
-        "15.1666"
+        "15.1666",
+        "15.2666"
       ]
     },
     {
@@ -428,8 +445,7 @@
         "v.cdnlz"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        "18.5333"
       ]
     },
     {
@@ -439,8 +455,7 @@
         "hd.ffzy"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        "25.1"
       ]
     },
     {
@@ -469,6 +484,28 @@
       "regex": [
         "video/tos/cn"
       ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
     }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv",
+    "s3t3d2y8.afcdn.net"
   ]
 }
