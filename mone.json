@@ -3,21 +3,6 @@
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-            "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4xLjk6NDU2NyIsInRva2VuIjoiIn0=",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "自己网盘",
-            "changeable": 0,
-            "jar": "http://192.168.1.9:4567/spring.jar",
-            "style": {
-                "type": "rect"
-            },
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
-    },
-    {
       "key": "快速1",
       "name": "快速1",
       "type": 3,
