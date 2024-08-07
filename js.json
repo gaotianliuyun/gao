@@ -308,6 +308,20 @@
 {"key":"drpy_js_欧乐影院[飞]","name":"起飞 | 欧乐影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧乐影院[飞].js"},
 {"key":"drpy_js_小宝影院[飞]","name":"起飞 | 小宝影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院[飞].js"},
 
+{"key":"php2_hmezy","name": "黑木耳 | Hei","type": 4,"api": "https://t4.doube.eu.org/heimuer.php","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
+{"key":"T4-heimuer","name": "黑木耳 | T4","type": 4,"api": "https://tang.hz.cz/power/hme?token=b1dbee0e","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
+{"key":"黑木耳","name": "黑木耳 | PG","type": 1,"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/","jar":"./pg.jar;md5;3a96a92c925e612936c4f8f6033b6fa2","searchable": 1,"quickSearch": 1},
+{"key":"php_huaweiba","name": "華為吧 | 资源","type": 4,"api": "https://t4.doube.eu.org/huaweiba.php","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable":1},
+{"key":"hw","name":"华为 | 资源","type":1,"api":"https://cjhwba.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","大陆综艺","国产动漫","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","西部片","伦理片"]},
+{"key":"sgabys","name":"安博 | 三哥","type":4,"api":"https://tang.hz.cz/power/ub18?token=a797e28e","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"sghmys","name":"黑木 | 三哥","type":4,"api":"https://tang.hz.cz/power/hme?token=a797e28e","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"sgolys","name":"欧乐 | 三哥","type":4,"api":"https://tang.hz.cz/power/olelive?token=a797e28e","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"hrys","name":"华 | 三哥","type":1,"api":"https://api.huaren.live/api.php/tvbox","playUrl":"json:https://parse.huaren.live/box?url=","header":{"User-Agent":"okhttp/3.12.13"},"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"nyys","name":"纽约 | CSP","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://4tvbox.ggff.net/ys.json"},
+{"key":"苹果","name":"苹果 | CSP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"hm","name":"黑木 | 资源","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","playUrl":"json:https://parse.huaren.live/box?url=","searchable":1,"changeable":1,"header":{"User-Agent":"okhttp/3.12.13"},"categories":["国产剧","港剧","欧美剧","台剧","韩剧","日剧","泰剧","国产综艺","欧美综艺","韩国综艺","日本综艺","日本动漫","国产动漫","欧美动漫","动画电影","冒险片","剧情片","动作片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","同性片","经典片"]},
+{"key":"360","name":"360 | 资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","台湾剧","大陆综艺","国产动漫","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","西部片","伦理片"]},
+
 {"key":"應用商店","name":"應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext": "./json/market.json"},
 {"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
