@@ -39,7 +39,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 3. TVBox各路大佬配置（排名不分先后）：
 
-（1）饭太硬：http://www.饭太硬.top/tv/
+（1）饭太硬：https://www.饭太硬.com
 
 （2）okjack：https://jihulab.com/okcaptain/kko/raw/main/ok.txt
 
